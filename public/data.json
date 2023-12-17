@@ -1,0 +1,631 @@
+[
+  {
+    "message": "Quelque chose de plantureusement d\u00e9licieux peut parfois \u00eatre un prodrome de la caducit\u00e9 d'une belle jeunesse.",
+    "words": [
+      {
+        "match": "Quelque",
+        "word": "quelque",
+        "definition": {
+          "def": "Un peu de.",
+          "synonyms": "\u00a0aussi, pour, si."
+        }
+      },
+      {
+        "match": "plantureusement",
+        "word": "plantureusement",
+        "definition": {
+          "def": "De mani\u00e8re plantureuse.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "caducit\u00e9",
+        "word": "caducit\u00e9",
+        "definition": {
+          "def": "\u00c9tat de ce qui est caduc.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "prodrome",
+        "word": "prodrome",
+        "definition": {
+          "def": "Ce qui annonce un \u00e9v\u00e8nement.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans la mis\u00e8re la plus profonde, un repas roboratif peut parfois avoir des effets orgiaques sur ceux qui en b\u00e9n\u00e9ficient, les stup\u00e9fiant alors de bonheur et d'\u00e9nergie.",
+    "words": [
+      {
+        "match": "mis\u00e8re",
+        "word": "mis\u00e8re",
+        "definition": {
+          "def": "Sort digne de piti\u00e9\u00a0; malheur extr\u00eame.",
+          "synonyms": "\u00a0adversit\u00e9, d\u00e9tresse."
+        }
+      },
+      {
+        "match": "roboratif",
+        "word": "roboratif",
+        "definition": {
+          "def": "Qui revigore, redonne des forces.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "orgiaques",
+        "word": "orgiaque",
+        "definition": {
+          "def": "Qui tient de l'orgie, \u00e9voque l'orgie.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "stup\u00e9fiant",
+        "word": "stup\u00e9fier",
+        "definition": {
+          "def": "Engourdir en inhibant les centres nerveux.",
+          "synonyms": "\u00a0\u00e9tonner."
+        }
+      }
+    ]
+  },
+  {
+    "message": "La puissante oratrice d\u00e9criait d'une voix p\u00e9dantesque les caprices de la m\u00e9t\u00e9o, condamnant son incl\u00e9mence sans rel\u00e2che, bien que ses v\u0153ux ardents restent inexauc\u00e9s.",
+    "words": [
+      {
+        "match": "p\u00e9dantesque",
+        "word": "p\u00e9dantesque",
+        "definition": {
+          "def": "Propre au p\u00e9dant.",
+          "synonyms": "\u00a0doctoral, emphatique, p\u00e9dant."
+        }
+      },
+      {
+        "match": "d\u00e9criait",
+        "word": "d\u00e9crier",
+        "definition": {
+          "def": "Attaquer, rabaisser dans sa r\u00e9putation.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "incl\u00e9mence",
+        "word": "incl\u00e9ment",
+        "definition": {
+          "def": "Rigoureux, dur.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "inexauc\u00e9s",
+        "word": "inexauc\u00e9",
+        "definition": {
+          "def": "Qui n'a pas \u00e9t\u00e9 exauc\u00e9.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'opalescence du couchant se refl\u00e9tait traitreusement \u00e0 la surface du lac, donnant \u00e0 l'eau une allure purificatoire, tandis que le poissard errait seul sur les rives, cherchant d\u00e9sesp\u00e9r\u00e9ment sa chance.",
+    "words": [
+      {
+        "match": "L'opalescence",
+        "word": "opalescence",
+        "definition": {
+          "def": "Aspect, reflet opalin.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "traitreusement",
+        "word": "traitreusement",
+        "definition": {
+          "def": "Par tra\u00eetrise.",
+          "synonyms": "\u00a0perfidement, sournoisement."
+        }
+      },
+      {
+        "match": "purificatoire",
+        "word": "purificatoire",
+        "definition": {
+          "def": "Propre \u00e0 la purification.",
+          "synonyms": "\u00a0lustral."
+        }
+      },
+      {
+        "match": "poissard",
+        "word": "poissard",
+        "definition": {
+          "def": "Qui emploie des mots vulgaires, orduriers (surtout, textes du xviiie si\u00e8cle).",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "Les \u00e9l\u00e8ves ne devraient pas aduler un professeur d\u00e9shonn\u00eate qui utilise des m\u00e9thodes d\u00e9loyales pour \u00e9ployer son influence sur eux, car son comportement d\u00e9gage un effluve de malhonn\u00eatet\u00e9.",
+    "words": [
+      {
+        "match": "aduler",
+        "word": "aduler",
+        "definition": {
+          "def": "Combler de louanges, de t\u00e9moignages d'admiration.",
+          "synonyms": "\u00a0choyer, f\u00eater."
+        }
+      },
+      {
+        "match": "d\u00e9shonn\u00eate",
+        "word": "d\u00e9shonn\u00eate",
+        "definition": {
+          "def": "Contraire \u00e0 la pudeur, aux biens\u00e9ances.",
+          "synonyms": "\u00a0inconvenant, ind\u00e9cent."
+        }
+      },
+      {
+        "match": "\u00e9ployer",
+        "word": "\u00e9ployer",
+        "definition": {
+          "def": "\u00c9tendre, \u00e9taler.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "effluve",
+        "word": "effluve",
+        "definition": {
+          "def": "\u00c9manation qui se d\u00e9gage d'un corps vivant, ou de certaines substances.",
+          "synonyms": "\u00a0effluence, exhalaison."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le professeur \u00e9m\u00e9rite admonestait ses \u00e9tudiants avec des paroles impr\u00e9catrices, leur rappelant l'importance d'une attitude congrue et d\u00e9courageant toute comportement pugnace.",
+    "words": [
+      {
+        "match": "admonestait",
+        "word": "admonester",
+        "definition": {
+          "def": "R\u00e9primander s\u00e9v\u00e8rement en avertissant de ne pas recommencer.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "congrue",
+        "word": "congru",
+        "definition": {
+          "def": "Qui convient, appropri\u00e9.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "pugnace",
+        "word": "pugnace",
+        "definition": {
+          "def": "Qui aime le combat, la pol\u00e9mique.",
+          "synonyms": "\u00a0combatif."
+        }
+      },
+      {
+        "match": "impr\u00e9catrices",
+        "word": "impr\u00e9catoire",
+        "definition": {
+          "def": "Qui a rapport \u00e0 l'impr\u00e9cation.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'\u00e9pigone, aux cheveux chenus et au visage h\u00e2ve, \u00e9tait macul\u00e9 de boue apr\u00e8s sa longue exp\u00e9dition dans la jungle.",
+    "words": [
+      {
+        "match": "chenus",
+        "word": "chenu",
+        "definition": {
+          "def": "Qui est devenu blanc de vieillesse.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "h\u00e2ve",
+        "word": "h\u00e2ve",
+        "definition": {
+          "def": "Amaigri et p\u00e2li par la faim, les \u00e9preuves.",
+          "synonyms": "\u00a0\u00e9maci\u00e9."
+        }
+      },
+      {
+        "match": "L'\u00e9pigone",
+        "word": "\u00e9pigone",
+        "definition": {
+          "def": "Successeur, imitateur.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "macul\u00e9",
+        "word": "maculer",
+        "definition": {
+          "def": "Couvrir, souiller de taches.",
+          "synonyms": "\u00a0salir, souiller, tacher."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le mercenaire, par son comportement inconvenant, a abandonn\u00e9 l'esquif, laissant les membres de son \u00e9quipage se d\u00e9battre inhumainement en plein oc\u00e9an.",
+    "words": [
+      {
+        "match": "mercenaire",
+        "word": "mercenaire",
+        "definition": {
+          "def": "Qui n'agit que pour un salaire, est inspir\u00e9 par le profit.",
+          "synonyms": "\u00a0v\u00e9nal."
+        }
+      },
+      {
+        "match": "inconvenant",
+        "word": "inconvenant",
+        "definition": {
+          "def": "Qui est contraire aux convenances, aux usages.",
+          "synonyms": "\u00a0choquant, ind\u00e9cent."
+        }
+      },
+      {
+        "match": "l'esquif",
+        "word": "esquif",
+        "definition": {
+          "def": "Petite embarcation l\u00e9g\u00e8re.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "inhumainement",
+        "word": "inhumainement",
+        "definition": {
+          "def": "D'une mani\u00e8re inhumaine.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "Malgr\u00e9 sa titanesque t\u00e2che, l'acad\u00e9micien ne c\u00e9da pas \u00e0 la caducit\u00e9 de certaines expressions surfaite et conserva, avec une pruderie exemplaire, l'int\u00e9grit\u00e9 de la langue fran\u00e7aise.",
+    "words": [
+      {
+        "match": "caducit\u00e9",
+        "word": "caducit\u00e9",
+        "definition": {
+          "def": "\u00c9tat de ce qui est caduc.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "titanesque",
+        "word": "titanesque",
+        "definition": {
+          "def": "Grandiose et difficile.",
+          "synonyms": "\u00a0gigantesque."
+        }
+      },
+      {
+        "match": "surfaite",
+        "word": "surfaire",
+        "definition": {
+          "def": "Estimer ou proposer \u00e0 un prix exag\u00e9r\u00e9.",
+          "synonyms": "\u00a0surestimer."
+        }
+      },
+      {
+        "match": "pruderie",
+        "word": "pruderie",
+        "definition": {
+          "def": "Affectation de pudeur outr\u00e9e.",
+          "synonyms": "\u00a0pudibonderie."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans le jardin des illusions, les roses semblent d\u00e9fleurir subtilement, victimes de l'incoercible passage du temps, tandis que l'amour, lui, persiste, inextinguible et incoercible. Malheureusement, derri\u00e8re cet amour se cachent des promesses fallacieusement murmur\u00e9es, des sourires trompeurs et une duperie habilement dissimul\u00e9e.",
+    "words": [
+      {
+        "match": "d\u00e9fleurir",
+        "word": "d\u00e9fleurir",
+        "definition": {
+          "def": "Perdre ses fleurs.",
+          "synonyms": "\u00a0se faner."
+        }
+      },
+      {
+        "match": "l'incoercible",
+        "word": "incoercible",
+        "definition": {
+          "def": "Qu'on ne peut contenir, r\u00e9primer.",
+          "synonyms": "\u00a0irr\u00e9pressible."
+        }
+      },
+      {
+        "match": "fallacieusement",
+        "word": "fallacieusement",
+        "definition": {
+          "def": "D'une mani\u00e8re fallacieuse, trompeuse.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "duperie",
+        "word": "duperie",
+        "definition": {
+          "def": "Action de duper (qqn), tromperie.",
+          "synonyms": "\u00a0leurre, supercherie."
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'incontinence verbale de cet orateur lui valut un satisfecit ironique de la part de son auditoire, tandis que son visage camard trahissait une satisfaction non congruente avec la gravit\u00e9 du sujet abord\u00e9.",
+    "words": [
+      {
+        "match": "L'incontinence",
+        "word": "incontinence",
+        "definition": {
+          "def": "Absence de retenue (en mati\u00e8re de langage).",
+          "synonyms": "\u00a0\u00e9nur\u00e9sie."
+        }
+      },
+      {
+        "match": "satisfecit",
+        "word": "satisfecit",
+        "definition": {
+          "def": "T\u00e9moignage de satisfaction\u00a0; approbation.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "camard",
+        "word": "camard",
+        "definition": {
+          "def": "Qui a le nez plat, \u00e9cras\u00e9.",
+          "synonyms": "\u00a0camus."
+        }
+      },
+      {
+        "match": "congruente",
+        "word": "congru",
+        "definition": {
+          "def": "Qui convient, appropri\u00e9.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans le jardin l\u00e9onin, aux hautes grilles mi-closes, se dressait un majestueux pavillon turquin, tandis que, cach\u00e9 derri\u00e8re les buissons, un vieux dragon \u00e9ructait ses souvenirs de gloire pass\u00e9e.",
+    "words": [
+      {
+        "match": "l\u00e9onin",
+        "word": "l\u00e9onin",
+        "definition": {
+          "def": "Du lion, qui rappelle le lion.",
+          "synonyms": "\u00a0abusif, injuste."
+        }
+      },
+      {
+        "match": "mi-closes",
+        "word": "mi-clos",
+        "definition": {
+          "def": "\u00c0 moiti\u00e9 ferm\u00e9.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "turquin",
+        "word": "turquin",
+        "definition": {
+          "def": "D'un bleu fonc\u00e9.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "\u00e9ructait",
+        "word": "\u00e9ructer",
+        "definition": {
+          "def": "Renvoyer par la bouche les gaz contenus dans l'estomac.",
+          "synonyms": "\u00a0roter."
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'inassouvissement de ses d\u00e9sirs \u00e9tait si br\u00fblant qu'il se livrait sans r\u00e9serve \u00e0 l'impudicit\u00e9, cherchant ainsi \u00e0 d\u00e9priser toute forme de morale. Malheureusement, cette vaine aff\u00e8terie ne lui apportait qu'une satisfaction \u00e9ph\u00e9m\u00e8re et lui laissait un go\u00fbt amer de vide int\u00e9rieur.",
+    "words": [
+      {
+        "match": "L'inassouvissement",
+        "word": "inassouvissement",
+        "definition": {
+          "def": "\u00c9tat d'une personne inassouvie, insatisfaite.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "l'impudicit\u00e9",
+        "word": "impudicit\u00e9",
+        "definition": {
+          "def": "Caract\u00e8re de ce qui est impudique\u00a0; comportement impudique.",
+          "synonyms": "\u00a0ind\u00e9cence, obsc\u00e9nit\u00e9."
+        }
+      },
+      {
+        "match": "d\u00e9priser",
+        "word": "d\u00e9priser",
+        "definition": {
+          "def": "Appr\u00e9cier au-dessous de son prix, de sa valeur.",
+          "synonyms": "\u00a0d\u00e9pr\u00e9cier, m\u00e9sestimer, sous-estimer."
+        }
+      },
+      {
+        "match": "aff\u00e8terie",
+        "word": "aff\u00e8terie",
+        "definition": {
+          "def": "Abus du gracieux, du mani\u00e9r\u00e9 dans l'attitude ou le langage.",
+          "synonyms": "\u00a0affectation, pr\u00e9ciosit\u00e9."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans les m\u00e9andres de sa camardise, le vieil homme semblait ondoyer dans l'inoccupation de son esprit, tandis qu'il r\u00e9fl\u00e9chissait \u00e0 sa future cr\u00e9mation.",
+    "words": [
+      {
+        "match": "camardise",
+        "word": "camard",
+        "definition": {
+          "def": "Qui a le nez plat, \u00e9cras\u00e9.",
+          "synonyms": "\u00a0camus."
+        }
+      },
+      {
+        "match": "ondoyer",
+        "word": "ondoyer",
+        "definition": {
+          "def": "Se mouvoir en s'\u00e9levant et s'abaissant alternativement.",
+          "synonyms": "\u00a0flotter, onduler."
+        }
+      },
+      {
+        "match": "l'inoccupation",
+        "word": "inoccupation",
+        "definition": {
+          "def": "\u00c9tat d'une personne inoccup\u00e9e.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "cr\u00e9mation",
+        "word": "cr\u00e9mation",
+        "definition": {
+          "def": "Action de br\u00fbler le corps des morts.",
+          "synonyms": "\u00a0incin\u00e9ration."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans la titanesque bataille qui faisait rage, seul un h\u00e9ros au c\u0153ur secourable r\u00e9ussit \u00e0 pr\u00e9server la joliesse d'un coin de nature inviol\u00e9.",
+    "words": [
+      {
+        "match": "titanesque",
+        "word": "titanesque",
+        "definition": {
+          "def": "Grandiose et difficile.",
+          "synonyms": "\u00a0gigantesque."
+        }
+      },
+      {
+        "match": "secourable",
+        "word": "secourable",
+        "definition": {
+          "def": "Qui secourt, aide volontiers les autres.",
+          "synonyms": "\u00a0obligeant."
+        }
+      },
+      {
+        "match": "joliesse",
+        "word": "joliesse",
+        "definition": {
+          "def": "Caract\u00e8re de ce qui est joli, d\u00e9licat.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "inviol\u00e9",
+        "word": "inviol\u00e9",
+        "definition": {
+          "def": "Qui n'a pas \u00e9t\u00e9 viol\u00e9, enfreint.",
+          "synonyms": "\u00a0vierge."
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans un jardin frigide, au milieu de la moirure d'une nuit \u00e9toil\u00e9e, la malfaisance des circonvoisins se dissimule tel un serpent rampant dans l'obscurit\u00e9.",
+    "words": [
+      {
+        "match": "frigide",
+        "word": "frigide",
+        "definition": {
+          "def": "Froid, glac\u00e9 (au figur\u00e9).",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "circonvoisins",
+        "word": "circonvoisin",
+        "definition": {
+          "def": "Qui est situ\u00e9 autour, tout pr\u00e8s de.",
+          "synonyms": "\u00a0avoisinant, voisin."
+        }
+      },
+      {
+        "match": "malfaisance",
+        "word": "malfaisance",
+        "definition": {
+          "def": "Disposition \u00e0 faire du mal \u00e0 autrui.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "moirure",
+        "word": "moirure",
+        "definition": {
+          "def": "Effet de ce qui est moir\u00e9.",
+          "synonyms": ""
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans la quotidiennet\u00e9 de sa vie monotone, il sentait son esprit ployer sous le poids des contraintes, incapable de r\u00e9trograder vers des pens\u00e9es plus cr\u00e9atives et de ne pas d\u00e9raisonner dans cette monotonie.",
+    "words": [
+      {
+        "match": "ployer",
+        "word": "ployer",
+        "definition": {
+          "def": "Plier, tordre en abaissant.",
+          "synonyms": "\u00a0courber."
+        }
+      },
+      {
+        "match": "quotidiennet\u00e9",
+        "word": "quotidiennet\u00e9",
+        "definition": {
+          "def": "Caract\u00e8re de ce qui est quotidien, habituel et banal.",
+          "synonyms": ""
+        }
+      },
+      {
+        "match": "r\u00e9trograder",
+        "word": "r\u00e9trograder",
+        "definition": {
+          "def": "Marcher vers l'arri\u00e8re\u00a0; revenir en arri\u00e8re.",
+          "synonyms": "\u00a0reculer."
+        }
+      },
+      {
+        "match": "d\u00e9raisonner",
+        "word": "d\u00e9raisonner",
+        "definition": {
+          "def": "Tenir des propos d\u00e9pourvus de raison, de bon sens.",
+          "synonyms": "\u00a0divaguer\u00a0; familier d\u00e9bloquer."
+        }
+      }
+    ]
+  }
+]

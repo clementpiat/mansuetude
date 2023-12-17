@@ -34,3 +34,35 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## DB Builder
+Tentatives 
+- parse raw ngrams data : compliqué sans doc
+- faire les 300k call api : c'est long sans changement d'IP
+    - utiliser le max plutôt, ou garder juste la time series
+
+Solution
+- ip-rotator
+
+Tentatives
+- Selenium est repéré par openai
+- Essayer un script Javascript plutôt OU payer quelques tokens (plus propre, plus cher)
+
+Definition
+- Typo en mode machine à écrire
+
+TODO
+- HP
+    - manifest.json ~V
+    - corriger 2 errors V
+    - pas de virgule en rose V
+    - favicon.ico V
+    - degradé de couleurs V
+    - ajouter les synonymes V
+- LP
+    - défintions recursives
+    - lien vers le dictionnaire
+    - petite croix au-dessus de la définition
+    - longueur de phrase maximale
+    - ajouter littéraire dans le générateur gpt
+    - sexy button
