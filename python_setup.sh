@@ -1,2 +1,0 @@
-source ../venvs/autogpt/bin/activate
-export OPENAI_API_KEY=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
