@@ -38,3 +38,4 @@ next-env.d.ts
 # data
 db_builder/data/*
 db_builder/trash/*
+setup.sh
