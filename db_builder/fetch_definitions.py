@@ -9,7 +9,7 @@ BASE_URL = "https://dictionnaire.lerobert.com/definition/"
 BATCH_SIZE = 100
 SAVE_EVERY_N_WORDS = 1000
 N_THREADS = 2
-ALREADY_DONE = 0
+ALREADY_DONE = 1
 
 def main():
     with open("db_builder/data/webnext.txt") as f:
@@ -17,7 +17,7 @@ def main():
 
     with open("db_builder/data/my_own_words.txt") as f:
         words += [x for x in f.read().split("\n")]
-        words = set(words)
+        words = list(set(words))
         print(f"{len(words)} total words\n")
 
     with ApiGateway("https://dictionnaire.lerobert.com") as g:
