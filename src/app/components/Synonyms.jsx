@@ -8,7 +8,7 @@ export default function Synonyms(props) {
         <>
             <br></br>
             <span className="underline">Synonymes:</span>
-            <span>{props.synonyms.join(', ')}</span>
+            <span> {props.synonyms.join(', ')}</span>
         </>
         :
         <></>
