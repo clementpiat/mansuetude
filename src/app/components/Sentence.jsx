@@ -7,10 +7,10 @@ export default function Sentence(props) {
         <div className="fixed top-[40vh] left-[15vw] w-[70vw] font-bold leading-none tracking-tight text-2xl md:text-3xl lg:text-4xl text-slate-300">
           {
             props.element.message.split(' ').map(
-              word =>
+              (word, index) =>
               props.element.words.some((specialWord) => word.includes(specialWord.match))
-              ? (<Word key={word} word={word} setSelectedWord={props.setSelectedWord} element={props.element}></Word>)
-              : (<span key={word}>{word} </span>)
+              ? (<Word key={index} word={word} setSelectedWord={props.setSelectedWord} element={props.element}></Word>)
+              : (<span key={index}>{word} </span>)
             )
           }
         </div>
