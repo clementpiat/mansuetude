@@ -9,12 +9,16 @@ BASE_URL = "https://dictionnaire.lerobert.com/definition/"
 BATCH_SIZE = 100
 SAVE_EVERY_N_WORDS = 1000
 N_THREADS = 2
-ALREADY_DONE = -1
+ALREADY_DONE = 0
 
 def main():
-    with open("db_builder/data/usito.txt") as f:
+    with open("db_builder/data/webnext.txt") as f:
         words = [x for x in f.read().split("\n")]
-        print(f"{len(words)} words\n")
+
+    with open("db_builder/data/my_own_words.txt") as f:
+        words += [x for x in f.read().split("\n")]
+        words = set(words)
+        print(f"{len(words)} total words\n")
 
     with ApiGateway("https://dictionnaire.lerobert.com") as g:
         session = requests.Session()
@@ -23,13 +27,13 @@ def main():
         def parse_definition(definition):
             indic = definition.find(class_="d_mta")
             _def = definition.find(class_="d_dfn")
-            syn = definition.find(class_="d_rvd")
+            synonyms = definition.find_all("a", class_="d_rvd")
             ptma = definition.find(class_="d_ptma")
 
             return {
                 "def": _def.text if _def else None,
                 "indic": indic.text if indic else None,
-                "syn": syn.text.split(", ") if syn else [],
+                "syn": [x.text for x in synonyms],
                 "text": ptma.text if ptma else None,
             }
 
@@ -50,6 +54,9 @@ def main():
 
             definition = definitions[0]
             if definition.find(class_="d_dvr"):
+                return
+
+            if len(definition.find_all(class_="d_dfn")) != 1:
                 return
 
             kind = definition.find(class_="d_cat")

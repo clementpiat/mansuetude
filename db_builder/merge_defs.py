@@ -1,7 +1,7 @@
 import json
 
 big_dict = {}
-for i in range(1):
+for i in range(2):
     with open(f"db_builder/data/definitions/_definitions_{i}.json") as f:
         big_dict.update(json.load(f))
     

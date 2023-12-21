@@ -14,15 +14,12 @@ with open("db_builder/data/ngrams.txt") as f:
     scores = dict([x.split(": ") for x in f])
 
 
-def is_litteraire(definiton):
-    return definition["indic"] == CATEGORY and definition["text"][:10].lower() == "littéraire"
+def is_litteraire(definition):
+    return definition["indic"] == CATEGORY and (definition["text"] is None or definition["text"][1:11].lower() == "littéraire")
 
 
 for word, definition in definitions.items():
     if word not in scores:
-        continue
-
-    if not is_litteraire(definition):
         continue
 
     definitions_by_kind[definition["kind"]].append(
@@ -56,7 +53,7 @@ for key, _definitions in definitions_by_kind.items():
         if i > (MAX_RATIO * _count) or i < (MIN_RATIO * _count):
             continue
 
-        if x["definition"]["def"]: 
+        if x["definition"]["def"] and is_litteraire(x["definition"]): 
             if any(word.lower().replace(".", "").replace(",", "") in category_words for word in x["definition"]["def"].split(" ")):
                 continue
 

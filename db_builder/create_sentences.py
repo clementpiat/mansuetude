@@ -8,14 +8,14 @@ import json
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-with open("db_builder/data/selected_words_by_indic/littéraire.txt") as f:
-    WORDS = f.read().split("\n")
+with open("db_builder/data/definitions.json") as f:
+    WORDS = list(json.load(f).keys())
 
 N_SENTENCES = 10
 N_WORDS = 4
 
 with open("db_builder/data/sentences.json") as f:
-    result = json.load(f)
+    result = []# json.load(f)
 
 for _ in tqdm(range(N_SENTENCES)):
     sub_words = random.choices(WORDS, k=N_WORDS)
@@ -29,7 +29,7 @@ for _ in tqdm(range(N_SENTENCES)):
                     et tu vas m'aider à composer des phrases sur la base de mots de vocabulaire spécifiés que je souhaite assimiler.
                 '''
             },
-            {"role": "user", "content": f"Compose une phrase contenant précisément les mots suivants : {', '.join(sub_words)}"},
+            {"role": "user", "content": f"Compose une phrase sensée avec les mots suivants : {', '.join(sub_words)}"},
         ]
     )
     message = response.choices[0].message.content

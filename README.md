@@ -60,9 +60,12 @@ TODO
     - degradé de couleurs V
     - ajouter les synonymes V
 - LP
-    - défintions recursives
-    - lien vers le dictionnaire
-    - petite croix au-dessus de la définition
-    - longueur de phrase maximale
-    - ajouter littéraire dans le générateur gpt
-    - sexy button
+    - défintions recursives X
+    - lien vers le dictionnaire V
+    - petite croix au-dessus de la définition V
+    - longueur de phrase maximale V
+    - ajouter littéraire dans le générateur gpt X
+    - prettier button
+
+- HP
+    - scrap https://webnext.fr/dictionnaire-du-francais-difficile-mots-rares-et-recherches-1016.html

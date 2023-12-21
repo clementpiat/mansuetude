@@ -4,13 +4,13 @@ import Word from "../components/Word"
 export default function Sentence(props) {
     return (
         props.element ?
-        <div className="fixed top-[45vh] left-[15vw] w-[70vw] font-bold leading-none tracking-tight text-2xl md:text-3xl lg:text-4xl text-slate-300">
+        <div className="fixed top-[40vh] left-[15vw] w-[70vw] font-bold leading-none tracking-tight text-2xl md:text-3xl lg:text-4xl text-slate-300">
           {
             props.element.message.split(' ').map(
               word =>
               props.element.words.some((specialWord) => word.includes(specialWord.match))
-              ? (<Word word={word} setSelectedWord={props.setSelectedWord} element={props.element}></Word>)
-              : (<span>{word} </span>)
+              ? (<Word key={word} word={word} setSelectedWord={props.setSelectedWord} element={props.element}></Word>)
+              : (<span key={word}>{word} </span>)
             )
           }
         </div>

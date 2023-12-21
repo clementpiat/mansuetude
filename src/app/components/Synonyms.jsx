@@ -3,12 +3,12 @@
 export default function Synonyms(props) {
 
     return (
-        props.synonyms
+        props.synonyms.length
         ?
         <>
             <br></br>
             <span className="underline">Synonymes:</span>
-            <span> {', '.join(props.synonyms)}</span>
+            <span>{props.synonyms.join(', ')}</span>
         </>
         :
         <></>

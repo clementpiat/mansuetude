@@ -27,7 +27,7 @@ export default function Main(props) {
           <Definition selectedWord={selectedWord}></Definition>
           <Sentence element={element} setSelectedWord={setSelectedWord}></Sentence>
           <span
-            className="fixed top-[75vh] left-[45vw] w-[10vw] cursor-pointer px-5 py-3 mt-2 text-base font-medium text-center text-slate-300 bg-pink-700 rounded-lg hover:bg-pink-800 focus:ring-4 focus:ring-blue-900"
+            className="fixed top-[76vh] left-[45vw] w-[10vw] cursor-pointer px-5 py-3 mt-2 text-base font-medium text-center text-slate-300 bg-pink-700 rounded-lg hover:bg-pink-800 focus:ring-4 focus:ring-blue-900"
             onClick={() => generate()}
           >
             Générer

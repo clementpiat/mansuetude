@@ -2,6 +2,8 @@ import json
 from Levenshtein import hamming
 
 
+MAX_CHARS = 360
+
 with open("db_builder/data/sentences.json") as f:
     sentences = json.load(f)
 
@@ -11,6 +13,13 @@ with open("db_builder/data/definitions.json") as f:
 not_found = 0
 prepared_sentences = []
 for sentence in sentences:
+    if sentence["message"][0] == '"' and sentence["message"][-1] == '"':
+        sentence["message"] = sentence["message"][1:-1]
+
+    if len(sentence["message"]) > MAX_CHARS:
+        not_found += 1
+        continue
+
     found_words = []
     for word in sentence["words"]:
         distances = []
@@ -43,9 +52,6 @@ for sentence in sentences:
                     },
                 })
                 found = True
-        
-        if not found:
-            print(word)
 
     if len(found_words) != len(sentence["words"]):
         not_found += 1
