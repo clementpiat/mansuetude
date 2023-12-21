@@ -22,7 +22,7 @@ for sentence in sentences:
 
     found_words = []
     for word in sentence["words"]:
-        if word not in definitions:
+        if word not in definitions or not definitions[word]["def"]:
             break
 
         distances = []

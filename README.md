@@ -71,3 +71,4 @@ TODO
     - scrap https://webnext.fr/dictionnaire-du-francais-difficile-mots-rares-et-recherches-1016.html V
     - 2 pages : une page d'accueil et un lien vers le générateur
     - un pied de page contact
+    - isabelle easter egg

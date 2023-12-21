@@ -772,48 +772,6 @@
     ]
   },
   {
-    "message": "Lors du d\u00eener protocolaire, le ministre b\u00e2fra avec d\u00e9lectation, tandis que son affid\u00e9 racontait une histoire hilarante, cr\u00e9ant ainsi un v\u00e9ritable pand\u00e9monium dans la salle, avec ses rires acumin\u00e9s qui r\u00e9sonnaient dans toute l'assembl\u00e9e.",
-    "words": [
-      {
-        "match": "pand\u00e9monium",
-        "word": "Pand\u00e9monium",
-        "definition": {
-          "def": null,
-          "synonyms": []
-        }
-      },
-      {
-        "match": "affid\u00e9",
-        "word": "affid\u00e9",
-        "definition": {
-          "def": "Qui se pr\u00eate en agent s\u00fbr \u00e0 un mauvais coup.",
-          "synonyms": [
-            "acolyte"
-          ]
-        }
-      },
-      {
-        "match": "acumin\u00e9s",
-        "word": "acumin\u00e9",
-        "definition": {
-          "def": "Qui se termine en pointe.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "b\u00e2fra",
-        "word": "b\u00e2frer",
-        "definition": {
-          "def": "Manger gloutonnement et avec exc\u00e8s.",
-          "synonyms": [
-            "bouffer",
-            "s'empiffrer"
-          ]
-        }
-      }
-    ]
-  },
-  {
     "message": "Mon professeur \u00e9m\u00e9rite de l'Acad\u00e9mie fran\u00e7aise a utilis\u00e9 une p\u00e9riphrase ing\u00e9nieuse pour qualifier la pusillanimit\u00e9 du protagoniste dans son pamphlet, tandis que les mots de d\u00e9solation se sont r\u00e9pandus tel un vent glacial \u00e0 travers la lande d\u00e9serte.",
     "words": [
       {
@@ -854,86 +812,6 @@
           "synonyms": [
             "diatribe"
           ]
-        }
-      }
-    ]
-  },
-  {
-    "message": "Le roi, install\u00e9 dans sa magnifique patache, traversa les grandes portes du palais orn\u00e9es de chambranles dor\u00e9s, accueilli par l'\u00e9chanson qui lui pr\u00e9senta son verre de vin r\u00e9galien.",
-    "words": [
-      {
-        "match": "patache",
-        "word": "patache",
-        "definition": {
-          "def": "Diligence \u00e0 bon march\u00e9.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "r\u00e9galien",
-        "word": "r\u00e9galien",
-        "definition": {
-          "def": null,
-          "synonyms": [
-            "r\u00e9gale"
-          ]
-        }
-      },
-      {
-        "match": "chambranles",
-        "word": "chambranle",
-        "definition": {
-          "def": "Encadrement d'une porte, d'une fen\u00eatre, d'une chemin\u00e9e.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "l'\u00e9chanson",
-        "word": "\u00e9chanson",
-        "definition": {
-          "def": "Officier d'une cour, dont la fonction \u00e9tait de servir \u00e0 boire \u00e0 la table du prince.",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
-    "message": "Le fam\u00e9lique vit dans le galetas sans jamais manquer \u00e0 sa routine quotidienne de jouer de l'abat-son, m\u00eame si son acte peut sembler v\u00e9niel aux yeux des autres.",
-    "words": [
-      {
-        "match": "galetas",
-        "word": "galetas",
-        "definition": {
-          "def": "Logement tr\u00e8s pauvre, sordide.",
-          "synonyms": [
-            "r\u00e9duit"
-          ]
-        }
-      },
-      {
-        "match": "v\u00e9niel",
-        "word": "v\u00e9niel",
-        "definition": {
-          "def": null,
-          "synonyms": []
-        }
-      },
-      {
-        "match": "fam\u00e9lique",
-        "word": "fam\u00e9lique",
-        "definition": {
-          "def": "Qui ne mange pas \u00e0 sa faim, qui est maigre.",
-          "synonyms": [
-            "\u00e9tique"
-          ]
-        }
-      },
-      {
-        "match": "l'abat-son",
-        "word": "abat-son",
-        "definition": {
-          "def": "Ensemble de lames inclin\u00e9es dont on garnit les ouvertures des clochers pour renvoyer vers le sol le son des cloches.",
-          "synonyms": []
         }
       }
     ]
@@ -1953,43 +1831,6 @@
     ]
   },
   {
-    "message": "L'ophiol\u00e2trie est un calvaire pour les sapajous perch\u00e9 en haut du hunier.",
-    "words": [
-      {
-        "match": "L'ophiol\u00e2trie",
-        "word": "ophiol\u00e2trie",
-        "definition": {
-          "def": "Culte, adoration du serpent.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "calvaire",
-        "word": "calvaire",
-        "definition": {
-          "def": null,
-          "synonyms": []
-        }
-      },
-      {
-        "match": "hunier",
-        "word": "hunier",
-        "definition": {
-          "def": "Voile carr\u00e9e du m\u00e2t de hune.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "sapajous",
-        "word": "sapajou",
-        "definition": {
-          "def": "Petit singe de l'Am\u00e9rique centrale et du Sud, \u00e0 longue queue pr\u00e9hensile.",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
     "message": "Le marin hissa le bossoir pour r\u00e9parer le d\u00e9fectif de sa souquenille pendant la bonace en mer.",
     "words": [
       {
@@ -2421,45 +2262,6 @@
     ]
   },
   {
-    "message": "Le critique gastronomique s'accorda \u00e0 dire que le tartare servit \u00e9tait d'une qualit\u00e9 irr\u00e9fragable, m\u00eame si l'ajout de quelques v\u00e9niels condiments aurait pu apporter une touche de subtilit\u00e9 suppl\u00e9mentaire \u00e0 ce plat. Les convives, derri\u00e8re le moucharabieh d\u00e9licatement ouvrag\u00e9, s'en r\u00e9gal\u00e8rent avec d\u00e9lice.",
-    "words": [
-      {
-        "match": "tartare",
-        "word": "tartare",
-        "definition": {
-          "def": "Des populations d'Asie centrale (Turcs et Mongols).",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "irr\u00e9fragable",
-        "word": "irr\u00e9fragable",
-        "definition": {
-          "def": "Qu'on ne peut contredire, r\u00e9cuser.",
-          "synonyms": [
-            "irr\u00e9cusable"
-          ]
-        }
-      },
-      {
-        "match": "v\u00e9niels",
-        "word": "v\u00e9niel",
-        "definition": {
-          "def": null,
-          "synonyms": []
-        }
-      },
-      {
-        "match": "moucharabieh",
-        "word": "moucharabieh",
-        "definition": {
-          "def": "Balcon en avant-corps, muni d'un grillage (fr\u00e9quent dans l'architecture arabe).",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
     "message": "Le soleil br\u00fblant se refl\u00e9tait sur l'oc\u00e9an encalmin\u00e9, tandis que les fleurs jacaranda, couleur violette \u00e9clatante, bordaient les rives baptismales d'une \u00eele lointaine. Pendant ce temps, le rond-de-cuir s'affairait \u00e0 regrouper les registres administratifs.",
     "words": [
       {
@@ -2610,45 +2412,6 @@
         "word": "galhauban",
         "definition": {
           "def": "Cordage servant \u00e0 assujettir les m\u00e2ts sup\u00e9rieurs par le travers, et vers l'arri\u00e8re.",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
-    "message": "Le professeur \u00e9m\u00e9rite contemplait la quintessence de l'art en observer les nuances subtiles de couleur sur l'escabelle turquin, pendant que son \u00e9l\u00e8ve achevait de pr\u00e9parer les abattis pour le repas.",
-    "words": [
-      {
-        "match": "abattis",
-        "word": "abattis",
-        "definition": {
-          "def": null,
-          "synonyms": []
-        }
-      },
-      {
-        "match": "quintessence",
-        "word": "quintessence",
-        "definition": {
-          "def": "Ce en quoi se r\u00e9sument l'essentiel et le plus pur de qqch.",
-          "synonyms": [
-            "le meilleur"
-          ]
-        }
-      },
-      {
-        "match": "l'escabelle",
-        "word": "escabelle",
-        "definition": {
-          "def": "Grand escabeau, petite \u00e9chelle double.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "turquin",
-        "word": "turquin",
-        "definition": {
-          "def": "D'un bleu fonc\u00e9.",
           "synonyms": []
         }
       }
