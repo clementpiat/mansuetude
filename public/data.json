@@ -1,176 +1,768 @@
 [
   {
-    "message": "Le savant incr\u00e9\u00e9 \u00e9tudie avec passion les cryptogames tandis que le spadassin saurer manie son \u00e9p\u00e9e avec adresse.",
+    "message": "Le giton, v\u00eatu d'un pantalon en denim, tendit son bras pour recevoir l'obole, une pi\u00e8ce de monnaie en bronze d'une valeur oncial.",
     "words": [
       {
-        "match": "incr\u00e9\u00e9",
-        "word": "incr\u00e9\u00e9",
+        "match": "giton",
+        "word": "giton",
         "definition": {
-          "def": "Qui existe sans avoir \u00e9t\u00e9 cr\u00e9\u00e9.",
+          "def": "Jeune homme, adolescent entretenu par un amant.",
           "synonyms": []
         }
       },
       {
-        "match": "cryptogames",
-        "word": "cryptogame",
+        "match": "denim",
+        "word": "denim",
         "definition": {
-          "def": "Qui a les organes de la fructification peu apparents.",
+          "def": "Toile de coton servant \u00e0 fabriquer les jeans.",
           "synonyms": []
         }
       },
       {
-        "match": "spadassin",
-        "word": "spadassin",
+        "match": "l'obole",
+        "word": "obole",
         "definition": {
-          "def": "Assassin \u00e0 gages.",
+          "def": "Modeste offrande, petite contribution en argent.",
           "synonyms": []
         }
       },
       {
-        "match": "saurer",
-        "word": "saurer",
+        "match": "oncial",
+        "word": "oncial",
         "definition": {
-          "def": "Faire s\u00e9cher \u00e0 la fum\u00e9e (une substance alimentaire) pour conserver apr\u00e8s avoir soumis \u00e0 l'action de la saumure.",
+          "def": "Se dit d'une \u00e9criture calligraphique m\u00e9di\u00e9vale en capitales arrondies.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Le parpaillot, indur\u00e9 par les \u00e9preuves de la vie, avan\u00e7ait avec pers\u00e9v\u00e9rance sur le traille, tandis que la foudre fulgurait dans le ciel.",
+    "message": "Le v\u00e9tilleux florentin observait attentivement sa gerbille dans sa cage aux parois mates.",
     "words": [
       {
-        "match": "indur\u00e9",
-        "word": "indurer",
+        "match": "florentin",
+        "word": "florentin",
         "definition": {
-          "def": "Durcir (un tissu organique).",
+          "def": "De Florence.",
           "synonyms": []
         }
       },
       {
-        "match": "parpaillot",
-        "word": "parpaillot",
+        "match": "v\u00e9tilleux",
+        "word": "v\u00e9tilleux",
         "definition": {
-          "def": "Protestant(e).",
+          "def": "Qui s'attache \u00e0 des d\u00e9tails, \u00e0 des v\u00e9tilles.",
           "synonyms": []
         }
       },
       {
-        "match": "traille",
-        "word": "traille",
+        "match": "gerbille",
+        "word": "gerbille",
         "definition": {
-          "def": "C\u00e2ble tendu d'une rive \u00e0 l'autre, le long duquel se d\u00e9place un bac\u00a0; ce bac lui-m\u00eame.",
+          "def": "Petit rongeur des savanes et des d\u00e9serts apparent\u00e9 \u00e0 la souris.",
           "synonyms": []
         }
       },
       {
-        "match": "fulgurait",
-        "word": "fulgurer",
+        "match": "mates",
+        "word": "matte",
         "definition": {
-          "def": "Briller soudainement.",
+          "def": "M\u00e9lange de sulfures de fer et de cuivre, provenant de la premi\u00e8re fusion d'un minerai sulfur\u00e9.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Le karma de cette personne atteinte de neurasth\u00e9nie est tellement bas que m\u00eame r\u00e9citer un simple virelangue l'\u00e9puise comme si c'\u00e9tait l'\u00e9tiage de son \u00e9nergie.",
+    "message": "La sylphide dansait gracieusement parmi le salmigondis de costumes en astrakan, lors de la montaison sur sc\u00e8ne.",
     "words": [
       {
-        "match": "karma",
-        "word": "karma",
+        "match": "astrakan",
+        "word": "astrakan",
         "definition": {
-          "def": "Dogme central de l'hindouisme, du bouddhisme, selon lequel la destin\u00e9e d'un \u00eatre vivant et conscient est d\u00e9termin\u00e9e par la totalit\u00e9 de ses actions pass\u00e9es, de ses vies ant\u00e9rieures.",
+          "def": "Fourrure d'agneau \u00e0 poils boucl\u00e9s.",
           "synonyms": []
         }
       },
       {
-        "match": "neurasth\u00e9nie",
-        "word": "neurasth\u00e9nie",
+        "match": "montaison",
+        "word": "montaison",
         "definition": {
-          "def": "\u00c9tat durable d'abattement accompagn\u00e9 de tristesse.",
+          "def": "Migration de certains poissons qui remontent les cours d'eau pour aller frayer.",
           "synonyms": []
         }
       },
       {
-        "match": "virelangue",
-        "word": "virelangue",
+        "match": "salmigondis",
+        "word": "salmigondis",
         "definition": {
-          "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
+          "def": "M\u00e9lange disparate et incoh\u00e9rent.",
           "synonyms": []
         }
       },
       {
-        "match": "l'\u00e9tiage",
-        "word": "\u00e9tiage",
+        "match": "sylphide",
+        "word": "sylphide",
         "definition": {
-          "def": "Baisse p\u00e9riodique des eaux (d'un cours d'eau)\u00a0; le plus bas niveau des eaux.",
+          "def": "G\u00e9nie a\u00e9rien f\u00e9minin plein de gr\u00e2ce.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Le psychiatre prit des notes fr\u00e9n\u00e9tiquement lors de l'anamn\u00e8se, tentant de d\u00e9m\u00ealer la p\u00e9taudi\u00e8re de souvenirs embrouill\u00e9s tandis que la pluie l\u00e9g\u00e8re, telle une douce aiguail, frappait doucement la fen\u00eatre de son cabinet, \u00e0 chaque goutte r\u00e9veillant une \u00e9motion enfouie dans l'esprit de sa patiente, comme le talon d'un stiletto enfonc\u00e9 dans la m\u00e9moire.",
+    "message": "En hissant le hunier, le marin attacha fermement la souquenille au m\u00e2t, priant silencieusement : \"Or\u00e9mus pour que le contrevent ne c\u00e8de pas \u00e0 la force du vent.\"",
     "words": [
       {
-        "match": "p\u00e9taudi\u00e8re",
-        "word": "p\u00e9taudi\u00e8re",
+        "match": "souquenille",
+        "word": "souquenille",
         "definition": {
-          "def": "Assembl\u00e9e o\u00f9 r\u00e8gnent la confusion et le d\u00e9sordre.",
+          "def": "Longue blouse de travail.",
           "synonyms": []
         }
       },
       {
-        "match": "aiguail",
-        "word": "aiguail",
+        "match": "\"Or\u00e9mus",
+        "word": "or\u00e9mus",
         "definition": {
-          "def": "Ros\u00e9e.",
+          "def": "Pri\u00e8re.",
           "synonyms": []
         }
       },
       {
-        "match": "l'anamn\u00e8se",
-        "word": "anamn\u00e8se",
+        "match": "contrevent",
+        "word": "contrevent",
         "definition": {
-          "def": "Retour \u00e0 la m\u00e9moire du pass\u00e9 v\u00e9cu et oubli\u00e9 ou refoul\u00e9 (s'oppose \u00e0 amn\u00e9sie).",
+          "def": "Volet ext\u00e9rieur d'une fen\u00eatre.",
           "synonyms": []
         }
       },
       {
-        "match": "stiletto",
-        "word": "stiletto",
+        "match": "hunier",
+        "word": "hunier",
         "definition": {
-          "def": "Chaussure au tr\u00e8s haut talon effil\u00e9.",
+          "def": "Voile carr\u00e9e du m\u00e2t de hune.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Le reposoir \u00e9l\u00e9gamment recouvert de percaline \u00e9tait le lieu de pr\u00e9dilection de cet \u00e9rudit coquillard, qui, plong\u00e9 dans sa lecture, agissait inconsciemment son tic d'onychophagie.",
+    "message": "Le liftier, v\u00eatu d'un caban \u00e9l\u00e9gant, huche les voyageurs vers leur destination en \u00e9vitant avec dext\u00e9rit\u00e9 la crase des heures de pointe.",
     "words": [
       {
-        "match": "reposoir",
-        "word": "reposoir",
+        "match": "caban",
+        "word": "caban",
         "definition": {
-          "def": "Support en forme d'autel sur lequel on d\u00e9pose le Saint Sacrement, en certaines occasions.",
+          "def": "Manteau court en drap de laine (port\u00e9 \u00e0 l'origine par les marins).",
           "synonyms": []
         }
       },
       {
-        "match": "d'onychophagie",
-        "word": "onychophagie",
+        "match": "huche",
+        "word": "hucher",
         "definition": {
-          "def": "Habitude de se ronger les ongles.",
+          "def": "Appeler en criant, en sifflant.",
           "synonyms": []
         }
       },
       {
-        "match": "percaline",
-        "word": "percaline",
+        "match": "liftier",
+        "word": "liftier",
         "definition": {
-          "def": "Toile de coton lustr\u00e9e, souvent utilis\u00e9e en doublure.",
+          "def": "Personne qui man\u0153uvre un ascenseur.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "crase",
+        "word": "crase",
+        "definition": {
+          "def": "Contraction de syllabes (en grec), d'\u00e9l\u00e9ments.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lorsque je r\u00e9digeai mon m\u00e9moire, j'ai ressenti une introjection profonde de connaissances, telles les nervures d'une acanthe entrelac\u00e9es dans l'\u00e9laboration d'un discours accort, maroufl\u00e9 avec soin pour captiver mon auditoire.",
+    "words": [
+      {
+        "match": "introjection",
+        "word": "introjection",
+        "definition": {
+          "def": "Processus inconscient par lequel l'image d'une personne est incorpor\u00e9e au moi et au surmoi.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "acanthe",
+        "word": "acanthe",
+        "definition": {
+          "def": "Plante \u00e0 feuilles tr\u00e8s d\u00e9coup\u00e9es.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "accort",
+        "word": "accort",
+        "definition": {
+          "def": "Gracieux et vif.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "maroufl\u00e9",
+        "word": "maroufler",
+        "definition": {
+          "def": "Appliquer (une toile peinte) sur une surface (mur, toile) avec de la colle forte (appel\u00e9e maroufle, nom f\u00e9minin).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Malgr\u00e9 l'oc\u00e9an encalmin\u00e9, l'oiseux s\u00e9millant survole la Seine avec gr\u00e2ce et l\u00e9g\u00e8ret\u00e9.",
+    "words": [
+      {
+        "match": "encalmin\u00e9",
+        "word": "encalmin\u00e9",
+        "definition": {
+          "def": "Se dit d'un navire \u00e0 voiles immobilis\u00e9 par un temps calme, sans vent, ou \u00e0 l'abri du vent.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'oiseux",
+        "word": "oiseux",
+        "definition": {
+          "def": "Qui ne m\u00e8ne \u00e0 rien, est inutile, fait perdre du temps.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "s\u00e9millant",
+        "word": "s\u00e9millant",
+        "definition": {
+          "def": "D'une vivacit\u00e9, d'un entrain plaisants.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "Seine",
+        "word": "seine",
+        "definition": {
+          "def": "Filet formant un demi-cercle.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de notre visite au mus\u00e9e, nous avons observ\u00e9 avec fascination un quadrumane sculpt\u00e9 en haut-relief sur une plaque d'argent, dont les yeux d'un bleu algide semblaient presque ignivomes.",
+    "words": [
+      {
+        "match": "quadrumane",
+        "word": "quadrumane",
+        "definition": {
+          "def": "Dont les quatre membres sont termin\u00e9s par une main.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "algide",
+        "word": "algide",
+        "definition": {
+          "def": "Accompagn\u00e9 de refroidissement.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "haut-relief",
+        "word": "haut-relief",
+        "definition": {
+          "def": "Sculpture pr\u00e9sentant un relief tr\u00e8s saillant sans se d\u00e9tacher toutefois du fond dans toute son \u00e9paisseur (oppos\u00e9 \u00e0 bas-relief).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ignivomes",
+        "word": "ignivome",
+        "definition": {
+          "def": "Qui crache le feu.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lorsque le p\u00e9rih\u00e9lie de la com\u00e8te se rapproche de la Terre, cela rappelle aux chercheurs un moment imm\u00e9morial o\u00f9 la p\u00e9r\u00e9quation des astres \u00e9tait d\u00e9couverte, comme si la galaxie \u00e9tait repeinte de couleurs vives gr\u00e2ce au ripolin cosmique.",
+    "words": [
+      {
+        "match": "ripolin",
+        "word": "ripolin",
+        "definition": {
+          "def": "Peinture laqu\u00e9e tr\u00e8s brillante.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "p\u00e9r\u00e9quation",
+        "word": "p\u00e9r\u00e9quation",
+        "definition": {
+          "def": "R\u00e9partition \u00e9galitaire de charges ou de moyens.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "p\u00e9rih\u00e9lie",
+        "word": "p\u00e9rih\u00e9lie",
+        "definition": {
+          "def": "Point de l'orbite d'une plan\u00e8te qui est le plus proche du Soleil (contraire aph\u00e9lie).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "imm\u00e9morial",
+        "word": "imm\u00e9morial",
+        "definition": {
+          "def": "Qui remonte \u00e0 une \u00e9poque si ancienne qu'elle est sortie de la m\u00e9moire.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La logorrh\u00e9e interminable du conf\u00e9rencier m'a fait penser au temps qui s'\u00e9coule lentement dans une long\u00e8re en pleine campagne, jusqu'\u00e0 atteindre le nadir de l'ennui.",
+    "words": [
+      {
+        "match": "logorrh\u00e9e",
+        "word": "logorrh\u00e9e",
+        "definition": {
+          "def": "Flux de paroles.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "long\u00e8re",
+        "word": "long\u00e8re",
+        "definition": {
+          "def": "Ensemble de b\u00e2timents de ferme bas, dispos\u00e9s en long.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "long\u00e8re",
+        "word": "long\u00e8re",
+        "definition": {
+          "def": "Ensemble de b\u00e2timents de ferme bas, dispos\u00e9s en long.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "nadir",
+        "word": "nadir",
+        "definition": {
+          "def": "Point du ciel \u00e0 la verticale de l'observateur, vers le bas (oppos\u00e9 \u00e0 z\u00e9nith).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans un \u00e9lan voluptuaire, l'\u00e9chanson versa d\u00e9licatement le vin dans la coupe, caressant du regard la mall\u00e9ole du verre, orn\u00e9e d'un motif vermicul\u00e9.",
+    "words": [
+      {
+        "match": "voluptuaire",
+        "word": "voluptuaire",
+        "definition": {
+          "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'\u00e9chanson",
+        "word": "\u00e9chanson",
+        "definition": {
+          "def": "Officier d'une cour, dont la fonction \u00e9tait de servir \u00e0 boire \u00e0 la table du prince.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "mall\u00e9ole",
+        "word": "mall\u00e9ole",
+        "definition": {
+          "def": "Saillie osseuse de la cheville.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "vermicul\u00e9",
+        "word": "vermicul\u00e9",
+        "definition": {
+          "def": "Orn\u00e9 de petites stries sinueuses.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'astrakan, ce manteau luxueux au toucher doux, dissimule les tumultes turbides de l'\u00e2me, permettant ainsi d'atteindre un \u00e9tat d'ataraxie recherch\u00e9 par tout z\u00e9lateur de la tranquillit\u00e9.",
+    "words": [
+      {
+        "match": "L'astrakan",
+        "word": "astrakan",
+        "definition": {
+          "def": "Fourrure d'agneau \u00e0 poils boucl\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "turbides",
+        "word": "turbide",
+        "definition": {
+          "def": "Troubl\u00e9, agit\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d'ataraxie",
+        "word": "ataraxie",
+        "definition": {
+          "def": "Tranquillit\u00e9 de l'\u00e2me, notamment chez les \u00e9picuriens et les sto\u00efciens.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "z\u00e9lateur",
+        "word": "z\u00e9lateur",
+        "definition": {
+          "def": "Partisan ou d\u00e9fenseur z\u00e9l\u00e9 (d'une cause, d'une personne).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de la r\u00e9partition des biens suite \u00e0 leur divorce, l'ex-couple se retrouva dans un v\u00e9ritable tolet, notamment pour d\u00e9terminer la soulte \u00e0 payer. C'est ainsi qu'une ambiance \u00e9l\u00e9giaque s'installa, ponctu\u00e9e d'or\u00e9mus silencieux en priant pour un arrangement harmonieux.",
+    "words": [
+      {
+        "match": "soulte",
+        "word": "soulte",
+        "definition": {
+          "def": "Somme d'argent qui, dans un partage ou un \u00e9change, compense une in\u00e9galit\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d'or\u00e9mus",
+        "word": "or\u00e9mus",
+        "definition": {
+          "def": "Pri\u00e8re.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "\u00e9l\u00e9giaque",
+        "word": "\u00e9l\u00e9giaque",
+        "definition": {
+          "def": "Propre \u00e0 l'\u00e9l\u00e9gie, ou dans son style.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "tolet",
+        "word": "tolet",
+        "definition": {
+          "def": "Cheville de fer ou de bois enfonc\u00e9e dans le renfort (toleti\u00e8re \n\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n\nnom f\u00e9minin) du plat-bord d'une embarcation, qui sert de point d'appui \u00e0 l'aviron.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Au printemps vernal, la vue depuis les remparts du Brandebourg m'a \u00e9merveill\u00e9, me laissant dans un agr\u00e9able d\u00e9cubitus, confirmant ainsi la doxa selon laquelle la nature est source de bien-\u00eatre.",
+    "words": [
+      {
+        "match": "vernal",
+        "word": "vernal",
+        "definition": {
+          "def": "Du printemps.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "Brandebourg",
+        "word": "brandebourg",
+        "definition": {
+          "def": "Passementerie, galon ornant un v\u00eatement, une boutonni\u00e8re.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d\u00e9cubitus",
+        "word": "d\u00e9cubitus",
+        "definition": {
+          "def": "Position couch\u00e9e.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "doxa",
+        "word": "doxa",
+        "definition": {
+          "def": "Ensemble des opinions re\u00e7ues sans discussion, comme \u00e9videntes, dans une civilisation donn\u00e9e.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Mon affid\u00e9 et fid\u00e8le assistant m'aide \u00e0 enfiler mes gu\u00eatres avant de monter en cacolet sur ma jument pr\u00e9f\u00e9r\u00e9e lors de nos sorties sororales.",
+    "words": [
+      {
+        "match": "affid\u00e9",
+        "word": "affid\u00e9",
+        "definition": {
+          "def": "Qui se pr\u00eate en agent s\u00fbr \u00e0 un mauvais coup.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gu\u00eatres",
+        "word": "gu\u00eatre",
+        "definition": {
+          "def": "Enveloppe de tissu ou de cuir qui recouvre le haut de la chaussure et le bas de la jambe.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "cacolet",
+        "word": "cacolet",
+        "definition": {
+          "def": "B\u00e2t comportant deux si\u00e8ges.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "sororales",
+        "word": "sororal",
+        "definition": {
+          "def": "D'une s\u0153ur, de s\u0153urs (correspond \u00e0 fraternel).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le structuralisme, courant de pens\u00e9e qui explore les structures sous-jacentes des ph\u00e9nom\u00e8nes, tisse une r\u00e9sille complexe dans laquelle se d\u00e9voile chaque cenelle de la connaissance, rendant ainsi le discours de son porte-parole particuli\u00e8rement disert.",
+    "words": [
+      {
+        "match": "structuralisme",
+        "word": "structuralisme",
+        "definition": {
+          "def": "Th\u00e9orie selon laquelle l'\u00e9tude d'une cat\u00e9gorie de faits (notamment en sciences humaines) doit envisager principalement les structures.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "r\u00e9sille",
+        "word": "r\u00e9sille",
+        "definition": {
+          "def": "Tissu de mailles formant une poche dans laquelle on enserre les cheveux.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "cenelle",
+        "word": "cenelle",
+        "definition": {
+          "def": "Baie rouge de l'aub\u00e9pine et du houx.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "disert",
+        "word": "disert",
+        "definition": {
+          "def": "Qui parle avec facilit\u00e9 et \u00e9l\u00e9gance.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de mes recherches dans les miscellan\u00e9es arch\u00e9ologiques, j'ai d\u00e9couvert un b\u00e9tyle myst\u00e9rieux dans l'abside d'une ancienne \u00e9glise, laissant supposer une possible concomitance entre des pratiques pa\u00efennes et chr\u00e9tiennes.",
+    "words": [
+      {
+        "match": "b\u00e9tyle",
+        "word": "b\u00e9tyle",
+        "definition": {
+          "def": "Pierre lev\u00e9e \u00e0 valeur symbolique sacr\u00e9e au Moyen-Orient.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "concomitance",
+        "word": "concomitance",
+        "definition": {
+          "def": "Rapport de simultan\u00e9it\u00e9 (entre plusieurs faits).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "miscellan\u00e9es",
+        "word": "miscellan\u00e9es",
+        "definition": {
+          "def": "Recueil vari\u00e9 de textes litt\u00e9raires ou scientifiques.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'abside",
+        "word": "abside",
+        "definition": {
+          "def": "Extr\u00e9mit\u00e9 en demi-cercle d'une \u00e9glise, derri\u00e8re le ch\u0153ur (\u2799\u00a0chevet).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le caftan au tissu chatoyant, port\u00e9 par la belle v\u00e9nust\u00e9 de la danseuse, captiva l'audience venue admirer le spectacle color\u00e9 du barnum, tandis que la ramille de curieux s'agglutinait autour de la sc\u00e8ne.",
+    "words": [
+      {
+        "match": "barnum",
+        "word": "barnum",
+        "definition": {
+          "def": "Chapiteau, tente abritant des manifestations (r\u00e9ceptions, expositions, foires\u2026).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "v\u00e9nust\u00e9",
+        "word": "v\u00e9nust\u00e9",
+        "definition": {
+          "def": "Gr\u00e2ce, beaut\u00e9 digne de V\u00e9nus.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ramille",
+        "word": "ramille",
+        "definition": {
+          "def": "Chacune des plus petites et derni\u00e8res divisions d'un rameau.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "caftan",
+        "word": "caftan",
+        "definition": {
+          "def": "V\u00eatement oriental, ample et long.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de la r\u00e9ception, Marie a commis un sol\u00e9cisme en utilisant un euph\u00e9misme pour d\u00e9crire la d\u00e9licate situation, cachant ainsi les probl\u00e8mes sous des couches de mots, telles des poup\u00e9es gigognes, recouvertes de kh\u00f4l.",
+    "words": [
+      {
+        "match": "sol\u00e9cisme",
+        "word": "sol\u00e9cisme",
+        "definition": {
+          "def": "Emploi syntaxique fautif de formes par ailleurs existantes (ex. je suis \u00e9t\u00e9).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "kh\u00f4l",
+        "word": "kh\u00f4l",
+        "definition": {
+          "def": "Fard de couleur sombre appliqu\u00e9 sur les paupi\u00e8res, les cils, les sourcils, utilis\u00e9 \u00e0 l'origine dans le monde arabe.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gigognes",
+        "word": "gigogne",
+        "definition": {
+          "def": "Se dit d'objets qui s'embo\u00eetent les uns dans les autres ou se glissent les uns sous les autres.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "euph\u00e9misme",
+        "word": "euph\u00e9misme",
+        "definition": {
+          "def": "Expression att\u00e9nu\u00e9e d'une notion dont l'expression directe aurait quelque chose de d\u00e9plaisant, de choquant.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Au XIXe si\u00e8cle, la cluse de la Seine \u00e9tait un point de passage strat\u00e9gique pour les partisans de l'atlantisme censitaire.",
+    "words": [
+      {
+        "match": "cluse",
+        "word": "cluse",
+        "definition": {
+          "def": "Coupure encaiss\u00e9e perpendiculaire, dans une cha\u00eene de montagnes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'atlantisme",
+        "word": "atlantisme",
+        "definition": {
+          "def": "Politique conforme au Pacte atlantique",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "censitaire",
+        "word": "censitaire",
+        "definition": {
+          "def": "Celui qui payait le cens (3).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "Seine",
+        "word": "seine",
+        "definition": {
+          "def": "Filet formant un demi-cercle.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de ma promenade dans la campagne bergamasque, j'ai \u00e9t\u00e9 surpris par un soudain gr\u00e9sil qui m'a provoqu\u00e9 une br\u00e8ve scotomisation avant de trouver refuge dans un abri coquillard.",
+    "words": [
+      {
+        "match": "bergamasque",
+        "word": "bergamasque",
+        "definition": {
+          "def": "Danse folklorique \u00e0 la mode au xviiie si\u00e8cle.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gr\u00e9sil",
+        "word": "gr\u00e9sil",
+        "definition": {
+          "def": "Gr\u00eale fine, blanche et dure.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "scotomisation",
+        "word": "scotomisation",
+        "definition": {
+          "def": "Rejet inconscient hors du champ de conscience d'une r\u00e9alit\u00e9 p\u00e9nible pour le sujet\u00a0; d\u00e9ni de la r\u00e9alit\u00e9.",
           "synonyms": []
         }
       },
@@ -185,21 +777,1271 @@
     ]
   },
   {
-    "message": "Le raptus du congr\u00e9ganiste devant la dyspepsie a provoqu\u00e9 la folie du grouillot.",
+    "message": "Lors du d\u00eener protocolaire, le ministre b\u00e2fra avec d\u00e9lectation, tandis que son affid\u00e9 racontait une histoire hilarante, cr\u00e9ant ainsi un v\u00e9ritable pand\u00e9monium dans la salle, avec ses rires acumin\u00e9s qui r\u00e9sonnaient dans toute l'assembl\u00e9e.",
     "words": [
       {
-        "match": "raptus",
-        "word": "raptus",
+        "match": "pand\u00e9monium",
+        "word": "Pand\u00e9monium",
         "definition": {
-          "def": "Impulsion violente et soudaine pouvant pousser \u00e0 commettre un acte grave (homicide, suicide, mutilation).",
+          "def": null,
           "synonyms": []
         }
       },
       {
-        "match": "grouillot",
-        "word": "grouillot",
+        "match": "affid\u00e9",
+        "word": "affid\u00e9",
         "definition": {
-          "def": "Gar\u00e7on de course, coursier (sp\u00e9cialement, \u00e0 la Bourse).",
+          "def": "Qui se pr\u00eate en agent s\u00fbr \u00e0 un mauvais coup.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "acumin\u00e9s",
+        "word": "acumin\u00e9",
+        "definition": {
+          "def": "Qui se termine en pointe.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "b\u00e2fra",
+        "word": "b\u00e2frer",
+        "definition": {
+          "def": "Manger gloutonnement et avec exc\u00e8s.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Mon professeur \u00e9m\u00e9rite de l'Acad\u00e9mie fran\u00e7aise a utilis\u00e9 une p\u00e9riphrase ing\u00e9nieuse pour qualifier la pusillanimit\u00e9 du protagoniste dans son pamphlet, tandis que les mots de d\u00e9solation se sont r\u00e9pandus tel un vent glacial \u00e0 travers la lande d\u00e9serte.",
+    "words": [
+      {
+        "match": "p\u00e9riphrase",
+        "word": "p\u00e9riphrase",
+        "definition": {
+          "def": "Expression par plusieurs mots d'une notion qu'un seul mot pourrait exprimer.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pusillanimit\u00e9",
+        "word": "pusillanime",
+        "definition": {
+          "def": "Qui manque d'audace, craint le risque, les responsabilit\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "lande",
+        "word": "lande",
+        "definition": {
+          "def": "\u00c9tendue de terre o\u00f9 ne croissent que certaines plantes sauvages (ajonc, bruy\u00e8re, gen\u00eat, etc.).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pamphlet",
+        "word": "pamphlet",
+        "definition": {
+          "def": "Texte court et violent attaquant les institutions, un personnage connu.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le roi, install\u00e9 dans sa magnifique patache, traversa les grandes portes du palais orn\u00e9es de chambranles dor\u00e9s, accueilli par l'\u00e9chanson qui lui pr\u00e9senta son verre de vin r\u00e9galien.",
+    "words": [
+      {
+        "match": "patache",
+        "word": "patache",
+        "definition": {
+          "def": "Diligence \u00e0 bon march\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "r\u00e9galien",
+        "word": "r\u00e9galien",
+        "definition": {
+          "def": null,
+          "synonyms": []
+        }
+      },
+      {
+        "match": "chambranles",
+        "word": "chambranle",
+        "definition": {
+          "def": "Encadrement d'une porte, d'une fen\u00eatre, d'une chemin\u00e9e.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'\u00e9chanson",
+        "word": "\u00e9chanson",
+        "definition": {
+          "def": "Officier d'une cour, dont la fonction \u00e9tait de servir \u00e0 boire \u00e0 la table du prince.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le fam\u00e9lique vit dans le galetas sans jamais manquer \u00e0 sa routine quotidienne de jouer de l'abat-son, m\u00eame si son acte peut sembler v\u00e9niel aux yeux des autres.",
+    "words": [
+      {
+        "match": "galetas",
+        "word": "galetas",
+        "definition": {
+          "def": "Logement tr\u00e8s pauvre, sordide.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "v\u00e9niel",
+        "word": "v\u00e9niel",
+        "definition": {
+          "def": null,
+          "synonyms": []
+        }
+      },
+      {
+        "match": "fam\u00e9lique",
+        "word": "fam\u00e9lique",
+        "definition": {
+          "def": "Qui ne mange pas \u00e0 sa faim, qui est maigre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'abat-son",
+        "word": "abat-son",
+        "definition": {
+          "def": "Ensemble de lames inclin\u00e9es dont on garnit les ouvertures des clochers pour renvoyer vers le sol le son des cloches.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de ma visite \u00e0 l'exposition d'art japonais, j'ai obtenu une contremarque pour admirer les magnifiques ukiyo-e, dont les tons mordor\u00e9s et les d\u00e9tails pigeonnants m'ont transport\u00e9 dans un autre monde.",
+    "words": [
+      {
+        "match": "contremarque",
+        "word": "contremarque",
+        "definition": {
+          "def": "Ticket d\u00e9livr\u00e9 \u00e0 des spectateurs qui sortent momentan\u00e9ment d'une salle de spectacle.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ukiyo-e",
+        "word": "ukiyo-e",
+        "definition": {
+          "def": "\u00c9cole picturale japonaise caract\u00e9ris\u00e9e par une peinture populaire et des estampes polychromes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "mordor\u00e9s",
+        "word": "mordor\u00e9",
+        "definition": {
+          "def": "D'un brun chaud avec des reflets dor\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pigeonnants",
+        "word": "pigeonnant",
+        "definition": {
+          "def": "Se dit d'une poitrine haute et ronde, et du soutien-gorge qui donne cet aspect aux seins.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La munificence du m\u00e9c\u00e8ne se refl\u00e8te dans sa g\u00e9n\u00e9rosit\u00e9 \u00e0 sponsoriser des projets artistiques novateurs, o\u00f9 convergent des concetti brillamment ray\u00e9s, tels des \u00e9clats de verjus \u00e9blouissants.",
+    "words": [
+      {
+        "match": "concetti",
+        "word": "concetti",
+        "definition": {
+          "def": "Trait d'esprit brillant.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "verjus",
+        "word": "verjus",
+        "definition": {
+          "def": "Suc acide de raisin cueilli vert.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ray\u00e9s",
+        "word": "ray\u00e8re",
+        "definition": {
+          "def": "\u00c9troite ouverture verticale pratiqu\u00e9e dans le mur d'une tour pour en \u00e9clairer l'int\u00e9rieur.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "munificence",
+        "word": "munificence",
+        "definition": {
+          "def": "Grandeur dans la g\u00e9n\u00e9rosit\u00e9.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le c\u00e9iste impavide pagaya avec gr\u00e2ce sur la rivi\u00e8re, en appr\u00e9ciant l'umami de la nature qui se d\u00e9voilait devant lui, capturant ainsi toute la litt\u00e9rarit\u00e9 de cette exp\u00e9rience.",
+    "words": [
+      {
+        "match": "impavide",
+        "word": "impavide",
+        "definition": {
+          "def": "Qui n'\u00e9prouve ou ne montre aucune crainte.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'umami",
+        "word": "umami",
+        "definition": {
+          "def": "Saveur produite notamment par le glutamate de sodium, consid\u00e9r\u00e9e comme l'une des cinq saveurs fondamentales.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "c\u00e9iste",
+        "word": "c\u00e9iste",
+        "definition": {
+          "def": "Cano\u00e9iste.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "litt\u00e9rarit\u00e9",
+        "word": "litt\u00e9rarit\u00e9",
+        "definition": {
+          "def": "Caract\u00e8re d'un texte qui appartient \u00e0 la litt\u00e9rature.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de sa philippique contre la soci\u00e9t\u00e9 adulescente, le professeur s'est \u00e9lev\u00e9 avec passion contre l'immanent danger de la cangue technologique.",
+    "words": [
+      {
+        "match": "adulescente",
+        "word": "adulescent",
+        "definition": {
+          "def": "Jeune adulte dont le comportement rappelle celui des adolescents.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "cangue",
+        "word": "cangue",
+        "definition": {
+          "def": "Carcan dans lequel on engageait le cou et les poignets d'un condamn\u00e9, en Extr\u00eame-Orient.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "philippique",
+        "word": "philippique",
+        "definition": {
+          "def": "Discours violent contre qqn.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'immanent",
+        "word": "immanent",
+        "definition": {
+          "def": "Qui est contenu dans la nature d'un \u00eatre, ne provient pas d'un principe ext\u00e9rieur (s'oppose \u00e0 transcendant).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'abscons dogmatisme de certains, qui semblent se complaire dans l'obscurit\u00e9 de leurs id\u00e9es, me pousse \u00e0 me pr\u00e9lasser dans l'\u00e9vidence de la r\u00e9alit\u00e9, tel un portefaix triomphant d\u00e9posant les v\u00e9rit\u00e9s sans ambages sur le blutoir de la connaissance.",
+    "words": [
+      {
+        "match": "L'abscons",
+        "word": "abscons",
+        "definition": {
+          "def": "Difficile \u00e0 comprendre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "portefaix",
+        "word": "portefaix",
+        "definition": {
+          "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "dans",
+        "word": "doxa",
+        "definition": {
+          "def": "Ensemble des opinions re\u00e7ues sans discussion, comme \u00e9videntes, dans une civilisation donn\u00e9e.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "blutoir",
+        "word": "blutoir",
+        "definition": {
+          "def": "Tamiser (la farine) pour la s\u00e9parer du son (avec un tamis appel\u00e9 blutoir \n\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n\nnom masculin).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le zo\u00efle s'est d\u00e9lect\u00e9 d'un d\u00e9licieux pageot grill\u00e9 lors d'un repas dispendieux, alors que l'harmattan soufflait doucement, apportant une l\u00e9g\u00e8re fra\u00eecheur \u00e0 la soir\u00e9e.",
+    "words": [
+      {
+        "match": "zo\u00efle",
+        "word": "zo\u00efle",
+        "definition": {
+          "def": "Critique injuste et envieux.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pageot",
+        "word": "pageot",
+        "definition": {
+          "def": "Lit.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "dispendieux",
+        "word": "dispendieux",
+        "definition": {
+          "def": "Qui exige une grande d\u00e9pense.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'harmattan",
+        "word": "harmattan",
+        "definition": {
+          "def": "Aliz\u00e9 chaud et sec qui souffle sur l'Afrique occidentale.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'ondinisme, bien que peu connu du grand public, est une acception particuli\u00e8re dans le domaine des pratiques sexuelles, souvent associ\u00e9 \u00e0 une forme de lamparo. Cependant, il convient de rester vigilant quant aux cons\u00e9quences potentiellement iatrog\u00e8nes de telles pratiques.",
+    "words": [
+      {
+        "match": "L'ondinisme",
+        "word": "ondinisme",
+        "definition": {
+          "def": "Tendance \u00e9rotique dans laquelle le plaisir est provoqu\u00e9 par la vue ou le contact de l'eau ou de l'urine.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "lamparo",
+        "word": "lamparo",
+        "definition": {
+          "def": "Source de lumi\u00e8re, phare pour attirer le poisson.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "acception",
+        "word": "acception",
+        "definition": {
+          "def": "Sens particulier (d'un mot).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "iatrog\u00e8nes",
+        "word": "iatrog\u00e8ne",
+        "definition": {
+          "def": "Se dit d'une manifestation pathologique due \u00e0 un acte m\u00e9dical, sp\u00e9cialement \u00e0 un m\u00e9dicament.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans la tradition matrilin\u00e9aire des marranes, la famille se r\u00e9unissait sous la tonnelle, o\u00f9 chacun pouvait admirer la gibbosit\u00e9 du patriarche.",
+    "words": [
+      {
+        "match": "matrilin\u00e9aire",
+        "word": "matrilin\u00e9aire",
+        "definition": {
+          "def": "Qui ne reconna\u00eet que l'ascendance maternelle (oppos\u00e9 \u00e0 patrilin\u00e9aire).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "marranes",
+        "word": "marrane",
+        "definition": {
+          "def": "Juif d'Espagne ou du Portugal converti au christianisme par contrainte, et rest\u00e9 fid\u00e8le \u00e0 sa religion.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gibbosit\u00e9",
+        "word": "gibbosit\u00e9",
+        "definition": {
+          "def": "Bosse.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "tonnelle",
+        "word": "tonnelle",
+        "definition": {
+          "def": "Petit abri \u00e0 sommet arrondi, fait de lattes en treillis soutenues par des cerceaux, sur lequel on fait grimper des plantes.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le nadir de mon \u00e9r\u00e9thisme a \u00e9t\u00e9 atteint lorsque j'ai d\u00e9couvert que mon \u00e9tudiant pr\u00e9f\u00e9r\u00e9 \u00e9tait en r\u00e9alit\u00e9 un giton, mais j'ai r\u00e9ussi \u00e0 retrouver mon \u00e9quanimit\u00e9 en me concentrant sur l'essence de l'enseignement.",
+    "words": [
+      {
+        "match": "nadir",
+        "word": "nadir",
+        "definition": {
+          "def": "Point du ciel \u00e0 la verticale de l'observateur, vers le bas (oppos\u00e9 \u00e0 z\u00e9nith).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "giton",
+        "word": "giton",
+        "definition": {
+          "def": "Jeune homme, adolescent entretenu par un amant.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "\u00e9r\u00e9thisme",
+        "word": "\u00e9r\u00e9thisme",
+        "definition": {
+          "def": "\u00c9tat d'excitabilit\u00e9 accrue d'un organe.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "\u00e9quanimit\u00e9",
+        "word": "\u00e9quanimit\u00e9",
+        "definition": {
+          "def": "\u00c9galit\u00e9 d'\u00e2me, d'humeur.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La cretonne, ce tissu aux motifs floraux, avait une l\u00e9g\u00e8re esquille qui chatouillait ma peau lors de notre \u00e9treinte, tandis que le go\u00fbt umami de la fondue au fromage finissait d'\u00e9pointer notre d\u00e9licieux repas.",
+    "words": [
+      {
+        "match": "cretonne",
+        "word": "cretonne",
+        "definition": {
+          "def": "Toile de coton tr\u00e8s forte.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "esquille",
+        "word": "esquille",
+        "definition": {
+          "def": "Petit fragment qui se d\u00e9tache d'un os fractur\u00e9 ou cari\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "umami",
+        "word": "umami",
+        "definition": {
+          "def": "Saveur produite notamment par le glutamate de sodium, consid\u00e9r\u00e9e comme l'une des cinq saveurs fondamentales.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d'\u00e9pointer",
+        "word": "\u00e9pointer",
+        "definition": {
+          "def": "\u00c9mousser en \u00f4tant, en cassant ou en usant la pointe.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La danseuse bayad\u00e8re ex\u00e9cutait avec une parfaite eurythmie ses mouvements, cr\u00e9ant ainsi une performance apodictique qui la lib\u00e9rait de toute gloriole superflue.",
+    "words": [
+      {
+        "match": "bayad\u00e8re",
+        "word": "bayad\u00e8re",
+        "definition": {
+          "def": "Danseuse sacr\u00e9e de l'Inde.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "apodictique",
+        "word": "apodictique",
+        "definition": {
+          "def": "Qui a une \u00e9vidence de droit et non pas seulement de fait.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "eurythmie",
+        "word": "eurythmie",
+        "definition": {
+          "def": "Harmonie des proportions, des lignes ou des sons (Arts).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gloriole",
+        "word": "gloriole",
+        "definition": {
+          "def": "Vanit\u00e9 qu'on tire de petites choses.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors du dernier jamboree scout, les jeunes aventuriers ont foment\u00e9 de nombreuses activit\u00e9s, notamment la cr\u00e9ation de chapeaux en peau d'astrakan, que chacun rendrait fongibles en \u00e9changeant avec un autre participant.",
+    "words": [
+      {
+        "match": "d'astrakan",
+        "word": "astrakan",
+        "definition": {
+          "def": "Fourrure d'agneau \u00e0 poils boucl\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "foment\u00e9",
+        "word": "fomenter",
+        "definition": {
+          "def": "Susciter ou entretenir (un sentiment ou une action n\u00e9faste).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "jamboree",
+        "word": "jamboree",
+        "definition": {
+          "def": "R\u00e9union internationale de scouts.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "fongibles",
+        "word": "fongible",
+        "definition": {
+          "def": "Se dit des choses qui se consomment par l'usage et peuvent \u00eatre remplac\u00e9es par une chose analogue (denr\u00e9e, argent comptant).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le roboratif lazzi de sa performance th\u00e9\u00e2trale a empoisonn\u00e9 l'ennui qui l'avait synopsi\u00e9.",
+    "words": [
+      {
+        "match": "empoisonn\u00e9",
+        "word": "empois",
+        "definition": {
+          "def": "Colle \u00e0 base d'amidon employ\u00e9e \u00e0 l'appr\u00eat du linge (\u2799\u00a0empeser).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "lazzi",
+        "word": "lazzi",
+        "definition": {
+          "def": "Plaisanterie, moquerie bouffonne.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "roboratif",
+        "word": "roboratif",
+        "definition": {
+          "def": "Qui revigore, redonne des forces.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "synopsi\u00e9",
+        "word": "synopsie",
+        "definition": {
+          "def": "Forme de synesth\u00e9sie appel\u00e9e aussi audition color\u00e9e dans laquelle le sujet per\u00e7oit un son associ\u00e9 \u00e0 une couleur d\u00e9termin\u00e9e.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La z\u00e9t\u00e9tique est une discipline qui encourage une approche critique et rationnelle face aux croyances barbaresques, tout en bravant l'aquilon de ceux qui pr\u00e9f\u00e8rent les dazibaos propagandistes.",
+    "words": [
+      {
+        "match": "z\u00e9t\u00e9tique",
+        "word": "z\u00e9t\u00e9tique",
+        "definition": {
+          "def": "Qui cherche, qui examine (qualificatif donn\u00e9 aux philosophes sceptiques).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "barbaresques",
+        "word": "barbaresque",
+        "definition": {
+          "def": "Des pays autrefois d\u00e9sign\u00e9s sous le nom de Barbarie (Afrique du Nord).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'aquilon",
+        "word": "aquilon",
+        "definition": {
+          "def": "Vent du nord, froid et violent.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "dazibaos",
+        "word": "dazibao",
+        "definition": {
+          "def": "Journal mural affich\u00e9 dans les lieux publics.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Dans les campagnes agrestes, on peut rencontrer de charmants trotte-menu, qui, apr\u00e8s avoir commis quelques m\u00e9faits, font parfois preuve de r\u00e9sipiscence et aspirent \u00e0 \u00eatre per\u00e7us dans une acception plus positive.",
+    "words": [
+      {
+        "match": "agrestes",
+        "word": "agreste",
+        "definition": {
+          "def": "Champ\u00eatre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "trotte-menu",
+        "word": "trotte-menu",
+        "definition": {
+          "def": "Qui trotte \u00e0 petits pas.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "r\u00e9sipiscence",
+        "word": "r\u00e9sipiscence",
+        "definition": {
+          "def": "Reconnaissance d'une faute et volont\u00e9 de correction.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "acception",
+        "word": "acception",
+        "definition": {
+          "def": "Sens particulier (d'un mot).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors d'une balade en montagne, j'ai eu la chance incroyable d'observer par s\u00e9rendipit\u00e9 un magnifique sp\u00e9cimen caprin perch\u00e9 sur un hauban, tandis que de jeunes myrmidons s'affairaient autour de lui.",
+    "words": [
+      {
+        "match": "caprin",
+        "word": "caprin",
+        "definition": {
+          "def": "Relatif \u00e0 la ch\u00e8vre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "s\u00e9rendipit\u00e9",
+        "word": "s\u00e9rendipit\u00e9",
+        "definition": {
+          "def": "Capacit\u00e9, aptitude \u00e0 faire par hasard une d\u00e9couverte inattendue et \u00e0 en saisir l'utilit\u00e9 (scientifique, pratique).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "hauban",
+        "word": "hauban",
+        "definition": {
+          "def": "Cordage, c\u00e2ble servant \u00e0 assujettir le m\u00e2t d'un navire.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "myrmidons",
+        "word": "myrmidon",
+        "definition": {
+          "def": "Petit homme ch\u00e9tif, insignifiant (oppos\u00e9 \u00e0 colosse, g\u00e9ant, hercule).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La pergola, orn\u00e9e de lierre et de vignes, \u00e9tait soutenue par de solides haubans, formant un d\u00e9licat r\u00e9seau de rets dans lequel se cachait une marrane.",
+    "words": [
+      {
+        "match": "rets",
+        "word": "rets",
+        "definition": {
+          "def": "Filet (pour la chasse).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pergola",
+        "word": "pergola",
+        "definition": {
+          "def": "Petite construction de jardin qui sert de support \u00e0 des plantes grimpantes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "marrane",
+        "word": "marrane",
+        "definition": {
+          "def": "Juif d'Espagne ou du Portugal converti au christianisme par contrainte, et rest\u00e9 fid\u00e8le \u00e0 sa religion.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "haubans",
+        "word": "hauban",
+        "definition": {
+          "def": "Cordage, c\u00e2ble servant \u00e0 assujettir le m\u00e2t d'un navire.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le circassien agile \u00e9vite habilement la fondri\u00e8re, d\u00e9montrant un esprit oblatif qui le distingue des simples myrmidons.",
+    "words": [
+      {
+        "match": "fondri\u00e8re",
+        "word": "fondri\u00e8re",
+        "definition": {
+          "def": "Trou (souvent plein d'eau ou de boue), dans un chemin d\u00e9fonc\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "oblatif",
+        "word": "oblatif",
+        "definition": {
+          "def": "Qui pousse \u00e0 donner, \u00e0 se sacrifier.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "circassien",
+        "word": "circassien",
+        "definition": {
+          "def": "Relatif au cirque.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "myrmidons",
+        "word": "myrmidon",
+        "definition": {
+          "def": "Petit homme ch\u00e9tif, insignifiant (oppos\u00e9 \u00e0 colosse, g\u00e9ant, hercule).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le rond-de-cuir observait avec fascination l'irisation iridescente des bulles de savon, tout en se demandant si l'enregistrement des informations dans son engramme \u00e9tait un requisit pour une bonne m\u00e9morisation.",
+    "words": [
+      {
+        "match": "rond-de-cuir",
+        "word": "rond-de-cuir",
+        "definition": {
+          "def": "Employ\u00e9 de bureau (par allusion aux ronds de cuir des si\u00e8ges des bureaux).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "iridescente",
+        "word": "iridescent",
+        "definition": {
+          "def": "Qui a des reflets iris\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "requisit",
+        "word": "r\u00e9quisit",
+        "definition": {
+          "def": "Ce qui est exig\u00e9 par l'esprit pour obtenir un r\u00e9sultat.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "engramme",
+        "word": "engramme",
+        "definition": {
+          "def": "Trace m\u00e9morielle enregistr\u00e9e par le cerveau.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La cluse pittoresque, gr\u00e2ce \u00e0 la mansu\u00e9tude de la nature, abrite un \u00e9minent sp\u00e9cialiste en ichtyologie, connu pour sa faconde captivante lorsqu'il parle des poissons.",
+    "words": [
+      {
+        "match": "cluse",
+        "word": "cluse",
+        "definition": {
+          "def": "Coupure encaiss\u00e9e perpendiculaire, dans une cha\u00eene de montagnes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "mansu\u00e9tude",
+        "word": "mansu\u00e9tude",
+        "definition": {
+          "def": "Disposition \u00e0 pardonner g\u00e9n\u00e9reusement.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ichtyologie",
+        "word": "ichtyologie",
+        "definition": {
+          "def": "Partie de la zoologie qui traite des poissons.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "faconde",
+        "word": "faconde",
+        "definition": {
+          "def": "\u00c9locution facile, abondante (jusqu'\u00e0 d\u00e9plaire).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lorsque les temp\u00eates tumultueuses se d\u00e9cha\u00eenent en mer, les marins aguerris manient habilement les huniers et les estropes pour maintenir le navire \u00e0 flot, tandis que l'heure est confondue dans un violent hourvari, tel un p\u00e9diluve d\u00e9cha\u00een\u00e9.",
+    "words": [
+      {
+        "match": "huniers",
+        "word": "hunier",
+        "definition": {
+          "def": "Voile carr\u00e9e du m\u00e2t de hune.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "estropes",
+        "word": "estrope",
+        "definition": {
+          "def": "Anneau form\u00e9 par une bande de fer ou par un cordage, entourant une poulie et servant \u00e0 la suspendre, \u00e0 la fixer.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "hourvari",
+        "word": "hourvari",
+        "definition": {
+          "def": "Grand tumulte.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "p\u00e9diluve",
+        "word": "p\u00e9diluve",
+        "definition": {
+          "def": "Bac peu profond destin\u00e9 au lavage des pieds.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le doux parfum du lilial flotte dans l'air tandis que je m'abrite du soleil sous le p\u00e9ristyle de la maison ancienne, sirotant un caf\u00e9 \u00e0 la cassonade. Je me sens comme un explorateur, dans une jungle luxuriante o\u00f9 chaque pas peut me conduire \u00e0 une fondri\u00e8re inattendue.",
+    "words": [
+      {
+        "match": "lilial",
+        "word": "lilial",
+        "definition": {
+          "def": "Qui rappelle le lis, par sa blancheur, sa puret\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "p\u00e9ristyle",
+        "word": "p\u00e9ristyle",
+        "definition": {
+          "def": "Colonnade entourant la cour int\u00e9rieure d'un \u00e9difice ou dispos\u00e9e autour d'un \u00e9difice.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "cassonade",
+        "word": "cassonade",
+        "definition": {
+          "def": "Sucre roux, qui n'a \u00e9t\u00e9 raffin\u00e9 qu'une fois.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "fondri\u00e8re",
+        "word": "fondri\u00e8re",
+        "definition": {
+          "def": "Trou (souvent plein d'eau ou de boue), dans un chemin d\u00e9fonc\u00e9.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Aujourd'hui, lors de ma promenade au parc, j'ai aper\u00e7u un b\u00e9guetant au nadir de sa vie, arborant une coquille couverte d'une l\u00e9g\u00e8re pruine d'hiver.",
+    "words": [
+      {
+        "match": "b\u00e9guetant",
+        "word": "b\u00e9gueter",
+        "definition": {
+          "def": "Pousser son cri (ch\u00e8vre).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "nadir",
+        "word": "nadir",
+        "definition": {
+          "def": "Point du ciel \u00e0 la verticale de l'observateur, vers le bas (oppos\u00e9 \u00e0 z\u00e9nith).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pruine",
+        "word": "pruine",
+        "definition": {
+          "def": "Fine pellicule cireuse, naturelle, \u00e0 la surface de certains fruits (prune, raisin) et champignons.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "coquille",
+        "word": "coquillard",
+        "definition": {
+          "def": "Anus.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "La gentrification d'un quartier peut parfois cr\u00e9er un salmigondis architectural o\u00f9 se m\u00ealent des b\u00e2timents anciens et modernes, cr\u00e9ant ainsi une atmosph\u00e8re \u00e0 la fois voluptuaire et nostalgique. L'amict, quant \u00e0 lui, est un accessoire vestimentaire souvent n\u00e9glig\u00e9 mais qui ajoute une touche d'\u00e9l\u00e9gance \u00e0 toute tenue.",
+    "words": [
+      {
+        "match": "gentrification",
+        "word": "gentrification",
+        "definition": {
+          "def": "Processus par lequel la population d'un quartier populaire fait place \u00e0 une couche sociale plus ais\u00e9e.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "salmigondis",
+        "word": "salmigondis",
+        "definition": {
+          "def": "M\u00e9lange disparate et incoh\u00e9rent.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "voluptuaire",
+        "word": "voluptuaire",
+        "definition": {
+          "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "L'amict",
+        "word": "amict",
+        "definition": {
+          "def": "Linge que le pr\u00eatre se met sur les \u00e9paules avant de rev\u00eatir l'aube.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le sectateur transportait son bissac charg\u00e9 de livres et de papiers, tandis que le camerlingue supervisait le chargement du cotre avant le d\u00e9part en mer.",
+    "words": [
+      {
+        "match": "cotre",
+        "word": "cotre",
+        "definition": {
+          "def": "Petit navire \u00e0 voile \u00e0 un seul m\u00e2t.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "bissac",
+        "word": "bissac",
+        "definition": {
+          "def": "Sac \u00e0 deux poches et ouverture centrale.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "sectateur",
+        "word": "sectateur",
+        "definition": {
+          "def": "Adepte, partisan.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "camerlingue",
+        "word": "camerlingue",
+        "definition": {
+          "def": "Cardinal de la cour pontificale qui administre la justice et le tr\u00e9sor, pr\u00e9side la chambre apostolique et gouverne quand le Saint-Si\u00e8ge est vacant.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le chenu philistin parcourait la ceste de son front sous l'ombre de sa glabelle.",
+    "words": [
+      {
+        "match": "chenu",
+        "word": "chenu",
+        "definition": {
+          "def": "Qui est devenu blanc de vieillesse.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ceste",
+        "word": "ceste",
+        "definition": {
+          "def": "Courroie garnie de plomb dont les pugilistes s'entouraient les mains.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "philistin",
+        "word": "philistin",
+        "definition": {
+          "def": "Personne de go\u00fbt vulgaire, ferm\u00e9e aux arts et aux lettres, aux nouveaut\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "glabelle",
+        "word": "glabelle",
+        "definition": {
+          "def": "Zone l\u00e9g\u00e8rement pro\u00e9minente, comprise entre les deux sourcils.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'ophiol\u00e2trie est un calvaire pour les sapajous perch\u00e9 en haut du hunier.",
+    "words": [
+      {
+        "match": "L'ophiol\u00e2trie",
+        "word": "ophiol\u00e2trie",
+        "definition": {
+          "def": "Culte, adoration du serpent.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "calvaire",
+        "word": "calvaire",
+        "definition": {
+          "def": null,
+          "synonyms": []
+        }
+      },
+      {
+        "match": "hunier",
+        "word": "hunier",
+        "definition": {
+          "def": "Voile carr\u00e9e du m\u00e2t de hune.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "sapajous",
+        "word": "sapajou",
+        "definition": {
+          "def": "Petit singe de l'Am\u00e9rique centrale et du Sud, \u00e0 longue queue pr\u00e9hensile.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le marin hissa le bossoir pour r\u00e9parer le d\u00e9fectif de sa souquenille pendant la bonace en mer.",
+    "words": [
+      {
+        "match": "d\u00e9fectif",
+        "word": "d\u00e9fectif",
+        "definition": {
+          "def": "Dont certaines formes de conjugaison sont inusit\u00e9es, pour un verbe (ex. choir, clore, qu\u00e9rir).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "bossoir",
+        "word": "bossoir",
+        "definition": {
+          "def": "Dispositif de levage \u00e0 bord d'un navire, pour lever l'ancre, descendre les canots, etc.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "souquenille",
+        "word": "souquenille",
+        "definition": {
+          "def": "Longue blouse de travail.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "bonace",
+        "word": "bonace",
+        "definition": {
+          "def": "\u00c9tat d'une mer tr\u00e8s tranquille.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le sectateur du d\u00e9isme contemplait la pruine qui recouvrait les arbres, se transformant en une brume spumescente enveloppant la nature de son myst\u00e8re.",
+    "words": [
+      {
+        "match": "sectateur",
+        "word": "sectateur",
+        "definition": {
+          "def": "Adepte, partisan.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d\u00e9isme",
+        "word": "d\u00e9isme",
+        "definition": {
+          "def": "Position philosophique de ceux qui admettent l'existence d'une divinit\u00e9, sans accepter de religion.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pruine",
+        "word": "pruine",
+        "definition": {
+          "def": "Fine pellicule cireuse, naturelle, \u00e0 la surface de certains fruits (prune, raisin) et champignons.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "spumescente",
+        "word": "spumescent",
+        "definition": {
+          "def": "Qui est semblable \u00e0 de l'\u00e9cume\u00a0; qui produit de l'\u00e9cume.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le chantre, expert en ex\u00e9g\u00e8se, entonna avec une voix s\u00e9millante l'hymne sacr\u00e9, tandis que la congr\u00e9gation fit la soulte pour soutenir sa mission.",
+    "words": [
+      {
+        "match": "chantre",
+        "word": "chantre",
+        "definition": {
+          "def": "Chanteur dans un service religieux.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ex\u00e9g\u00e8se",
+        "word": "ex\u00e9g\u00e8se",
+        "definition": {
+          "def": "Interpr\u00e9tation philologique et doctrinale d'un texte dont le sens, la port\u00e9e sont obscurs.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "soulte",
+        "word": "soulte",
+        "definition": {
+          "def": "Somme d'argent qui, dans un partage ou un \u00e9change, compense une in\u00e9galit\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "s\u00e9millante",
+        "word": "s\u00e9millant",
+        "definition": {
+          "def": "D'une vivacit\u00e9, d'un entrain plaisants.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de son ex\u00e9g\u00e8se, le professeur \u00e9rudit \u00e9tudia avec pr\u00e9cision les symboles inscrits sur le surin ancien, tout en luttant contre sa dyspepsie, dans la salle de pri\u00e8re devant le magnifique mihrab.",
+    "words": [
+      {
+        "match": "surin",
+        "word": "surin",
+        "definition": {
+          "def": "Couteau, poignard.",
           "synonyms": []
         }
       },
@@ -212,121 +2054,647 @@
         }
       },
       {
-        "match": "congr\u00e9ganiste",
-        "word": "congr\u00e9ganiste",
+        "match": "ex\u00e9g\u00e8se",
+        "word": "ex\u00e9g\u00e8se",
         "definition": {
-          "def": "D'une congr\u00e9gation.",
+          "def": "Interpr\u00e9tation philologique et doctrinale d'un texte dont le sens, la port\u00e9e sont obscurs.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "mihrab",
+        "word": "mihrab",
+        "definition": {
+          "def": "Niche pratiqu\u00e9e dans la muraille d'une mosqu\u00e9e et orient\u00e9e vers La Mecque.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Lors d'une promenade au bord de la rivi\u00e8re, j'ai pu observer un chevesne dans son habitat naturel, gr\u00e2ce \u00e0 mon ami p\u00eacheur passionn\u00e9 par la nature et l'haptonomie ; en repartant, nous avons utilis\u00e9 un embauchoir pour garder nos chaussures en parfait \u00e9tat, \u00e9vitant ainsi toute g\u00eane caus\u00e9e par une cyprine.",
+    "message": "Dans un village, depuis un temps imm\u00e9morial, un sectateur fervent se rendait chaque soir au bagad pour \u00e9couter les sonorit\u00e9s envo\u00fbtantes des instruments, embrassant ainsi l'emerveillement malgr\u00e9 la matit\u00e9 de sa vie quotidienne.",
     "words": [
       {
-        "match": "l'haptonomie",
-        "word": "haptonomie",
+        "match": "sectateur",
+        "word": "sectateur",
         "definition": {
-          "def": "Science qui \u00e9tudie le r\u00f4le des contacts dans les relations humaines (de la conception \u00e0 la mort).",
+          "def": "Adepte, partisan.",
           "synonyms": []
         }
       },
       {
-        "match": "chevesne",
-        "word": "chevesne",
+        "match": "bagad",
+        "word": "bagad",
         "definition": {
-          "def": "Poisson d'eau douce \u00e0 dos brun et ventre argent\u00e9.",
+          "def": "Formation musicale \u00e0 base d'instruments traditionnels de Bretagne (bombardes, cornemuses, binious), qui joue de la musique de marche.",
           "synonyms": []
         }
       },
       {
-        "match": "cyprine",
-        "word": "cyprine",
+        "match": "imm\u00e9morial",
+        "word": "imm\u00e9morial",
         "definition": {
-          "def": "S\u00e9cr\u00e9tion vaginale, signe physique du d\u00e9sir sexuel f\u00e9minin.",
+          "def": "Qui remonte \u00e0 une \u00e9poque si ancienne qu'elle est sortie de la m\u00e9moire.",
           "synonyms": []
         }
       },
       {
-        "match": "embauchoir",
-        "word": "embauchoir",
+        "match": "matit\u00e9",
+        "word": "matit\u00e9",
         "definition": {
-          "def": "Instrument que l'on place dans les chaussures pour en conserver la forme et \u00e9viter les plis du cuir.",
+          "def": "Caract\u00e8re de ce qui est mat.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "La m\u00e9g\u00e8re, d'un regard ferlant de col\u00e8re, s'est empar\u00e9e d'un mirifique madrier pour menacer le plombier maladroit.",
+    "message": "Le mirabilis est un parangon de beaut\u00e9 en botanique, tant et si bien que certains po\u00e8tes lui consacrent des pamphlets vindicatifs.",
     "words": [
       {
-        "match": "ferlant",
-        "word": "ferler",
+        "match": "mirabilis",
+        "word": "mirabilis",
         "definition": {
-          "def": "Serrer (une voile) pli par pli contre un espar.",
+          "def": "Plante herbac\u00e9e ornementale, \u00e0 grandes fleurs s'ouvrant la nuit, appel\u00e9e couramment belle-de-nuit.",
           "synonyms": []
         }
       },
       {
-        "match": "m\u00e9g\u00e8re",
-        "word": "m\u00e9g\u00e8re",
+        "match": "parangon",
+        "word": "parangon",
         "definition": {
-          "def": "Femme m\u00e9chante et criarde.",
+          "def": "Mod\u00e8le.",
           "synonyms": []
         }
       },
       {
-        "match": "mirifique",
-        "word": "mirifique",
+        "match": "pamphlets",
+        "word": "pamphlet",
         "definition": {
-          "def": "Merveilleux.",
+          "def": "Texte court et violent attaquant les institutions, un personnage connu.",
           "synonyms": []
         }
       },
       {
-        "match": "madrier",
-        "word": "madrier",
+        "match": "vindicatifs",
+        "word": "vindicatif",
         "definition": {
-          "def": "Planche tr\u00e8s \u00e9paisse.",
+          "def": "Port\u00e9 \u00e0 la vengeance.",
           "synonyms": []
         }
       }
     ]
   },
   {
-    "message": "Le m\u00e9phitique parfum qui \u00e9manait des fleurs ne semblait pas d\u00e9ranger le spadassin, qui passait paisiblement aux c\u00f4t\u00e9s du sapajou.",
+    "message": "Le ludion, tel un rond-de-cuir, se d\u00e9place avec une reptation fluide jusqu'\u00e0 l'adjudication finale.",
     "words": [
       {
-        "match": "m\u00e9phitique",
-        "word": "m\u00e9phitique",
+        "match": "ludion",
+        "word": "ludion",
         "definition": {
-          "def": "Qui sent mauvais et est toxique.",
+          "def": "Dispositif enferm\u00e9 dans un bocal, qui monte et descend quand on y fait varier la pression.",
           "synonyms": []
         }
       },
       {
-        "match": "spadassin",
-        "word": "spadassin",
+        "match": "rond-de-cuir",
+        "word": "rond-de-cuir",
         "definition": {
-          "def": "Assassin \u00e0 gages.",
+          "def": "Employ\u00e9 de bureau (par allusion aux ronds de cuir des si\u00e8ges des bureaux).",
           "synonyms": []
         }
       },
       {
-        "match": "sapajou",
-        "word": "sapajou",
+        "match": "reptation",
+        "word": "reptation",
         "definition": {
-          "def": "Petit singe de l'Am\u00e9rique centrale et du Sud, \u00e0 longue queue pr\u00e9hensile.",
+          "def": "Action de ramper\u00a0; mode de locomotion dans lequel le corps progresse sur sa face ventrale, par des mouvements d'ensemble.",
           "synonyms": []
         }
       },
       {
-        "match": "spadassin",
-        "word": "spadassin",
+        "match": "l'adjudication",
+        "word": "adjudication",
         "definition": {
-          "def": "Assassin \u00e0 gages.",
+          "def": "Acte juridique par lequel on met des acqu\u00e9reurs ou des entrepreneurs en libre concurrence.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de cette ribote m\u00e9morable, le groupe d'amis se mit \u00e0 b\u00e9gueter joyeusement, avant de prendre la mer \u00e0 bord du lamparo et d'admirer la flamberge du soleil couchant.",
+    "words": [
+      {
+        "match": "ribote",
+        "word": "ribote",
+        "definition": {
+          "def": "Joyeux exc\u00e8s de table et de boisson.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "b\u00e9gueter",
+        "word": "b\u00e9gueter",
+        "definition": {
+          "def": "Pousser son cri (ch\u00e8vre).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "lamparo",
+        "word": "lamparo",
+        "definition": {
+          "def": "Source de lumi\u00e8re, phare pour attirer le poisson.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "flamberge",
+        "word": "flamberge",
+        "definition": {
+          "def": "Longue \u00e9p\u00e9e \u00e0 lame fine.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Lors de sa convalescence, le poitrinaire s'installait confortablement sur une chilienne au bord de la plage, profitant du lamanage des vagues, et se r\u00e9jouissant d'avoir re\u00e7u un accessit pour son courage face \u00e0 la maladie.",
+    "words": [
+      {
+        "match": "lamanage",
+        "word": "lamanage",
+        "definition": {
+          "def": "Pilotage des navires \u00e0 l'entr\u00e9e et \u00e0 la sortie des ports, dans les chenaux\u2026",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "chilienne",
+        "word": "chilienne",
+        "definition": {
+          "def": "Chaise longue en toile, sans accoudoirs.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "accessit",
+        "word": "accessit",
+        "definition": {
+          "def": "Distinction, r\u00e9compense accord\u00e9e \u00e0 ceux qui, sans avoir obtenu de prix, s'en sont approch\u00e9s.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "poitrinaire",
+        "word": "poitrinaire",
+        "definition": {
+          "def": "Atteint de tuberculose pulmonaire.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le quinteux, habill\u00e9 d'une toge touloupe, d\u00e9gusta avec d\u00e9lice une azyme, tout en observant les samares virevolter dans le vent.",
+    "words": [
+      {
+        "match": "touloupe",
+        "word": "touloupe",
+        "definition": {
+          "def": "Peau d'agneau, de mouton\u00a0; veste en peau de mouton, port\u00e9e par les paysans russes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "azyme",
+        "word": "azyme",
+        "definition": {
+          "def": "Pain azyme.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "quinteux",
+        "word": "quinteux",
+        "definition": {
+          "def": "Acari\u00e2tre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "samares",
+        "word": "samare",
+        "definition": {
+          "def": "Fruit sec \u00e0 p\u00e9ricarpe prolong\u00e9 en aile membraneuse.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Malgr\u00e9 son imp\u00e9ritie dans le domaine des affaires, il d\u00e9cida de se lancer dans la cr\u00e9ation d'une entreprise sp\u00e9cialis\u00e9e dans la d\u00e9tection de cluses mini\u00e8res en d\u00e9sh\u00e9rence, et esp\u00e9rait ainsi trouver une r\u00e9sipiscence professionnelle.",
+    "words": [
+      {
+        "match": "imp\u00e9ritie",
+        "word": "imp\u00e9ritie",
+        "definition": {
+          "def": "Manque d'aptitude, d'habilet\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "cluses",
+        "word": "cluse",
+        "definition": {
+          "def": "Coupure encaiss\u00e9e perpendiculaire, dans une cha\u00eene de montagnes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d\u00e9sh\u00e9rence",
+        "word": "d\u00e9sh\u00e9rence",
+        "definition": {
+          "def": "Absence d'h\u00e9ritiers pour recueillir une succession qui est en cons\u00e9quence d\u00e9volue \u00e0 l'\u00c9tat.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "r\u00e9sipiscence",
+        "word": "r\u00e9sipiscence",
+        "definition": {
+          "def": "Reconnaissance d'une faute et volont\u00e9 de correction.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le critique gastronomique s'accorda \u00e0 dire que le tartare servit \u00e9tait d'une qualit\u00e9 irr\u00e9fragable, m\u00eame si l'ajout de quelques v\u00e9niels condiments aurait pu apporter une touche de subtilit\u00e9 suppl\u00e9mentaire \u00e0 ce plat. Les convives, derri\u00e8re le moucharabieh d\u00e9licatement ouvrag\u00e9, s'en r\u00e9gal\u00e8rent avec d\u00e9lice.",
+    "words": [
+      {
+        "match": "tartare",
+        "word": "tartare",
+        "definition": {
+          "def": "Des populations d'Asie centrale (Turcs et Mongols).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "irr\u00e9fragable",
+        "word": "irr\u00e9fragable",
+        "definition": {
+          "def": "Qu'on ne peut contredire, r\u00e9cuser.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "v\u00e9niels",
+        "word": "v\u00e9niel",
+        "definition": {
+          "def": null,
+          "synonyms": []
+        }
+      },
+      {
+        "match": "moucharabieh",
+        "word": "moucharabieh",
+        "definition": {
+          "def": "Balcon en avant-corps, muni d'un grillage (fr\u00e9quent dans l'architecture arabe).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le soleil br\u00fblant se refl\u00e9tait sur l'oc\u00e9an encalmin\u00e9, tandis que les fleurs jacaranda, couleur violette \u00e9clatante, bordaient les rives baptismales d'une \u00eele lointaine. Pendant ce temps, le rond-de-cuir s'affairait \u00e0 regrouper les registres administratifs.",
+    "words": [
+      {
+        "match": "encalmin\u00e9",
+        "word": "encalmin\u00e9",
+        "definition": {
+          "def": "Se dit d'un navire \u00e0 voiles immobilis\u00e9 par un temps calme, sans vent, ou \u00e0 l'abri du vent.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "baptismales",
+        "word": "baptismal",
+        "definition": {
+          "def": "Qui a rapport au bapt\u00eame.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "jacaranda",
+        "word": "jacaranda",
+        "definition": {
+          "def": "Arbre d'Am\u00e9rique tropicale \u00e0 bois recherch\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "rond-de-cuir",
+        "word": "rond-de-cuir",
+        "definition": {
+          "def": "Employ\u00e9 de bureau (par allusion aux ronds de cuir des si\u00e8ges des bureaux).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le d\u00e9isme est un courant de pens\u00e9e s\u00e9minal qui promeut la croyance en un Dieu transcendant, souvent compar\u00e9 \u00e0 une buire emplie de savoir divin, s'\u00e9levant telle une bassinoire.",
+    "words": [
+      {
+        "match": "s\u00e9minal",
+        "word": "s\u00e9minal",
+        "definition": {
+          "def": "Relatif au sperme (\u2799\u00a0semence (2)).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d\u00e9isme",
+        "word": "d\u00e9isme",
+        "definition": {
+          "def": "Position philosophique de ceux qui admettent l'existence d'une divinit\u00e9, sans accepter de religion.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "buire",
+        "word": "buire",
+        "definition": {
+          "def": "Vase en forme de cruche, \u00e0 bec et \u00e0 anse.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "bassinoire",
+        "word": "bassinoire",
+        "definition": {
+          "def": "Bassin emmanch\u00e9 \u00e0 couvercle perc\u00e9, dans lequel on met de la braise et qu'on prom\u00e8ne dans un lit pour le chauffer.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le charivari des gabiers en mer \u00e9tait tellement sur\u00e9rogatoire que m\u00eame les matelots les plus fongibles ne pouvaient pas s'emp\u00eacher de rire.",
+    "words": [
+      {
+        "match": "sur\u00e9rogatoire",
+        "word": "sur\u00e9rogatoire",
+        "definition": {
+          "def": "Qui est fait en plus, suppl\u00e9mentaire.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "charivari",
+        "word": "charivari",
+        "definition": {
+          "def": "Grand bruit, tumulte.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gabiers",
+        "word": "gabier",
+        "definition": {
+          "def": "Matelot charg\u00e9 de l'entretien et de la man\u0153uvre de la voilure.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "fongibles",
+        "word": "fongible",
+        "definition": {
+          "def": "Se dit des choses qui se consomment par l'usage et peuvent \u00eatre remplac\u00e9es par une chose analogue (denr\u00e9e, argent comptant).",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'allophone, de son am\u00e9nit\u00e9 l\u00e9gendaire, accueillit le voyageur \u00e9gar\u00e9 sous le brandebourg fleuri, tandis que les galhaubans maintenaient fi\u00e8rement la structure du pont suspendu.",
+    "words": [
+      {
+        "match": "L'allophone",
+        "word": "allophone",
+        "definition": {
+          "def": "Personne dont la langue maternelle est une langue \u00e9trang\u00e8re, dans la communaut\u00e9 o\u00f9 elle se trouve.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "brandebourg",
+        "word": "brandebourg",
+        "definition": {
+          "def": "Passementerie, galon ornant un v\u00eatement, une boutonni\u00e8re.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "am\u00e9nit\u00e9",
+        "word": "am\u00e9nit\u00e9",
+        "definition": {
+          "def": "Amabilit\u00e9 pleine de charme.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "galhaubans",
+        "word": "galhauban",
+        "definition": {
+          "def": "Cordage servant \u00e0 assujettir les m\u00e2ts sup\u00e9rieurs par le travers, et vers l'arri\u00e8re.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le professeur \u00e9m\u00e9rite contemplait la quintessence de l'art en observer les nuances subtiles de couleur sur l'escabelle turquin, pendant que son \u00e9l\u00e8ve achevait de pr\u00e9parer les abattis pour le repas.",
+    "words": [
+      {
+        "match": "abattis",
+        "word": "abattis",
+        "definition": {
+          "def": null,
+          "synonyms": []
+        }
+      },
+      {
+        "match": "quintessence",
+        "word": "quintessence",
+        "definition": {
+          "def": "Ce en quoi se r\u00e9sument l'essentiel et le plus pur de qqch.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'escabelle",
+        "word": "escabelle",
+        "definition": {
+          "def": "Grand escabeau, petite \u00e9chelle double.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "turquin",
+        "word": "turquin",
+        "definition": {
+          "def": "D'un bleu fonc\u00e9.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le soleil illuminait l'adret de la montagne, tandis que le marin s'affairait \u00e0 radouber son navire avec d\u00e9pr\u00e9cation, conscient de l'importance de chaque d\u00e9tail pour affronter les mers agit\u00e9es et esp\u00e9rant que l'utilisation du spermaceti permettrait \u00e0 son bateau de se frayer un chemin s\u00fbr.",
+    "words": [
+      {
+        "match": "l'adret",
+        "word": "adret",
+        "definition": {
+          "def": "Versant expos\u00e9 au soleil, en montagne (oppos\u00e9 \u00e0 ubac).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "radouber",
+        "word": "radouber",
+        "definition": {
+          "def": "R\u00e9parer la coque de (un navire).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "d\u00e9pr\u00e9cation",
+        "word": "d\u00e9pr\u00e9cation",
+        "definition": {
+          "def": "Pri\u00e8re faite pour obtenir le pardon d'une faute, pour d\u00e9tourner un malheur.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "spermaceti",
+        "word": "spermaceti",
+        "definition": {
+          "def": "Blanc de baleine*.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le prince-de-Galles a chevauch\u00e9 son magnifique alezan en tenant fermement les espar pour surveiller l'alop\u00e9cie de sa crini\u00e8re.",
+    "words": [
+      {
+        "match": "prince-de-Galles",
+        "word": "prince-de-Galles",
+        "definition": {
+          "def": "Tissu de laine, \u00e0 lignes fines crois\u00e9es de teinte uniforme sur fond clair.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "alezan",
+        "word": "alezan",
+        "definition": {
+          "def": "Dont la robe est brun rouge\u00e2tre.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "espar",
+        "word": "espar",
+        "definition": {
+          "def": "Longue pi\u00e8ce de bois, de m\u00e9tal\u2026, sur un navire.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'alop\u00e9cie",
+        "word": "alop\u00e9cie",
+        "definition": {
+          "def": "Chute temporaire des cheveux ou des poils, partielle ou totale.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "Le sylphe, cet \u00eatre a\u00e9rien d'une beaut\u00e9 \u00e9th\u00e9r\u00e9e, apparaissait tel un \u00e9m\u00e9tique lumineux dans l'atmosph\u00e8re pellucide de cette contr\u00e9e myst\u00e9rieuse, survol\u00e9e par d'\u00e9tranges quadrumanes.",
+    "words": [
+      {
+        "match": "sylphe",
+        "word": "sylphe",
+        "definition": {
+          "def": "G\u00e9nie a\u00e9rien des mythologies gauloise, celtique et germanique.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "\u00e9m\u00e9tique",
+        "word": "\u00e9m\u00e9tique",
+        "definition": {
+          "def": "Vomitif.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "quadrumanes",
+        "word": "quadrumane",
+        "definition": {
+          "def": "Dont les quatre membres sont termin\u00e9s par une main.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pellucide",
+        "word": "pellucide",
+        "definition": {
+          "def": "Transparent, translucide.",
+          "synonyms": []
+        }
+      }
+    ]
+  },
+  {
+    "message": "L'ostentation de richesse et de pouvoir est une abjection qui contraste avec la simplicit\u00e9 et l'humilit\u00e9 idoines, tandis que la mer, avec ses vagues spumescentes, offre un spectacle naturel bien plus captivant.",
+    "words": [
+      {
+        "match": "L'ostentation",
+        "word": "ostentation",
+        "definition": {
+          "def": "Mise en valeur excessive et indiscr\u00e8te d'un avantage.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "abjection",
+        "word": "abjection",
+        "definition": {
+          "def": "Caract\u00e8re de ce qui est abject, ignoble.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "spumescentes",
+        "word": "spumescent",
+        "definition": {
+          "def": "Qui est semblable \u00e0 de l'\u00e9cume\u00a0; qui produit de l'\u00e9cume.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "idoines",
+        "word": "idoine",
+        "definition": {
+          "def": "Qui convient parfaitement, appropri\u00e9.",
           "synonyms": []
         }
       }
