@@ -11,7 +11,7 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 with open("db_builder/data/definitions.json") as f:
     WORDS = list(json.load(f).keys())
 
-N_SENTENCES = 10
+N_SENTENCES = 0
 N_WORDS = 4
 
 with open("db_builder/data/sentences.json") as f:

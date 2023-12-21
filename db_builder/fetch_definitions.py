@@ -7,9 +7,9 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://dictionnaire.lerobert.com/definition/"
 BATCH_SIZE = 100
-SAVE_EVERY_N_WORDS = 1000
+SAVE_EVERY_N_WORDS = 200
 N_THREADS = 2
-ALREADY_DONE = 1
+ALREADY_DONE = -1
 
 def main():
     with open("db_builder/data/webnext.txt") as f:
@@ -27,13 +27,13 @@ def main():
         def parse_definition(definition):
             indic = definition.find(class_="d_mta")
             _def = definition.find(class_="d_dfn")
-            synonyms = definition.find_all("a", class_="d_rvd")
+            synonyms = definition.find_all("span", class_="d_rvd")
             ptma = definition.find(class_="d_ptma")
 
             return {
                 "def": _def.text if _def else None,
                 "indic": indic.text if indic else None,
-                "syn": [x.text for x in synonyms],
+                "syn": [x.find("a", class_="d_rvh").text for x in synonyms if x.find("a", class_="d_rvh")],
                 "text": ptma.text if ptma else None,
             }
 
