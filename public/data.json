@@ -15,7 +15,9 @@
         "word": "denim",
         "definition": {
           "def": "Toile de coton servant \u00e0 fabriquer les jeans.",
-          "synonyms": []
+          "synonyms": [
+            "jean"
+          ]
         }
       },
       {
@@ -44,7 +46,9 @@
         "word": "florentin",
         "definition": {
           "def": "De Florence.",
-          "synonyms": []
+          "synonyms": [
+            "toscan"
+          ]
         }
       },
       {
@@ -52,7 +56,9 @@
         "word": "v\u00e9tilleux",
         "definition": {
           "def": "Qui s'attache \u00e0 des d\u00e9tails, \u00e0 des v\u00e9tilles.",
-          "synonyms": []
+          "synonyms": [
+            "pointilleux"
+          ]
         }
       },
       {
@@ -134,7 +140,9 @@
         "word": "contrevent",
         "definition": {
           "def": "Volet ext\u00e9rieur d'une fen\u00eatre.",
-          "synonyms": []
+          "synonyms": [
+            "jalousie"
+          ]
         }
       },
       {
@@ -155,7 +163,9 @@
         "word": "caban",
         "definition": {
           "def": "Manteau court en drap de laine (port\u00e9 \u00e0 l'origine par les marins).",
-          "synonyms": []
+          "synonyms": [
+            "vareuse"
+          ]
         }
       },
       {
@@ -192,7 +202,9 @@
         "word": "introjection",
         "definition": {
           "def": "Processus inconscient par lequel l'image d'une personne est incorpor\u00e9e au moi et au surmoi.",
-          "synonyms": []
+          "synonyms": [
+            "int\u00e9riorisation"
+          ]
         }
       },
       {
@@ -237,7 +249,9 @@
         "word": "oiseux",
         "definition": {
           "def": "Qui ne m\u00e8ne \u00e0 rien, est inutile, fait perdre du temps.",
-          "synonyms": []
+          "synonyms": [
+            "inutile"
+          ]
         }
       },
       {
@@ -245,7 +259,9 @@
         "word": "s\u00e9millant",
         "definition": {
           "def": "D'une vivacit\u00e9, d'un entrain plaisants.",
-          "synonyms": []
+          "synonyms": [
+            "fringant"
+          ]
         }
       },
       {
@@ -266,7 +282,9 @@
         "word": "quadrumane",
         "definition": {
           "def": "Dont les quatre membres sont termin\u00e9s par une main.",
-          "synonyms": []
+          "synonyms": [
+            "singe"
+          ]
         }
       },
       {
@@ -377,7 +395,9 @@
         "word": "voluptuaire",
         "definition": {
           "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
-          "synonyms": []
+          "synonyms": [
+            "somptuaire"
+          ]
         }
       },
       {
@@ -438,7 +458,9 @@
         "word": "z\u00e9lateur",
         "definition": {
           "def": "Partisan ou d\u00e9fenseur z\u00e9l\u00e9 (d'une cause, d'une personne).",
-          "synonyms": []
+          "synonyms": [
+            "adepte"
+          ]
         }
       }
     ]
@@ -525,7 +547,9 @@
         "word": "affid\u00e9",
         "definition": {
           "def": "Qui se pr\u00eate en agent s\u00fbr \u00e0 un mauvais coup.",
-          "synonyms": []
+          "synonyms": [
+            "acolyte"
+          ]
         }
       },
       {
@@ -533,7 +557,9 @@
         "word": "gu\u00eatre",
         "definition": {
           "def": "Enveloppe de tissu ou de cuir qui recouvre le haut de la chaussure et le bas de la jambe.",
-          "synonyms": []
+          "synonyms": [
+            "jambi\u00e8re"
+          ]
         }
       },
       {
@@ -570,7 +596,9 @@
         "word": "r\u00e9sille",
         "definition": {
           "def": "Tissu de mailles formant une poche dans laquelle on enserre les cheveux.",
-          "synonyms": []
+          "synonyms": [
+            "filet"
+          ]
         }
       },
       {
@@ -586,44 +614,9 @@
         "word": "disert",
         "definition": {
           "def": "Qui parle avec facilit\u00e9 et \u00e9l\u00e9gance.",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
-    "message": "Lors de mes recherches dans les miscellan\u00e9es arch\u00e9ologiques, j'ai d\u00e9couvert un b\u00e9tyle myst\u00e9rieux dans l'abside d'une ancienne \u00e9glise, laissant supposer une possible concomitance entre des pratiques pa\u00efennes et chr\u00e9tiennes.",
-    "words": [
-      {
-        "match": "b\u00e9tyle",
-        "word": "b\u00e9tyle",
-        "definition": {
-          "def": "Pierre lev\u00e9e \u00e0 valeur symbolique sacr\u00e9e au Moyen-Orient.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "concomitance",
-        "word": "concomitance",
-        "definition": {
-          "def": "Rapport de simultan\u00e9it\u00e9 (entre plusieurs faits).",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "miscellan\u00e9es",
-        "word": "miscellan\u00e9es",
-        "definition": {
-          "def": "Recueil vari\u00e9 de textes litt\u00e9raires ou scientifiques.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "l'abside",
-        "word": "abside",
-        "definition": {
-          "def": "Extr\u00e9mit\u00e9 en demi-cercle d'une \u00e9glise, derri\u00e8re le ch\u0153ur (\u2799\u00a0chevet).",
-          "synonyms": []
+          "synonyms": [
+            "\u00e9loquent"
+          ]
         }
       }
     ]
@@ -763,7 +756,9 @@
         "word": "scotomisation",
         "definition": {
           "def": "Rejet inconscient hors du champ de conscience d'une r\u00e9alit\u00e9 p\u00e9nible pour le sujet\u00a0; d\u00e9ni de la r\u00e9alit\u00e9.",
-          "synonyms": []
+          "synonyms": [
+            "forclusion"
+          ]
         }
       },
       {
@@ -792,7 +787,9 @@
         "word": "affid\u00e9",
         "definition": {
           "def": "Qui se pr\u00eate en agent s\u00fbr \u00e0 un mauvais coup.",
-          "synonyms": []
+          "synonyms": [
+            "acolyte"
+          ]
         }
       },
       {
@@ -808,7 +805,10 @@
         "word": "b\u00e2frer",
         "definition": {
           "def": "Manger gloutonnement et avec exc\u00e8s.",
-          "synonyms": []
+          "synonyms": [
+            "bouffer",
+            "s'empiffrer"
+          ]
         }
       }
     ]
@@ -821,7 +821,9 @@
         "word": "p\u00e9riphrase",
         "definition": {
           "def": "Expression par plusieurs mots d'une notion qu'un seul mot pourrait exprimer.",
-          "synonyms": []
+          "synonyms": [
+            "circonlocution"
+          ]
         }
       },
       {
@@ -829,7 +831,9 @@
         "word": "pusillanime",
         "definition": {
           "def": "Qui manque d'audace, craint le risque, les responsabilit\u00e9s.",
-          "synonyms": []
+          "synonyms": [
+            "craintif"
+          ]
         }
       },
       {
@@ -837,7 +841,9 @@
         "word": "lande",
         "definition": {
           "def": "\u00c9tendue de terre o\u00f9 ne croissent que certaines plantes sauvages (ajonc, bruy\u00e8re, gen\u00eat, etc.).",
-          "synonyms": []
+          "synonyms": [
+            "garrigue"
+          ]
         }
       },
       {
@@ -845,7 +851,9 @@
         "word": "pamphlet",
         "definition": {
           "def": "Texte court et violent attaquant les institutions, un personnage connu.",
-          "synonyms": []
+          "synonyms": [
+            "diatribe"
+          ]
         }
       }
     ]
@@ -866,7 +874,9 @@
         "word": "r\u00e9galien",
         "definition": {
           "def": null,
-          "synonyms": []
+          "synonyms": [
+            "r\u00e9gale"
+          ]
         }
       },
       {
@@ -895,7 +905,9 @@
         "word": "galetas",
         "definition": {
           "def": "Logement tr\u00e8s pauvre, sordide.",
-          "synonyms": []
+          "synonyms": [
+            "r\u00e9duit"
+          ]
         }
       },
       {
@@ -911,7 +923,9 @@
         "word": "fam\u00e9lique",
         "definition": {
           "def": "Qui ne mange pas \u00e0 sa faim, qui est maigre.",
-          "synonyms": []
+          "synonyms": [
+            "\u00e9tique"
+          ]
         }
       },
       {
@@ -1006,7 +1020,9 @@
         "word": "impavide",
         "definition": {
           "def": "Qui n'\u00e9prouve ou ne montre aucune crainte.",
-          "synonyms": []
+          "synonyms": [
+            "impassible"
+          ]
         }
       },
       {
@@ -1059,7 +1075,9 @@
         "word": "philippique",
         "definition": {
           "def": "Discours violent contre qqn.",
-          "synonyms": []
+          "synonyms": [
+            "diatribe"
+          ]
         }
       },
       {
@@ -1080,7 +1098,9 @@
         "word": "abscons",
         "definition": {
           "def": "Difficile \u00e0 comprendre.",
-          "synonyms": []
+          "synonyms": [
+            "obscur"
+          ]
         }
       },
       {
@@ -1088,7 +1108,9 @@
         "word": "portefaix",
         "definition": {
           "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
-          "synonyms": []
+          "synonyms": [
+            "porteur"
+          ]
         }
       },
       {
@@ -1117,7 +1139,9 @@
         "word": "zo\u00efle",
         "definition": {
           "def": "Critique injuste et envieux.",
-          "synonyms": []
+          "synonyms": [
+            "d\u00e9tracteur"
+          ]
         }
       },
       {
@@ -1125,7 +1149,9 @@
         "word": "pageot",
         "definition": {
           "def": "Lit.",
-          "synonyms": []
+          "synonyms": [
+            "pieu"
+          ]
         }
       },
       {
@@ -1133,7 +1159,9 @@
         "word": "dispendieux",
         "definition": {
           "def": "Qui exige une grande d\u00e9pense.",
-          "synonyms": []
+          "synonyms": [
+            "cher"
+          ]
         }
       },
       {
@@ -1170,7 +1198,9 @@
         "word": "acception",
         "definition": {
           "def": "Sens particulier (d'un mot).",
-          "synonyms": []
+          "synonyms": [
+            "signification"
+          ]
         }
       },
       {
@@ -1215,7 +1245,9 @@
         "word": "tonnelle",
         "definition": {
           "def": "Petit abri \u00e0 sommet arrondi, fait de lattes en treillis soutenues par des cerceaux, sur lequel on fait grimper des plantes.",
-          "synonyms": []
+          "synonyms": [
+            "charmille"
+          ]
         }
       }
     ]
@@ -1252,7 +1284,9 @@
         "word": "\u00e9quanimit\u00e9",
         "definition": {
           "def": "\u00c9galit\u00e9 d'\u00e2me, d'humeur.",
-          "synonyms": []
+          "synonyms": [
+            "indiff\u00e9rence"
+          ]
         }
       }
     ]
@@ -1376,7 +1410,9 @@
         "word": "empois",
         "definition": {
           "def": "Colle \u00e0 base d'amidon employ\u00e9e \u00e0 l'appr\u00eat du linge (\u2799\u00a0empeser).",
-          "synonyms": []
+          "synonyms": [
+            "empeser"
+          ]
         }
       },
       {
@@ -1384,7 +1420,9 @@
         "word": "lazzi",
         "definition": {
           "def": "Plaisanterie, moquerie bouffonne.",
-          "synonyms": []
+          "synonyms": [
+            "quolibet"
+          ]
         }
       },
       {
@@ -1466,7 +1504,9 @@
         "word": "r\u00e9sipiscence",
         "definition": {
           "def": "Reconnaissance d'une faute et volont\u00e9 de correction.",
-          "synonyms": []
+          "synonyms": [
+            "repentir"
+          ]
         }
       },
       {
@@ -1474,7 +1514,9 @@
         "word": "acception",
         "definition": {
           "def": "Sens particulier (d'un mot).",
-          "synonyms": []
+          "synonyms": [
+            "signification"
+          ]
         }
       }
     ]
@@ -1503,7 +1545,9 @@
         "word": "hauban",
         "definition": {
           "def": "Cordage, c\u00e2ble servant \u00e0 assujettir le m\u00e2t d'un navire.",
-          "synonyms": []
+          "synonyms": [
+            "haubanage"
+          ]
         }
       },
       {
@@ -1511,7 +1555,9 @@
         "word": "myrmidon",
         "definition": {
           "def": "Petit homme ch\u00e9tif, insignifiant (oppos\u00e9 \u00e0 colosse, g\u00e9ant, hercule).",
-          "synonyms": []
+          "synonyms": [
+            "nain"
+          ]
         }
       }
     ]
@@ -1524,7 +1570,9 @@
         "word": "rets",
         "definition": {
           "def": "Filet (pour la chasse).",
-          "synonyms": []
+          "synonyms": [
+            "emb\u00fbche"
+          ]
         }
       },
       {
@@ -1532,7 +1580,9 @@
         "word": "pergola",
         "definition": {
           "def": "Petite construction de jardin qui sert de support \u00e0 des plantes grimpantes.",
-          "synonyms": []
+          "synonyms": [
+            "tonnelle"
+          ]
         }
       },
       {
@@ -1548,7 +1598,9 @@
         "word": "hauban",
         "definition": {
           "def": "Cordage, c\u00e2ble servant \u00e0 assujettir le m\u00e2t d'un navire.",
-          "synonyms": []
+          "synonyms": [
+            "haubanage"
+          ]
         }
       }
     ]
@@ -1585,7 +1637,9 @@
         "word": "myrmidon",
         "definition": {
           "def": "Petit homme ch\u00e9tif, insignifiant (oppos\u00e9 \u00e0 colosse, g\u00e9ant, hercule).",
-          "synonyms": []
+          "synonyms": [
+            "nain"
+          ]
         }
       }
     ]
@@ -1614,7 +1668,9 @@
         "word": "r\u00e9quisit",
         "definition": {
           "def": "Ce qui est exig\u00e9 par l'esprit pour obtenir un r\u00e9sultat.",
-          "synonyms": []
+          "synonyms": [
+            "exigence"
+          ]
         }
       },
       {
@@ -1643,7 +1699,9 @@
         "word": "mansu\u00e9tude",
         "definition": {
           "def": "Disposition \u00e0 pardonner g\u00e9n\u00e9reusement.",
-          "synonyms": []
+          "synonyms": [
+            "bont\u00e9"
+          ]
         }
       },
       {
@@ -1746,7 +1804,9 @@
         "word": "b\u00e9gueter",
         "definition": {
           "def": "Pousser son cri (ch\u00e8vre).",
-          "synonyms": []
+          "synonyms": [
+            "b\u00ealer"
+          ]
         }
       },
       {
@@ -1799,7 +1859,9 @@
         "word": "voluptuaire",
         "definition": {
           "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
-          "synonyms": []
+          "synonyms": [
+            "somptuaire"
+          ]
         }
       },
       {
@@ -1828,7 +1890,9 @@
         "word": "bissac",
         "definition": {
           "def": "Sac \u00e0 deux poches et ouverture centrale.",
-          "synonyms": []
+          "synonyms": [
+            "besace"
+          ]
         }
       },
       {
@@ -1873,7 +1937,9 @@
         "word": "philistin",
         "definition": {
           "def": "Personne de go\u00fbt vulgaire, ferm\u00e9e aux arts et aux lettres, aux nouveaut\u00e9s.",
-          "synonyms": []
+          "synonyms": [
+            "b\u00e9otien"
+          ]
         }
       },
       {
@@ -1976,7 +2042,9 @@
         "word": "d\u00e9isme",
         "definition": {
           "def": "Position philosophique de ceux qui admettent l'existence d'une divinit\u00e9, sans accepter de religion.",
-          "synonyms": []
+          "synonyms": [
+            "th\u00e9isme"
+          ]
         }
       },
       {
@@ -1992,7 +2060,9 @@
         "word": "spumescent",
         "definition": {
           "def": "Qui est semblable \u00e0 de l'\u00e9cume\u00a0; qui produit de l'\u00e9cume.",
-          "synonyms": []
+          "synonyms": [
+            "\u00e9cumant"
+          ]
         }
       }
     ]
@@ -2013,7 +2083,9 @@
         "word": "ex\u00e9g\u00e8se",
         "definition": {
           "def": "Interpr\u00e9tation philologique et doctrinale d'un texte dont le sens, la port\u00e9e sont obscurs.",
-          "synonyms": []
+          "synonyms": [
+            "commentaire"
+          ]
         }
       },
       {
@@ -2029,7 +2101,9 @@
         "word": "s\u00e9millant",
         "definition": {
           "def": "D'une vivacit\u00e9, d'un entrain plaisants.",
-          "synonyms": []
+          "synonyms": [
+            "fringant"
+          ]
         }
       }
     ]
@@ -2058,7 +2132,9 @@
         "word": "ex\u00e9g\u00e8se",
         "definition": {
           "def": "Interpr\u00e9tation philologique et doctrinale d'un texte dont le sens, la port\u00e9e sont obscurs.",
-          "synonyms": []
+          "synonyms": [
+            "commentaire"
+          ]
         }
       },
       {
@@ -2132,7 +2208,9 @@
         "word": "pamphlet",
         "definition": {
           "def": "Texte court et violent attaquant les institutions, un personnage connu.",
-          "synonyms": []
+          "synonyms": [
+            "diatribe"
+          ]
         }
       },
       {
@@ -2140,7 +2218,9 @@
         "word": "vindicatif",
         "definition": {
           "def": "Port\u00e9 \u00e0 la vengeance.",
-          "synonyms": []
+          "synonyms": [
+            "rancunier"
+          ]
         }
       }
     ]
@@ -2177,7 +2257,9 @@
         "word": "adjudication",
         "definition": {
           "def": "Acte juridique par lequel on met des acqu\u00e9reurs ou des entrepreneurs en libre concurrence.",
-          "synonyms": []
+          "synonyms": [
+            "adjuger"
+          ]
         }
       }
     ]
@@ -2190,7 +2272,9 @@
         "word": "ribote",
         "definition": {
           "def": "Joyeux exc\u00e8s de table et de boisson.",
-          "synonyms": []
+          "synonyms": [
+            "bombance"
+          ]
         }
       },
       {
@@ -2198,7 +2282,9 @@
         "word": "b\u00e9gueter",
         "definition": {
           "def": "Pousser son cri (ch\u00e8vre).",
-          "synonyms": []
+          "synonyms": [
+            "b\u00ealer"
+          ]
         }
       },
       {
@@ -2301,7 +2387,9 @@
         "word": "imp\u00e9ritie",
         "definition": {
           "def": "Manque d'aptitude, d'habilet\u00e9.",
-          "synonyms": []
+          "synonyms": [
+            "incapacit\u00e9"
+          ]
         }
       },
       {
@@ -2325,7 +2413,9 @@
         "word": "r\u00e9sipiscence",
         "definition": {
           "def": "Reconnaissance d'une faute et volont\u00e9 de correction.",
-          "synonyms": []
+          "synonyms": [
+            "repentir"
+          ]
         }
       }
     ]
@@ -2346,7 +2436,9 @@
         "word": "irr\u00e9fragable",
         "definition": {
           "def": "Qu'on ne peut contredire, r\u00e9cuser.",
-          "synonyms": []
+          "synonyms": [
+            "irr\u00e9cusable"
+          ]
         }
       },
       {
@@ -2412,7 +2504,9 @@
         "word": "s\u00e9minal",
         "definition": {
           "def": "Relatif au sperme (\u2799\u00a0semence (2)).",
-          "synonyms": []
+          "synonyms": [
+            "semence (2)"
+          ]
         }
       },
       {
@@ -2420,7 +2514,9 @@
         "word": "d\u00e9isme",
         "definition": {
           "def": "Position philosophique de ceux qui admettent l'existence d'une divinit\u00e9, sans accepter de religion.",
-          "synonyms": []
+          "synonyms": [
+            "th\u00e9isme"
+          ]
         }
       },
       {
@@ -2457,7 +2553,9 @@
         "word": "charivari",
         "definition": {
           "def": "Grand bruit, tumulte.",
-          "synonyms": []
+          "synonyms": [
+            "vacarme"
+          ]
         }
       },
       {
@@ -2502,7 +2600,9 @@
         "word": "am\u00e9nit\u00e9",
         "definition": {
           "def": "Amabilit\u00e9 pleine de charme.",
-          "synonyms": []
+          "synonyms": [
+            "affabilit\u00e9"
+          ]
         }
       },
       {
@@ -2531,7 +2631,9 @@
         "word": "quintessence",
         "definition": {
           "def": "Ce en quoi se r\u00e9sument l'essentiel et le plus pur de qqch.",
-          "synonyms": []
+          "synonyms": [
+            "le meilleur"
+          ]
         }
       },
       {
@@ -2568,7 +2670,9 @@
         "word": "radouber",
         "definition": {
           "def": "R\u00e9parer la coque de (un navire).",
-          "synonyms": []
+          "synonyms": [
+            "calfater"
+          ]
         }
       },
       {
@@ -2621,7 +2725,9 @@
         "word": "alop\u00e9cie",
         "definition": {
           "def": "Chute temporaire des cheveux ou des poils, partielle ou totale.",
-          "synonyms": []
+          "synonyms": [
+            "calvitie"
+          ]
         }
       }
     ]
@@ -2634,7 +2740,9 @@
         "word": "sylphe",
         "definition": {
           "def": "G\u00e9nie a\u00e9rien des mythologies gauloise, celtique et germanique.",
-          "synonyms": []
+          "synonyms": [
+            "elfe"
+          ]
         }
       },
       {
@@ -2650,7 +2758,9 @@
         "word": "quadrumane",
         "definition": {
           "def": "Dont les quatre membres sont termin\u00e9s par une main.",
-          "synonyms": []
+          "synonyms": [
+            "singe"
+          ]
         }
       },
       {
@@ -2658,43 +2768,6 @@
         "word": "pellucide",
         "definition": {
           "def": "Transparent, translucide.",
-          "synonyms": []
-        }
-      }
-    ]
-  },
-  {
-    "message": "L'ostentation de richesse et de pouvoir est une abjection qui contraste avec la simplicit\u00e9 et l'humilit\u00e9 idoines, tandis que la mer, avec ses vagues spumescentes, offre un spectacle naturel bien plus captivant.",
-    "words": [
-      {
-        "match": "L'ostentation",
-        "word": "ostentation",
-        "definition": {
-          "def": "Mise en valeur excessive et indiscr\u00e8te d'un avantage.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "abjection",
-        "word": "abjection",
-        "definition": {
-          "def": "Caract\u00e8re de ce qui est abject, ignoble.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "spumescentes",
-        "word": "spumescent",
-        "definition": {
-          "def": "Qui est semblable \u00e0 de l'\u00e9cume\u00a0; qui produit de l'\u00e9cume.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "idoines",
-        "word": "idoine",
-        "definition": {
-          "def": "Qui convient parfaitement, appropri\u00e9.",
           "synonyms": []
         }
       }

@@ -22,6 +22,9 @@ for sentence in sentences:
 
     found_words = []
     for word in sentence["words"]:
+        if word not in definitions:
+            break
+
         distances = []
         found = False
         for x in sentence["message"].split(" "):
