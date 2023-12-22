@@ -6,7 +6,7 @@ export default function Definition(props) {
     return (
         props.selectedWord
         ?
-        <div className="fixed overflow-y-scroll left-[15vw] sm:left-[45vw] p-[1vh] top-[15vh] w-[70vw] sm:w-[40vw] h-[20vh] bg-slate-900 rounded-lg text-slate-100">
+        <div className="fixed overflow-y-auto left-[15vw] sm:left-[45vw] p-[1vh] top-[15vh] w-[70vw] sm:w-[40vw] h-[20vh] bg-slate-900 rounded-lg text-slate-100">
             <div className="p-[1vh] sm:p-[3vh]">
                 <h1 className="font-extrabold mb-[2vh]">
                     <a target="_blank" href={"https://dictionnaire.lerobert.com/definition/" + props.selectedWord.word}>
