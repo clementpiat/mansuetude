@@ -13,6 +13,9 @@ with open("db_builder/data/definitions.json") as f:
 not_found = 0
 prepared_sentences = []
 for sentence in sentences:
+    if sentence.get("gpt-version") != "gpt-4":
+        continue
+
     if sentence["message"][0] == '"' and sentence["message"][-1] == '"':
         sentence["message"] = sentence["message"][1:-1]
 
@@ -45,7 +48,7 @@ for sentence in sentences:
 
         if not found:
             min_distance, x = min(distances)
-            if min_distance <= 3:
+            if min_distance <= 2:
                 found_words.append({
                     "match": x,
                     "word": word,

@@ -11,8 +11,9 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 with open("db_builder/data/definitions.json") as f:
     WORDS = list(json.load(f).keys())
 
-N_SENTENCES = 0
-N_WORDS = 4
+N_SENTENCES = 50
+N_WORDS = 3
+GPT_VERSION = "gpt-4"
 
 with open("db_builder/data/sentences.json") as f:
     result = []# json.load(f)
@@ -20,7 +21,7 @@ with open("db_builder/data/sentences.json") as f:
 for _ in tqdm(range(N_SENTENCES)):
     sub_words = random.choices(WORDS, k=N_WORDS)
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model=GPT_VERSION,
         messages=[
             {
                 "role": "system",
@@ -36,6 +37,7 @@ for _ in tqdm(range(N_SENTENCES)):
     result.append({
         "message": message,
         "words": sub_words,
+        "gpt-version": GPT_VERSION,
     })
 
 with open("db_builder/data/sentences.json", "w") as f:

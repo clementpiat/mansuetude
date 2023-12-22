@@ -72,3 +72,6 @@ TODO
     - 2 pages : une page d'accueil et un lien vers le générateur
     - un pied de page contact
     - isabelle easter egg
+    - ajouter un coeur pour sauvegarder des mots dans les cookies
+    - passer à 2 en distance de hamming V
+    - utiliser GPT-4 V
