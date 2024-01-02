@@ -216,66 +216,6 @@
     "gpt-version": "gpt-4"
   },
   {
-    "message": "Le golem, cr\u00e9ature massive p\u00e9trie comme la lithosph\u00e8re, arpentait les plaines d\u00e9sertiques balay\u00e9es par l'harmattan, un vent sableux.",
-    "words": [
-      {
-        "match": "golem",
-        "word": "Golem",
-        "definition": {
-          "def": "\u00catre artificiel \u00e0 forme humaine, anim\u00e9 par un parchemin fix\u00e9 sur son front (l\u00e9gendes juives).",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "lithosph\u00e8re",
-        "word": "lithosph\u00e8re",
-        "definition": {
-          "def": "Couche externe de la cro\u00fbte terrestre constitu\u00e9e de plaques mobiles.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "l'harmattan",
-        "word": "harmattan",
-        "definition": {
-          "def": "Aliz\u00e9 chaud et sec qui souffle sur l'Afrique occidentale.",
-          "synonyms": []
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
-    "message": "Le saurien, avec sa prestance pr\u00e9historique, fascine Fatma, qui s'est consacr\u00e9e \u00e0 son \u00e9tude depuis plusieurs ann\u00e9es dans le domaine de la pal\u00e9ontologie.",
-    "words": [
-      {
-        "match": "saurien",
-        "word": "saurien",
-        "definition": {
-          "def": "Reptile tel que le l\u00e9zard ou le cam\u00e9l\u00e9on (sous-ordre des Sauriens, g\u00e9n\u00e9ralement munis de pattes).",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "fascine",
-        "word": "fascine",
-        "definition": {
-          "def": "Fagot\u00a0; assemblage de branchages.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "Fatma",
-        "word": "fatma",
-        "definition": {
-          "def": "Femme arabe, domestique (dans le fran\u00e7ais d'Afrique du Nord, au temps de la colonisation).",
-          "synonyms": []
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
     "message": "Fier de sa r\u00e9alisation, le c\u00e9iste montra le linteau vermicul\u00e9 qu'il avait m\u00e9ticuleusement con\u00e7u pour sa nouvelle maison.",
     "words": [
       {
@@ -586,38 +526,6 @@
     "gpt-version": "gpt-4"
   },
   {
-    "message": "Fatma est une pal\u00e9ontologue passionn\u00e9e qui a pass\u00e9 son temps, loin d'\u00eatre oiseux, \u00e0 \u00e9tudier les fossiles de l'\u00e9poque pr\u00e9cambrienne.",
-    "words": [
-      {
-        "match": "Fatma",
-        "word": "fatma",
-        "definition": {
-          "def": "Femme arabe, domestique (dans le fran\u00e7ais d'Afrique du Nord, au temps de la colonisation).",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "oiseux",
-        "word": "oiseux",
-        "definition": {
-          "def": "Qui ne m\u00e8ne \u00e0 rien, est inutile, fait perdre du temps.",
-          "synonyms": [
-            "inutile"
-          ]
-        }
-      },
-      {
-        "match": "pr\u00e9cambrienne",
-        "word": "pr\u00e9cambrien",
-        "definition": {
-          "def": "Se dit des terrains les plus anciens, sans fossiles (avant l'\u00e8re primaire).",
-          "synonyms": []
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
     "message": "Sur le vieux bureau obsidional du professeur, reposait un petit flacon de n\u00e9roli \u00e0 c\u00f4t\u00e9 d'un bloc de spermaceti utilis\u00e9 pour faire des bougies.",
     "words": [
       {
@@ -642,41 +550,6 @@
         "definition": {
           "def": "Relatif aux si\u00e8ges des villes.",
           "synonyms": []
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
-    "message": "Sur le tertre verdoyant, Aman s'\u00e9lan\u00e7a soudainement dans une foucade hors du commun, comme poss\u00e9d\u00e9 par une irr\u00e9sistible \u00e9nergie.",
-    "words": [
-      {
-        "match": "Aman",
-        "word": "aman",
-        "definition": {
-          "def": "Octroi de la vie sauve.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "tertre",
-        "word": "tertre",
-        "definition": {
-          "def": "Petite \u00e9minence isol\u00e9e \u00e0 sommet aplati.",
-          "synonyms": [
-            "butte",
-            "tumulus"
-          ]
-        }
-      },
-      {
-        "match": "foucade",
-        "word": "foucade",
-        "definition": {
-          "def": "Caprice soudain, emportement passager.",
-          "synonyms": [
-            "lubie"
-          ]
         }
       }
     ],
@@ -873,38 +746,6 @@
     "gpt-version": "gpt-4"
   },
   {
-    "message": "Suite \u00e0 une algarade surprenante dans le vignoble du Provin, le professeur a d\u00e9cid\u00e9 de se calmer en d\u00e9gustant un verre de vin gouleyant pour apaiser ses esprits.",
-    "words": [
-      {
-        "match": "algarade",
-        "word": "algarade",
-        "definition": {
-          "def": "Attaque brusque en paroles.",
-          "synonyms": [
-            "querelle"
-          ]
-        }
-      },
-      {
-        "match": "Provin",
-        "word": "provin",
-        "definition": {
-          "def": "Marcotte de vigne.",
-          "synonyms": []
-        }
-      },
-      {
-        "match": "gouleyant",
-        "word": "gouleyant",
-        "definition": {
-          "def": "Frais et l\u00e9ger, facile et agr\u00e9able \u00e0 boire.",
-          "synonyms": []
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
     "message": "Le professeur r\u00e9cup\u00e9ra la colophane pos\u00e9e sur son bureau, passa \u00e0 c\u00f4t\u00e9 d'un boisseau rempli de papiers et s'installa confortablement dans son fauteuil recouvert de percale pour commencer sa lecture.",
     "words": [
       {
@@ -1057,42 +898,6 @@
     "gpt-version": "gpt-4"
   },
   {
-    "message": "Impavide face au mascaret imposant qui approchait, le linguiste, plong\u00e9 dans ses recherches, continua d'\u00e9crire sur les d\u00e9sinences de la langue fran\u00e7aise.",
-    "words": [
-      {
-        "match": "d\u00e9sinences",
-        "word": "d\u00e9sinence",
-        "definition": {
-          "def": "\u00c9l\u00e9ment variable qui s'ajoute au radical d'un mot pour produire les formes des conjugaisons, des d\u00e9clinaisons.",
-          "synonyms": [
-            "flexion"
-          ]
-        }
-      },
-      {
-        "match": "mascaret",
-        "word": "mascaret",
-        "definition": {
-          "def": "Longue vague d\u00e9ferlante produite dans certains estuaires par la rencontre du flux et du reflux.",
-          "synonyms": [
-            "barre"
-          ]
-        }
-      },
-      {
-        "match": "Impavide",
-        "word": "impavide",
-        "definition": {
-          "def": "Qui n'\u00e9prouve ou ne montre aucune crainte.",
-          "synonyms": [
-            "impassible"
-          ]
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
     "message": "\u00c9tonn\u00e9 de son propre talent de nyctalope, le professeur examinait attentivement le duramen d'une vieille c\u00e9p\u00e9e, cherchant \u00e0 comprendre l'histoire secr\u00e8te des arbres qui l'entouraient dans l'obscurit\u00e9.",
     "words": [
       {
@@ -1215,40 +1020,6 @@
           "synonyms": [
             "\u00e9preuve"
           ]
-        }
-      }
-    ],
-    "gpt-version": "gpt-4"
-  },
-  {
-    "message": "Malgr\u00e9 l'ambiance s\u00e9pulcrale qui r\u00e9gnait dans les ruelles \u00e9troites de Lorette, la ville semblait continuer \u00e0 hercher une \u00e9nergie et un rythme qui \u00e9taient jadis si pr\u00e9sents.",
-    "words": [
-      {
-        "match": "s\u00e9pulcrale",
-        "word": "s\u00e9pulcral",
-        "definition": {
-          "def": "Qui \u00e9voque la mort.",
-          "synonyms": [
-            "fun\u00e8bre"
-          ]
-        }
-      },
-      {
-        "match": "Lorette",
-        "word": "lorette",
-        "definition": {
-          "def": "Jeune femme \u00e9l\u00e9gante et facile.",
-          "synonyms": [
-            "courtisane"
-          ]
-        }
-      },
-      {
-        "match": "hercher",
-        "word": "hercher",
-        "definition": {
-          "def": "Pousser les wagonnets charg\u00e9s de minerai, au fond d'une mine.",
-          "synonyms": []
         }
       }
     ],
