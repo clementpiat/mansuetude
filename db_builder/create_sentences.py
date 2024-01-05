@@ -8,29 +8,43 @@ import json
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-with open("db_builder/data/definitions.json") as f:
-    WORDS = list(json.load(f).keys())
-
-N_SENTENCES = 50
+N_SENTENCES = 10
 N_WORDS = 3
 GPT_VERSION = "gpt-4"
+FIRST_X_PERCENT_ONLY = 0.5  # Between 0 and 1
+
+
+with open("db_builder/data/definitions.json") as f:
+    DEFINITIONS = json.load(f)
+
+
+with open("db_builder/data/webnext.txt") as f:
+    _words = [x for x in f.read().split("\n") if x in DEFINITIONS and DEFINITIONS[x].get("text", DEFINITIONS[x]["def"])]
+    WORDS = _words[:int(len(_words) * FIRST_X_PERCENT_ONLY)]
+
 
 with open("db_builder/data/sentences.json") as f:
-    result = []# json.load(f)
+    result = json.load(f)
 
 for _ in tqdm(range(N_SENTENCES)):
     sub_words = random.choices(WORDS, k=N_WORDS)
+    _definitions = ["\n".join(DEFINITIONS[x].get("text", DEFINITIONS[x]["def"]).strip().split("\n\n")) for x in sub_words]
+    definitions = "".join((f"\n\n- {x}: {y}" for x, y in zip(sub_words, _definitions)))
+    question = f'''Compose une phrase vraie avec les mots suivants : {', '.join(sub_words)}.
+Pour rappel, voici la définition des mots à inclure:{definitions}
+    '''
+
     response = client.chat.completions.create(
         model=GPT_VERSION,
         messages=[
             {
                 "role": "system",
-                "content": '''
-                    Tu es l'assistant personnel d'un professeur émérite de l'académie française,
-                    et tu vas m'aider à composer des phrases sur la base de mots de vocabulaire spécifiés que je souhaite assimiler.
-                '''
+                "content": "Tu es un assistant intelligent francophone."
             },
-            {"role": "user", "content": f"Compose une phrase sensée avec les mots suivants : {', '.join(sub_words)}"},
+            {
+                "role": "user",
+                "content": question
+            },
         ]
     )
     message = response.choices[0].message.content
