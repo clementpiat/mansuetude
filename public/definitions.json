@@ -304,5 +304,209 @@
       "def": "Rendre sauvage, f\u00e9roce.",
       "synonyms": []
     }
+  },
+  "anthropoc\u00e8ne": {
+    "match": "l'anthropoc\u00e8ne",
+    "word": "anthropoc\u00e8ne",
+    "definition": {
+      "def": "P\u00e9riode la plus r\u00e9cente du quaternaire, qui succ\u00e8derait \u00e0 l'holoc\u00e8ne, caract\u00e9ris\u00e9e par les effets de l'activit\u00e9 humaine sur la plan\u00e8te.",
+      "synonyms": []
+    }
+  },
+  "collapsologie": {
+    "match": "collapsologie",
+    "word": "collapsologie",
+    "definition": {
+      "def": "Courant de pens\u00e9e annon\u00e7ant l'effondrement de la civilisation industrielle.",
+      "synonyms": []
+    }
+  },
+  "gorgone": {
+    "match": "gorgone",
+    "word": "gorgone",
+    "definition": {
+      "def": "Animal coralliaire (c\u0153lent\u00e9r\u00e9) formant des colonies arborescentes.",
+      "synonyms": []
+    }
+  },
+  "crinoline": {
+    "match": "crinoline",
+    "word": "crinoline",
+    "definition": {
+      "def": "Armature de baleines et de cercles d'acier flexibles, que les femmes portaient pour faire bouffer les jupes.",
+      "synonyms": [
+        "panier"
+      ]
+    }
+  },
+  "v\u00e9tilleux": {
+    "match": "v\u00e9tilleux",
+    "word": "v\u00e9tilleux",
+    "definition": {
+      "def": "Qui s'attache \u00e0 des d\u00e9tails, \u00e0 des v\u00e9tilles.",
+      "synonyms": [
+        "pointilleux"
+      ]
+    }
+  },
+  "vulgate": {
+    "match": "Vulgate",
+    "word": "vulgate",
+    "definition": {
+      "def": "Traduction latine de la Bible.",
+      "synonyms": []
+    }
+  },
+  "cymbalisation": {
+    "match": "cymbalisation",
+    "word": "cymbalisation",
+    "definition": {
+      "def": "Bruit modul\u00e9 produit par la cigale m\u00e2le.",
+      "synonyms": []
+    }
+  },
+  "mansu\u00e9tude": {
+    "match": "mansu\u00e9tude",
+    "word": "mansu\u00e9tude",
+    "definition": {
+      "def": "Disposition \u00e0 pardonner g\u00e9n\u00e9reusement.",
+      "synonyms": [
+        "bont\u00e9"
+      ]
+    }
+  },
+  "\u00e9piphyte": {
+    "match": "\u00e9piphyte",
+    "word": "\u00e9piphyte",
+    "definition": {
+      "def": "Qui cro\u00eet sur d'autres plantes sans en tirer sa nourriture.",
+      "synonyms": []
+    }
+  },
+  "V\u00e9da": {
+    "match": "V\u00e9da",
+    "word": "V\u00e9da",
+    "definition": {
+      "def": "Texte religieux et po\u00e9tique de l'Inde ancienne.",
+      "synonyms": [
+        "v\u00e9dique"
+      ]
+    }
+  },
+  "d\u00e9sh\u00e9rence": {
+    "match": "d\u00e9sh\u00e9rence",
+    "word": "d\u00e9sh\u00e9rence",
+    "definition": {
+      "def": "Absence d'h\u00e9ritiers pour recueillir une succession qui est en cons\u00e9quence d\u00e9volue \u00e0 l'\u00c9tat.",
+      "synonyms": []
+    }
+  },
+  "inf\u00e9rence": {
+    "match": "inf\u00e9rence",
+    "word": "inf\u00e9rence",
+    "definition": {
+      "def": "Op\u00e9ration logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions d\u00e9j\u00e0 tenues pour vraies.",
+      "synonyms": [
+        "induction"
+      ]
+    }
+  },
+  "indurer": {
+    "match": "indurer",
+    "word": "indurer",
+    "definition": {
+      "def": "Durcir (un tissu organique).",
+      "synonyms": []
+    }
+  },
+  "coprah": {
+    "match": "coprah",
+    "word": "coprah",
+    "definition": {
+      "def": "Amande de la noix de coco d\u00e9cortiqu\u00e9e.",
+      "synonyms": []
+    }
+  },
+  "sportule": {
+    "match": "sportule",
+    "word": "sportule",
+    "definition": {
+      "def": "Don, en nature ou en argent, que les patrons accordaient chaque jour \u00e0 leurs clients.",
+      "synonyms": []
+    }
+  },
+  "prolixe": {
+    "match": "prolixe",
+    "word": "prolixe",
+    "definition": {
+      "def": "Qui est trop long, qui a tendance \u00e0 d\u00e9layer dans ses \u00e9crits ou ses discours.",
+      "synonyms": [
+        "bavard"
+      ]
+    }
+  },
+  "n\u00e9ot\u00e9nie": {
+    "match": "n\u00e9ot\u00e9nie",
+    "word": "n\u00e9ot\u00e9nie",
+    "definition": {
+      "def": "Persistance des formes larvaires chez un animal adulte.",
+      "synonyms": []
+    }
+  },
+  "virelangue": {
+    "match": "virelangue",
+    "word": "virelangue",
+    "definition": {
+      "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
+      "synonyms": []
+    }
+  },
+  "pantocrator": {
+    "match": "pantocrator",
+    "word": "pantocrator",
+    "definition": {
+      "def": "Se dit du Christ en gloire, tel qu'il est repr\u00e9sent\u00e9 dans l'art byzantin.",
+      "synonyms": []
+    }
+  },
+  "vouivre": {
+    "match": "vouivre",
+    "word": "vouivre",
+    "definition": {
+      "def": "Serpent fabuleux.",
+      "synonyms": []
+    }
+  },
+  "litt\u00e9rarit\u00e9": {
+    "match": "litt\u00e9rarit\u00e9",
+    "word": "litt\u00e9rarit\u00e9",
+    "definition": {
+      "def": "Caract\u00e8re d'un texte qui appartient \u00e0 la litt\u00e9rature.",
+      "synonyms": []
+    }
+  },
+  "bachi-bouzouk": {
+    "match": "bachi-bouzouk",
+    "word": "bachi-bouzouk",
+    "definition": {
+      "def": "Cavalier mercenaire de l'arm\u00e9e turque.",
+      "synonyms": []
+    }
+  },
+  "turbide": {
+    "match": "turbides",
+    "word": "turbide",
+    "definition": {
+      "def": "Troubl\u00e9, agit\u00e9.",
+      "synonyms": []
+    }
+  },
+  "giton": {
+    "match": "giton",
+    "word": "giton",
+    "definition": {
+      "def": "Jeune homme, adolescent entretenu par un amant.",
+      "synonyms": []
+    }
   }
 }

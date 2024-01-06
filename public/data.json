@@ -376,5 +376,289 @@
       }
     ],
     "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans l'\u00e8re de l'anthropoc\u00e8ne, marqu\u00e9e par l'impact humain sur l'environnement, plusieurs tenants de la collapsologie pr\u00e9disent un effondrement imminent de notre civilisation industrielle, similaire \u00e0 la fa\u00e7on dont une gorgone meurt lorsqu'elle est arrach\u00e9e de son habitat corallien.",
+    "words": [
+      {
+        "match": "l'anthropoc\u00e8ne",
+        "word": "anthropoc\u00e8ne",
+        "definition": {
+          "def": "P\u00e9riode la plus r\u00e9cente du quaternaire, qui succ\u00e8derait \u00e0 l'holoc\u00e8ne, caract\u00e9ris\u00e9e par les effets de l'activit\u00e9 humaine sur la plan\u00e8te.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "collapsologie",
+        "word": "collapsologie",
+        "definition": {
+          "def": "Courant de pens\u00e9e annon\u00e7ant l'effondrement de la civilisation industrielle.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "gorgone",
+        "word": "gorgone",
+        "definition": {
+          "def": "Animal coralliaire (c\u0153lent\u00e9r\u00e9) formant des colonies arborescentes.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Le v\u00e9tilleux professeur d'histoire de l'art cherchait sans rel\u00e2che des repr\u00e9sentations exactes de la crinoline dans les miniatures de la Vulgate.",
+    "words": [
+      {
+        "match": "crinoline",
+        "word": "crinoline",
+        "definition": {
+          "def": "Armature de baleines et de cercles d'acier flexibles, que les femmes portaient pour faire bouffer les jupes.",
+          "synonyms": [
+            "panier"
+          ]
+        }
+      },
+      {
+        "match": "v\u00e9tilleux",
+        "word": "v\u00e9tilleux",
+        "definition": {
+          "def": "Qui s'attache \u00e0 des d\u00e9tails, \u00e0 des v\u00e9tilles.",
+          "synonyms": [
+            "pointilleux"
+          ]
+        }
+      },
+      {
+        "match": "Vulgate",
+        "word": "vulgate",
+        "definition": {
+          "def": "Traduction latine de la Bible.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Admirant la mansu\u00e9tude de la nature, l'entomologiste observa une cigale m\u00e2le produire son chant de cymbalisation depuis l'\u00e9corce d'un arbre, juste \u00e0 c\u00f4t\u00e9 d'un \u00e9piphyte luxuriant.",
+    "words": [
+      {
+        "match": "cymbalisation",
+        "word": "cymbalisation",
+        "definition": {
+          "def": "Bruit modul\u00e9 produit par la cigale m\u00e2le.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "mansu\u00e9tude",
+        "word": "mansu\u00e9tude",
+        "definition": {
+          "def": "Disposition \u00e0 pardonner g\u00e9n\u00e9reusement.",
+          "synonyms": [
+            "bont\u00e9"
+          ]
+        }
+      },
+      {
+        "match": "\u00e9piphyte",
+        "word": "\u00e9piphyte",
+        "definition": {
+          "def": "Qui cro\u00eet sur d'autres plantes sans en tirer sa nourriture.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "L'analyse des anciens textes du V\u00e9da permet par inf\u00e9rence, de comprendre certaines traditions concernant la d\u00e9sh\u00e9rence en Inde ancienne.",
+    "words": [
+      {
+        "match": "V\u00e9da",
+        "word": "V\u00e9da",
+        "definition": {
+          "def": "Texte religieux et po\u00e9tique de l'Inde ancienne.",
+          "synonyms": [
+            "v\u00e9dique"
+          ]
+        }
+      },
+      {
+        "match": "d\u00e9sh\u00e9rence",
+        "word": "d\u00e9sh\u00e9rence",
+        "definition": {
+          "def": "Absence d'h\u00e9ritiers pour recueillir une succession qui est en cons\u00e9quence d\u00e9volue \u00e0 l'\u00c9tat.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "inf\u00e9rence",
+        "word": "inf\u00e9rence",
+        "definition": {
+          "def": "Op\u00e9ration logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions d\u00e9j\u00e0 tenues pour vraies.",
+          "synonyms": [
+            "induction"
+          ]
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "L'application constante de coprah sur sa glabelle a fini par indurer la peau \u00e0 cet endroit.",
+    "words": [
+      {
+        "match": "glabelle",
+        "word": "glabelle",
+        "definition": {
+          "def": "Zone l\u00e9g\u00e8rement pro\u00e9minente, comprise entre les deux sourcils.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "indurer",
+        "word": "indurer",
+        "definition": {
+          "def": "Durcir (un tissu organique).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "coprah",
+        "word": "coprah",
+        "definition": {
+          "def": "Amande de la noix de coco d\u00e9cortiqu\u00e9e.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans l\u2019Antiquit\u00e9 romaine, un portefaix qui adh\u00e9rait au spinozisme aurait peut-\u00eatre vu sa sportule quotidienne non pas comme un simple don, mais comme une manifestation de la nature intrins\u00e8que de l'univers.",
+    "words": [
+      {
+        "match": "sportule",
+        "word": "sportule",
+        "definition": {
+          "def": "Don, en nature ou en argent, que les patrons accordaient chaque jour \u00e0 leurs clients.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "portefaix",
+        "word": "portefaix",
+        "definition": {
+          "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
+          "synonyms": [
+            "porteur"
+          ]
+        }
+      },
+      {
+        "match": "spinozisme",
+        "word": "spinozisme",
+        "definition": {
+          "def": "Syst\u00e8me philosophique de Spinoza.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Malgr\u00e9 sa tendance prolixe \u00e0 discuter de n\u00e9ot\u00e9nie, ses discours \u00e9taient aussi fluides qu'un virelangue bien ma\u00eetris\u00e9.",
+    "words": [
+      {
+        "match": "prolixe",
+        "word": "prolixe",
+        "definition": {
+          "def": "Qui est trop long, qui a tendance \u00e0 d\u00e9layer dans ses \u00e9crits ou ses discours.",
+          "synonyms": [
+            "bavard"
+          ]
+        }
+      },
+      {
+        "match": "n\u00e9ot\u00e9nie",
+        "word": "n\u00e9ot\u00e9nie",
+        "definition": {
+          "def": "Persistance des formes larvaires chez un animal adulte.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "virelangue",
+        "word": "virelangue",
+        "definition": {
+          "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans l'univers de la litt\u00e9rarit\u00e9, un pantocrator imaginaire combat une vouivre l\u00e9gendaire, ajoutant un ton \u00e9pique et mystique \u00e0 l'\u0153uvre narrative.",
+    "words": [
+      {
+        "match": "pantocrator",
+        "word": "pantocrator",
+        "definition": {
+          "def": "Se dit du Christ en gloire, tel qu'il est repr\u00e9sent\u00e9 dans l'art byzantin.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "vouivre",
+        "word": "vouivre",
+        "definition": {
+          "def": "Serpent fabuleux.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "litt\u00e9rarit\u00e9",
+        "word": "litt\u00e9rarit\u00e9",
+        "definition": {
+          "def": "Caract\u00e8re d'un texte qui appartient \u00e0 la litt\u00e9rature.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Le giton, perdu dans ses pens\u00e9es turbides, semblait aussi agit\u00e9 qu'un bachi-bouzouk avant l'assaut.",
+    "words": [
+      {
+        "match": "bachi-bouzouk",
+        "word": "bachi-bouzouk",
+        "definition": {
+          "def": "Cavalier mercenaire de l'arm\u00e9e turque.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "turbides",
+        "word": "turbide",
+        "definition": {
+          "def": "Troubl\u00e9, agit\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "giton",
+        "word": "giton",
+        "definition": {
+          "def": "Jeune homme, adolescent entretenu par un amant.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
   }
 ]
