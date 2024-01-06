@@ -6,5 +6,11 @@
     "start_url": "/",
     "name": "Mansuétude",
     "short_name": "Mansuétude",
-    "icons": []
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
 }
