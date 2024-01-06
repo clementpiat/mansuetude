@@ -68,5 +68,18 @@ for sentence in sentences:
 
 print(f"Not found: {not_found} / {len(sentences)}")
 
+with open("public/definitions.json", "w") as f:
+    words =  set()
+    definitions = {}
+    for x in prepared_sentences:
+        for word in x["words"]:
+            if word["word"] in words:
+                continue
+
+            words.add(word["word"])
+            definitions[word["word"]] = word
+
+    json.dump(definitions, f, indent=2)
+
 with open("public/data.json", "w") as f:
     json.dump(prepared_sentences, f, indent=2)

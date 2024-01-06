@@ -15,11 +15,18 @@ export default function Navbar() {
                         Mansuétude
                     </span>
                 </a>
-                <a onClick={() => router.push("/liste")} className="flex items-center cursor-pointer float-right">
-                    <span className="cursor-pointer inline-flex items-center justify-center text-white">
-                        Ma liste
-                    </span>
-                </a>
+                <div id="navbar-default">
+                    <ul className="font-medium flex">
+                        <li>
+                            <a 
+                                onClick={() => router.push("/liste")}
+                                className="underline-animation block py-2 text-white cursor-pointer"
+                            >
+                                Ma liste
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </nav>
     )

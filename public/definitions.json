@@ -1,0 +1,308 @@
+{
+  "apophtegme": {
+    "match": "apophtegme",
+    "word": "apophtegme",
+    "definition": {
+      "def": "Parole m\u00e9morable ayant une valeur de maxime.",
+      "synonyms": [
+        "aphorisme"
+      ]
+    }
+  },
+  "poujadisme": {
+    "match": "poujadisme",
+    "word": "poujadisme",
+    "definition": {
+      "def": "Mouvement politique populiste de la fin de la IVe\u00a0R\u00e9publique, soutenu surtout par les petits commer\u00e7ants.",
+      "synonyms": []
+    }
+  },
+  "panspermie": {
+    "match": "panspermie",
+    "word": "panspermie",
+    "definition": {
+      "def": "Th\u00e9orie selon laquelle la vie sur terre provient de germes venus d'ailleurs.",
+      "synonyms": []
+    }
+  },
+  "hourvari": {
+    "match": "l'hourvari",
+    "word": "hourvari",
+    "definition": {
+      "def": "Grand tumulte.",
+      "synonyms": []
+    }
+  },
+  "portefaix": {
+    "match": "portefaix",
+    "word": "portefaix",
+    "definition": {
+      "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
+      "synonyms": [
+        "porteur"
+      ]
+    }
+  },
+  "succube": {
+    "match": "succube",
+    "word": "succube",
+    "definition": {
+      "def": "D\u00e9mon qui prend l'apparence d'une femme et vient la nuit s'unir \u00e0 un homme pendant son sommeil.",
+      "synonyms": []
+    }
+  },
+  "c\u00e9phal\u00e9e": {
+    "match": "c\u00e9phal\u00e9e",
+    "word": "c\u00e9phal\u00e9e",
+    "definition": {
+      "def": "Mal de t\u00eate.",
+      "synonyms": []
+    }
+  },
+  "bobinette": {
+    "match": "bobinette",
+    "word": "bobinette",
+    "definition": {
+      "def": "Loquet cylindrique en bois.",
+      "synonyms": []
+    }
+  },
+  "gouaille": {
+    "match": "gouaille",
+    "word": "gouaille",
+    "definition": {
+      "def": "Attitude insolente et railleuse.",
+      "synonyms": []
+    }
+  },
+  "abaya": {
+    "match": "abaya",
+    "word": "abaya",
+    "definition": {
+      "def": "Long v\u00eatement f\u00e9minin qui couvre l'ensemble du corps \u00e0 l'exception du visage et des mains, traditionnel dans certains pays de culture musulmane.",
+      "synonyms": [
+        "niqab"
+      ]
+    }
+  },
+  "trotte-menu": {
+    "match": "trotte-menu",
+    "word": "trotte-menu",
+    "definition": {
+      "def": "Qui trotte \u00e0 petits pas.",
+      "synonyms": []
+    }
+  },
+  "vermiculaire": {
+    "match": "vermiculaire",
+    "word": "vermiculaire",
+    "definition": {
+      "def": "Qui a la forme, l'aspect d'un petit ver.",
+      "synonyms": []
+    }
+  },
+  "libertaire": {
+    "match": "libertaires",
+    "word": "libertaire",
+    "definition": {
+      "def": "Qui n'admet aucune limitation de la libert\u00e9 individuelle en mati\u00e8re sociale, politique.",
+      "synonyms": [
+        "anarchiste"
+      ]
+    }
+  },
+  "verjus": {
+    "match": "verjus",
+    "word": "verjus",
+    "definition": {
+      "def": "Suc acide de raisin cueilli vert.",
+      "synonyms": []
+    }
+  },
+  "belluaire": {
+    "match": "belluaire",
+    "word": "belluaire",
+    "definition": {
+      "def": "Gladiateur qui combattait des fauves.",
+      "synonyms": [
+        "bestiaire"
+      ]
+    }
+  },
+  "ensacher": {
+    "match": "d'ensacher",
+    "word": "ensacher",
+    "definition": {
+      "def": "Mettre en sac, en sachet.",
+      "synonyms": []
+    }
+  },
+  "p\u00e9tuner": {
+    "match": "p\u00e9tun\u00e9",
+    "word": "p\u00e9tuner",
+    "definition": {
+      "def": "Fumer, priser du tabac.",
+      "synonyms": []
+    }
+  },
+  "fibrille": {
+    "match": "fibrilles",
+    "word": "fibrille",
+    "definition": {
+      "def": "Petite fibre.",
+      "synonyms": []
+    }
+  },
+  "obole": {
+    "match": "obole",
+    "word": "obole",
+    "definition": {
+      "def": "Modeste offrande, petite contribution en argent.",
+      "synonyms": []
+    }
+  },
+  "charivari": {
+    "match": "charivari",
+    "word": "charivari",
+    "definition": {
+      "def": "Grand bruit, tumulte.",
+      "synonyms": [
+        "vacarme"
+      ]
+    }
+  },
+  "spinozisme": {
+    "match": "spinozisme",
+    "word": "spinozisme",
+    "definition": {
+      "def": "Syst\u00e8me philosophique de Spinoza.",
+      "synonyms": []
+    }
+  },
+  "pusillanime": {
+    "match": "pusillanime",
+    "word": "pusillanime",
+    "definition": {
+      "def": "Qui manque d'audace, craint le risque, les responsabilit\u00e9s.",
+      "synonyms": [
+        "craintif"
+      ]
+    }
+  },
+  "gabier": {
+    "match": "gabier",
+    "word": "gabier",
+    "definition": {
+      "def": "Matelot charg\u00e9 de l'entretien et de la man\u0153uvre de la voilure.",
+      "synonyms": []
+    }
+  },
+  "p\u00e9riphrase": {
+    "match": "p\u00e9riphrase",
+    "word": "p\u00e9riphrase",
+    "definition": {
+      "def": "Expression par plusieurs mots d'une notion qu'un seul mot pourrait exprimer.",
+      "synonyms": [
+        "circonlocution"
+      ]
+    }
+  },
+  "turpide": {
+    "match": "turpide",
+    "word": "turpide",
+    "definition": {
+      "def": "Qui a une certaine laideur morale.",
+      "synonyms": []
+    }
+  },
+  "ceste": {
+    "match": "ceste",
+    "word": "ceste",
+    "definition": {
+      "def": "Courroie garnie de plomb dont les pugilistes s'entouraient les mains.",
+      "synonyms": []
+    }
+  },
+  "dada\u00efsme": {
+    "match": "dada\u00efsme",
+    "word": "dada\u00efsme",
+    "definition": {
+      "def": "L'\u00e9cole, le mouvement dada.",
+      "synonyms": []
+    }
+  },
+  "privaut\u00e9": {
+    "match": "privaut\u00e9s",
+    "word": "privaut\u00e9",
+    "definition": {
+      "def": "Familiarit\u00e9 excessive, libert\u00e9.",
+      "synonyms": []
+    }
+  },
+  "munificence": {
+    "match": "munificence",
+    "word": "munificence",
+    "definition": {
+      "def": "Grandeur dans la g\u00e9n\u00e9rosit\u00e9.",
+      "synonyms": []
+    }
+  },
+  "musarder": {
+    "match": "musarder",
+    "word": "musarder",
+    "definition": {
+      "def": "Perdre son temps \u00e0 des riens.",
+      "synonyms": [
+        "fl\u00e2ner"
+      ]
+    }
+  },
+  "tenancier": {
+    "match": "tenancier",
+    "word": "tenancier",
+    "definition": {
+      "def": "Personne qui dirige, qui g\u00e8re un \u00e9tablissement soumis \u00e0 la surveillance des pouvoirs publics.",
+      "synonyms": []
+    }
+  },
+  "ahan": {
+    "match": "ahan",
+    "word": "ahan",
+    "definition": {
+      "def": "Effort p\u00e9nible.",
+      "synonyms": []
+    }
+  },
+  "\u00e9pointer": {
+    "match": "d'\u00e9pointer",
+    "word": "\u00e9pointer",
+    "definition": {
+      "def": "\u00c9mousser en \u00f4tant, en cassant ou en usant la pointe.",
+      "synonyms": []
+    }
+  },
+  "\u00e9ristique": {
+    "match": "\u00e9ristique",
+    "word": "\u00e9ristique",
+    "definition": {
+      "def": "Relatif \u00e0 la controverse.",
+      "synonyms": []
+    }
+  },
+  "glabelle": {
+    "match": "glabelle",
+    "word": "glabelle",
+    "definition": {
+      "def": "Zone l\u00e9g\u00e8rement pro\u00e9minente, comprise entre les deux sourcils.",
+      "synonyms": []
+    }
+  },
+  "ensauvager": {
+    "match": "s'ensauvager",
+    "word": "ensauvager",
+    "definition": {
+      "def": "Rendre sauvage, f\u00e9roce.",
+      "synonyms": []
+    }
+  }
+}
