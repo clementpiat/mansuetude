@@ -8,8 +8,10 @@ export default function SavedWords(props) {
   const [selectedWord, setSelectedWord] = useState();
 
   useEffect(() => {
-    const _savedWords = localStorage.getItem(key);
-    setSavedWords(_savedWords ? JSON.parse(_savedWords) : []);
+    let _savedWords = localStorage.getItem(key);
+    _savedWords = _savedWords ? JSON.parse(_savedWords) : [];
+    setSavedWords(_savedWords);
+    setSelectedWord(_savedWords ? _savedWords[0] : null);
   }, []);
 
   return (
