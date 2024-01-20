@@ -660,5 +660,611 @@
       }
     ],
     "gpt-version": "gpt-4"
+  },
+  {
+    "message": "La pluie acide, capable de corroder les structures m\u00e9talliques, apparaissait pour lui comme un caut\u00e8re sur une jambe de bois, alors qu'il cherchait une solution pour emp\u00eacher son pain azyme de durcir trop vite.",
+    "words": [
+      {
+        "match": "corroder",
+        "word": "corroder",
+        "definition": {
+          "def": "D\u00e9truire lentement par une action chimique.",
+          "synonyms": [
+            "attaquer",
+            "corrosif"
+          ]
+        }
+      },
+      {
+        "match": "caut\u00e8re",
+        "word": "caut\u00e8re",
+        "definition": {
+          "def": "Instrument qui br\u00fble les tissus vivants, pour cicatriser et gu\u00e9rir.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "azyme",
+        "word": "azyme",
+        "definition": {
+          "def": "Pain azyme.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "En d\u00e9pit de son comportement compass\u00e9, c'est avec une munificence inattendue qu'il a financ\u00e9 la pr\u00e9servation d'un fragile \u00e9cosyst\u00e8me niv\u00e9al.",
+    "words": [
+      {
+        "match": "compass\u00e9",
+        "word": "compass\u00e9",
+        "definition": {
+          "def": "Dont le comportement est affect\u00e9 et guind\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "niv\u00e9al",
+        "word": "niv\u00e9al",
+        "definition": {
+          "def": "Qui fleurit dans la neige, en hiver.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "munificence",
+        "word": "munificence",
+        "definition": {
+          "def": "Grandeur dans la g\u00e9n\u00e9rosit\u00e9.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "L'imp\u00e9cunieux artiste de rue \u00e9changeait un spectacle iridescent de jonglage avec des balles lumineuses contre une contremarque pour un repas chaud dans son bistrot local.",
+    "words": [
+      {
+        "match": "contremarque",
+        "word": "contremarque",
+        "definition": {
+          "def": "Ticket d\u00e9livr\u00e9 \u00e0 des spectateurs qui sortent momentan\u00e9ment d'une salle de spectacle.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "L'imp\u00e9cunieux",
+        "word": "imp\u00e9cunieux",
+        "definition": {
+          "def": "Qui manque d'argent.",
+          "synonyms": [
+            "besogneux"
+          ]
+        }
+      },
+      {
+        "match": "iridescent",
+        "word": "iridescent",
+        "definition": {
+          "def": "Qui a des reflets iris\u00e9s.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Durant l'Anthropoc\u00e8ne, un belluaire atteint de nystagmus a d\u00fb redoubler de courage pour combattre les fauves malgr\u00e9 sa d\u00e9ficience visuelle.",
+    "words": [
+      {
+        "match": "belluaire",
+        "word": "belluaire",
+        "definition": {
+          "def": "Gladiateur qui combattait des fauves.",
+          "synonyms": [
+            "bestiaire"
+          ]
+        }
+      },
+      {
+        "match": "l'Anthropoc\u00e8ne",
+        "word": "anthropoc\u00e8ne",
+        "definition": {
+          "def": "P\u00e9riode la plus r\u00e9cente du quaternaire, qui succ\u00e8derait \u00e0 l'holoc\u00e8ne, caract\u00e9ris\u00e9e par les effets de l'activit\u00e9 humaine sur la plan\u00e8te.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "nystagmus",
+        "word": "nystagmus",
+        "definition": {
+          "def": "Mouvements saccad\u00e9s et involontaires des globes oculaires, dus \u00e0 la fatigue, \u00e0 des l\u00e9sions nerveuses, etc.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "En d\u00e9pit de ses mani\u00e8res compass\u00e9es, l'homme a admis sa peccadille d'avoir utilis\u00e9 trop de verjus dans sa recette.",
+    "words": [
+      {
+        "match": "compass\u00e9es",
+        "word": "compass\u00e9",
+        "definition": {
+          "def": "Dont le comportement est affect\u00e9 et guind\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "verjus",
+        "word": "verjus",
+        "definition": {
+          "def": "Suc acide de raisin cueilli vert.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "peccadille",
+        "word": "peccadille",
+        "definition": {
+          "def": "Faute b\u00e9nigne, sans gravit\u00e9.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans l'exorde de son ouvrage controvers\u00e9, l'auteur russe d\u00e9peint la Perestro\u00efka comme une forme d'onanisme soci\u00e9tal, une auto-stimulation d\u00e9nu\u00e9e de v\u00e9ritable productivit\u00e9.",
+    "words": [
+      {
+        "match": "d'onanisme",
+        "word": "onanisme",
+        "definition": {
+          "def": "Masturbation.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "l'exorde",
+        "word": "exorde",
+        "definition": {
+          "def": "Premi\u00e8re partie (d'un discours), entr\u00e9e en mati\u00e8re.",
+          "synonyms": [
+            "introduction"
+          ]
+        }
+      },
+      {
+        "match": "Perestro\u00efka",
+        "word": "Perestro\u00efka",
+        "definition": {
+          "def": "Politique lib\u00e9rale de \u00ab\u00a0reconstruction\u00a0\u00bb, dans l'ex-URSS (1986-1991).",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Lors du mariage sur le port, un \u00e9pithalame r\u00e9sonnait doucement au loin tandis que des lambrequins festonn\u00e9s d\u00e9corent l'estacade joyeusement.",
+    "words": [
+      {
+        "match": "l'estacade",
+        "word": "estacade",
+        "definition": {
+          "def": "Barrage fait par l'assemblage de pieux, de pilotis, de radeaux.",
+          "synonyms": [
+            "digue"
+          ]
+        }
+      },
+      {
+        "match": "\u00e9pithalame",
+        "word": "\u00e9pithalame",
+        "definition": {
+          "def": "Po\u00e8me, chant compos\u00e9 \u00e0 l'occasion d'un mariage.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "lambrequins",
+        "word": "lambrequin",
+        "definition": {
+          "def": "Bordure \u00e0 festons et \u00e0 franges.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "L'usage du pl\u00e9onasme \"subir une abjection inf\u00e2me\", bien qu'\u00e9tant un hapax dans l'oeuvre de l'auteur, d\u00e9montre son talent \u00e0 rendre vivante la mis\u00e8re de ses personnages.",
+    "words": [
+      {
+        "match": "pl\u00e9onasme",
+        "word": "pl\u00e9onasme",
+        "definition": {
+          "def": "Terme ou expression qui r\u00e9p\u00e8te ce qui vient d'\u00eatre \u00e9nonc\u00e9.",
+          "synonyms": [
+            "redondance"
+          ]
+        }
+      },
+      {
+        "match": "abjection",
+        "word": "abjection",
+        "definition": {
+          "def": "Caract\u00e8re de ce qui est abject, ignoble.",
+          "synonyms": [
+            "indignit\u00e9"
+          ]
+        }
+      },
+      {
+        "match": "hapax",
+        "word": "hapax",
+        "definition": {
+          "def": "Mot, forme, emploi dont on ne peut relever qu'un exemple (dans un corpus donn\u00e9).",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans le p\u00e9ristyle de l'\u00e9difice \u00e9ponyme, le matamore se vantait bruyamment de ses exploits imaginaires.",
+    "words": [
+      {
+        "match": "p\u00e9ristyle",
+        "word": "p\u00e9ristyle",
+        "definition": {
+          "def": "Colonnade entourant la cour int\u00e9rieure d'un \u00e9difice ou dispos\u00e9e autour d'un \u00e9difice.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "matamore",
+        "word": "matamore",
+        "definition": {
+          "def": "Faux brave, vantard.",
+          "synonyms": [
+            "fanfaron"
+          ]
+        }
+      },
+      {
+        "match": "\u00e9ponyme",
+        "word": "\u00e9ponyme",
+        "definition": {
+          "def": "Qui donne son nom \u00e0 (qqn, qqch.).",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Lors du jamboree international, les scouts ont fait appel \u00e0 un fixeur idoine pour faciliter leur communication avec les journalistes \u00e9trangers.",
+    "words": [
+      {
+        "match": "idoine",
+        "word": "idoine",
+        "definition": {
+          "def": "Qui convient parfaitement, appropri\u00e9.",
+          "synonyms": [
+            "ad\u00e9quat"
+          ]
+        }
+      },
+      {
+        "match": "jamboree",
+        "word": "jamboree",
+        "definition": {
+          "def": "R\u00e9union internationale de scouts.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "fixeur",
+        "word": "fixeur",
+        "definition": {
+          "def": "Personne qui sert d'interm\u00e9diaire, d'interpr\u00e8te et de guide \u00e0 un(e) journaliste dans un pays peu s\u00fbr.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Le pygargue, avec sa majest\u00e9 hi\u00e9male, survolait les terres glac\u00e9es, indiff\u00e9rent aux supp\u00f4ts du froid qui se terraient ci et l\u00e0.",
+    "words": [
+      {
+        "match": "pygargue",
+        "word": "pygargue",
+        "definition": {
+          "def": "Rapace diurne \u00e0 t\u00eate et queue blanches, appel\u00e9 aussi aigle de mer.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "supp\u00f4ts",
+        "word": "supp\u00f4t",
+        "definition": {
+          "def": "Partisan (d'une personne, d'une chose nuisible).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "hi\u00e9male",
+        "word": "hi\u00e9mal",
+        "definition": {
+          "def": "De l'hiver.",
+          "synonyms": [
+            "hibernal"
+          ]
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Le faix des d\u00e9penses voluptuaires du p\u00eacheur pendant la montaison des saumons a grandement pes\u00e9 sur son budget familial.",
+    "words": [
+      {
+        "match": "faix",
+        "word": "faix",
+        "definition": {
+          "def": "Lourd fardeau.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "voluptuaires",
+        "word": "voluptuaire",
+        "definition": {
+          "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
+          "synonyms": [
+            "somptuaire"
+          ]
+        }
+      },
+      {
+        "match": "montaison",
+        "word": "montaison",
+        "definition": {
+          "def": "Migration de certains poissons qui remontent les cours d'eau pour aller frayer.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Lors d'une ribote m\u00e9morable, un portefaix, bien \u00e9m\u00e9ch\u00e9, pr\u00e9tendait avoir assist\u00e9 \u00e0 une transsubstantiation juste avant sa joyeuse beuverie.",
+    "words": [
+      {
+        "match": "transsubstantiation",
+        "word": "transsubstantiation",
+        "definition": {
+          "def": "Changement du pain et du vin en la substance du corps du Christ.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ribote",
+        "word": "ribote",
+        "definition": {
+          "def": "Joyeux exc\u00e8s de table et de boisson.",
+          "synonyms": [
+            "bombance"
+          ]
+        }
+      },
+      {
+        "match": "portefaix",
+        "word": "portefaix",
+        "definition": {
+          "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
+          "synonyms": [
+            "porteur"
+          ]
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Malgr\u00e9 son ac\u00e9die manifeste, ce moine d\u00e9montrait une assertivit\u00e9 surprenante dans ses pr\u00e9dications, voire m\u00eame jusqu'\u00e0 ajouter ses propres apostilles sur les textes sacr\u00e9s.",
+    "words": [
+      {
+        "match": "apostilles",
+        "word": "apostille",
+        "definition": {
+          "def": "Note en addition (\u00e0 un texte).",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "ac\u00e9die",
+        "word": "ac\u00e9die",
+        "definition": {
+          "def": "Dans la th\u00e9ologie catholique, affection spirituelle qui atteint principalement les moines et qui se manifeste par l'ennui, le d\u00e9go\u00fbt de la pri\u00e8re et le d\u00e9couragement.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "assertivit\u00e9",
+        "word": "assertivit\u00e9",
+        "definition": {
+          "def": "Qualit\u00e9 d'une personne au comportement assertif.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Lors d'une visite guid\u00e9e au cimeti\u00e8re, l'orateur a d\u00e9cid\u00e9 de mettre un peu d'ambiance en proposant un virelangue sur le th\u00e8me des cimeti\u00e8res, juste avant de pr\u00e9senter le c\u00e9notaphe du lieu, puis un autre virelangue pour conclure sa visite.",
+    "words": [
+      {
+        "match": "virelangue",
+        "word": "virelangue",
+        "definition": {
+          "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "c\u00e9notaphe",
+        "word": "c\u00e9notaphe",
+        "definition": {
+          "def": "Tombeau \u00e9lev\u00e9 \u00e0 la m\u00e9moire d'un mort et qui ne contient pas son corps.",
+          "synonyms": [
+            "s\u00e9pulcre"
+          ]
+        }
+      },
+      {
+        "match": "virelangue",
+        "word": "virelangue",
+        "definition": {
+          "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Dans son accoutrement smaragdin, il a une logorrh\u00e9e incessante, \u00e9voquant avec un euph\u00e9misme bien choisi son aventure d\u00e9sastreuse de la nuit derni\u00e8re.",
+    "words": [
+      {
+        "match": "smaragdin",
+        "word": "smaragdin",
+        "definition": {
+          "def": "D'un vert \u00e9meraude.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "euph\u00e9misme",
+        "word": "euph\u00e9misme",
+        "definition": {
+          "def": "Expression att\u00e9nu\u00e9e d'une notion dont l'expression directe aurait quelque chose de d\u00e9plaisant, de choquant.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "logorrh\u00e9e",
+        "word": "logorrh\u00e9e",
+        "definition": {
+          "def": "Flux de paroles.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "L'homme enchifren\u00e9, pris d'un violent rhume, s'est r\u00e9fugi\u00e9 sous la pergola couverte de lierre, esp\u00e9rant trouver un peu de r\u00e9pit, alors qu'une d\u00e9hiscence d\u00e9butait, diffusant les graines des plantes tout autour.",
+    "words": [
+      {
+        "match": "enchifren\u00e9",
+        "word": "enchifren\u00e9",
+        "definition": {
+          "def": "Qui a le nez embarrass\u00e9 par un rhume de cerveau.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "pergola",
+        "word": "pergola",
+        "definition": {
+          "def": "Petite construction de jardin qui sert de support \u00e0 des plantes grimpantes.",
+          "synonyms": [
+            "tonnelle"
+          ]
+        }
+      },
+      {
+        "match": "d\u00e9hiscence",
+        "word": "d\u00e9hiscence",
+        "definition": {
+          "def": "Ouverture d'organes d\u00e9hiscents, qui s'ouvrent spontan\u00e9ment pour livrer passage \u00e0 leur contenu.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "Durant son voyage aux Maldives, le monsieur perclus de rhumatismes fut surpris en contemplant l'extraordinaire diversit\u00e9 de madr\u00e9pores sur le r\u00e9cif corallien, un spectacle qu'il consid\u00e9ra comme une v\u00e9ritable sportule de la nature.",
+    "words": [
+      {
+        "match": "madr\u00e9pores",
+        "word": "madr\u00e9pore",
+        "definition": {
+          "def": "Animal (cnidaire), vari\u00e9t\u00e9 de corail des mers chaudes.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "perclus",
+        "word": "perclus",
+        "definition": {
+          "def": "Qui a de la peine \u00e0 se mouvoir.",
+          "synonyms": [
+            "impotent"
+          ]
+        }
+      },
+      {
+        "match": "sportule",
+        "word": "sportule",
+        "definition": {
+          "def": "Don, en nature ou en argent, que les patrons accordaient chaque jour \u00e0 leurs clients.",
+          "synonyms": []
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
+  },
+  {
+    "message": "En raison de sa nature veule, l'homme est tomb\u00e9 dans les privaut\u00e9s obsc\u00e8nes du succube qui exploitait son manque de volont\u00e9.",
+    "words": [
+      {
+        "match": "succube",
+        "word": "succube",
+        "definition": {
+          "def": "D\u00e9mon qui prend l'apparence d'une femme et vient la nuit s'unir \u00e0 un homme pendant son sommeil.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "privaut\u00e9s",
+        "word": "privaut\u00e9",
+        "definition": {
+          "def": "Familiarit\u00e9 excessive, libert\u00e9.",
+          "synonyms": []
+        }
+      },
+      {
+        "match": "veule",
+        "word": "veule",
+        "definition": {
+          "def": "Qui n'a aucune \u00e9nergie, aucune volont\u00e9.",
+          "synonyms": [
+            "faible",
+            "aveulir"
+          ]
+        }
+      }
+    ],
+    "gpt-version": "gpt-4"
   }
 ]

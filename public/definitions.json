@@ -508,5 +508,405 @@
       "def": "Jeune homme, adolescent entretenu par un amant.",
       "synonyms": []
     }
+  },
+  "corroder": {
+    "match": "corroder",
+    "word": "corroder",
+    "definition": {
+      "def": "D\u00e9truire lentement par une action chimique.",
+      "synonyms": [
+        "attaquer",
+        "corrosif"
+      ]
+    }
+  },
+  "caut\u00e8re": {
+    "match": "caut\u00e8re",
+    "word": "caut\u00e8re",
+    "definition": {
+      "def": "Instrument qui br\u00fble les tissus vivants, pour cicatriser et gu\u00e9rir.",
+      "synonyms": []
+    }
+  },
+  "azyme": {
+    "match": "azyme",
+    "word": "azyme",
+    "definition": {
+      "def": "Pain azyme.",
+      "synonyms": []
+    }
+  },
+  "compass\u00e9": {
+    "match": "compass\u00e9",
+    "word": "compass\u00e9",
+    "definition": {
+      "def": "Dont le comportement est affect\u00e9 et guind\u00e9.",
+      "synonyms": []
+    }
+  },
+  "niv\u00e9al": {
+    "match": "niv\u00e9al",
+    "word": "niv\u00e9al",
+    "definition": {
+      "def": "Qui fleurit dans la neige, en hiver.",
+      "synonyms": []
+    }
+  },
+  "contremarque": {
+    "match": "contremarque",
+    "word": "contremarque",
+    "definition": {
+      "def": "Ticket d\u00e9livr\u00e9 \u00e0 des spectateurs qui sortent momentan\u00e9ment d'une salle de spectacle.",
+      "synonyms": []
+    }
+  },
+  "imp\u00e9cunieux": {
+    "match": "L'imp\u00e9cunieux",
+    "word": "imp\u00e9cunieux",
+    "definition": {
+      "def": "Qui manque d'argent.",
+      "synonyms": [
+        "besogneux"
+      ]
+    }
+  },
+  "iridescent": {
+    "match": "iridescent",
+    "word": "iridescent",
+    "definition": {
+      "def": "Qui a des reflets iris\u00e9s.",
+      "synonyms": []
+    }
+  },
+  "nystagmus": {
+    "match": "nystagmus",
+    "word": "nystagmus",
+    "definition": {
+      "def": "Mouvements saccad\u00e9s et involontaires des globes oculaires, dus \u00e0 la fatigue, \u00e0 des l\u00e9sions nerveuses, etc.",
+      "synonyms": []
+    }
+  },
+  "peccadille": {
+    "match": "peccadille",
+    "word": "peccadille",
+    "definition": {
+      "def": "Faute b\u00e9nigne, sans gravit\u00e9.",
+      "synonyms": []
+    }
+  },
+  "onanisme": {
+    "match": "d'onanisme",
+    "word": "onanisme",
+    "definition": {
+      "def": "Masturbation.",
+      "synonyms": []
+    }
+  },
+  "exorde": {
+    "match": "l'exorde",
+    "word": "exorde",
+    "definition": {
+      "def": "Premi\u00e8re partie (d'un discours), entr\u00e9e en mati\u00e8re.",
+      "synonyms": [
+        "introduction"
+      ]
+    }
+  },
+  "Perestro\u00efka": {
+    "match": "Perestro\u00efka",
+    "word": "Perestro\u00efka",
+    "definition": {
+      "def": "Politique lib\u00e9rale de \u00ab\u00a0reconstruction\u00a0\u00bb, dans l'ex-URSS (1986-1991).",
+      "synonyms": []
+    }
+  },
+  "estacade": {
+    "match": "l'estacade",
+    "word": "estacade",
+    "definition": {
+      "def": "Barrage fait par l'assemblage de pieux, de pilotis, de radeaux.",
+      "synonyms": [
+        "digue"
+      ]
+    }
+  },
+  "\u00e9pithalame": {
+    "match": "\u00e9pithalame",
+    "word": "\u00e9pithalame",
+    "definition": {
+      "def": "Po\u00e8me, chant compos\u00e9 \u00e0 l'occasion d'un mariage.",
+      "synonyms": []
+    }
+  },
+  "lambrequin": {
+    "match": "lambrequins",
+    "word": "lambrequin",
+    "definition": {
+      "def": "Bordure \u00e0 festons et \u00e0 franges.",
+      "synonyms": []
+    }
+  },
+  "pl\u00e9onasme": {
+    "match": "pl\u00e9onasme",
+    "word": "pl\u00e9onasme",
+    "definition": {
+      "def": "Terme ou expression qui r\u00e9p\u00e8te ce qui vient d'\u00eatre \u00e9nonc\u00e9.",
+      "synonyms": [
+        "redondance"
+      ]
+    }
+  },
+  "abjection": {
+    "match": "abjection",
+    "word": "abjection",
+    "definition": {
+      "def": "Caract\u00e8re de ce qui est abject, ignoble.",
+      "synonyms": [
+        "indignit\u00e9"
+      ]
+    }
+  },
+  "hapax": {
+    "match": "hapax",
+    "word": "hapax",
+    "definition": {
+      "def": "Mot, forme, emploi dont on ne peut relever qu'un exemple (dans un corpus donn\u00e9).",
+      "synonyms": []
+    }
+  },
+  "p\u00e9ristyle": {
+    "match": "p\u00e9ristyle",
+    "word": "p\u00e9ristyle",
+    "definition": {
+      "def": "Colonnade entourant la cour int\u00e9rieure d'un \u00e9difice ou dispos\u00e9e autour d'un \u00e9difice.",
+      "synonyms": []
+    }
+  },
+  "matamore": {
+    "match": "matamore",
+    "word": "matamore",
+    "definition": {
+      "def": "Faux brave, vantard.",
+      "synonyms": [
+        "fanfaron"
+      ]
+    }
+  },
+  "\u00e9ponyme": {
+    "match": "\u00e9ponyme",
+    "word": "\u00e9ponyme",
+    "definition": {
+      "def": "Qui donne son nom \u00e0 (qqn, qqch.).",
+      "synonyms": []
+    }
+  },
+  "idoine": {
+    "match": "idoine",
+    "word": "idoine",
+    "definition": {
+      "def": "Qui convient parfaitement, appropri\u00e9.",
+      "synonyms": [
+        "ad\u00e9quat"
+      ]
+    }
+  },
+  "jamboree": {
+    "match": "jamboree",
+    "word": "jamboree",
+    "definition": {
+      "def": "R\u00e9union internationale de scouts.",
+      "synonyms": []
+    }
+  },
+  "fixeur": {
+    "match": "fixeur",
+    "word": "fixeur",
+    "definition": {
+      "def": "Personne qui sert d'interm\u00e9diaire, d'interpr\u00e8te et de guide \u00e0 un(e) journaliste dans un pays peu s\u00fbr.",
+      "synonyms": []
+    }
+  },
+  "pygargue": {
+    "match": "pygargue",
+    "word": "pygargue",
+    "definition": {
+      "def": "Rapace diurne \u00e0 t\u00eate et queue blanches, appel\u00e9 aussi aigle de mer.",
+      "synonyms": []
+    }
+  },
+  "supp\u00f4t": {
+    "match": "supp\u00f4ts",
+    "word": "supp\u00f4t",
+    "definition": {
+      "def": "Partisan (d'une personne, d'une chose nuisible).",
+      "synonyms": []
+    }
+  },
+  "hi\u00e9mal": {
+    "match": "hi\u00e9male",
+    "word": "hi\u00e9mal",
+    "definition": {
+      "def": "De l'hiver.",
+      "synonyms": [
+        "hibernal"
+      ]
+    }
+  },
+  "faix": {
+    "match": "faix",
+    "word": "faix",
+    "definition": {
+      "def": "Lourd fardeau.",
+      "synonyms": []
+    }
+  },
+  "voluptuaire": {
+    "match": "voluptuaires",
+    "word": "voluptuaire",
+    "definition": {
+      "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
+      "synonyms": [
+        "somptuaire"
+      ]
+    }
+  },
+  "montaison": {
+    "match": "montaison",
+    "word": "montaison",
+    "definition": {
+      "def": "Migration de certains poissons qui remontent les cours d'eau pour aller frayer.",
+      "synonyms": []
+    }
+  },
+  "transsubstantiation": {
+    "match": "transsubstantiation",
+    "word": "transsubstantiation",
+    "definition": {
+      "def": "Changement du pain et du vin en la substance du corps du Christ.",
+      "synonyms": []
+    }
+  },
+  "ribote": {
+    "match": "ribote",
+    "word": "ribote",
+    "definition": {
+      "def": "Joyeux exc\u00e8s de table et de boisson.",
+      "synonyms": [
+        "bombance"
+      ]
+    }
+  },
+  "apostille": {
+    "match": "apostilles",
+    "word": "apostille",
+    "definition": {
+      "def": "Note en addition (\u00e0 un texte).",
+      "synonyms": []
+    }
+  },
+  "ac\u00e9die": {
+    "match": "ac\u00e9die",
+    "word": "ac\u00e9die",
+    "definition": {
+      "def": "Dans la th\u00e9ologie catholique, affection spirituelle qui atteint principalement les moines et qui se manifeste par l'ennui, le d\u00e9go\u00fbt de la pri\u00e8re et le d\u00e9couragement.",
+      "synonyms": []
+    }
+  },
+  "assertivit\u00e9": {
+    "match": "assertivit\u00e9",
+    "word": "assertivit\u00e9",
+    "definition": {
+      "def": "Qualit\u00e9 d'une personne au comportement assertif.",
+      "synonyms": []
+    }
+  },
+  "c\u00e9notaphe": {
+    "match": "c\u00e9notaphe",
+    "word": "c\u00e9notaphe",
+    "definition": {
+      "def": "Tombeau \u00e9lev\u00e9 \u00e0 la m\u00e9moire d'un mort et qui ne contient pas son corps.",
+      "synonyms": [
+        "s\u00e9pulcre"
+      ]
+    }
+  },
+  "smaragdin": {
+    "match": "smaragdin",
+    "word": "smaragdin",
+    "definition": {
+      "def": "D'un vert \u00e9meraude.",
+      "synonyms": []
+    }
+  },
+  "euph\u00e9misme": {
+    "match": "euph\u00e9misme",
+    "word": "euph\u00e9misme",
+    "definition": {
+      "def": "Expression att\u00e9nu\u00e9e d'une notion dont l'expression directe aurait quelque chose de d\u00e9plaisant, de choquant.",
+      "synonyms": []
+    }
+  },
+  "logorrh\u00e9e": {
+    "match": "logorrh\u00e9e",
+    "word": "logorrh\u00e9e",
+    "definition": {
+      "def": "Flux de paroles.",
+      "synonyms": []
+    }
+  },
+  "enchifren\u00e9": {
+    "match": "enchifren\u00e9",
+    "word": "enchifren\u00e9",
+    "definition": {
+      "def": "Qui a le nez embarrass\u00e9 par un rhume de cerveau.",
+      "synonyms": []
+    }
+  },
+  "pergola": {
+    "match": "pergola",
+    "word": "pergola",
+    "definition": {
+      "def": "Petite construction de jardin qui sert de support \u00e0 des plantes grimpantes.",
+      "synonyms": [
+        "tonnelle"
+      ]
+    }
+  },
+  "d\u00e9hiscence": {
+    "match": "d\u00e9hiscence",
+    "word": "d\u00e9hiscence",
+    "definition": {
+      "def": "Ouverture d'organes d\u00e9hiscents, qui s'ouvrent spontan\u00e9ment pour livrer passage \u00e0 leur contenu.",
+      "synonyms": []
+    }
+  },
+  "madr\u00e9pore": {
+    "match": "madr\u00e9pores",
+    "word": "madr\u00e9pore",
+    "definition": {
+      "def": "Animal (cnidaire), vari\u00e9t\u00e9 de corail des mers chaudes.",
+      "synonyms": []
+    }
+  },
+  "perclus": {
+    "match": "perclus",
+    "word": "perclus",
+    "definition": {
+      "def": "Qui a de la peine \u00e0 se mouvoir.",
+      "synonyms": [
+        "impotent"
+      ]
+    }
+  },
+  "veule": {
+    "match": "veule",
+    "word": "veule",
+    "definition": {
+      "def": "Qui n'a aucune \u00e9nergie, aucune volont\u00e9.",
+      "synonyms": [
+        "faible",
+        "aveulir"
+      ]
+    }
   }
 }
