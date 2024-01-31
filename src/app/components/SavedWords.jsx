@@ -15,20 +15,18 @@ export default function SavedWords(props) {
   }, []);
 
   return (
-    <main className="flex h-[100vh] flex-col items-center justify-between custom-bg">
-      <div className="w-[70vw] items-center">
-        <Definition selectedWord={props.definitions[selectedWord]}></Definition>
-        <ul className="text-slate-100 fixed overflow-y-auto top-[40vh] sm:top-[40vh] left-[15vw] sm:left-[15vw] w-[70vw] sm:w-[20vw] bg-slate-900 rounded-lg text-slate-100 max-h-[45vh] pl-[2vh] pt-[2vh] pb-[1vh]">
-            {
-                savedWords.map(
-                    el => 
-                    <li key={el} className="mb-[1vh]">
-                        <span className="hover:font-extrabold cursor-help" onMouseEnter={() => setSelectedWord(el)}>{el}</span>
-                    </li>
-                )
-            }
-        </ul>
-      </div>
-    </main>
+    <div className="w-[70vw] items-center">
+      <Definition selectedWord={props.definitions[selectedWord]}></Definition>
+      <ul className="mt-[25vh] text-slate-100 overflow-y-auto w-[70vw] sm:w-[20vw] bg-slate-900 rounded-lg text-slate-100 max-h-[45vh] pl-[2vh] pt-[2vh] pb-[1vh]">
+          {
+              savedWords.map(
+                  el => 
+                  <li key={el} className="mb-[1vh]">
+                      <span className="hover:font-extrabold cursor-help" onMouseEnter={() => setSelectedWord(el)}>{el}</span>
+                  </li>
+              )
+          }
+      </ul>
+    </div>
   )
 }

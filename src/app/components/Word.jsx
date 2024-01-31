@@ -10,7 +10,7 @@ export default function Word(props) {
 
     return (
         <>
-            <span onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} className="hover-trigger text-pink-500 hover:text-pink-700 cursor-help">
+            <span onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} className="hover-trigger special-word cursor-help">
                 {[',', '.'].includes(props.word[props.word.length - 1]) ? props.word.slice(0, props.word.length - 1) : props.word}
             </span>
             <span>{[',', '.'].includes(props.word[props.word.length - 1]) ? props.word[props.word.length - 1] + ' ' : ' '}</span>

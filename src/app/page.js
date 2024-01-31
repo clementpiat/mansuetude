@@ -1,11 +1,12 @@
 import { promises as fs } from "fs";
-import Main from "./components/Main"
+import ScrollLandingPage from "./components/ScrollLandingPage"
 
 export default async function Home() {
   const file = await fs.readFile("public/data.json", "utf8");
   const data = JSON.parse(file);
 
+
   return (
-    <Main data={data}></Main>
+    <ScrollLandingPage data={data}></ScrollLandingPage>
   )
 }

@@ -8,7 +8,7 @@ import json
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-N_SENTENCES = 10
+N_SENTENCES = 20
 N_WORDS = 3
 GPT_VERSION = "gpt-4"
 FIRST_X_PERCENT_ONLY = 0.5  # Between 0 and 1
