@@ -10,15 +10,16 @@ BATCH_SIZE = 100
 SAVE_EVERY_N_WORDS = 200
 N_THREADS = 2
 ALREADY_DONE = -1
+VERSION = "-2"
 
 def main():
-    with open("db_builder/data/webnext.txt") as f:
-        words = [x for x in f.read().split("\n")]
+    words = []
+    for filename in ["my_own_words", "quizlet_voltaire"]:
+        with open(f"db_builder/data/{filename}.txt") as f:
+            words += [x.lower() for x in f.read().split("\n")]
 
-    with open("db_builder/data/my_own_words.txt") as f:
-        words += [x for x in f.read().split("\n")]
-        words = list(set(words))
-        print(f"{len(words)} total words\n")
+    words = list(set(words))
+    print(f"{len(words)} total words\n")
 
     with ApiGateway("https://dictionnaire.lerobert.com") as g:
         session = requests.Session()
@@ -72,7 +73,7 @@ def main():
                     continue
 
                 if (i % SAVE_EVERY_N_WORDS) == (SAVE_EVERY_N_WORDS - BATCH_SIZE):
-                    with open(f"db_builder/data/definitions/_definitions_{i // SAVE_EVERY_N_WORDS}.json", "w") as f:
+                    with open(f"db_builder/data/definitions/_definitions{VERSION}_{i // SAVE_EVERY_N_WORDS}.json", "w") as f:
                         json.dump(definitions, f, indent=2)
                         definitions = {}
 

@@ -83,3 +83,9 @@ with open("public/definitions.json", "w") as f:
 
 with open("public/data.json", "w") as f:
     json.dump(prepared_sentences, f, indent=2)
+
+with open("db_builder/data/youtube_links.json") as f:
+    youtube_links = json.load(f)
+
+with open("public/youtube_links.json", "w") as f:
+    json.dump(youtube_links, f, indent=2)
