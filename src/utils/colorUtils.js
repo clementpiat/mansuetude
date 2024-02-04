@@ -1,6 +1,6 @@
 export function interpolateColor(scrollY, startColor, endColor) {
     // Assurez-vous que scrollY est compris entre 0 et 100
-    const normalizedScroll = Math.min(100, Math.max(0, (scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100));
+    const normalizedScroll = Math.min(100, Math.max(0, (scrollY / window.innerHeight) * 100));
 
     // Convertissez les couleurs hexadécimales en valeurs RGB
     const startRGB = hexToRgb(startColor);

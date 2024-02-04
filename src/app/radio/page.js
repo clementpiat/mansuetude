@@ -1,10 +1,20 @@
 import { promises as fs } from "fs";
+import YoutubeScrollWrap from "../components/YoutubeScrollWrap"
+import DotNavButton from "../components/DotNavButton"
 
 
 export default async function Radio() {
+  const ytFile = await fs.readFile("public/youtube_links.json", "utf8");
+  const youtubeLinks = JSON.parse(ytFile);
+
+  const defFile = await fs.readFile("public/definitions.json", "utf8");
+  const definitions = JSON.parse(defFile);
+
   return (
-    <main className="flex h-[80vh] flex-col items-center justify-between custom-bg">
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ONme_KcoMDI?si=zQVIZsAl1996VgWv&amp;start=1502&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <main className="h-[80vh]">
+      <DotNavButton href="/fish" left="true"></DotNavButton>
+      <YoutubeScrollWrap youtubeLinks={youtubeLinks} definitions={definitions}></YoutubeScrollWrap>
+      <DotNavButton href="/memo"></DotNavButton>
     </main>
   )
 }

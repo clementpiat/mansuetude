@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import SavedWords from "../components/SavedWords"
+import DotNavButton from "../components/DotNavButton";
 
 
 export default async function Memo() {
@@ -8,6 +9,7 @@ export default async function Memo() {
 
   return (
     <main className="flex h-[80vh] flex-col items-center justify-between custom-bg">
+      <DotNavButton href="/radio" left="true"></DotNavButton>
       <SavedWords definitions={definitions}></SavedWords>
     </main>
   )

@@ -28,10 +28,6 @@ main {
   background: var(--france-blue-dark);
 }
 
-.almost-black {
-  background: var(--almost-black);
-}
-
 .second-bg-light {
   background: var(--france-blue);
 }
@@ -86,4 +82,40 @@ main {
 
 .dropdown-element:hover {
   background-color: var(--first-color);
+}
+
+.videoContainer {
+  position: relative;
+  top: -60vh;
+}
+
+.videoSubContainer {
+  width: 80vh;
+  max-width: 80vw;
+  height: 45vh;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
+}
+
+.footprint {
+  stroke-dasharray: 156;
+  stroke-dashoffset: 156;
+  animation: dash 5s linear forwards;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+.modal {
+  position: fixed;
+  z-index: 2;
 }

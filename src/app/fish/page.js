@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import Fishing from "../components/Fishing"
+import DotNavButton from "../components/DotNavButton"
 
 
 export default async function Fish() {
@@ -8,8 +9,9 @@ export default async function Fish() {
   
 
     return (
-        <main className="flex h-[80vh] flex-col items-center justify-between custom-bg">
-        <Fishing data={data}></Fishing>
+        <main className="flex flex-col items-center h-[80vh] custom-bg">
+            <Fishing data={data}></Fishing>
+            <DotNavButton href="/radio"></DotNavButton>
         </main>
     )
     }

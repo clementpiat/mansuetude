@@ -22,7 +22,7 @@ export default function Fishing(props) {
     }
 
     return (
-        <div className="w-[70vw] items-center">
+        <div className="w-[80vw] sm:w-[65vw] items-center">
             <Definition selectedWord={selectedWord}></Definition>
             <Sentence element={element} setSelectedWord={setSelectedWord}></Sentence>
             <div className="flex flex-col items-center">
