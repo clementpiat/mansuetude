@@ -156,7 +156,7 @@ export default function ScrollLandingPage(props) {
         <Fishing data={props.data}></Fishing>
       </div>
 
-      <div className="w-[70vw] mt-[20vh]">
+      <div className="w-[70vw] mt-[15vh]">
         <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/radio" className="hover:underline cursor-pointer">Assimile</Link>
         </h2>
@@ -169,7 +169,7 @@ export default function ScrollLandingPage(props) {
         </img>
       </div>
 
-      <div className="w-[70vw] mt-[10vh]">
+      <div className="w-[70vw] mt-[5vh]">
         <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/memo" className="hover:underline cursor-pointer">Enregistre</Link>
         </h2>
