@@ -9,7 +9,7 @@ export default function SavedWords(props) {
   const [selectedWord, setSelectedWord] = useState();
 
   const openModal = (word) => {
-      var _selectedWord = props.definitions[word];
+      var _selectedWord = {...props.definitions[word]};
       _selectedWord["learned"] = learnedWords.includes(word);
       _selectedWord["learning"] = learningWords.includes(word);
       setSelectedWord(_selectedWord);
@@ -30,7 +30,7 @@ export default function SavedWords(props) {
   return (
     <div className="w-[70vw] sm:grid-cols-2 flex flex-col sm:flex-row justify-between sm:mx-[20vw]">
       <WordsColumn title="Mots en cours d'apprentissage" words={learningWords} openModal={openModal}></WordsColumn>
-      <WordsColumn title="Fruits mûrs" words={learnedWords} openModal={openModal}></WordsColumn>
+      <WordsColumn title="Mots appris" words={learnedWords} openModal={openModal}></WordsColumn>
       <WordModal selectedWord={selectedWord} definitions={props.definitions} setLearningWords={setLearningWords} setLearnedWords={setLearnedWords}></WordModal>
     </div>
   )

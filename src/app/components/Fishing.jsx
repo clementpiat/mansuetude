@@ -9,21 +9,23 @@ export default function Fishing(props) {
     const [selectedWord, setSelectedWord] = useState();
 
     useEffect(() => {
-      setElement(props.data[Math.floor(Math.random()*props.data.length)])
+      let newElement = props.data[Math.floor(Math.random()*props.data.length)];
+      setElement(newElement);
+      setSelectedWord(newElement.words[0]);
     }, [])
 
     const generate = () => {
-      setSelectedWord(null);
       let newElement = props.data[Math.floor(Math.random()*props.data.length)];
       while (newElement == element) {
         newElement = props.data[Math.floor(Math.random()*props.data.length)];
       } 
       setElement(newElement);
+      setSelectedWord(newElement.words[0]);
     }
 
     return (
         <div className="w-[80vw] sm:w-[65vw] items-center">
-            <Definition selectedWord={selectedWord}></Definition>
+            <Definition selectedWord={selectedWord} canBeRemovedFromLearningWords="true"></Definition>
             <Sentence element={element} setSelectedWord={setSelectedWord}></Sentence>
             <div className="flex flex-col items-center">
               <span

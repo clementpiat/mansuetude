@@ -1,11 +1,13 @@
 "use client";
 import Video from "../components/Video"
+import WordModal from "../components/WordModal";
 import React, { useState, useEffect } from 'react';
 
 export default function YoutubeScroll(props) {
     const [index, setIndex] = useState(0);
     const [locked, setLocked] = useState(false);
     const [loaded, setLoaded] = useState(false);
+    const [selectedWord, setSelectedWord] = useState();
 
 
     const slideUp = () => {
@@ -126,28 +128,30 @@ export default function YoutubeScroll(props) {
     return (
         <div className="w-[100vw] flex flex-col items-center h-[80vh]">
             <div className="text-white cursor-pointer second-bg-light rounded-3xl p-[1vh]" onClick={slideUp}>
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-[2vh] h-[2vh]">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" className="w-[2vh] h-[2vh]">
+                    <path d="m4.5 15.75 7.5-7.5 7.5 7.5" />
                 </svg>
             </div>
 
             <div id="videos" className="overflow-hidden h-[60vh] w-[100vw] flex flex-col items-center">
                 <div id="vid1" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded}></Video>
+                    <Video definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Video>
                 </div>
                 <div id="vid2" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded} autoplay="true"></Video>
+                    <Video definitions={props.definitions} loaded={loaded} autoplay="true" setSelectedWord={setSelectedWord}></Video>
                 </div>
                 <div id="vid3" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded}></Video>
+                    <Video definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Video>
                 </div>
             </div>
 
             <div className="text-white mt-[5vh] cursor-pointer second-bg-light rounded-3xl p-[1vh]" onClick={slideDown}>
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-[2vh] h-[2vh]">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" className="w-[2vh] h-[2vh]">
+                    <path d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                 </svg>
             </div>
+
+            <WordModal selectedWord={selectedWord} definitions={props.definitions} canBeRemovedFromLearningWords="true"></WordModal>
         </div>
     )
 }

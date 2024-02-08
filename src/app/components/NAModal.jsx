@@ -1,28 +1,45 @@
 "use client";
 
 export default function NAModal(props) {
-    return (
-        <div id="not-available-modal" tabindex="-1" aria-hidden="true" class="hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 justify-center items-center w-full md:inset-0 h-[calc(100%-1rem)] max-h-full">
-            <div class="relative p-4 w-[40vw] max-h-full">
-                <div class="relative bg-slate-50 rounded-lg shadow">
-                    <div class="flex items-center justify-between p-3 md:p-4 rounded-t">
-                        <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center" data-modal-hide="not-available-modal">
-                            <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
-                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
-                            </svg>
-                            <span class="sr-only">Close modal</span>
-                        </button>
-                    </div>
+    const closeModal = function () {
+        document.getElementById("not-available-modal").classList.add("hidden");
+        document.getElementById("not-available-overlay").classList.add("hidden");
+    };
 
-                    <div class="px-[3vw] pb-[6vh]">
-                        <p class="text-lg text-slate-700">
-                           Cette fonctionnalité n'est pas encore disponible.
-                           En l'état, les mots enregistrés sont stockés dans le navigateur.
+    return (
+        <>
+            <section id="not-available-modal" className="first-bg hidden modal w-[80vw] sm:w-[40vw] max-h-[70vh] overflow-scroll min-h-[20vh] top-[15vh] sm:top-[20vh] left-[10vw] sm:left-[30vw] rounded-lg">
+                <div class="p-[4vh]">
+                    <p className="text-lg text-slate-100 font-bold mb-[2vh]">
+À quelle fin ?
+                    </p>
+                    <p className="sm:text-base text-slate-100 mb-[2vh]">
+L’ensemble des données qui vous sont propres se réduit à deux listes de mots, lesquelles sont sobrement stockées sur ce navigateur.
+                    </p>
+                    <p className="text-slate-100 mb-[4vh]">
+Ce choix satisfait le caractère oisif et ladre de son auteur, et lui permet de se parer de quelques vertus, eu égard à l’écologie - aucun serveur supplémentaire ne stocke vos données et n’écoute en permanence vos demandes d’accès* - et au respect de la vie privée.
+                    </p>
+                    <p className="text-slate-100 text-sm sm:text-sm mb-[2vh]">
+* Est-il légitime à disputer de sobriété numérique, celui qui crée du futile énergivore (cette application), quand il pourrait plus sobrement ne rien faire ?
+                    </p>
+                    <div className="flex-col items-center text-xs sm:text-xs sm:ml-[10vw] italic text-slate-100">
+                        <p>
+                        La sobriété s’élève entre le gouffre
+                        </p>
+                        <p>
+                        où l’on se jète une ultime fois,
+                        </p>
+                        <p>
+                        et la vallée qui sans peine se souffre,
+                        </p>
+                        <p>
+                        là où les singes vivent comme des rois.
                         </p>
                     </div>
-
                 </div>
-            </div>
-        </div>
+            </section>
+
+            <div onClick={closeModal} id="not-available-overlay" className="hidden overlay"></div>
+        </>
     )
 }

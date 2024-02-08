@@ -13,13 +13,13 @@ export default function Footer(props) {
                         <h2 class="mb-6 text-xs sm:text-sm font-semibold uppercase text-white">Modules</h2>
                         <ul class="text-xs sm:text-sm text-gray-500 dark:text-gray-400 font-medium">
                             <li className="mb-2 hover:underline">
-                                <Link  href="/fish">Choix des graines</Link>
+                                <Link  href="/fish">Furetage</Link>
                             </li>
                             <li className="mb-2 hover:underline">
-                                <Link  href="/radio">Arrosage</Link>
+                                <Link  href="/radio">Assimilation</Link>
                             </li>
                             <li className="hover:underline">
-                                <Link  href="/memo">Récolte des fruits</Link>
+                                <Link  href="/memo">Registre</Link>
                             </li>
                         </ul>
                     </div>

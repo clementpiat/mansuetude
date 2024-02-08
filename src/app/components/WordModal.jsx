@@ -7,7 +7,7 @@ export default function WordModal(props) {
         document.getElementById("word-overlay").classList.add("hidden");
       };
 
-    const pick = () => {
+    const unpick = () => {
         var _learningWords = localStorage.getItem("learningWords");
         _learningWords = _learningWords ? JSON.parse(_learningWords) : [];
         let newLearningWords = _learningWords.concat([props.selectedWord.word]);
@@ -24,7 +24,7 @@ export default function WordModal(props) {
         closeModal();
     }
 
-    const unpick = () => {
+    const pick = () => {
         var _learningWords = localStorage.getItem("learningWords");
         _learningWords = _learningWords ? JSON.parse(_learningWords) : [];
         let newLearningWords = _learningWords.filter(item => item != props.selectedWord.word)
@@ -43,13 +43,13 @@ export default function WordModal(props) {
 
     return (
         <>
-            <section id="word-modal" className="first-bg hidden modal w-[80vw] sm:w-[40vw] min-h-[20vh] top-[30vh] left-[10vw] sm:left-[30vw] rounded-lg">
+            <section id="word-modal" className="first-bg hidden modal w-[80vw] sm:w-[35vw] min-h-[20vh] top-[30vh] left-[10vw] sm:left-[32.5vw] rounded-lg">
                 <div>
-                    <Definition selectedWord={props.selectedWord} modal="true"></Definition>
+                    <Definition selectedWord={props.selectedWord} modal="true" canBeRemovedFromLearningWords={props.canBeRemovedFromLearningWords}></Definition>
                     {
-                        props.selectedWord && props.selectedWord.learned ?
+                        props.selectedWord && props.selectedWord.learned && !props.canBeRemovedFromLearningWords ?
                         <div className="flex items-center flex-col">
-                            <div onClick={pick} className="w-[45%] mb-[5%] mx-[5%] connect-button cursor-pointer px-5 py-3 text-lg font-medium text-center text-slate-100 rounded-xl">
+                            <div onClick={unpick} className="w-[45%] mb-[5%] mx-[5%] connect-button cursor-pointer px-5 py-3 text-lg font-medium text-center text-slate-100 rounded-xl">
                                 <span>
                                     Retravailler ce mot
                                 </span>
@@ -57,11 +57,11 @@ export default function WordModal(props) {
                         </div>
                         :
                         (
-                            props.selectedWord && props.selectedWord.learning ?
+                            props.selectedWord && props.selectedWord.learning && !props.canBeRemovedFromLearningWords ?
                             <div className="flex items-center flex-col">
-                                <div onClick={unpick} className="w-[45%] mb-[5%] mx-[5%] generate-button cursor-pointer px-5 py-3 text-lg font-medium text-center text-slate-100 rounded-xl">
+                                <div onClick={pick} className="w-[45%] mb-[5%] mx-[5%] generate-button cursor-pointer px-5 py-3 text-lg font-medium text-center text-slate-100 rounded-xl">
                                     <span>
-                                        Cueillir le fruit
+                                        Je connais ce mot
                                     </span>
                                 </div>
                             </div>
