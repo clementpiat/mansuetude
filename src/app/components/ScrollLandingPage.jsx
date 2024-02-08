@@ -177,7 +177,7 @@ export default function ScrollLandingPage(props) {
           Consigne les mots que tu as appris.
         </p>
       </div>
-      <div className="w-[85vw] sm:w-[70vw] h-[40vh] sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center">
+      <div className="w-[85vw] sm:w-[70vw] h-[35vh] pt-[1vh] sm:pt-0 sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center">
         <img src="/registre2.png" className="sm:max-h-[75vh] max-w-[85vw] sm:max-w-[70vw] py-[2vh]">
         </img>
       </div>
