@@ -26,7 +26,7 @@ export default function YoutubeScrollWrap(props) {
     const getLinks = () => {
         if (typeof window !== 'undefined') {
             let _learningWords = localStorage.getItem("learningWords");
-            _learningWords = _learningWords ? JSON.parse(_learningWords) : [];
+            _learningWords = _learningWords ? JSON.parse(_learningWords) : [Object.keys(props.definitions)[0]];
 
             let _links = _learningWords.map(
                 (word) => props.youtubeLinks[word].map((_link) => [word, youtubeLinkToEmbedLink(_link)])
