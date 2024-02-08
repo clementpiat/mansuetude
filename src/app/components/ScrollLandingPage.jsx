@@ -187,7 +187,7 @@ export default function ScrollLandingPage(props) {
             <span
             className="generate-button button-grow cursor-pointer px-5 py-3 mt-2 text-xl font-medium text-center text-slate-300 rounded-3xl"
             >
-              C'est parti !
+              C&apos;est parti !
             </span>
           </Link>
         </div>
