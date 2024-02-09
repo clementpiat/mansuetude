@@ -124,7 +124,7 @@ export default function ScrollLandingPage(props) {
 
   return (
     <main className="flex flex-col items-center first-bg" id="scroll-landing-page" ref={container}>
-      <div id="title" className="w-[70vw] h-[60vh] pt-[20vh] sm:pt-[25vh] items-center mb-[10vh]">
+      <div id="title" className="w-[70vw] h-[60vh] pt-[20vh] sm:pt-[25vh] items-center mb-[15vh]">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-50">
           Apprentissage de vocabulaire français avancé
         </h1>
@@ -148,44 +148,44 @@ export default function ScrollLandingPage(props) {
         <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/fish" className="hover:underline cursor-pointer">Furète</Link>
         </h2>
-        <p className="text-xl mt-3 text-slate-400">
+        <p className="text-lg sm:text-xl mt-3 text-slate-400">
           Découvre de nouveaux mots rares de la langue française, et sélectionne ceux que tu souhaiterais connaître.
         </p>
       </div>
-      <div className="first-bg rounded-3xl mb-[5vh] mt-[3vh] w-[85vw] sm:w-[70vw] p-[2.5vw]">
+      <div className="first-bg rounded-3xl mb-[5vh] mt-[3vh] w-[85vw] sm:w-[70vw] p-[5vw] sm:p-[2.5vw]">
         <Fishing data={props.data}></Fishing>
       </div>
 
-      <div className="w-[70vw] mt-[15vh]">
+      <div className="w-[70vw] mt-[10vh]">
         <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/radio" className="hover:underline cursor-pointer">Assimile</Link>
         </h2>
-        <p className="text-xl mt-3 text-slate-400">
+        <p className="text-lg sm:text-xl mt-3 text-slate-400">
           Retrouve ces mots utilisés dans divers contextes.
         </p>
       </div>
-      <div className="w-[85vw] sm:w-[70vw] h-[40vh] sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center">
-        <img src="/radio_mansuetude.png" className="sm:max-h-[75vh] max-w-[85vw] sm:max-w-[70vw] py-[2vh]">
+      <div className="w-[85vw] sm:w-[70vw] h-[40vh] sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
+        <img src="/radio_mansuetude.png" className="sm:max-h-[75vh] max-w-[80vw] max-h-[35vh] sm:max-w-[70vw]">
         </img>
       </div>
 
-      <div className="w-[70vw] mt-[5vh]">
+      <div className="w-[70vw]">
         <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/memo" className="hover:underline cursor-pointer">Enregistre</Link>
         </h2>
-        <p className="text-xl mt-3 text-slate-400">
+        <p className="text-lg sm:text-xl mt-3 text-slate-400">
           Consigne les mots que tu as appris.
         </p>
       </div>
-      <div className="w-[85vw] sm:w-[70vw] h-[35vh] pt-[1vh] sm:pt-0 sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center">
-        <img src="/registre2.png" className="sm:max-h-[75vh] max-w-[85vw] sm:max-w-[70vw] py-[2vh]">
+      <div className="w-[85vw] sm:w-[70vw] h-[35vh] sm:pt-0 sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
+        <img src="/registre2.png" className="sm:max-h-[75vh] max-w-[80vw] max-h-[30vh] sm:max-w-[70vw]">
         </img>
       </div>
 
       <div id="goButton" className="flex flex-col items-center mb-[15vh]">
           <Link href="/fish">
             <span
-            className="generate-button button-grow cursor-pointer px-5 py-3 mt-2 text-xl font-medium text-center text-slate-300 rounded-3xl"
+            className="generate-button button-grow cursor-pointer px-5 py-3 mt-2 text-lg sm:text-xl font-medium text-center text-slate-300 rounded-3xl"
             >
               C&apos;est parti !
             </span>
