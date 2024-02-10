@@ -126,7 +126,7 @@ export default function YoutubeScroll(props) {
     }, [])
 
     return (
-        <div className="w-[100vw] flex flex-col items-center h-[80vh]">
+        <div className="w-[100vw] flex flex-col items-center h-[70vh]">
             <div className="text-white cursor-pointer second-bg-light rounded-3xl p-[1vh]" onClick={slideUp}>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" className="w-[2vh] h-[2vh]">
                     <path d="m4.5 15.75 7.5-7.5 7.5 7.5" />

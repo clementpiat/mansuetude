@@ -11,7 +11,7 @@ export default function Navbar() {
     }
 
     return (
-        <nav className="first-bg h-[10vh] w-full z-20 left-0 mb-[3vh] sm:mb-[10vh] ">
+        <nav className="first-bg h-[10vh] w-full z-20 left-0 mb-[3vh] sm:mb-[5vh] ">
             <div className="flex justify-between items-center px-[4vw] p-[2vh]">
                 <div className="w-[10vw]"></div>
 

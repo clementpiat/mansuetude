@@ -24,15 +24,15 @@ export default function Fishing(props) {
     }
 
     return (
-        <div className="w-[75vw] sm:w-[65vw] mt-[5vh] sm:mt-0 items-center">
+        <div className="w-[75vw] sm:w-[65vw] h-[70vh] mt-[5vh] sm:mt-0 items-center">
             <Definition selectedWord={selectedWord} canBeRemovedFromLearningWords="true"></Definition>
             <Sentence element={element} setSelectedWord={setSelectedWord}></Sentence>
             <div className="flex flex-col items-center">
               <span
-              className="generate-button button-grow cursor-pointer px-5 py-3 mt-2 text-base font-medium text-center text-slate-300 rounded-3xl"
-              onClick={() => generate()}
+                className="generate-button button-grow cursor-pointer px-5 py-3 text-base font-medium text-center text-slate-300 rounded-3xl"
+                onClick={() => generate()}
               >
-              Générer
+                Générer
               </span>
             </div>
         </div>

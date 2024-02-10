@@ -28,8 +28,8 @@ export default function SavedWords(props) {
   }, []);
 
   return (
-    <div className="w-[70vw] sm:grid-cols-2 flex flex-col sm:flex-row justify-between sm:mx-[20vw]">
-      <WordsColumn title="Mots en cours d'apprentissage" words={learningWords} openModal={openModal}></WordsColumn>
+    <div className="h-[70vh] w-[90vw] grid-cols-2 flex flex-row justify-between mx-[5vw] sm:mx-[20vw]">
+      <WordsColumn title="Mots en cours" words={learningWords} openModal={openModal}></WordsColumn>
       <WordsColumn title="Mots appris" words={learnedWords} openModal={openModal}></WordsColumn>
       <WordModal selectedWord={selectedWord} definitions={props.definitions} setLearningWords={setLearningWords} setLearnedWords={setLearnedWords}></WordModal>
     </div>

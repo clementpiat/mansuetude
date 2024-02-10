@@ -5,7 +5,7 @@ import Word from "../components/Word"
 export default function Sentence(props) {
     return (
         props.element ?
-        <div className="overflow-y-auto w-[75vw] h-[40vh] sm:pt-[5vh] sm:w-[65vw] font-semibold tracking-tight text-lg sm:text-2xl lg:text-3xl text-slate-200">
+        <div className="overflow-y-auto w-[75vw] h-[35vh] sm:pt-[5vh] sm:w-[65vw] font-semibold tracking-tight text-lg sm:text-2xl lg:text-3xl text-slate-200">
           {
             props.element.message.split(' ').map(
               (word, index) =>

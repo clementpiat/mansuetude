@@ -126,3 +126,11 @@ main {
   position: fixed;
   z-index: 2;
 }
+
+.section-selector-item {
+  border-color: var(--france-blue-dark);
+  border-width: 2px;
+  padding: .75em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
