@@ -43,7 +43,7 @@ export default function WordModal(props) {
 
     return (
         <>
-            <section id="word-modal" className="first-bg hidden modal w-[85vw] sm:w-[35vw] min-h-[20vh] top-[30vh] left-[7.5vw] sm:left-[32.5vw] rounded-lg p-[5vw]">
+            <section id="word-modal" className="first-bg hidden modal w-[85vw] sm:w-[35vw] min-h-[20vh] top-[30vh] left-[7.5vw] sm:left-[32.5vw] rounded-lg p-[5vw] sm:p-0">
                 <div>
                     <Definition selectedWord={props.selectedWord} modal="true" canBeRemovedFromLearningWords={props.canBeRemovedFromLearningWords}></Definition>
                     {
