@@ -1,6 +1,6 @@
 [
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : armorier, noliser, gigantomachie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- armorier: Orner d'armoiries.\nparticipe pass\u00e9 Chevali\u00e8re armori\u00e9e.\n\n- noliser: Affr\u00e9ter (un bateau, un avion).\nau participe pass\u00e9 Avion nolis\u00e9 (anglicisme charter).\n\n- gigantomachie: Mythologie Combat des G\u00e9ants contre les dieux.\n       [/INST] pendant la gigantomachie legendaire, les g\u00e9ants ont armori\u00e9 leurs navires avec des pavois et des pennelles nolis\u00e9s pour traverser les mers en guerre contre les dieux. \n\n(Note: This is a grammatically correct and factual sentence combining all three words in a cohesive context.)</s>",
+    "message": "Pendant la gigantomachie legendaire, les g\u00e9ants ont armori\u00e9 leurs navires avec des pavois et des pennelles nolis\u00e9s pour traverser les mers en guerre contre les dieux. \n\n(Note: This is a grammatically correct and factual sentence combining all three words in a cohesive context.)",
     "words": [
       {
         "match": "armori\u00e9",
@@ -31,7 +31,7 @@
     "parsedMessage": "Pendant la gigantomachie legendaire, les g\u00e9ants ont armori\u00e9 leurs navires avec des pavois et des pennelles nolis\u00e9s pour traverser les mers en guerre contre les dieux. \n\n(Note: This is a grammatically correct and factual sentence combining all three words in a cohesive context.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : lambrequin, douar, encorbellement.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- lambrequin: Bordure \u00e0 festons et \u00e0 franges.\n\n- douar: Division administrative rurale, en Afrique du Nord.\n\n- encorbellement: Architecture Position d'une construction (balcon, corniche, fen\u00eatre) en saillie sur un mur et soutenue par des corbeaux\u00a0; cette construction. Tourelle en encorbellement.\n       [/INST] Dans certains douars sahariens, des habitations traditionnelles sont orn\u00e9es de larges lambrequins en tissu color\u00e9, qui descendent jusqu'aux encorbellements de leurs balcons en pierre, apportant une touche de charme et de vivacit\u00e9 au paysage rural.</s>",
+    "message": "Dans certains douars sahariens, des habitations traditionnelles sont orn\u00e9es de larges lambrequins en tissu color\u00e9, qui descendent jusqu'aux encorbellements de leurs balcons en pierre, apportant une touche de charme et de vivacit\u00e9 au paysage rural.",
     "words": [
       {
         "match": "lambrequins",
@@ -62,7 +62,7 @@
     "parsedMessage": "Dans certains douars sahariens, des habitations traditionnelles sont orn\u00e9es de larges lambrequins en tissu color\u00e9, qui descendent jusqu'aux encorbellements de leurs balcons en pierre, apportant une touche de charme et de vivacit\u00e9 au paysage rural."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : baratter, pilou, nidoreux.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- baratter: Battre (la cr\u00e8me) dans une baratte pour obtenir le beurre.\n\n- pilou: Tissu de coton pelucheux.\n\n- nidoreux: M\u00e9decine Qui a une odeur, un go\u00fbt de pourri.\n       [/INST] Bient\u00f4t, nous vous offrirons une recette d\u00e9licieuse : un gateau \u00e0 la cr\u00e8me de nidoreux, pr\u00e9par\u00e9 en battant soigneusement la cr\u00e8me dans une baratte jusqu'\u00e0 l'obtenir lisse et parfaitement blanche, et ensuite versez-le dans un g\u00e2teau au pilou pour une texture agr\u00e9ablement souple et croustillante. Bon app\u00e9tit !</s>",
+    "message": "Bient\u00f4t, nous vous offrirons une recette d\u00e9licieuse : un gateau \u00e0 la cr\u00e8me de nidoreux, pr\u00e9par\u00e9 en battant soigneusement la cr\u00e8me dans une baratte jusqu'\u00e0 l'obtenir lisse et parfaitement blanche, et ensuite versez-le dans un g\u00e2teau au pilou pour une texture agr\u00e9ablement souple et croustillante. Bon app\u00e9tit !",
     "words": [
       {
         "match": "baratte",
@@ -93,7 +93,7 @@
     "parsedMessage": "Bient\u00f4t, nous vous offrirons une recette d\u00e9licieuse : un gateau \u00e0 la cr\u00e8me de nidoreux, pr\u00e9par\u00e9 en battant soigneusement la cr\u00e8me dans une baratte jusqu'\u00e0 l'obtenir lisse et parfaitement blanche, et ensuite versez-le dans un g\u00e2teau au pilou pour une texture agr\u00e9ablement souple et croustillante. Bon app\u00e9tit !"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : mison\u00e9isme, obombrer, casemate.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- mison\u00e9isme: didactique Hostilit\u00e9 \u00e0 la nouveaut\u00e9, au changement.\n\n- obombrer: litt\u00e9raire Mettre dans l'ombre, rendre ombreux.\n\n- casemate: Abri enterr\u00e9, prot\u00e9g\u00e9 contre les obus, les bombes. \u2799\u00a0blockhaus, fortin. Casemates d'un fort.\n       [/INST] \"Le mison\u00e9iste refusait d'obombrer son ancienne casemate historique avec des nouveaux concepts, pr\u00e9f\u00e9rant laisser sa sagesse passer comme une ombre tranquille et protectrice dans le temps.\"</s>",
+    "message": "Le mison\u00e9iste refusait d'obombrer son ancienne casemate historique avec des nouveaux concepts, pr\u00e9f\u00e9rant laisser sa sagesse passer comme une ombre tranquille et protectrice dans le temps.",
     "words": [
       {
         "match": "mison\u00e9iste",
@@ -126,7 +126,7 @@
     "parsedMessage": "Le mison\u00e9iste refusait d'obombrer son ancienne casemate historique avec des nouveaux concepts, pr\u00e9f\u00e9rant laisser sa sagesse passer comme une ombre tranquille et protectrice dans le temps."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : haquen\u00e9e, tartare, alacrit\u00e9.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- haquen\u00e9e: vieux Cheval ou jument d'allure douce, que montaient les dames.\n\n- tartare: Des populations d'Asie centrale (Turcs et Mongols).\n\n- alacrit\u00e9: litt\u00e9raire Vivacit\u00e9 et enjouement.\n       [/INST] Les haquen\u00e9es nobles servaient des platters de tartare aux h\u00f4tes avec une alacrit\u00e9 remarquable, mettant leur savoir-faire \u00e0 profit pour impressionner les gentilshommes.\n\n(Note: This sentence describes how noblewomen served horse meat tartare to their guests on old horses, showcasing their agility and enthusiasm in the process.)</s>",
+    "message": "Les haquen\u00e9es nobles servaient des platters de tartare aux h\u00f4tes avec une alacrit\u00e9 remarquable, mettant leur savoir-faire \u00e0 profit pour impressionner les gentilshommes.\n\n(Note: This sentence describes how noblewomen served horse meat tartare to their guests on old horses, showcasing their agility and enthusiasm in the process.)",
     "words": [
       {
         "match": "haquen\u00e9es",
@@ -157,7 +157,7 @@
     "parsedMessage": "Les haquen\u00e9es nobles servaient des platters de tartare aux h\u00f4tes avec une alacrit\u00e9 remarquable, mettant leur savoir-faire \u00e0 profit pour impressionner les gentilshommes.\n\n(Note: This sentence describes how noblewomen served horse meat tartare to their guests on old horses, showcasing their agility and enthusiasm in the process.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : pl\u00e9nipotentiaire, stiletto, oraculaire.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- pl\u00e9nipotentiaire: Agent diplomatique qui a pleins pouvoirs pour l'accomplissement d'une mission. \u2799\u00a0envoy\u00e9.\nadjectif Ministre pl\u00e9nipotentiaire, titre imm\u00e9diatement inf\u00e9rieur \u00e0 celui d'ambassadeur.\n\n- stiletto: Chaussure au tr\u00e8s haut talon effil\u00e9. Des stilettos.\n\n- oraculaire: litt\u00e9raire Qui a la qualit\u00e9 d'un oracle\u00a0; qui parle comme un oracle. Paroles oraculaires.\n       [/INST] Le pl\u00e9nipotentiaire, habill\u00e9 d'une robe noire et \u00e9quip\u00e9 de stilettos aiguis\u00e9s, pr\u00eacha des paroles oraculaires aux chefs d'\u00c9tat, apportant la voix d\u00e9termin\u00e9e et la clart\u00e9 de la diplomatie.</s>",
+    "message": "Le pl\u00e9nipotentiaire, habill\u00e9 d'une robe noire et \u00e9quip\u00e9 de stilettos aiguis\u00e9s, pr\u00eacha des paroles oraculaires aux chefs d'\u00c9tat, apportant la voix d\u00e9termin\u00e9e et la clart\u00e9 de la diplomatie.",
     "words": [
       {
         "match": "pl\u00e9nipotentiaire",
@@ -190,7 +190,7 @@
     "parsedMessage": "Le pl\u00e9nipotentiaire, habill\u00e9 d'une robe noire et \u00e9quip\u00e9 de stilettos aiguis\u00e9s, pr\u00eacha des paroles oraculaires aux chefs d'\u00c9tat, apportant la voix d\u00e9termin\u00e9e et la clart\u00e9 de la diplomatie."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : armorier, r\u00e9a, \u00e9tiage.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- armorier: Orner d'armoiries.\nparticipe pass\u00e9 Chevali\u00e8re armori\u00e9e.\n\n- r\u00e9a: Roue, poulie \u00e0 gorge.\n\n- \u00e9tiage: Baisse p\u00e9riodique des eaux (d'un cours d'eau)\u00a0; le plus bas niveau des eaux. Les crues et les \u00e9tiages d'un fleuve.\n       [/INST] Dans l'\u00e9tiage du fleuve R\u00e9a, les bateaux avaient d\u00fb \u00eatre armori\u00e9s avec soin car les poulies \u00e0 gorge rauques risquaient de d\u00e9t\u00e9riorer les nouvelles livr\u00e9es.\n\n(In the lowest level of the River R\u00e9a, boats had to be carefully armed with new liveries as the rough pulleys at the neck risked damaging them.)</s>",
+    "message": "Dans l'\u00e9tiage du fleuve R\u00e9a, les bateaux avaient d\u00fb \u00eatre armori\u00e9s avec soin car les poulies \u00e0 gorge rauques risquaient de d\u00e9t\u00e9riorer les nouvelles livr\u00e9es.\n\n(In the lowest level of the River R\u00e9a, boats had to be carefully armed with new liveries as the rough pulleys at the neck risked damaging them.)",
     "words": [
       {
         "match": "armori\u00e9s",
@@ -221,7 +221,7 @@
     "parsedMessage": "Dans l'\u00e9tiage du fleuve R\u00e9a, les bateaux avaient d\u00fb \u00eatre armori\u00e9s avec soin car les poulies \u00e0 gorge rauques risquaient de d\u00e9t\u00e9riorer les nouvelles livr\u00e9es.\n\n(In the lowest level of the River R\u00e9a, boats had to be carefully armed with new liveries as the rough pulleys at the neck risked damaging them.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : factieux, rorqual, \u00e9lectuaire.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- factieux: Qui exerce contre le pouvoir \u00e9tabli une opposition violente tendant \u00e0 provoquer des troubles.\n\n- rorqual: Mammif\u00e8re marin voisin de la baleine. \u2799\u00a0baleinopt\u00e8re.\n\n- \u00e9lectuaire: didactique et vieilli Pr\u00e9paration pharmaceutique molle (poudres incorpor\u00e9es \u00e0 du miel, \u00e0 un sirop).\n       [/INST] Les factieux se r\u00e9unissent dans les villages costiers pour partager des histoires et consommer des \u00e9lectuaires, tandis que les rorquals jouent dans l'oc\u00e9an en sous-entendu une r\u00e9volution marine inattendue.</s>",
+    "message": "Les factieux se r\u00e9unissent dans les villages costiers pour partager des histoires et consommer des \u00e9lectuaires, tandis que les rorquals jouent dans l'oc\u00e9an en sous-entendu une r\u00e9volution marine inattendue.",
     "words": [
       {
         "match": "factieux",
@@ -256,7 +256,7 @@
     "parsedMessage": "Les factieux se r\u00e9unissent dans les villages costiers pour partager des histoires et consommer des \u00e9lectuaires, tandis que les rorquals jouent dans l'oc\u00e9an en sous-entendu une r\u00e9volution marine inattendue."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : dalot, sloop, athanor.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- dalot: Trou dans la paroi d'un navire, pour l'\u00e9coulement des eaux.\n\n- sloop: Voilier \u00e0 un seul m\u00e2t.\n\n- athanor: Alchimie Grand alambic \u00e0 combustion lente.\n       [/INST] Sur notre sloop ancienne, le dalot \u00e9tait utilis\u00e9 pour vide-poms, et nous avions l'intention d'y installer un petit athanor, pour essayer notre main mise \u00e0 l'alchimie durante la voile vers une nouvelle terre.</s>",
+    "message": "Sur notre sloop ancienne, le dalot \u00e9tait utilis\u00e9 pour vide-poms, et nous avions l'intention d'y installer un petit athanor, pour essayer notre main mise \u00e0 l'alchimie durante la voile vers une nouvelle terre.",
     "words": [
       {
         "match": "dalot",
@@ -287,7 +287,7 @@
     "parsedMessage": "Sur notre sloop ancienne, le dalot \u00e9tait utilis\u00e9 pour vide-poms, et nous avions l'intention d'y installer un petit athanor, pour essayer notre main mise \u00e0 l'alchimie durante la voile vers une nouvelle terre."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : d\u00e9litement, faix, scotomisation.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- d\u00e9litement: Fait de se d\u00e9liter.\nau figur\u00e9 Le d\u00e9litement de la d\u00e9mocratie.\n\n- faix: litt\u00e9raire Lourd fardeau. Porter son faix.\n\n- scotomisation: Psych. Rejet inconscient hors du champ de conscience d'une r\u00e9alit\u00e9 p\u00e9nible pour le sujet\u00a0; d\u00e9ni de la r\u00e9alit\u00e9. \u2799\u00a0forclusion.\n       [/INST] Bient\u00f4t, la soci\u00e9t\u00e9 enti\u00e8re serait soumise au d\u00e9litement de ses institutions, sous le faix lourd des controverses politiques et socios-\u00e9conomiques, entra\u00eenant un processus de scotomisation de troubles graves, pourtant \u00e9vidents, afin de ne plus les affronter confront\u00e9s \u00e0 la r\u00e9alit\u00e9.</s>",
+    "message": "Bient\u00f4t, la soci\u00e9t\u00e9 enti\u00e8re serait soumise au d\u00e9litement de ses institutions, sous le faix lourd des controverses politiques et socios-\u00e9conomiques, entra\u00eenant un processus de scotomisation de troubles graves, pourtant \u00e9vidents, afin de ne plus les affronter confront\u00e9s \u00e0 la r\u00e9alit\u00e9.",
     "words": [
       {
         "match": "d\u00e9litement",
@@ -320,7 +320,7 @@
     "parsedMessage": "Bient\u00f4t, la soci\u00e9t\u00e9 enti\u00e8re serait soumise au d\u00e9litement de ses institutions, sous le faix lourd des controverses politiques et socios-\u00e9conomiques, entra\u00eenant un processus de scotomisation de troubles graves, pourtant \u00e9vidents, afin de ne plus les affronter confront\u00e9s \u00e0 la r\u00e9alit\u00e9."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : kh\u00f4l, tacite, litt\u00e9rarit\u00e9.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- kh\u00f4l: Fard de couleur sombre appliqu\u00e9 sur les paupi\u00e8res, les cils, les sourcils, utilis\u00e9 \u00e0 l'origine dans le monde arabe. var. kh\u00f4l\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n. syn. kohol\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n et koheul\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- tacite: Non exprim\u00e9, sous-entendu entre plusieurs personnes. \u2799\u00a0implicite, inexprim\u00e9. Un consentement tacite.\n\n- litt\u00e9rarit\u00e9: didactique Caract\u00e8re d'un texte qui appartient \u00e0 la litt\u00e9rature.\n       [/INST] \"Sans parler de la subtile litt\u00e9rarit\u00e9 de son \u00e9criture, sa maquillage minimaliste, marqu\u00e9 par des traits de kh\u00f4l tacites, ajoutait une touche de mysterieux charme \u00e0 son apparence.\"</s>",
+    "message": "Sans parler de la subtile litt\u00e9rarit\u00e9 de son \u00e9criture, sa maquillage minimaliste, marqu\u00e9 par des traits de kh\u00f4l tacites, ajoutait une touche de mysterieux charme \u00e0 son apparence.",
     "words": [
       {
         "match": "kh\u00f4l",
@@ -353,7 +353,7 @@
     "parsedMessage": "Sans parler de la subtile litt\u00e9rarit\u00e9 de son \u00e9criture, sa maquillage minimaliste, marqu\u00e9 par des traits de kh\u00f4l tacites, ajoutait une touche de mysterieux charme \u00e0 son apparence."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : flagornerie, goupil, calade.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- flagornerie: vieilli ou litt\u00e9raire Flatterie grossi\u00e8re et basse.\n\n- goupil: archa\u00efsme Renard.\n\n- calade: r\u00e9gional (Sud-Est) Voie pentue pav\u00e9e de galets.\n       [/INST] Bient\u00f4t, le goupil flagornera la vieille calade en esp\u00e9rant obtenir des favoritos du ma\u00eetre de la ferme, comme il aimait les compliments faciles. (Soon, the fox will flatter the old, steep, cobblestoned path, hoping for favors from the farm master, who enjoyed easy compliments.)</s>",
+    "message": "Bient\u00f4t, le goupil flagornera la vieille calade en esp\u00e9rant obtenir des favoritos du ma\u00eetre de la ferme, comme il aimait les compliments faciles. (Soon, the fox will flatter the old, steep, cobblestoned path, hoping for favors from the farm master, who enjoyed easy compliments.)",
     "words": [
       {
         "match": "flagornera",
@@ -384,7 +384,7 @@
     "parsedMessage": "Bient\u00f4t, le goupil flagornera la vieille calade en esp\u00e9rant obtenir des favoritos du ma\u00eetre de la ferme, comme il aimait les compliments faciles. (Soon, the fox will flatter the old, steep, cobblestoned path, hoping for favors from the farm master, who enjoyed easy compliments.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : coquemar, hyperbor\u00e9en, t\u00e9ratologie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- coquemar: Bouilloire \u00e0 anse.\n\n- hyperbor\u00e9en: didactique ou litt\u00e9raire De l'extr\u00eame Nord. \u2799\u00a0arctique.\n\n- t\u00e9ratologie: didactique \u00c9tude des malformations des \u00eatres vivants.\n       [/INST] Un hypoth\u00e8se intrigante dans le domaine de la t\u00e9ratologie implique l'\u00e9tude des coquemars hyperbor\u00e9ens, car les anses de ces bouilloires traditionnelles nordiques pourraient r\u00e9v\u00e9ler des informations in\u00e9dites sur les causes de malformations observ\u00e9es chez les poissons arctiques.</s>",
+    "message": "Un hypoth\u00e8se intrigante dans le domaine de la t\u00e9ratologie implique l'\u00e9tude des coquemars hyperbor\u00e9ens, car les anses de ces bouilloires traditionnelles nordiques pourraient r\u00e9v\u00e9ler des informations in\u00e9dites sur les causes de malformations observ\u00e9es chez les poissons arctiques.",
     "words": [
       {
         "match": "coquemars",
@@ -417,7 +417,7 @@
     "parsedMessage": "Un hypoth\u00e8se intrigante dans le domaine de la t\u00e9ratologie implique l'\u00e9tude des coquemars hyperbor\u00e9ens, car les anses de ces bouilloires traditionnelles nordiques pourraient r\u00e9v\u00e9ler des informations in\u00e9dites sur les causes de malformations observ\u00e9es chez les poissons arctiques."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : cangue, estran, cauteleux.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- cangue: Carcan dans lequel on engageait le cou et les poignets d'un condamn\u00e9, en Extr\u00eame-Orient.\n\n- estran: G\u00e9ographie Partie du littoral p\u00e9riodiquement recouverte par la mar\u00e9e.\n\n- cauteleux: Qui agit d'une mani\u00e8re hypocrite et habile. \u2799\u00a0sournois.\n       [/INST] Un pr\u00eate-nom cauteleux s'est approch\u00e9 de l'estran, portant un cangue dissimul\u00e9 sous sa robe, attendant avec patience la prochaine mar\u00e9e haute pour faciliter sa fuite.</s>",
+    "message": "Un pr\u00eate-nom cauteleux s'est approch\u00e9 de l'estran, portant un cangue dissimul\u00e9 sous sa robe, attendant avec patience la prochaine mar\u00e9e haute pour faciliter sa fuite.",
     "words": [
       {
         "match": "cangue",
@@ -450,7 +450,7 @@
     "parsedMessage": "Un pr\u00eate-nom cauteleux s'est approch\u00e9 de l'estran, portant un cangue dissimul\u00e9 sous sa robe, attendant avec patience la prochaine mar\u00e9e haute pour faciliter sa fuite."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : puisatier, traille, nidoreux.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- puisatier: Personne, entreprise qui creuse des puits. \u00ab\u00a0La Fille du puisatier\u00a0\u00bb (film de M.\u00a0Pagnol).\n\n- traille: C\u00e2ble tendu d'une rive \u00e0 l'autre, le long duquel se d\u00e9place un bac\u00a0; ce bac lui-m\u00eame.\n\n- nidoreux: M\u00e9decine Qui a une odeur, un go\u00fbt de pourri.\n       [/INST] Un nidoreux puisatier d\u00e9nicha une traille contamin\u00e9e par des animals, rendant l'eau inutilisable pour l'irrigation des champs.</s>",
+    "message": "Un nidoreux puisatier d\u00e9nicha une traille contamin\u00e9e par des animals, rendant l'eau inutilisable pour l'irrigation des champs.",
     "words": [
       {
         "match": "puisatier",
@@ -481,7 +481,7 @@
     "parsedMessage": "Un nidoreux puisatier d\u00e9nicha une traille contamin\u00e9e par des animals, rendant l'eau inutilisable pour l'irrigation des champs."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : dana\u00efde, pampille, tartane.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- dana\u00efde: Papillon des tropiques aux couleurs \u00e9clatantes.\n\n- pampille: Chacune des petites pendeloques group\u00e9es en franges, servant d'ornement.\n\n- tartane: Petit navire de la M\u00e9diterran\u00e9e, utilis\u00e9 autrefois pour la p\u00eache et le cabotage.\n       [/INST] Sur la pont d'une ancienne tartane ancr\u00e9e dans une baie tropicale, une Dana\u00efde flottait entre la voile pampill\u00e9e et les poissons color\u00e9s, enchantant ses occupants avec son \u00e9clatante d\u00e9coration naturel.</s>",
+    "message": "Sur la pont d'une ancienne tartane ancr\u00e9e dans une baie tropicale, une Dana\u00efde flottait entre la voile pampill\u00e9e et les poissons color\u00e9s, enchantant ses occupants avec son \u00e9clatante d\u00e9coration naturel.",
     "words": [
       {
         "match": "Dana\u00efde",
@@ -512,7 +512,7 @@
     "parsedMessage": "Sur la pont d'une ancienne tartane ancr\u00e9e dans une baie tropicale, une Dana\u00efde flottait entre la voile pampill\u00e9e et les poissons color\u00e9s, enchantant ses occupants avec son \u00e9clatante d\u00e9coration naturel."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : amok, abscons, p\u00e9rig\u00e9e.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- amok: Forme de folie homicide observ\u00e9e chez les Malais\u00a0; individu qui en est atteint.\n\n- abscons: litt\u00e9raire Difficile \u00e0 comprendre. \u2799\u00a0obscur. Un langage abscons.\n\n- p\u00e9rig\u00e9e: Astronomie Point de l'orbite d'un astre qui est le plus proche de la Terre (contraire apog\u00e9e).\n       [/INST] Un amok atteint d'une d\u00e9rangement abscons a annonc\u00e9 qu'il effectuera une action meurtri\u00e8re lorsque son plan \u00e9tabli se mettra \u00e0 nouveau au point p\u00e9rig\u00e9e.</s>",
+    "message": "Un amok atteint d'une d\u00e9rangement abscons a annonc\u00e9 qu'il effectuera une action meurtri\u00e8re lorsque son plan \u00e9tabli se mettra \u00e0 nouveau au point p\u00e9rig\u00e9e.",
     "words": [
       {
         "match": "amok",
@@ -545,7 +545,7 @@
     "parsedMessage": "Un amok atteint d'une d\u00e9rangement abscons a annonc\u00e9 qu'il effectuera une action meurtri\u00e8re lorsque son plan \u00e9tabli se mettra \u00e0 nouveau au point p\u00e9rig\u00e9e."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : peccadille, fibrille, ichtyologie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- peccadille: litt\u00e9raire Faute b\u00e9nigne, sans gravit\u00e9.\n\n- fibrille: Petite fibre. Fibrilles d'une racine.\n\n- ichtyologie: Partie de la zoologie qui traite des poissons.\n       [/INST] During an ichtyology lecture, the renowned scientist shared a light-hearted anecdote about his harmless misidentification of a certain fish, attributing it to the intricate fibrilles on its gills, which he affectionately referred to as his \"peccadille\" in the world of marine biology.</s>",
+    "message": "During an ichtyology lecture, the renowned scientist shared a light-hearted anecdote about his harmless misidentification of a certain fish, attributing it to the intricate fibrilles on its gills, which he affectionately referred to as his \"peccadille\" in the world of marine biology.",
     "words": [
       {
         "match": "\"peccadille\"",
@@ -576,7 +576,7 @@
     "parsedMessage": "During an ichtyology lecture, the renowned scientist shared a light-hearted anecdote about his harmless misidentification of a certain fish, attributing it to the intricate fibrilles on its gills, which he affectionately referred to as his \"peccadille\" in the world of marine biology."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : compulser, dissension, fleurer.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- compulser: Consulter, examiner, feuilleter. Compulser ses notes.\n\n- dissension: Division profonde de sentiments, d'int\u00e9r\u00eats, de convictions. \u2799\u00a0d\u00e9saccord, discorde, dissentiment. Dissensions politiques, familiales.\n\n- fleurer: litt\u00e9raire R\u00e9pandre une odeur agr\u00e9able de. \u2799\u00a0embaumer. Fleurer le thym et la lavande.\nFleurer bon.\n       [/INST] Durant leur r\u00e9union, les membres du comit\u00e9 eurent tendance \u00e0 se compulser trop longuement leurs notes, ce qui engendra une dissension subtile autour d'un point d\u00e9licat. Cependant, le parfum de fleurs embaum\u00e9es qui r\u00e9pandait toute autour parvint \u00e0 apaiser les tensions et \u00e0 faire sentir un petit air de concilier.</s>",
+    "message": "Durant leur r\u00e9union, les membres du comit\u00e9 eurent tendance \u00e0 se compulser trop longuement leurs notes, ce qui engendra une dissension subtile autour d'un point d\u00e9licat. Cependant, le parfum de fleurs embaum\u00e9es qui r\u00e9pandait toute autour parvint \u00e0 apaiser les tensions et \u00e0 faire sentir un petit air de concilier.",
     "words": [
       {
         "match": "compulser",
@@ -611,7 +611,7 @@
     "parsedMessage": "Durant leur r\u00e9union, les membres du comit\u00e9 eurent tendance \u00e0 se compulser trop longuement leurs notes, ce qui engendra une dissension subtile autour d'un point d\u00e9licat. Cependant, le parfum de fleurs embaum\u00e9es qui r\u00e9pandait toute autour parvint \u00e0 apaiser les tensions et \u00e0 faire sentir un petit air de concilier."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : amok, dalot, palinodie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- amok: Forme de folie homicide observ\u00e9e chez les Malais\u00a0; individu qui en est atteint.\n\n- dalot: Trou dans la paroi d'un navire, pour l'\u00e9coulement des eaux.\n\n- palinodie: litt\u00e9raire (surtout au pluriel) Changement d'opinion. \u2799\u00a0r\u00e9tractation.\n       [/INST] Un marin malais, atteint d'amok, a jet\u00e9 son \u00e9pisode en plein dalot avant de pronencer une palinodie publique, reconnaissant plus tard l'erreur de son folle crise meurtri\u00e8re.</s>",
+    "message": "Un marin malais, atteint d'amok, a jet\u00e9 son \u00e9pisode en plein dalot avant de pronencer une palinodie publique, reconnaissant plus tard l'erreur de son folle crise meurtri\u00e8re.",
     "words": [
       {
         "match": "d'amok",
@@ -644,7 +644,7 @@
     "parsedMessage": "Un marin malais, atteint d'amok, a jet\u00e9 son \u00e9pisode en plein dalot avant de pronencer une palinodie publique, reconnaissant plus tard l'erreur de son folle crise meurtri\u00e8re."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : antiphrase, sapajou, dantesque.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- antiphrase: Utilisation d'un mot, d'une locution dans un sens contraire au sens v\u00e9ritable par ironie ou euph\u00e9misme (ex. c'est du joli\u00a0!\u00a0; charmante soir\u00e9e\u00a0!).\n\n- sapajou: Petit singe de l'Am\u00e9rique centrale et du Sud, \u00e0 longue queue pr\u00e9hensile. Des sapajous. syn. sajou\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- dantesque: Qui a le caract\u00e8re sombre et sublime de l'\u0153uvre de Dante. Vision dantesque.\n       [/INST] Une antiphrase dantesque amuse les visiteurs en montrant un Sapajou en tenue formelle et brandissant une canne, disant avec une sourire malicieux : \"Ma soir\u00e9e est aussi agr\u00e9able qu'une balan\u00e7oire vol\u00e9e, tel une sc\u00e8ne de Dante.\"</s>",
+    "message": "Une antiphrase dantesque amuse les visiteurs en montrant un Sapajou en tenue formelle et brandissant une canne, disant avec une sourire malicieux : \"Ma soir\u00e9e est aussi agr\u00e9able qu'une balan\u00e7oire vol\u00e9e, tel une sc\u00e8ne de Dante.\"",
     "words": [
       {
         "match": "antiphrase",
@@ -675,7 +675,7 @@
     "parsedMessage": "Une antiphrase dantesque amuse les visiteurs en montrant un Sapajou en tenue formelle et brandissant une canne, disant avec une sourire malicieux : \"Ma soir\u00e9e est aussi agr\u00e9able qu'une balan\u00e7oire vol\u00e9e, tel une sc\u00e8ne de Dante.\""
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : denim, bisbille, r\u00e9tractation.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- denim: anglicisme Toile de coton servant \u00e0 fabriquer les jeans. \u2799\u00a0jean.\n\n- bisbille: familier Petite querelle pour un motif futile. \u00catre en bisbille avec qqn.\n\n- r\u00e9tractation: Action de se r\u00e9tracter. Faire une r\u00e9tractation publique.\n       [/INST] \"Apr\u00e8s une bisbille enfantine sur le choix du v\u00eatement \u00e0 la f\u00eate, il fut n\u00e9cessaire de faire une r\u00e9tractation publique et rev\u00eatir des jeans en denim plut\u00f4t que de porter ce pull discut\u00e9.\"</s>",
+    "message": "Apr\u00e8s une bisbille enfantine sur le choix du v\u00eatement \u00e0 la f\u00eate, il fut n\u00e9cessaire de faire une r\u00e9tractation publique et rev\u00eatir des jeans en denim plut\u00f4t que de porter ce pull discut\u00e9.",
     "words": [
       {
         "match": "denim",
@@ -708,7 +708,7 @@
     "parsedMessage": "Apr\u00e8s une bisbille enfantine sur le choix du v\u00eatement \u00e0 la f\u00eate, il fut n\u00e9cessaire de faire une r\u00e9tractation publique et rev\u00eatir des jeans en denim plut\u00f4t que de porter ce pull discut\u00e9."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : transverse, stridulation, matte.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- transverse: Anatomie Se dit d'un organe qui est en travers. C\u00f4lon transverse.\n\n- stridulation: Bruit modul\u00e9 que produisent certains insectes (cigales, criquets\u2026).\n\n- matte: Technique M\u00e9lange de sulfures de fer et de cuivre, provenant de la premi\u00e8re fusion d'un minerai sulfur\u00e9.\n       [/INST] During their mating ritual, the matte-black beetles glide across the Transverse Mountains, producing a soft stridulation sound as their wing cases rub together.</s>",
+    "message": "During their mating ritual, the matte-black beetles glide across the Transverse Mountains, producing a soft stridulation sound as their wing cases rub together.",
     "words": [
       {
         "match": "Transverse",
@@ -739,7 +739,7 @@
     "parsedMessage": "During their mating ritual, the matte-black beetles glide across the Transverse Mountains, producing a soft stridulation sound as their wing cases rub together."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : lusitanien, baroud, alacrit\u00e9.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- lusitanien: Relatif au Portugal, au portugais. \u00c9tudes lusitaniennes.\n\n- baroud: argot militaire Combat.\nlocution Baroud d'honneur\u00a0: dernier combat d'une guerre perdue, pour sauver l'honneur.\n\n- alacrit\u00e9: litt\u00e9raire Vivacit\u00e9 et enjouement.\n       [/INST] \"L'ancien soldat lusitanien, apr\u00e8s avoir ralli\u00e9 ses camarades d\u00e9\u00e7us, pr\u00e9senta avec alacrit\u00e9 son plan audacieux : engager un baroud d'honneur contre l'ennemi pour redorer le blason tarniss\u00e9 de leur arm\u00e9e.\"</s>",
+    "message": "L'ancien soldat lusitanien, apr\u00e8s avoir ralli\u00e9 ses camarades d\u00e9\u00e7us, pr\u00e9senta avec alacrit\u00e9 son plan audacieux : engager un baroud d'honneur contre l'ennemi pour redorer le blason tarniss\u00e9 de leur arm\u00e9e.",
     "words": [
       {
         "match": "lusitanien",
@@ -770,7 +770,7 @@
     "parsedMessage": "L'ancien soldat lusitanien, apr\u00e8s avoir ralli\u00e9 ses camarades d\u00e9\u00e7us, pr\u00e9senta avec alacrit\u00e9 son plan audacieux : engager un baroud d'honneur contre l'ennemi pour redorer le blason tarniss\u00e9 de leur arm\u00e9e."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : pers, vilipender, h\u00e9g\u00e9monie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- pers: D'une couleur o\u00f9 le bleu domine (surtout en parlant des yeux).\n\n- vilipender: litt\u00e9raire D\u00e9noncer comme vil, m\u00e9prisable. \u2799\u00a0bafouer, honnir.\n\n- h\u00e9g\u00e9monie: Supr\u00e9matie d'un \u00c9tat, d'une nation sur d'autres.\n       [/INST] Un pers tyrannique vilipende les autres nations sous son h\u00e9g\u00e9monie.\n\nC'est-\u00e0-dire : A blue-eyed tyrant denounces and scorns other nations under his supreme rule.</s>",
+    "message": "Un pers tyrannique vilipende les autres nations sous son h\u00e9g\u00e9monie.\n\nC'est-\u00e0-dire : A blue-eyed tyrant denounces and scorns other nations under his supreme rule.",
     "words": [
       {
         "match": "pers",
@@ -803,7 +803,7 @@
     "parsedMessage": "Un pers tyrannique vilipende les autres nations sous son h\u00e9g\u00e9monie.\n\nC'est-\u00e0-dire : A blue-eyed tyrant denounces and scorns other nations under his supreme rule."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : coupellation, loufiat, aporie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- coupellation: Technique Op\u00e9ration par laquelle on isole l'or ou l'argent contenu dans un alliage au moyen de la coupelle.\n\n- loufiat: populaire Gar\u00e7on de caf\u00e9.\n\n- aporie: didactique Difficult\u00e9 logique insoluble.\n       [/INST] Le loufiat fut surpris en train de m\u00e9langer inexpertement son argent impurs dans une alliage, esp\u00e9rant r\u00e9soudre cette aporie financi\u00e8re en utilisant la coupellation, mais ses connaissances techniques ne lui \u00e9taient pas suffisantes.</s>",
+    "message": "Le loufiat fut surpris en train de m\u00e9langer inexpertement son argent impurs dans une alliage, esp\u00e9rant r\u00e9soudre cette aporie financi\u00e8re en utilisant la coupellation, mais ses connaissances techniques ne lui \u00e9taient pas suffisantes.",
     "words": [
       {
         "match": "coupellation",
@@ -834,7 +834,7 @@
     "parsedMessage": "Le loufiat fut surpris en train de m\u00e9langer inexpertement son argent impurs dans une alliage, esp\u00e9rant r\u00e9soudre cette aporie financi\u00e8re en utilisant la coupellation, mais ses connaissances techniques ne lui \u00e9taient pas suffisantes."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : virelangue, \u00e9baudir, aventurine.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- virelangue: Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper. \u00ab\u00a0Didon d\u00eena, dit-on, du dos d'un dodu dindon\u00a0\u00bb est un virelangue.\n\n- \u00e9baudir: vieux Se r\u00e9jouir. syn. s'esbaudir.\n\n- aventurine: Min\u00e9ralogie Vari\u00e9t\u00e9 de quartz translucide \u00e0 inclusions de mica.\n       [/INST] Une aventureuse virelangue \u00e9baudit les visiteurs en pronon\u00e7ant rapidement : \"Aventurine avance, avance d'aventure, devant un vase de cristal opaque, une vache danse, danse vache!\"</s>",
+    "message": "Une aventureuse virelangue \u00e9baudit les visiteurs en pronon\u00e7ant rapidement : \"Aventurine avance, avance d'aventure, devant un vase de cristal opaque, une vache danse, danse vache!\"",
     "words": [
       {
         "match": "virelangue",
@@ -865,7 +865,7 @@
     "parsedMessage": "Une aventureuse virelangue \u00e9baudit les visiteurs en pronon\u00e7ant rapidement : \"Aventurine avance, avance d'aventure, devant un vase de cristal opaque, une vache danse, danse vache!\""
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : z\u00e9t\u00e9tique, souffreteux, potron-minet.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- z\u00e9t\u00e9tique: didactique Qui cherche, qui examine (qualificatif donn\u00e9 aux philosophes sceptiques).\n\n- souffreteux: Qui est de sant\u00e9 fragile, qui est habituellement souffrant. \u2799\u00a0maladif, malingre.\n\n- potron-minet: litt\u00e9raire Le point du jour, l'aube. D\u00e8s potron-minet.\n       [/INST] Le z\u00e9t\u00e9tique souffreteux, malgr\u00e9 ses fragiles forces de sant\u00e9, reste persistant dans sa recherche du potron-minet de la v\u00e9rit\u00e9, refusant de laisser ses doutes l'emporter au dernier moment.</s>",
+    "message": "Le z\u00e9t\u00e9tique souffreteux, malgr\u00e9 ses fragiles forces de sant\u00e9, reste persistant dans sa recherche du potron-minet de la v\u00e9rit\u00e9, refusant de laisser ses doutes l'emporter au dernier moment.",
     "words": [
       {
         "match": "z\u00e9t\u00e9tique",
@@ -898,7 +898,7 @@
     "parsedMessage": "Le z\u00e9t\u00e9tique souffreteux, malgr\u00e9 ses fragiles forces de sant\u00e9, reste persistant dans sa recherche du potron-minet de la v\u00e9rit\u00e9, refusant de laisser ses doutes l'emporter au dernier moment."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : v\u00e9nitien, arctique, imp\u00e9ritie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- v\u00e9nitien: De la ville de Venise.\nBlond v\u00e9nitien\u00a0: blond tirant sur le roux.\n\nnom Les V\u00e9nitiens, les V\u00e9nitiennes.\n\nnom masculin Le v\u00e9nitien\u00a0: dialecte italien de V\u00e9n\u00e9tie.\n\n- arctique: Des r\u00e9gions polaires du Nord (oppos\u00e9 \u00e0 antarctique). \u2799\u00a0hyperbor\u00e9en, polaire.\n\n- imp\u00e9ritie: litt\u00e9raire Manque d'aptitude, d'habilet\u00e9. \u2799\u00a0incapacit\u00e9, incomp\u00e9tence. L'imp\u00e9ritie d'un ministre.\n       [/INST] Un v\u00e9nitien exp\u00e9riment\u00e9, d\u00e9pit\u00e9 de l'imp\u00e9ritie des marins arctiques, encourag\u00e9 les navigateurs inexp\u00e9rts \u00e0 am\u00e9liorer leurs comp\u00e9tences avant de tenter une exp\u00e9dition vers le P\u00f4le Nord.</s>",
+    "message": "Un v\u00e9nitien exp\u00e9riment\u00e9, d\u00e9pit\u00e9 de l'imp\u00e9ritie des marins arctiques, encourag\u00e9 les navigateurs inexp\u00e9rts \u00e0 am\u00e9liorer leurs comp\u00e9tences avant de tenter une exp\u00e9dition vers le P\u00f4le Nord.",
     "words": [
       {
         "match": "v\u00e9nitien",
@@ -933,7 +933,7 @@
     "parsedMessage": "Un v\u00e9nitien exp\u00e9riment\u00e9, d\u00e9pit\u00e9 de l'imp\u00e9ritie des marins arctiques, encourag\u00e9 les navigateurs inexp\u00e9rts \u00e0 am\u00e9liorer leurs comp\u00e9tences avant de tenter une exp\u00e9dition vers le P\u00f4le Nord."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : actuaire, drosser, tudesque.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- actuaire: Sp\u00e9cialiste de la statistique et du calcul des probabilit\u00e9s appliqu\u00e9s aux probl\u00e8mes d'assurances, de pr\u00e9voyance, d'amortissement.\n\n- drosser: Marine Entra\u00eener vers la c\u00f4te.\n\n- tudesque: vieux Allemand, allemande.\n       [/INST] Un actuaire tudesque a parfaitement ma\u00eetris\u00e9 le processus de drosser les risques maritimes, en utilisant des statistiques et des probabilit\u00e9s pour calculer les primes d'assurance optimales pour les navires allemands.</s>",
+    "message": "Un actuaire tudesque a parfaitement ma\u00eetris\u00e9 le processus de drosser les risques maritimes, en utilisant des statistiques et des probabilit\u00e9s pour calculer les primes d'assurance optimales pour les navires allemands.",
     "words": [
       {
         "match": "actuaire",
@@ -964,7 +964,7 @@
     "parsedMessage": "Un actuaire tudesque a parfaitement ma\u00eetris\u00e9 le processus de drosser les risques maritimes, en utilisant des statistiques et des probabilit\u00e9s pour calculer les primes d'assurance optimales pour les navires allemands."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : chien-assis, salonnard, derechef.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- chien-assis: Architecture Lucarne en charpente, en saillie sur le toit d'une maison, pourvue d'une fen\u00eatre verticale. Des chiens-assis.\n\n- salonnard: p\u00e9joratif Habitu\u00e9(e) des salons mondains.\nadjectif Un snobisme salonnard.\nvar. salonard\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n, salonarde\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- derechef: litt\u00e9raire Une seconde fois\u00a0; encore une fois.\n       [/INST] Un chien-assis, o\u00f9 un chien assis en haut d'une lucarne, offre une vue magique sur la ville, mais le salonnard se l\u00e8ve derechef en irritation en voyant que sa vue est bloqu\u00e9e par une tasse de th\u00e9 sur la table devant la fen\u00eatre.</s>",
+    "message": "Un chien-assis, o\u00f9 un chien assis en haut d'une lucarne, offre une vue magique sur la ville, mais le salonnard se l\u00e8ve derechef en irritation en voyant que sa vue est bloqu\u00e9e par une tasse de th\u00e9 sur la table devant la fen\u00eatre.",
     "words": [
       {
         "match": "chien-assis",
@@ -995,7 +995,7 @@
     "parsedMessage": "Un chien-assis, o\u00f9 un chien assis en haut d'une lucarne, offre une vue magique sur la ville, mais le salonnard se l\u00e8ve derechef en irritation en voyant que sa vue est bloqu\u00e9e par une tasse de th\u00e9 sur la table devant la fen\u00eatre."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : bouline, misaine, ductile.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- bouline: Marine Cordage qui servait \u00e0 tenir une voile de biais.\n\n- misaine: Voile basse du m\u00e2t de l'avant (d'un navire). Le m\u00e2t de misaine.\n\n- ductile: Qui peut \u00eatre allong\u00e9, \u00e9tendu, \u00e9tir\u00e9 sans se rompre. M\u00e9taux ductiles.\n       [/INST] \"Le marin utilisait une bouline ductile pour tendre et maintenir la misaine, la voile basse de l'avant du navire, sans la faire prendre des d\u00e9formations irr\u00e9versibles.\"</s>",
+    "message": "Le marin utilisait une bouline ductile pour tendre et maintenir la misaine, la voile basse de l'avant du navire, sans la faire prendre des d\u00e9formations irr\u00e9versibles.",
     "words": [
       {
         "match": "bouline",
@@ -1026,7 +1026,7 @@
     "parsedMessage": "Le marin utilisait une bouline ductile pour tendre et maintenir la misaine, la voile basse de l'avant du navire, sans la faire prendre des d\u00e9formations irr\u00e9versibles."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : sarrau, punchline, volition.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- sarrau: Blouse de travail en grosse toile, courte et ample. Sarrau de peintre. Des sarraus.\n\n- punchline: anglicisme Formule percutante destin\u00e9e \u00e0 marquer les esprits. recommandation officielle phrase-choc. Des phrases-chocs.\n\n- volition: didactique Acte de volont\u00e9.\n       [/INST] \"En d\u00e9gainant ses outils, le peintre r\u00e9fl\u00e9chit \u00e0 la volition qu'il appliquera lors de la cr\u00e9ation de son \u0153uvre ma\u00eetresse, la sarrau s'envolant en \u00e9clats \u00e0 la vue du punchline id\u00e9al qu'il veut livrer \u00e0 son public.\"</s>",
+    "message": "En d\u00e9gainant ses outils, le peintre r\u00e9fl\u00e9chit \u00e0 la volition qu'il appliquera lors de la cr\u00e9ation de son \u0153uvre ma\u00eetresse, la sarrau s'envolant en \u00e9clats \u00e0 la vue du punchline id\u00e9al qu'il veut livrer \u00e0 son public.",
     "words": [
       {
         "match": "sarrau",
@@ -1057,7 +1057,7 @@
     "parsedMessage": "En d\u00e9gainant ses outils, le peintre r\u00e9fl\u00e9chit \u00e0 la volition qu'il appliquera lors de la cr\u00e9ation de son \u0153uvre ma\u00eetresse, la sarrau s'envolant en \u00e9clats \u00e0 la vue du punchline id\u00e9al qu'il veut livrer \u00e0 son public."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : ignivome, hypostyle, chiourme.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- ignivome: didactique Qui crache le feu. Un dragon ignivome.\nUn crat\u00e8re ignivome.\n\n- hypostyle: Arch\u00e9ologie Dont le plafond est soutenu par des colonnes.\n\n- chiourme: anciennement Ensemble des rameurs d'une gal\u00e8re\u00a0; des for\u00e7ats d'un bagne (\u2799\u00a0garde-chiourme).\n       [/INST] Beneath the hypostyle hall of an ancient temple, the ignivome dragon, held captive by the chiourme of sailors, waited for his next opportunity to breathe fire.</s>",
+    "message": "Beneath the hypostyle hall of an ancient temple, the ignivome dragon, held captive by the chiourme of sailors, waited for his next opportunity to breathe fire.",
     "words": [
       {
         "match": "ignivome",
@@ -1090,7 +1090,7 @@
     "parsedMessage": "Beneath the hypostyle hall of an ancient temple, the ignivome dragon, held captive by the chiourme of sailors, waited for his next opportunity to breathe fire."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : bougnat, oliv\u00e2tre, grief.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- bougnat: familier et vieilli Marchand de charbon, qui tenait souvent un caf\u00e9.\n\n- oliv\u00e2tre: Qui tire sur le vert olive.\np\u00e9joratif Teint oliv\u00e2tre, mat et fonc\u00e9.\n\n- grief: souvent au pluriel Sujet, motif de plainte (g\u00e9n\u00e9ralement contre une personne). \u2799\u00a0dol\u00e9ances, reproche. Avoir des griefs contre qqn. Exposer, formuler ses griefs, se plaindre, protester.\nlocution Tenir, faire grief de qqch. \u00e0 qqn, le lui reprocher. Ne me tenez pas grief de mes absences.\n       [/INST] Le bougnat, avec des airs morosels et son teint oliv\u00e2tre, accusa son voisin de vol dans les caf\u00e9s et fit grief de cette injustice.</s>",
+    "message": "Le bougnat, avec des airs morosels et son teint oliv\u00e2tre, accusa son voisin de vol dans les caf\u00e9s et fit grief de cette injustice.",
     "words": [
       {
         "match": "bougnat",
@@ -1123,7 +1123,7 @@
     "parsedMessage": "Le bougnat, avec des airs morosels et son teint oliv\u00e2tre, accusa son voisin de vol dans les caf\u00e9s et fit grief de cette injustice."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : lacs, bushido, inh\u00e9rent.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- lacs: vieux ou litt\u00e9raire N\u0153ud coulant, lacet (3). \u2799\u00a0rets.\n\n- bushido: Histoire Ensemble des pr\u00e9ceptes qui constituent la morale du guerrier japonais (le bushi\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n). var. bushido\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- inh\u00e9rent: Qui appartient essentiellement (\u00e0 un \u00eatre, \u00e0 une chose), qui est ins\u00e9parable (de). \u2799\u00a0essentiel, intrins\u00e8que. Les qualit\u00e9s inh\u00e9rentes \u00e0 la personne.\n       [/INST] Les lacs inh\u00e9rents au paysage bucolique du bushido offrent une inspiration perp\u00e9tuelle pour les guerriers japonais, leurs esprits apais\u00e9s par la tranquillit\u00e9 r\u00e9fl\u00e9chissante des eaux.</s>",
+    "message": "Les lacs inh\u00e9rents au paysage bucolique du bushido offrent une inspiration perp\u00e9tuelle pour les guerriers japonais, leurs esprits apais\u00e9s par la tranquillit\u00e9 r\u00e9fl\u00e9chissante des eaux.",
     "words": [
       {
         "match": "lacs",
@@ -1158,7 +1158,7 @@
     "parsedMessage": "Les lacs inh\u00e9rents au paysage bucolique du bushido offrent une inspiration perp\u00e9tuelle pour les guerriers japonais, leurs esprits apais\u00e9s par la tranquillit\u00e9 r\u00e9fl\u00e9chissante des eaux."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : linteau, ergoter, coquecigrue.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- linteau: Pi\u00e8ce horizontale (de bois, pierre, m\u00e9tal) qui forme la partie sup\u00e9rieure d'une ouverture et soutient la ma\u00e7onnerie. Linteau de porte.\n\n- ergoter: Trouver \u00e0 redire sur des points de d\u00e9tail, des choses insignifiantes. \u2799\u00a0chicaner, discuter, pinailler. Vous n'allez pas ergoter pour un euro\u00a0!\n\n- coquecigrue: litt\u00e9raire Baliverne, absurdit\u00e9.\n       [/INST] \"En discutant d\u00e9taillement du linteau de ma porte, j'ai d\u00e9couvert une coquecigrue ergot\u00e9e par un grain d'\u00e9pice qui rendait sa forme irr\u00e9guli\u00e8re.\"</s>",
+    "message": "En discutant d\u00e9taillement du linteau de ma porte, j'ai d\u00e9couvert une coquecigrue ergot\u00e9e par un grain d'\u00e9pice qui rendait sa forme irr\u00e9guli\u00e8re.",
     "words": [
       {
         "match": "linteau",
@@ -1191,7 +1191,7 @@
     "parsedMessage": "En discutant d\u00e9taillement du linteau de ma porte, j'ai d\u00e9couvert une coquecigrue ergot\u00e9e par un grain d'\u00e9pice qui rendait sa forme irr\u00e9guli\u00e8re."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : caud\u00e9, morganatique, structuralisme.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- caud\u00e9: didactique Pourvu d'une queue.\n\n- morganatique: Se dit de l'union contract\u00e9e par un prince et une femme de condition inf\u00e9rieure (qui n'a pas les privil\u00e8ges d'une \u00e9pouse). Mariage morganatique.\n\u00c9pouse morganatique.\n\n- structuralisme: didactique Th\u00e9orie selon laquelle l'\u00e9tude d'une cat\u00e9gorie de faits (notamment en sciences humaines) doit envisager principalement les structures.\n       [/INST] \"Le caud\u00e9 structuraliste exploite l'analyse syst\u00e9matique des structures linguistiques pour enseigner les nuances subtiles de la langue, y comprendre m\u00eame les subjets morganatiques qui, bien qu'\u00e9l\u00e9v\u00e9s \u00e0 des positions d'influence, ne b\u00e9n\u00e9ficient pas des privil\u00e8ges d'un statut \u00e9pouse l\u00e9gitime.\"</s>",
+    "message": "Le caud\u00e9 structuraliste exploite l'analyse syst\u00e9matique des structures linguistiques pour enseigner les nuances subtiles de la langue, y comprendre m\u00eame les subjets morganatiques qui, bien qu'\u00e9l\u00e9v\u00e9s \u00e0 des positions d'influence, ne b\u00e9n\u00e9ficient pas des privil\u00e8ges d'un statut \u00e9pouse l\u00e9gitime.",
     "words": [
       {
         "match": "caud\u00e9",
@@ -1222,7 +1222,7 @@
     "parsedMessage": "Le caud\u00e9 structuraliste exploite l'analyse syst\u00e9matique des structures linguistiques pour enseigner les nuances subtiles de la langue, y comprendre m\u00eame les subjets morganatiques qui, bien qu'\u00e9l\u00e9v\u00e9s \u00e0 des positions d'influence, ne b\u00e9n\u00e9ficient pas des privil\u00e8ges d'un statut \u00e9pouse l\u00e9gitime."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : salmigondis, fellaga, plat-bord.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- salmigondis: M\u00e9lange disparate et incoh\u00e9rent. Quel salmigondis\u00a0!\n\n- fellaga: Combattant partisan de l'Alg\u00e9rie ind\u00e9pendante (1954-1962). Des fellagas. var. fellagha\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n | \n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- plat-bord: Marine Ceinture en bois entourant les ponts et limitant les bordages en bois. Des plats-bords.\n       [/INST] Les fellagas organisent une f\u00eate sur le navire avec des plats typiques, cr\u00e9ant une table imposante bord\u00e9e de plat-bords et remplie de d\u00e9licieux salmigondis alg\u00e9riens.</s>",
+    "message": "Les fellagas organisent une f\u00eate sur le navire avec des plats typiques, cr\u00e9ant une table imposante bord\u00e9e de plat-bords et remplie de d\u00e9licieux salmigondis alg\u00e9riens.",
     "words": [
       {
         "match": "salmigondis",
@@ -1253,7 +1253,7 @@
     "parsedMessage": "Les fellagas organisent une f\u00eate sur le navire avec des plats typiques, cr\u00e9ant une table imposante bord\u00e9e de plat-bords et remplie de d\u00e9licieux salmigondis alg\u00e9riens."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : prodigue, trique, fronce.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- prodigue: Qui fait des d\u00e9penses excessives\u00a0; qui dilapide son bien.\n\n- trique: Gros b\u00e2ton utilis\u00e9 pour frapper. Mener les hommes \u00e0 la trique, par la brutalit\u00e9.\nlocution Sec comme un coup de trique\u00a0: tr\u00e8s maigre.\n\n- fronce: Pli court et serr\u00e9 donn\u00e9 \u00e0 une \u00e9toffe en tirant sur un fil. Jupe \u00e0 fronces.\n       [/INST] Le millionnaire prodigue, m\u00e9content de la petitesse des jeux de trique auxquels il assists, fronce et ordonne aux organizateurs de mettre au programme des num\u00e9ros plus co\u00fbteux.\n\nOr, for a more colloquial version:\n\nThe rich spendthrift, bored by the petty tricks at the circus, scowls and demands they bring out the bigger, more expensive acts.</s>",
+    "message": "Le millionnaire prodigue, m\u00e9content de la petitesse des jeux de trique auxquels il assists, fronce et ordonne aux organizateurs de mettre au programme des num\u00e9ros plus co\u00fbteux.\n\nOr, for a more colloquial version:\n\nThe rich spendthrift, bored by the petty tricks at the circus, scowls and demands they bring out the bigger, more expensive acts.",
     "words": [
       {
         "match": "prodigue",
@@ -1286,7 +1286,7 @@
     "parsedMessage": "Le millionnaire prodigue, m\u00e9content de la petitesse des jeux de trique auxquels il assists, fronce et ordonne aux organizateurs de mettre au programme des num\u00e9ros plus co\u00fbteux.\n\nOr, for a more colloquial version:\n\nThe rich spendthrift, bored by the petty tricks at the circus, scowls and demands they bring out the bigger, more expensive acts."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : chamarr\u00e9, dissension, merlon.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- chamarr\u00e9: Garni d'ornements aux couleurs \u00e9clatantes.\n\n- dissension: Division profonde de sentiments, d'int\u00e9r\u00eats, de convictions. \u2799\u00a0d\u00e9saccord, discorde, dissentiment. Dissensions politiques, familiales.\n\n- merlon: Technique Partie pleine d'un parapet (entre deux cr\u00e9neaux).\n       [/INST] \"Le chamarr\u00e9 d\u00e9cor des murs du ch\u00e2teau a amplifi\u00e9 la dissension entre les seigneurs, chaque famille pr\u00e9tendant que son merlon haut-plac\u00e9 \u00e9tait le plus magnifique.\"</s>",
+    "message": "Le chamarr\u00e9 d\u00e9cor des murs du ch\u00e2teau a amplifi\u00e9 la dissension entre les seigneurs, chaque famille pr\u00e9tendant que son merlon haut-plac\u00e9 \u00e9tait le plus magnifique.",
     "words": [
       {
         "match": "chamarr\u00e9",
@@ -1319,7 +1319,7 @@
     "parsedMessage": "Le chamarr\u00e9 d\u00e9cor des murs du ch\u00e2teau a amplifi\u00e9 la dissension entre les seigneurs, chaque famille pr\u00e9tendant que son merlon haut-plac\u00e9 \u00e9tait le plus magnifique."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : coercitif, ithyphallique, vendetta.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- coercitif: didactique Qui exerce une contrainte. Force coercitive.\n\n- ithyphallique: Antiquit\u00e9 grecque Relatif au phallus, au p\u00e9nis en \u00e9rection.\nStatue ithyphallique.\n\n- vendetta: Coutume, notamment corse, par laquelle les membres de deux familles ennemies poursuivent une vengeance r\u00e9ciproque jusqu'au crime.\n       [/INST] Un leader coercitif, jaloux d'une rivale, commanda la cr\u00e9ation d'une statue ithyphallique majestueuse, qui devint un symbole de son pouvoir et servit de d\u00e9clencheur \u00e0 une longue vendetta entre leur famille et la sienne.</s>",
+    "message": "Un leader coercitif, jaloux d'une rivale, commanda la cr\u00e9ation d'une statue ithyphallique majestueuse, qui devint un symbole de son pouvoir et servit de d\u00e9clencheur \u00e0 une longue vendetta entre leur famille et la sienne.",
     "words": [
       {
         "match": "coercitif",
@@ -1350,7 +1350,7 @@
     "parsedMessage": "Un leader coercitif, jaloux d'une rivale, commanda la cr\u00e9ation d'une statue ithyphallique majestueuse, qui devint un symbole de son pouvoir et servit de d\u00e9clencheur \u00e0 une longue vendetta entre leur famille et la sienne."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : raidillon, tragus, diatribe.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- raidillon: Court chemin en pente raide.\n\n- tragus: Anatomie Saillie aplatie triangulaire de l'orifice externe du conduit auditif.\n\n- diatribe: Critique violente.\n       [/INST] Sur le raidillon rocailleux du parc, j'ai entendu une personne donner une longue et vive diatribe contre les gens qui neglectent le nettoyage du tragus de leur oreille afin de pr\u00e9server leur bonne entendu.</s>",
+    "message": "Sur le raidillon rocailleux du parc, j'ai entendu une personne donner une longue et vive diatribe contre les gens qui neglectent le nettoyage du tragus de leur oreille afin de pr\u00e9server leur bonne entendu.",
     "words": [
       {
         "match": "raidillon",
@@ -1381,7 +1381,7 @@
     "parsedMessage": "Sur le raidillon rocailleux du parc, j'ai entendu une personne donner une longue et vive diatribe contre les gens qui neglectent le nettoyage du tragus de leur oreille afin de pr\u00e9server leur bonne entendu."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : r\u00e9sille, rubato, liquidambar.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- r\u00e9sille: Tissu de mailles formant une poche dans laquelle on enserre les cheveux. \u2799\u00a0filet.\nen apposition Des bas r\u00e9silles ou r\u00e9sille (invariable), bas form\u00e9s d'un r\u00e9seau de larges mailles.\n\n- rubato: Musique (indication de mouvement) Avec une grande libert\u00e9 rythmique. Jouer rubato.\nnom masculin Des rubatos.\n\n- liquidambar: Arbre exotique ornemental dont on tire des r\u00e9sines employ\u00e9es comme stimulants des voies respiratoires. Baume de liquidambar.\n       [/INST] Sous l'ombre d'un beau Liquidambar arbor\u00e9 dans mon jardin, je me suis assis et d\u00e9lib\u00e9r\u00e9ment jou\u00e9 de mes cheveux en les enfilant dans des bas r\u00e9silles de grandes mailles, apportant une certaine libert\u00e9 rythmique dans ce mouvement, ce que l'on appelle en musique un rubato pour mieux appr\u00e9cier chaque mouvement des cheveux sur mon front.</s>",
+    "message": "Sous l'ombre d'un beau Liquidambar arbor\u00e9 dans mon jardin, je me suis assis et d\u00e9lib\u00e9r\u00e9ment jou\u00e9 de mes cheveux en les enfilant dans des bas r\u00e9silles de grandes mailles, apportant une certaine libert\u00e9 rythmique dans ce mouvement, ce que l'on appelle en musique un rubato pour mieux appr\u00e9cier chaque mouvement des cheveux sur mon front.",
     "words": [
       {
         "match": "r\u00e9silles",
@@ -1414,7 +1414,7 @@
     "parsedMessage": "Sous l'ombre d'un beau Liquidambar arbor\u00e9 dans mon jardin, je me suis assis et d\u00e9lib\u00e9r\u00e9ment jou\u00e9 de mes cheveux en les enfilant dans des bas r\u00e9silles de grandes mailles, apportant une certaine libert\u00e9 rythmique dans ce mouvement, ce que l'on appelle en musique un rubato pour mieux appr\u00e9cier chaque mouvement des cheveux sur mon front."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : industrieux, blanc-manger, hyst\u00e9rectomie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- industrieux: litt\u00e9raire Qui montre de l'adresse, de l'habilet\u00e9. \u2799\u00a0ing\u00e9nieux.\n\n- blanc-manger: Entremets compos\u00e9 de gel\u00e9e faite avec du lait, des amandes, du sucre. Des blancs-mangers.\n\n- hyst\u00e9rectomie: Chirurgie Ablation de l'ut\u00e9rus.\n       [/INST] Un industrieux cuisinier pr\u00e9pare une variation d\u00e9licieuse de blanc-manger en ajoutant secr\u00e8tement des morceaux de fruits rouges confits avant de r\u00e9aliser une hyst\u00e9rectomie gourmande pour une amie malade, offrant ainsi un petit geste d'amour et de soins au m\u00eame temps.</s>",
+    "message": "Un industrieux cuisinier pr\u00e9pare une variation d\u00e9licieuse de blanc-manger en ajoutant secr\u00e8tement des morceaux de fruits rouges confits avant de r\u00e9aliser une hyst\u00e9rectomie gourmande pour une amie malade, offrant ainsi un petit geste d'amour et de soins au m\u00eame temps.",
     "words": [
       {
         "match": "industrieux",
@@ -1447,7 +1447,7 @@
     "parsedMessage": "Un industrieux cuisinier pr\u00e9pare une variation d\u00e9licieuse de blanc-manger en ajoutant secr\u00e8tement des morceaux de fruits rouges confits avant de r\u00e9aliser une hyst\u00e9rectomie gourmande pour une amie malade, offrant ainsi un petit geste d'amour et de soins au m\u00eame temps."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : mucilagineux, coterie, feuilletis.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- mucilagineux: Form\u00e9 de mucilage\u00a0; qui en a l'aspect.\nnom masculin Un mucilagineux.\n\n- coterie: litt\u00e9raire, p\u00e9joratif R\u00e9union de personnes soutenant ensemble leurs int\u00e9r\u00eats. \u2799\u00a0caste, chapelle.\n\n- feuilletis: Technique Contour tranchant d'un diamant ou d'une pierre de couleur taill\u00e9s.\n       [/INST] Les membres de cette coterie, r\u00e9unis autour de leurs int\u00e9r\u00eats communs, se sont trouv\u00e9s au milieu d'une galerie d'art pleine de tableaux mucilagineux, leurs lours verres \u00e0 vin tremblant l\u00e9g\u00e8rement tandis qu'ils regardaient admirativement les tapisseries feuilletis\u00e9es et color\u00e9es.</s>",
+    "message": "Les membres de cette coterie, r\u00e9unis autour de leurs int\u00e9r\u00eats communs, se sont trouv\u00e9s au milieu d'une galerie d'art pleine de tableaux mucilagineux, leurs lours verres \u00e0 vin tremblant l\u00e9g\u00e8rement tandis qu'ils regardaient admirativement les tapisseries feuilletis\u00e9es et color\u00e9es.",
     "words": [
       {
         "match": "mucilagineux",
@@ -1480,7 +1480,7 @@
     "parsedMessage": "Les membres de cette coterie, r\u00e9unis autour de leurs int\u00e9r\u00eats communs, se sont trouv\u00e9s au milieu d'une galerie d'art pleine de tableaux mucilagineux, leurs lours verres \u00e0 vin tremblant l\u00e9g\u00e8rement tandis qu'ils regardaient admirativement les tapisseries feuilletis\u00e9es et color\u00e9es."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : abjection, aiguail, lagomorphes.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- abjection: Caract\u00e8re de ce qui est abject, ignoble. \u2799\u00a0indignit\u00e9, infamie.\n\n- aiguail: r\u00e9gional Ros\u00e9e.\n\n- lagomorphes: Zoologie Mammif\u00e8re herbivore tel que le li\u00e8vre, le lapin (ordre des Lagomorphes).\n       [/INST] Dans la fra\u00eecheur de l'aiguail du matin, le petit lagomorphle, mors par l'abjection, cherche \u00e0 retrouver sa confiance cach\u00e9e dans son petit terrier.</s>",
+    "message": "Dans la fra\u00eecheur de l'aiguail du matin, le petit lagomorphle, mors par l'abjection, cherche \u00e0 retrouver sa confiance cach\u00e9e dans son petit terrier.",
     "words": [
       {
         "match": "l'abjection",
@@ -1513,7 +1513,7 @@
     "parsedMessage": "Dans la fra\u00eecheur de l'aiguail du matin, le petit lagomorphle, mors par l'abjection, cherche \u00e0 retrouver sa confiance cach\u00e9e dans son petit terrier."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : acumin\u00e9, fortuitement, paterne.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- acumin\u00e9: Botanique Qui se termine en pointe. Feuilles acumin\u00e9es.\n\n- fortuitement: litt\u00e9raire De mani\u00e8re fortuite\u00a0; par hasard. Je l'ai rencontr\u00e9 fortuitement.\n\n- paterne: litt\u00e9raire Qui montre ou affecte une bonhomie doucereuse.\n       [/INST] \"Dans notre jardin paternal, nos acumin\u00e9es vertes matures poussaient fortuitement, leur forme \u00e9lanc\u00e9e apportant un charme inattendu \u00e0 notre coin de terre.\"\n\n(In our paternal garden, our acuminated green mature leaves grew fortuitously, their pointed shape unexpectedly adding charm to our patch of earth.)</s>",
+    "message": "\"Dans notre jardin paternal, nos acumin\u00e9es vertes matures poussaient fortuitement, leur forme \u00e9lanc\u00e9e apportant un charme inattendu \u00e0 notre coin de terre.\"\n\n(In our paternal garden, our acuminated green mature leaves grew fortuitously, their pointed shape unexpectedly adding charm to our patch of earth.)",
     "words": [
       {
         "match": "acumin\u00e9es",
@@ -1544,7 +1544,7 @@
     "parsedMessage": "\"Dans notre jardin paternal, nos acumin\u00e9es vertes matures poussaient fortuitement, leur forme \u00e9lanc\u00e9e apportant un charme inattendu \u00e0 notre coin de terre.\"\n\n(In our paternal garden, our acuminated green mature leaves grew fortuitously, their pointed shape unexpectedly adding charm to our patch of earth.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : ballotin, lucre, realpolitik.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- ballotin: Emballage en carton pour les confiseries, ferm\u00e9 par quatre rabats. Un ballotin de chocolats.\n\n- lucre: litt\u00e9raire, p\u00e9joratif Gain, profit recherch\u00e9 avec avidit\u00e9. Le go\u00fbt, l'amour, la passion du lucre.\n\n- realpolitik: Politique internationale bas\u00e9e sur des consid\u00e9rations de rapports de force et de possibilit\u00e9s concr\u00e8tes (sans influence id\u00e9ologique). Les exigences de la r\u00e9alpolitique. var. realpolitik\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n       [/INST] During Realpolitik negotiations, we discreetly exchanged luxury goods in ballotins to secure lucre and diplomatic advantages.</s>",
+    "message": "During Realpolitik negotiations, we discreetly exchanged luxury goods in ballotins to secure lucre and diplomatic advantages.",
     "words": [
       {
         "match": "ballotins",
@@ -1575,7 +1575,7 @@
     "parsedMessage": "During Realpolitik negotiations, we discreetly exchanged luxury goods in ballotins to secure lucre and diplomatic advantages."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : p\u00e2moison, gouaille, dolman.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- p\u00e2moison: litt\u00e9raire ou par plaisanterie Fait de se p\u00e2mer. Tomber en p\u00e2moison.\n\n- gouaille: Attitude insolente et railleuse. syn. gouaillerie\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- dolman: anciennement Veste ajust\u00e9e \u00e0 brandebourgs que portaient les hussards, les chasseurs \u00e0 cheval.\n       [/INST] Un hussard bless\u00e9 et g\u00ean\u00e9 par son dolman se plaint en gouaille en tombant dans une p\u00e2moison, ne sachant pas comment \u00e9crire une lettre \u00e0 sa bien-aim\u00e9e pour la d\u00e9crire son \u00e9tat.</s>",
+    "message": "Un hussard bless\u00e9 et g\u00ean\u00e9 par son dolman se plaint en gouaille en tombant dans une p\u00e2moison, ne sachant pas comment \u00e9crire une lettre \u00e0 sa bien-aim\u00e9e pour la d\u00e9crire son \u00e9tat.",
     "words": [
       {
         "match": "p\u00e2moison",
@@ -1606,7 +1606,7 @@
     "parsedMessage": "Un hussard bless\u00e9 et g\u00ean\u00e9 par son dolman se plaint en gouaille en tombant dans une p\u00e2moison, ne sachant pas comment \u00e9crire une lettre \u00e0 sa bien-aim\u00e9e pour la d\u00e9crire son \u00e9tat."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : canotier, algide, engoulevent.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- canotier: Chapeau de paille \u00e0 fond plat et \u00e0 bords \u00e9troits.\n\n- algide: M\u00e9decine Accompagn\u00e9 de refroidissement. Sueur algide.\n\n- engoulevent: Oiseau passereau brun-roux, au bec largement fendu.\n       [/INST] Le canotier canotier, coup\u00e9 par le vent, s'est endormi sur ses oreilles algides, mais le soudain cri de l'engoulevent l'a r\u00e9veill\u00e9 avec un souffle glacial.</s>",
+    "message": "Le canotier canotier, coup\u00e9 par le vent, s'est endormi sur ses oreilles algides, mais le soudain cri de l'engoulevent l'a r\u00e9veill\u00e9 avec un souffle glacial.",
     "words": [
       {
         "match": "canotier",
@@ -1637,7 +1637,7 @@
     "parsedMessage": "Le canotier canotier, coup\u00e9 par le vent, s'est endormi sur ses oreilles algides, mais le soudain cri de l'engoulevent l'a r\u00e9veill\u00e9 avec un souffle glacial."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : Pers\u00e9ides, cisalpin, sur\u00e9rogatoire.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- Pers\u00e9ides: Astronomie \u00c9toiles filantes qui semblent venir de la constellation de Pers\u00e9e.\n\n- cisalpin: Situ\u00e9 en de\u00e7\u00e0 des Alpes (oppos\u00e9 \u00e0 transalpin).\n\n- sur\u00e9rogatoire: litt\u00e9raire Qui est fait en plus, suppl\u00e9mentaire. Pri\u00e8re sur\u00e9rogatoire, faite par un musulman en plus des cinq pri\u00e8res quotidiennes.\n       [/INST] During the cisalpine autumn nights, the sur\u00e9rogatoire sight of the Pers\u00e9ides meteor shower provides an additional, enchanting spectacle in the star-studded sky.</s>",
+    "message": "During the cisalpine autumn nights, the sur\u00e9rogatoire sight of the Pers\u00e9ides meteor shower provides an additional, enchanting spectacle in the star-studded sky.",
     "words": [
       {
         "match": "Pers\u00e9ides",
@@ -1668,7 +1668,7 @@
     "parsedMessage": "During the cisalpine autumn nights, the sur\u00e9rogatoire sight of the Pers\u00e9ides meteor shower provides an additional, enchanting spectacle in the star-studded sky."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : omnipotent, lusitanien, schnouf.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- omnipotent: litt\u00e9raire Qui est tout-puissant.\n\n- lusitanien: Relatif au Portugal, au portugais. \u00c9tudes lusitaniennes.\n\n- schnouf: argot Drogue en poudre que l'on prise.\n       [/INST] Une omnipotent being from Lusitanian mythology is often thought to have the power to create and destroy, but somehow, the modern-day Lusitanian cartel gained access to an impossible substance \u2013 an omnipotent dose of schnouf.</s>",
+    "message": "Une omnipotent being from Lusitanian mythology is often thought to have the power to create and destroy, but somehow, the modern-day Lusitanian cartel gained access to an impossible substance \u2013 an omnipotent dose of schnouf.",
     "words": [
       {
         "match": "omnipotent",
@@ -1699,7 +1699,7 @@
     "parsedMessage": "Une omnipotent being from Lusitanian mythology is often thought to have the power to create and destroy, but somehow, the modern-day Lusitanian cartel gained access to an impossible substance \u2013 an omnipotent dose of schnouf."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : haptonomie, moloch, Capitole.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- haptonomie: M\u00e9decine Science qui \u00e9tudie le r\u00f4le des contacts dans les relations humaines (de la conception \u00e0 la mort). Haptonomie p\u00e9rinatale.\n\n- moloch: Zoologie Reptile saurien des d\u00e9serts australiens, h\u00e9riss\u00e9 d'\u00e9pines \u00e9cailleuses. Des molochs.\n\n- Capitole: \u00c9difice public o\u00f9 se concentre la vie municipale et politique, dans certaines villes. Le Capitole de Toulouse.\n       [/INST] Dans le calme du Capitole toulousain, la haptonomie p\u00e9rinatale aide les nouveau-n\u00e9s \u00e0 surmonter leur peur initiale en leur faissant interagir avec des molochs dou\u00e9s d'\u00e9pines souples, ce qui favorise la s\u00e9curit\u00e9 affective et la coh\u00e9sion sociale au sein de notre communaut\u00e9.</s>",
+    "message": "Dans le calme du Capitole toulousain, la haptonomie p\u00e9rinatale aide les nouveau-n\u00e9s \u00e0 surmonter leur peur initiale en leur faissant interagir avec des molochs dou\u00e9s d'\u00e9pines souples, ce qui favorise la s\u00e9curit\u00e9 affective et la coh\u00e9sion sociale au sein de notre communaut\u00e9.",
     "words": [
       {
         "match": "haptonomie",
@@ -1730,7 +1730,7 @@
     "parsedMessage": "Dans le calme du Capitole toulousain, la haptonomie p\u00e9rinatale aide les nouveau-n\u00e9s \u00e0 surmonter leur peur initiale en leur faissant interagir avec des molochs dou\u00e9s d'\u00e9pines souples, ce qui favorise la s\u00e9curit\u00e9 affective et la coh\u00e9sion sociale au sein de notre communaut\u00e9."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : crinoline, sylphide, andouiller.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- crinoline: Armature de baleines et de cercles d'acier flexibles, que les femmes portaient pour faire bouffer les jupes. \u2799\u00a0aussi panier. Robe \u00e0 crinoline.\n\n- sylphide: litt\u00e9raire G\u00e9nie a\u00e9rien f\u00e9minin plein de gr\u00e2ce.\nUne taille de sylphide, tr\u00e8s mince.\n\n- andouiller: Ramification des bois des cervid\u00e9s.\n       [/INST] Une sylphide en crinoline andouill\u00e9e dans la for\u00eat, danse d\u00e9licatement entre les arbres.</s>",
+    "message": "Une sylphide en crinoline andouill\u00e9e dans la for\u00eat, danse d\u00e9licatement entre les arbres.",
     "words": [
       {
         "match": "crinoline",
@@ -1763,7 +1763,7 @@
     "parsedMessage": "Une sylphide en crinoline andouill\u00e9e dans la for\u00eat, danse d\u00e9licatement entre les arbres."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : vici\u00e9, cassine, andouiller.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- vici\u00e9: Impur, pollu\u00e9. Air vici\u00e9.\n\n- cassine: vieux Petite maison.\n\n- andouiller: Ramification des bois des cervid\u00e9s.\n       [/INST] Dans la vall\u00e9e, \u00e0 c\u00f4t\u00e9 d'une cassine andouill\u00e9e par les ann\u00e9es, poussent des arbres dont les branches sont vici\u00e9s par la pr\u00e9sence de m\u00e9t\u00e9ores, laissant des cicatrices noires sur leurs \u00e9corces.</s>",
+    "message": "Dans la vall\u00e9e, \u00e0 c\u00f4t\u00e9 d'une cassine andouill\u00e9e par les ann\u00e9es, poussent des arbres dont les branches sont vici\u00e9s par la pr\u00e9sence de m\u00e9t\u00e9ores, laissant des cicatrices noires sur leurs \u00e9corces.",
     "words": [
       {
         "match": "vici\u00e9s",
@@ -1794,7 +1794,7 @@
     "parsedMessage": "Dans la vall\u00e9e, \u00e0 c\u00f4t\u00e9 d'une cassine andouill\u00e9e par les ann\u00e9es, poussent des arbres dont les branches sont vici\u00e9s par la pr\u00e9sence de m\u00e9t\u00e9ores, laissant des cicatrices noires sur leurs \u00e9corces."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : propitiatoire, datcha, gigantomachie.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- propitiatoire: litt\u00e9raire Qui a pour but de rendre la divinit\u00e9 propice. Une offrande propitiatoire.\n\n- datcha: Maison de campagne russe.\n\n- gigantomachie: Mythologie Combat des G\u00e9ants contre les dieux.\n       [/INST] Dans la tranquille datcha russe, un rituel propitiatoire \u00e9tait organis\u00e9 pour apaiser les dieux et eviter une nouvelle gigantomachie.</s>",
+    "message": "Dans la tranquille datcha russe, un rituel propitiatoire \u00e9tait organis\u00e9 pour apaiser les dieux et eviter une nouvelle gigantomachie.",
     "words": [
       {
         "match": "propitiatoire",
@@ -1825,7 +1825,7 @@
     "parsedMessage": "Dans la tranquille datcha russe, un rituel propitiatoire \u00e9tait organis\u00e9 pour apaiser les dieux et eviter une nouvelle gigantomachie."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : boulingrin, ataraxie, cyprine.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- boulingrin: Parterre de gazon g\u00e9n\u00e9ralement entour\u00e9 de bordures, de talus.\n\n- ataraxie: Philosophie Tranquillit\u00e9 de l'\u00e2me, notamment chez les \u00e9picuriens et les sto\u00efciens.\n\n- cyprine: didactique S\u00e9cr\u00e9tion vaginale, signe physique du d\u00e9sir sexuel f\u00e9minin.\n       [/INST] Dans le calme et r\u00e9joui Shaw's Garden s'allonge une boulingrin, son gazon doux touchant les doigts tandis que la cyprine apaise l'esprit en souhaitant une profonde ataraxie.\n\n(In the calm and happy Shaw's Garden lies a bowling green, its soft grass touching fingers while cyprine provides peace of mind, longing for deep ataraxia.)</s>",
+    "message": "Dans le calme et r\u00e9joui Shaw's Garden s'allonge une boulingrin, son gazon doux touchant les doigts tandis que la cyprine apaise l'esprit en souhaitant une profonde ataraxie.\n\n(In the calm and happy Shaw's Garden lies a bowling green, its soft grass touching fingers while cyprine provides peace of mind, longing for deep ataraxia.)",
     "words": [
       {
         "match": "boulingrin",
@@ -1856,7 +1856,7 @@
     "parsedMessage": "Dans le calme et r\u00e9joui Shaw's Garden s'allonge une boulingrin, son gazon doux touchant les doigts tandis que la cyprine apaise l'esprit en souhaitant une profonde ataraxie.\n\n(In the calm and happy Shaw's Garden lies a bowling green, its soft grass touching fingers while cyprine provides peace of mind, longing for deep ataraxia.)"
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : infundibuliforme, jais, fenaison.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- infundibuliforme: didactique Qui a la forme d'un entonnoir. Corolle infundibuliforme.\n\n- jais: Vari\u00e9t\u00e9 de lignite dure, d'un noir luisant, qu'on peut tailler, polir.\nNoir de jais, ou elliptiquement de jais\u00a0: d'un noir profond. Des yeux de jais.\nsyn. (vieux) jayet\n\n\u200b\u200b\u200b\n          \n\n\n\n\n\nVotre navigateur ne prend pas en charge audio.\n\n.\n\n- fenaison: Coupe et r\u00e9colte des foins.\n       [/INST] Dans les prairies infundibuliformes fleuur\u00e9es, les bovids admiraient la jais noire polie de leurs cornes, tout en attendant la fenaison pour manger les foins sucrements.</s>",
+    "message": "Dans les prairies infundibuliformes fleuur\u00e9es, les bovids admiraient la jais noire polie de leurs cornes, tout en attendant la fenaison pour manger les foins sucrements.",
     "words": [
       {
         "match": "infundibuliformes",
@@ -1887,7 +1887,7 @@
     "parsedMessage": "Dans les prairies infundibuliformes fleuur\u00e9es, les bovids admiraient la jais noire polie de leurs cornes, tout en attendant la fenaison pour manger les foins sucrements."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : percale, goupil, longeron.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- percale: Tissu de coton, fin et serr\u00e9.\n\n- goupil: archa\u00efsme Renard.\n\n- longeron: Poutre, pi\u00e8ce transversale (d'une charpente, d'un ch\u00e2ssis).\n       [/INST] Une percale fine et serr\u00e9e recouvre int\u00e9rieurement les longeronneurs de charpente, emp\u00eachant les goupils renards inquisiteurs de s'y installer.</s>",
+    "message": "Une percale fine et serr\u00e9e recouvre int\u00e9rieurement les longeronneurs de charpente, emp\u00eachant les goupils renards inquisiteurs de s'y installer.",
     "words": [
       {
         "match": "percale",
@@ -1918,7 +1918,7 @@
     "parsedMessage": "Une percale fine et serr\u00e9e recouvre int\u00e9rieurement les longeronneurs de charpente, emp\u00eachant les goupils renards inquisiteurs de s'y installer."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : caroubier, ballotin, baise-en-ville.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- caroubier: Arbre m\u00e9diterran\u00e9en \u00e0 feuilles persistantes, \u00e0 fleurs rouge\u00e2tres.\n\n- ballotin: Emballage en carton pour les confiseries, ferm\u00e9 par quatre rabats. Un ballotin de chocolats.\n\n- baise-en-ville: familier Petite valise, sac de voyage contenant ce qu'il faut pour une nuit.\n       [/INST] Beneath the shade of a caroubier tree, I enjoy a moment of relaxation with a ballotin of chocolates before continuing my journey with a light baise-en-ville pack.</s>",
+    "message": "Beneath the shade of a caroubier tree, I enjoy a moment of relaxation with a ballotin of chocolates before continuing my journey with a light baise-en-ville pack.",
     "words": [
       {
         "match": "caroubier",
@@ -1949,7 +1949,7 @@
     "parsedMessage": "Beneath the shade of a caroubier tree, I enjoy a moment of relaxation with a ballotin of chocolates before continuing my journey with a light baise-en-ville pack."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : raptus, dissensus, havresac.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- raptus: Psych. Impulsion violente et soudaine pouvant pousser \u00e0 commettre un acte grave (homicide, suicide, mutilation). Raptus anxieux, col\u00e9reux.\n\n- dissensus: D\u00e9saccord profond entre les membres d'un groupe.\n\n- havresac: anciennement Sac que le fantassin portait sur le dos, et qui contenait son \u00e9quipement.\n       [/INST] w\u00e4hrend des marsches militaires, le raptus anxieux d'un soldat causa un dissensus profond parmi ses camarades. Chaque soldat enleva son havresac et sortit son arme, pr\u00eat \u00e0 prendre le contr\u00f4le de la situation.</s>",
+    "message": "W\u00e4hrend des marsches militaires, le raptus anxieux d'un soldat causa un dissensus profond parmi ses camarades. Chaque soldat enleva son havresac et sortit son arme, pr\u00eat \u00e0 prendre le contr\u00f4le de la situation.",
     "words": [
       {
         "match": "raptus",
@@ -1980,7 +1980,7 @@
     "parsedMessage": "W\u00e4hrend des marsches militaires, le raptus anxieux d'un soldat causa un dissensus profond parmi ses camarades. Chaque soldat enleva son havresac et sortit son arme, pr\u00eat \u00e0 prendre le contr\u00f4le de la situation."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : rapetasser, probit\u00e9, parcellaire.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- rapetasser: familier R\u00e9parer sommairement, grossi\u00e8rement (un v\u00eatement, etc.). \u2799\u00a0raccommoder, rapi\u00e9cer. Rapetasser de vieux souliers.\n\n- probit\u00e9: Honn\u00eatet\u00e9 scrupuleuse. \u2799\u00a0int\u00e9grit\u00e9.\n\n- parcellaire: Fait par parcelles. Plan parcellaire.\n       [/INST] \"Pour r\u00e9tablir la parcellaire de ses terres vues dans un \u00e9tat de v\u00e9tust\u00e9, il ach\u00e8te des morceaux par morceaux et rapetasse scrupuleusement la probit\u00e9 des murs et des foss\u00e9s pour les rendre utiles \u00e0 nouveau.\"</s>",
+    "message": "Pour r\u00e9tablir la parcellaire de ses terres vues dans un \u00e9tat de v\u00e9tust\u00e9, il ach\u00e8te des morceaux par morceaux et rapetasse scrupuleusement la probit\u00e9 des murs et des foss\u00e9s pour les rendre utiles \u00e0 nouveau.",
     "words": [
       {
         "match": "rapetasse",
@@ -2015,7 +2015,7 @@
     "parsedMessage": "Pour r\u00e9tablir la parcellaire de ses terres vues dans un \u00e9tat de v\u00e9tust\u00e9, il ach\u00e8te des morceaux par morceaux et rapetasse scrupuleusement la probit\u00e9 des murs et des foss\u00e9s pour les rendre utiles \u00e0 nouveau."
   },
   {
-    "message": "<s> [INST] Compose une phrase vraie qui combine habilement les mots suivants : vernal, raout, satori.\n  Pour rappel, voici la d\u00e9finition des mots \u00e0 inclure:\n\n- vernal: didactique Du printemps.\nPoint vernal\u00a0: intersection de l'\u00e9quateur et de l'\u00e9cliptique \u00e0 l'\u00e9quinoxe de printemps.\n\n- raout: R\u00e9union, f\u00eate mondaine.\n\n- satori: didactique \u00c9veil \u00e0 la connaissance de la v\u00e9rit\u00e9, dans le bouddhisme japonais.\n       [/INST] Dans la r\u00e9jouissante assembl\u00e9e printani\u00e8re, nous rencontrons des amis qui ont atteint le satori, une profonde compr\u00e9hension de la r\u00e9alit\u00e9. C'est un raout vernal inoubliablement enrichissant pour l'esprit.</s>",
+    "message": "Dans la r\u00e9jouissante assembl\u00e9e printani\u00e8re, nous rencontrons des amis qui ont atteint le satori, une profonde compr\u00e9hension de la r\u00e9alit\u00e9. C'est un raout vernal inoubliablement enrichissant pour l'esprit.",
     "words": [
       {
         "match": "vernal",

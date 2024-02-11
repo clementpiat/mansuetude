@@ -44,8 +44,16 @@ export default function ScrollLandingPage(props) {
         ease: "none",
         yoyo: "true",
         repeat: 1,
-        repeatDelay: 1,
+        repeatDelay: 2,
       });
+      tl.to("#subTitle", {
+        duration: 0,
+        yoyo: true,
+        repeat: 4,
+        repeatDelay: .5,
+        borderRight: "solid rgb(248 250 252)"
+      }, "<0.25")
+
       tl.to("#subTitle", {
         delay: 0.2,
         duration: 1,
@@ -55,9 +63,16 @@ export default function ScrollLandingPage(props) {
         },
         ease: "none",
       });
+      tl.to("#subTitle", {
+        duration: 0,
+        yoyo: true,
+        repeat: -1,
+        repeatDelay: .5,
+        borderRight: "solid rgb(248 250 252)"
+      })
 
-      const luciole = document.querySelector("#luciole").getBoundingClientRect();
-      const goButton = document.querySelector("#goButton").getBoundingClientRect();
+      // const luciole = document.querySelector("#luciole").getBoundingClientRect();
+      // const goButton = document.querySelector("#goButton").getBoundingClientRect();
       // const initialLuciole2 = document.querySelector("#luciole2").getBoundingClientRect();
       // const luciole3 = document.querySelector("#luciole3").getBoundingClientRect();
 
@@ -126,9 +141,13 @@ export default function ScrollLandingPage(props) {
     <main className="flex flex-col items-center first-bg" id="scroll-landing-page" ref={container}>
       <div id="title" className="w-[70vw] h-[60vh] pt-[20vh] sm:pt-[25vh] items-center mb-[15vh]">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-50">
-          Apprentissage de vocabulaire français avancé
+          <span>Apprentissage de vocabulaire </span>
+          <div id="highlight"></div>
+          <span>français </span>
+          <span>avancé</span>
         </h1>
-        <p id="subTitle" className="text-xl mt-3 text-slate-400">
+        <p className="text-xl mt-3 text-slate-400">
+          <span id="subTitle" className="pr-[5px]"></span>
         </p>
       </div>
 
