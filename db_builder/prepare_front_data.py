@@ -4,7 +4,8 @@ from Levenshtein import hamming
 
 MAX_CHARS = 360
 
-with open("db_builder/data/sentences.json") as f:
+MESSAGE_KEY = "parsedMessage"
+with open("db_builder/data/sentences_mistral_parsed.json") as f:
     sentences = json.load(f)
 
 with open("db_builder/data/definitions.json") as f:
@@ -16,10 +17,10 @@ for sentence in sentences:
     if sentence.get("gpt-version") != "gpt-4":
         continue
 
-    if sentence["message"][0] == '"' and sentence["message"][-1] == '"':
-        sentence["message"] = sentence["message"][1:-1]
+    if sentence[MESSAGE_KEY][0] == '"' and sentence[MESSAGE_KEY][-1] == '"':
+        sentence[MESSAGE_KEY] = sentence[MESSAGE_KEY][1:-1]
 
-    if len(sentence["message"]) > MAX_CHARS:
+    if len(sentence[MESSAGE_KEY]) > MAX_CHARS:
         not_found += 1
         continue
 
@@ -30,7 +31,7 @@ for sentence in sentences:
 
         distances = []
         found = False
-        for x in sentence["message"].split(" "):
+        for x in sentence[MESSAGE_KEY].split(" "):
             x = x.replace(",", "").replace(".", "")
             if word == x.lower() or (len(word) > 3 and word in x.lower()):
                 found_words.append({
