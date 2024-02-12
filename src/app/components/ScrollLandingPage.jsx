@@ -162,7 +162,7 @@ export default function ScrollLandingPage(props) {
         </svg> */}
       </div>
 
-      <div className="w-[70vw] mt-[10vh]">
+      <div className="w-[70vw] sm:mt-[10vh]">
         <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/fish" className="hover:underline cursor-pointer">Furète</Link>
         </h2>
