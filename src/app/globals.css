@@ -134,3 +134,12 @@ main {
   padding-left: 1.5em;
   padding-right: 1.5em;
 }
+
+#highlight {
+  display: inline-block;
+  position: absolute;
+  z-index: 0;
+  background-color: var(--france-red);
+  height: 40px; 
+  width: 0%;
+}
