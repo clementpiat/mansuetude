@@ -170,11 +170,11 @@ export default function ScrollLandingPage(props) {
           Découvre de nouveaux mots rares de la langue française, et sélectionne ceux que tu souhaiterais connaître.
         </p>
       </div>
-      <div className="first-bg rounded-3xl mb-[5vh] mt-[3vh] w-[85vw] sm:w-[70vw] p-[5vw] sm:p-[2.5vw]">
+      <div className="first-bg rounded-3xl mb-[10vh] sm:mb-[15vh] mt-[3vh] w-[85vw] sm:w-[70vw] p-[5vw] sm:p-[2.5vw]">
         <Fishing data={props.data}></Fishing>
       </div>
 
-      <div className="w-[70vw] mt-[10vh]">
+      <div className="w-[70vw]">
         <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
           <Link href="/radio" className="hover:underline cursor-pointer">Assimile</Link>
         </h2>
@@ -182,7 +182,7 @@ export default function ScrollLandingPage(props) {
           Retrouve ces mots utilisés dans divers contextes.
         </p>
       </div>
-      <div className="w-[85vw] sm:w-[70vw] h-[40vh] sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
+      <div className="w-[85vw] sm:w-[70vw] h-[40vh] sm:h-[75vh] first-bg rounded-3xl mb-[10vh] sm:mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
         <img src="/radio_mansuetude.png" className="sm:max-h-[75vh] max-w-[80vw] max-h-[35vh] sm:max-w-[70vw]">
         </img>
       </div>
@@ -195,12 +195,12 @@ export default function ScrollLandingPage(props) {
           Consigne les mots que tu as appris.
         </p>
       </div>
-      <div className="w-[85vw] sm:w-[70vw] h-[35vh] sm:pt-0 sm:h-[75vh] first-bg rounded-3xl mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
-        <img src="/registre2.png" className="sm:max-h-[75vh] max-w-[80vw] max-h-[30vh] sm:max-w-[70vw]">
+      <div className="w-[85vw] sm:w-[70vw] h-[35vh] sm:pt-0 sm:h-[75vh] first-bg rounded-3xl mb-[10vh] sm:mb-[15vh] mt-[3vh] flex flex-col items-center justify-center">
+        <img src="/registre.png" className="sm:max-h-[75vh] max-w-[80vw] max-h-[30vh] sm:max-w-[70vw]">
         </img>
       </div>
 
-      <div id="goButton" className="flex flex-col items-center mb-[15vh]">
+      <div id="goButton" className="flex flex-col items-center mb-[10vh] sm:mb-[15vh]">
           <Link href="/fish">
             <span
             className="generate-button button-grow cursor-pointer px-5 py-3 mt-2 text-lg sm:text-xl font-medium text-center text-slate-300 rounded-3xl"

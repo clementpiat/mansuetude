@@ -127,10 +127,11 @@ export default function YoutubeScroll(props) {
 
     return (
         <div className="w-[100vw] flex flex-col items-center h-[70vh]">
-            <div className="text-white cursor-pointer second-bg-light rounded-3xl p-[1vh]" onClick={slideUp}>
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" className="w-[2vh] h-[2vh]">
-                    <path d="m4.5 15.75 7.5-7.5 7.5 7.5" />
-                </svg>
+            <div className="text-white cursor-pointer first-bg rounded-3xl p-[1vh] border-2 border-slate-900 hover:bg-slate-900" onClick={slideUp}>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-[2vh] h-[2vh]">
+                <path d="M4.5 10.5 12 3m0 0 7.5 7.5M12 3v18" />
+            </svg>
+
             </div>
 
             <div id="videos" className="overflow-hidden h-[60vh] w-[100vw] flex flex-col items-center">
@@ -145,10 +146,11 @@ export default function YoutubeScroll(props) {
                 </div>
             </div>
 
-            <div className="text-white mt-[5vh] cursor-pointer second-bg-light rounded-3xl p-[1vh]" onClick={slideDown}>
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" className="w-[2vh] h-[2vh]">
-                    <path d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            <div className="text-white mt-[5vh] cursor-pointer first-bg rounded-3xl p-[1vh] border-2 border-slate-900 hover:bg-slate-900" onClick={slideDown}>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-[2vh] h-[2vh]">
+                    <path d="M19.5 13.5 12 21m0 0-7.5-7.5M12 21V3" />
                 </svg>
+
             </div>
 
             <WordModal selectedWord={selectedWord} definitions={props.definitions} canBeRemovedFromLearningWords="true"></WordModal>

@@ -4,8 +4,8 @@ from Levenshtein import hamming
 
 MAX_CHARS = 360
 
-MESSAGE_KEY = "parsedMessage"
-with open("db_builder/data/sentences_mistral_parsed.json") as f:
+MESSAGE_KEY = "message"
+with open("db_builder/data/sentences.json") as f:
     sentences = json.load(f)
 
 with open("db_builder/data/definitions.json") as f:
@@ -65,6 +65,7 @@ for sentence in sentences:
         continue
 
     sentence["words"] = found_words
+    sentence["message"] = sentence[MESSAGE_KEY]
     prepared_sentences.append(sentence)
 
 print(f"Not found: {not_found} / {len(sentences)}")
