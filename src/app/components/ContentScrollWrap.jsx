@@ -50,9 +50,9 @@ export default function ContentScrollWrap(props) {
 
             // quotes
             let _quotes = _learningWords.map(
-                (word) => props.definitions[word].definitions.map(
+                (word) => props.definitions[word] ? props.definitions[word].definitions.map(
                     _definition => _definition.examples.map(example => [word, example])
-                ).reduce((x, y) => x.concat(y))
+                ).reduce((x, y) => x.concat(y)) : []
             ).reduce((x, y) => x.concat(y))
 
             return [shuffle(_links), shuffle(_quotes)]
