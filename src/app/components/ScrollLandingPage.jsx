@@ -86,9 +86,7 @@ export default function ScrollLandingPage(props) {
     <main className="flex flex-col items-center first-bg" id="scroll-landing-page" ref={container}>
       <div id="title" className="w-[70vw] h-[65vh] sm:h-[60vh] pt-[20vh] sm:pt-[25vh] items-center z-10">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-50">
-          <span>Apprentissage de vocabulaire </span>
-          <span>français </span>
-          <span>rare et précieux</span>
+          <span>Apprentissage de mots rares et précieux</span>
         </h1>
         <p className="text-xl mt-3 text-slate-400">
           <span id="subTitle" className="pr-[5px]"></span>
