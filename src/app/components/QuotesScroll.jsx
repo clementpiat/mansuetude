@@ -97,7 +97,6 @@ export default function QuotesScroll(props) {
     }
 
     const setMedia = (media, _index) => {
-        console.log(media.getElementsByClassName("date-quote")[0], props.quotes[_index][1]["date"]);
         media.getElementsByClassName("text-quote")[0].textContent = props.quotes[_index][1]["text"];
         media.getElementsByClassName("author-quote")[0].textContent = props.quotes[_index][1]["author"];
         media.getElementsByClassName("title-quote")[0].textContent = props.quotes[_index][1]["title"];

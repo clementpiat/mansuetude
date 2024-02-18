@@ -31,7 +31,8 @@ export default function ContentScrollWrap(props) {
             let _learningWords = localStorage.getItem("learningWords");
             _learningWords = _learningWords ? JSON.parse(_learningWords) : [];
             const placeholderWord = "mansuétude";
-            _learningWords = _learningWords.length ?  _learningWords : [placeholderWord];
+            _learningWords = _learningWords.length ?  _learningWords : [];
+            _learningWords = _learningWords.concat([placeholderWord])
 
             // links
             let _links = _learningWords.map(
@@ -64,7 +65,6 @@ export default function ContentScrollWrap(props) {
     let data = getData()
     const links = data[0]
     const quotes = data[1]
-    console.log(quotes)
 
     return (
         <div className="w-[100vw] flex flex-col items-center h-[70vh]">
