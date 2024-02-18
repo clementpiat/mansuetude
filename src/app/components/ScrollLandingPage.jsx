@@ -140,7 +140,7 @@ export default function ScrollLandingPage(props) {
           </div>
         </div>
 
-        <div className="w-[100vw] px-[5vw] flex mt-[5vh]">
+        <div className="w-[100vw] px-[5vw] flex mt-[10vh]">
           <div className="halo-background h-[35vh] w-[95vw] absolute"></div>
           <div className="overflow-hidden halo-border w-[50vw] mb-[10vh] sm:mb-[15vh] z-20 sm:mt-[10vh]">
             <img src="/registre.png" className="w-full rounded-2xl ring-1 ring-transparent">

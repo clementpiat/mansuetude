@@ -1100,5 +1100,60 @@
         "synonymes": "Synon. h\u00e9riss\u00e9, rocailleux, rude."
       }
     ]
+  },
+  "mansu\u00e9tude": {
+    "word": "mansu\u00e9tude",
+    "definitions": [
+      {
+        "text": "Disposition morale qui incline \u00e0 la douceur, la patience, au pardon.",
+        "examples": [
+          {
+            "text": "J'ai ins\u00e9parablement uni l'humilit\u00e9, la patience et la mansu\u00e9tude par le feu de la charit\u00e9.",
+            "author": "Montalembert",
+            "title": ", Ste \u00c9lisabeth",
+            "date": ", 1836"
+          },
+          {
+            "text": "Toute la Bible est un hymne \u00e0 la justice, c'est-\u00e0-dire, selon le style h\u00e9breu, \u00e0 la charit\u00e9, \u00e0 la mansu\u00e9tude du puissant envers le faible...",
+            "author": "Proudhon",
+            "title": ", Syst. contrad. \u00e9con., t. 1",
+            "date": ", 1846"
+          },
+          {
+            "text": "brotonneau:.",
+            "author": "Flers, Caillavet",
+            "title": ", M. Brotonneau",
+            "date": ", 1923"
+          }
+        ],
+        "syntagme": "La divine mansu\u00e9tude; le Dieu de la mansu\u00e9tude; mansu\u00e9tude infinie; \u00eatre plein de mansu\u00e9tude; respirer la mansu\u00e9tude; faire preuve de mansu\u00e9tude.",
+        "synonymes": "Synon. b\u00e9nignit\u00e9, bienveillance, bont\u00e9, d\u00e9bonnairet\u00e9, indulgence, mis\u00e9ricorde"
+      },
+      {
+        "text": "Indulgence excessive, faiblesse.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Manifestation de cette disposition.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Douceur, calme, s\u00e9r\u00e9nit\u00e9.",
+        "examples": [
+          {
+            "text": "La maison l'accueillit dans son ombre paisible, son silence plein de fra\u00eecheur et de mansu\u00e9tude.",
+            "author": "Chardonne",
+            "title": ", \u00c9pithal.",
+            "date": ", 1921"
+          }
+        ],
+        "syntagme": "Mansu\u00e9tude habituelle.",
+        "synonymes": null
+      }
+    ]
   }
 }

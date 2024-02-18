@@ -30,7 +30,7 @@ export default function ContentScrollWrap(props) {
         if (typeof window !== 'undefined') {
             let _learningWords = localStorage.getItem("learningWords");
             _learningWords = _learningWords ? JSON.parse(_learningWords) : [];
-            const placeholderWord = "hourvari";
+            const placeholderWord = "mansuétude";
             _learningWords = _learningWords.length ?  _learningWords : [placeholderWord];
 
             // links

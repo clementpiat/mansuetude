@@ -97,6 +97,12 @@ for x in prepared_sentences:
     for word in x["words"]:
         definitions[word["word"]] = word
 
+PLACEHOLDER_WORD = "mansuétude"
+definitions[PLACEHOLDER_WORD] = {
+    "word": PLACEHOLDER_WORD,
+    "definitions": parse_definitions(DEFINITIONS[PLACEHOLDER_WORD])
+}
+
 with open("public/definitions.json", "w") as f:
     json.dump(definitions, f, indent=2)
 
