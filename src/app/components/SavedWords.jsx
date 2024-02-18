@@ -31,7 +31,7 @@ export default function SavedWords(props) {
     <div className="h-[70vh] w-[90vw] sm:w-[60vw] grid-cols-2 flex flex-row justify-between">
       <WordsColumn title="Mots en cours" words={learningWords} openModal={openModal}></WordsColumn>
       <WordsColumn title="Mots appris" words={learnedWords} openModal={openModal}></WordsColumn>
-      <WordModal selectedWord={selectedWord} definitions={props.definitions} setLearningWords={setLearningWords} setLearnedWords={setLearnedWords}></WordModal>
+      <WordModal selectedWord={selectedWord} setLearningWords={setLearningWords} setLearnedWords={setLearnedWords}></WordModal>
     </div>
   )
 }

@@ -9,7 +9,7 @@ export default async function Memo() {
   const definitions = JSON.parse(file);
 
   return (
-    <main className="flex h-[85vh] flex-col items-center justify-between custom-bg">
+    <main className="flex h-[85vh] mt-[5vh] flex-col items-center justify-between custom-bg">
       {/* <DotNavButton href="/radio" left="true"></DotNavButton> */}
       <SavedWords definitions={definitions}></SavedWords>
       <SectionSelector sectionId="3"></SectionSelector>

@@ -1,912 +1,1104 @@
 {
-  "apophtegme": {
-    "match": "apophtegme",
-    "word": "apophtegme",
-    "definition": {
-      "def": "Parole m\u00e9morable ayant une valeur de maxime.",
-      "synonyms": [
-        "aphorisme"
-      ]
-    }
-  },
-  "poujadisme": {
-    "match": "poujadisme",
-    "word": "poujadisme",
-    "definition": {
-      "def": "Mouvement politique populiste de la fin de la IVe\u00a0R\u00e9publique, soutenu surtout par les petits commer\u00e7ants.",
-      "synonyms": []
-    }
-  },
-  "panspermie": {
-    "match": "panspermie",
-    "word": "panspermie",
-    "definition": {
-      "def": "Th\u00e9orie selon laquelle la vie sur terre provient de germes venus d'ailleurs.",
-      "synonyms": []
-    }
-  },
-  "hourvari": {
-    "match": "l'hourvari",
-    "word": "hourvari",
-    "definition": {
-      "def": "Grand tumulte.",
-      "synonyms": []
-    }
-  },
-  "portefaix": {
-    "match": "portefaix",
-    "word": "portefaix",
-    "definition": {
-      "def": "Personne qui faisait m\u00e9tier de porter des fardeaux.",
-      "synonyms": [
-        "porteur"
-      ]
-    }
-  },
-  "succube": {
-    "match": "succube",
-    "word": "succube",
-    "definition": {
-      "def": "D\u00e9mon qui prend l'apparence d'une femme et vient la nuit s'unir \u00e0 un homme pendant son sommeil.",
-      "synonyms": []
-    }
-  },
-  "c\u00e9phal\u00e9e": {
-    "match": "c\u00e9phal\u00e9e",
-    "word": "c\u00e9phal\u00e9e",
-    "definition": {
-      "def": "Mal de t\u00eate.",
-      "synonyms": []
-    }
-  },
-  "bobinette": {
-    "match": "bobinette",
-    "word": "bobinette",
-    "definition": {
-      "def": "Loquet cylindrique en bois.",
-      "synonyms": []
-    }
-  },
-  "gouaille": {
-    "match": "gouaille",
-    "word": "gouaille",
-    "definition": {
-      "def": "Attitude insolente et railleuse.",
-      "synonyms": []
-    }
-  },
-  "abaya": {
-    "match": "abaya",
-    "word": "abaya",
-    "definition": {
-      "def": "Long v\u00eatement f\u00e9minin qui couvre l'ensemble du corps \u00e0 l'exception du visage et des mains, traditionnel dans certains pays de culture musulmane.",
-      "synonyms": [
-        "niqab"
-      ]
-    }
-  },
-  "trotte-menu": {
-    "match": "trotte-menu",
-    "word": "trotte-menu",
-    "definition": {
-      "def": "Qui trotte \u00e0 petits pas.",
-      "synonyms": []
-    }
-  },
-  "vermiculaire": {
-    "match": "vermiculaire",
-    "word": "vermiculaire",
-    "definition": {
-      "def": "Qui a la forme, l'aspect d'un petit ver.",
-      "synonyms": []
-    }
-  },
-  "libertaire": {
-    "match": "libertaires",
-    "word": "libertaire",
-    "definition": {
-      "def": "Qui n'admet aucune limitation de la libert\u00e9 individuelle en mati\u00e8re sociale, politique.",
-      "synonyms": [
-        "anarchiste"
-      ]
-    }
-  },
-  "verjus": {
-    "match": "verjus",
-    "word": "verjus",
-    "definition": {
-      "def": "Suc acide de raisin cueilli vert.",
-      "synonyms": []
-    }
-  },
-  "belluaire": {
-    "match": "belluaire",
-    "word": "belluaire",
-    "definition": {
-      "def": "Gladiateur qui combattait des fauves.",
-      "synonyms": [
-        "bestiaire"
-      ]
-    }
-  },
-  "ensacher": {
-    "match": "d'ensacher",
-    "word": "ensacher",
-    "definition": {
-      "def": "Mettre en sac, en sachet.",
-      "synonyms": []
-    }
-  },
-  "p\u00e9tuner": {
-    "match": "p\u00e9tun\u00e9",
-    "word": "p\u00e9tuner",
-    "definition": {
-      "def": "Fumer, priser du tabac.",
-      "synonyms": []
-    }
-  },
-  "fibrille": {
-    "match": "fibrilles",
-    "word": "fibrille",
-    "definition": {
-      "def": "Petite fibre.",
-      "synonyms": []
-    }
-  },
-  "obole": {
-    "match": "obole",
-    "word": "obole",
-    "definition": {
-      "def": "Modeste offrande, petite contribution en argent.",
-      "synonyms": []
-    }
-  },
-  "charivari": {
-    "match": "charivari",
-    "word": "charivari",
-    "definition": {
-      "def": "Grand bruit, tumulte.",
-      "synonyms": [
-        "vacarme"
-      ]
-    }
-  },
-  "spinozisme": {
-    "match": "spinozisme",
-    "word": "spinozisme",
-    "definition": {
-      "def": "Syst\u00e8me philosophique de Spinoza.",
-      "synonyms": []
-    }
-  },
-  "pusillanime": {
-    "match": "pusillanime",
-    "word": "pusillanime",
-    "definition": {
-      "def": "Qui manque d'audace, craint le risque, les responsabilit\u00e9s.",
-      "synonyms": [
-        "craintif"
-      ]
-    }
-  },
-  "gabier": {
-    "match": "gabier",
-    "word": "gabier",
-    "definition": {
-      "def": "Matelot charg\u00e9 de l'entretien et de la man\u0153uvre de la voilure.",
-      "synonyms": []
-    }
-  },
-  "p\u00e9riphrase": {
-    "match": "p\u00e9riphrase",
-    "word": "p\u00e9riphrase",
-    "definition": {
-      "def": "Expression par plusieurs mots d'une notion qu'un seul mot pourrait exprimer.",
-      "synonyms": [
-        "circonlocution"
-      ]
-    }
-  },
-  "turpide": {
-    "match": "turpide",
-    "word": "turpide",
-    "definition": {
-      "def": "Qui a une certaine laideur morale.",
-      "synonyms": []
-    }
-  },
-  "ceste": {
-    "match": "ceste",
-    "word": "ceste",
-    "definition": {
-      "def": "Courroie garnie de plomb dont les pugilistes s'entouraient les mains.",
-      "synonyms": []
-    }
-  },
-  "dada\u00efsme": {
-    "match": "dada\u00efsme",
-    "word": "dada\u00efsme",
-    "definition": {
-      "def": "L'\u00e9cole, le mouvement dada.",
-      "synonyms": []
-    }
-  },
-  "privaut\u00e9": {
-    "match": "privaut\u00e9s",
-    "word": "privaut\u00e9",
-    "definition": {
-      "def": "Familiarit\u00e9 excessive, libert\u00e9.",
-      "synonyms": []
-    }
-  },
-  "munificence": {
-    "match": "munificence",
-    "word": "munificence",
-    "definition": {
-      "def": "Grandeur dans la g\u00e9n\u00e9rosit\u00e9.",
-      "synonyms": []
-    }
-  },
-  "musarder": {
-    "match": "musarder",
-    "word": "musarder",
-    "definition": {
-      "def": "Perdre son temps \u00e0 des riens.",
-      "synonyms": [
-        "fl\u00e2ner"
-      ]
-    }
-  },
-  "tenancier": {
-    "match": "tenancier",
-    "word": "tenancier",
-    "definition": {
-      "def": "Personne qui dirige, qui g\u00e8re un \u00e9tablissement soumis \u00e0 la surveillance des pouvoirs publics.",
-      "synonyms": []
-    }
-  },
-  "ahan": {
-    "match": "ahan",
-    "word": "ahan",
-    "definition": {
-      "def": "Effort p\u00e9nible.",
-      "synonyms": []
-    }
-  },
-  "\u00e9pointer": {
-    "match": "d'\u00e9pointer",
-    "word": "\u00e9pointer",
-    "definition": {
-      "def": "\u00c9mousser en \u00f4tant, en cassant ou en usant la pointe.",
-      "synonyms": []
-    }
-  },
-  "\u00e9ristique": {
-    "match": "\u00e9ristique",
-    "word": "\u00e9ristique",
-    "definition": {
-      "def": "Relatif \u00e0 la controverse.",
-      "synonyms": []
-    }
-  },
-  "glabelle": {
-    "match": "glabelle",
-    "word": "glabelle",
-    "definition": {
-      "def": "Zone l\u00e9g\u00e8rement pro\u00e9minente, comprise entre les deux sourcils.",
-      "synonyms": []
-    }
-  },
-  "ensauvager": {
-    "match": "s'ensauvager",
-    "word": "ensauvager",
-    "definition": {
-      "def": "Rendre sauvage, f\u00e9roce.",
-      "synonyms": []
-    }
-  },
-  "anthropoc\u00e8ne": {
-    "match": "l'anthropoc\u00e8ne",
-    "word": "anthropoc\u00e8ne",
-    "definition": {
-      "def": "P\u00e9riode la plus r\u00e9cente du quaternaire, qui succ\u00e8derait \u00e0 l'holoc\u00e8ne, caract\u00e9ris\u00e9e par les effets de l'activit\u00e9 humaine sur la plan\u00e8te.",
-      "synonyms": []
-    }
-  },
-  "collapsologie": {
-    "match": "collapsologie",
-    "word": "collapsologie",
-    "definition": {
-      "def": "Courant de pens\u00e9e annon\u00e7ant l'effondrement de la civilisation industrielle.",
-      "synonyms": []
-    }
-  },
-  "gorgone": {
-    "match": "gorgone",
-    "word": "gorgone",
-    "definition": {
-      "def": "Animal coralliaire (c\u0153lent\u00e9r\u00e9) formant des colonies arborescentes.",
-      "synonyms": []
-    }
-  },
-  "crinoline": {
-    "match": "crinoline",
-    "word": "crinoline",
-    "definition": {
-      "def": "Armature de baleines et de cercles d'acier flexibles, que les femmes portaient pour faire bouffer les jupes.",
-      "synonyms": [
-        "panier"
-      ]
-    }
-  },
-  "v\u00e9tilleux": {
-    "match": "v\u00e9tilleux",
-    "word": "v\u00e9tilleux",
-    "definition": {
-      "def": "Qui s'attache \u00e0 des d\u00e9tails, \u00e0 des v\u00e9tilles.",
-      "synonyms": [
-        "pointilleux"
-      ]
-    }
-  },
-  "vulgate": {
-    "match": "Vulgate",
-    "word": "vulgate",
-    "definition": {
-      "def": "Traduction latine de la Bible.",
-      "synonyms": []
-    }
-  },
-  "cymbalisation": {
-    "match": "cymbalisation",
-    "word": "cymbalisation",
-    "definition": {
-      "def": "Bruit modul\u00e9 produit par la cigale m\u00e2le.",
-      "synonyms": []
-    }
-  },
-  "mansu\u00e9tude": {
-    "match": "mansu\u00e9tude",
-    "word": "mansu\u00e9tude",
-    "definition": {
-      "def": "Disposition \u00e0 pardonner g\u00e9n\u00e9reusement.",
-      "synonyms": [
-        "bont\u00e9"
-      ]
-    }
-  },
-  "\u00e9piphyte": {
-    "match": "\u00e9piphyte",
-    "word": "\u00e9piphyte",
-    "definition": {
-      "def": "Qui cro\u00eet sur d'autres plantes sans en tirer sa nourriture.",
-      "synonyms": []
-    }
-  },
-  "V\u00e9da": {
-    "match": "V\u00e9da",
-    "word": "V\u00e9da",
-    "definition": {
-      "def": "Texte religieux et po\u00e9tique de l'Inde ancienne.",
-      "synonyms": [
-        "v\u00e9dique"
-      ]
-    }
-  },
-  "d\u00e9sh\u00e9rence": {
-    "match": "d\u00e9sh\u00e9rence",
-    "word": "d\u00e9sh\u00e9rence",
-    "definition": {
-      "def": "Absence d'h\u00e9ritiers pour recueillir une succession qui est en cons\u00e9quence d\u00e9volue \u00e0 l'\u00c9tat.",
-      "synonyms": []
-    }
-  },
-  "inf\u00e9rence": {
-    "match": "inf\u00e9rence",
-    "word": "inf\u00e9rence",
-    "definition": {
-      "def": "Op\u00e9ration logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions d\u00e9j\u00e0 tenues pour vraies.",
-      "synonyms": [
-        "induction"
-      ]
-    }
-  },
-  "indurer": {
-    "match": "indurer",
-    "word": "indurer",
-    "definition": {
-      "def": "Durcir (un tissu organique).",
-      "synonyms": []
-    }
-  },
-  "coprah": {
-    "match": "coprah",
-    "word": "coprah",
-    "definition": {
-      "def": "Amande de la noix de coco d\u00e9cortiqu\u00e9e.",
-      "synonyms": []
-    }
-  },
-  "sportule": {
-    "match": "sportule",
-    "word": "sportule",
-    "definition": {
-      "def": "Don, en nature ou en argent, que les patrons accordaient chaque jour \u00e0 leurs clients.",
-      "synonyms": []
-    }
-  },
-  "prolixe": {
-    "match": "prolixe",
-    "word": "prolixe",
-    "definition": {
-      "def": "Qui est trop long, qui a tendance \u00e0 d\u00e9layer dans ses \u00e9crits ou ses discours.",
-      "synonyms": [
-        "bavard"
-      ]
-    }
-  },
-  "n\u00e9ot\u00e9nie": {
-    "match": "n\u00e9ot\u00e9nie",
-    "word": "n\u00e9ot\u00e9nie",
-    "definition": {
-      "def": "Persistance des formes larvaires chez un animal adulte.",
-      "synonyms": []
-    }
-  },
-  "virelangue": {
-    "match": "virelangue",
-    "word": "virelangue",
-    "definition": {
-      "def": "Phrase ou s\u00e9quence de mots contenant des syllabes phon\u00e9tiquement proches que l'on doit prononcer tr\u00e8s vite sans se tromper.",
-      "synonyms": []
-    }
-  },
-  "pantocrator": {
-    "match": "pantocrator",
-    "word": "pantocrator",
-    "definition": {
-      "def": "Se dit du Christ en gloire, tel qu'il est repr\u00e9sent\u00e9 dans l'art byzantin.",
-      "synonyms": []
-    }
-  },
-  "vouivre": {
-    "match": "vouivre",
-    "word": "vouivre",
-    "definition": {
-      "def": "Serpent fabuleux.",
-      "synonyms": []
-    }
-  },
-  "litt\u00e9rarit\u00e9": {
-    "match": "litt\u00e9rarit\u00e9",
-    "word": "litt\u00e9rarit\u00e9",
-    "definition": {
-      "def": "Caract\u00e8re d'un texte qui appartient \u00e0 la litt\u00e9rature.",
-      "synonyms": []
-    }
-  },
-  "bachi-bouzouk": {
-    "match": "bachi-bouzouk",
-    "word": "bachi-bouzouk",
-    "definition": {
-      "def": "Cavalier mercenaire de l'arm\u00e9e turque.",
-      "synonyms": []
-    }
-  },
-  "turbide": {
-    "match": "turbides",
-    "word": "turbide",
-    "definition": {
-      "def": "Troubl\u00e9, agit\u00e9.",
-      "synonyms": []
-    }
-  },
-  "giton": {
-    "match": "giton",
-    "word": "giton",
-    "definition": {
-      "def": "Jeune homme, adolescent entretenu par un amant.",
-      "synonyms": []
-    }
-  },
-  "corroder": {
-    "match": "corroder",
-    "word": "corroder",
-    "definition": {
-      "def": "D\u00e9truire lentement par une action chimique.",
-      "synonyms": [
-        "attaquer",
-        "corrosif"
-      ]
-    }
-  },
-  "caut\u00e8re": {
-    "match": "caut\u00e8re",
-    "word": "caut\u00e8re",
-    "definition": {
-      "def": "Instrument qui br\u00fble les tissus vivants, pour cicatriser et gu\u00e9rir.",
-      "synonyms": []
-    }
-  },
-  "azyme": {
-    "match": "azyme",
-    "word": "azyme",
-    "definition": {
-      "def": "Pain azyme.",
-      "synonyms": []
-    }
-  },
-  "compass\u00e9": {
-    "match": "compass\u00e9",
-    "word": "compass\u00e9",
-    "definition": {
-      "def": "Dont le comportement est affect\u00e9 et guind\u00e9.",
-      "synonyms": []
-    }
-  },
-  "niv\u00e9al": {
-    "match": "niv\u00e9al",
-    "word": "niv\u00e9al",
-    "definition": {
-      "def": "Qui fleurit dans la neige, en hiver.",
-      "synonyms": []
-    }
-  },
-  "contremarque": {
-    "match": "contremarque",
-    "word": "contremarque",
-    "definition": {
-      "def": "Ticket d\u00e9livr\u00e9 \u00e0 des spectateurs qui sortent momentan\u00e9ment d'une salle de spectacle.",
-      "synonyms": []
-    }
+  "pensum": {
+    "match": "pensum",
+    "word": "pensum",
+    "definitions": [
+      {
+        "text": "Travail suppl\u00e9mentaire donn\u00e9 comme punition \u00e0 un \u00e9l\u00e8ve.",
+        "examples": [
+          {
+            "text": "Qui donc songe que, pour certains coll\u00e9giens, un pensum injuste peut \u00eatre une aussi grosse douleur que le sera plus tard la mort d'un ami...",
+            "author": "Maupass.",
+            "title": ", Contes et nouv., t.2, Apr\u00e8s",
+            "date": ", 1890"
+          }
+        ],
+        "syntagme": "Donner, faire un pensum.",
+        "synonymes": "Synon. punition."
+      },
+      {
+        "text": "Travail (surtout de lecture ou d'\u00e9criture) qui ennuie et que l'on fait sans int\u00e9r\u00eat.",
+        "examples": [
+          {
+            "text": "Mise au net et dactylographie de cinq chapitres des Faux-Monnayeurs. Morne pensum, mais qui convient \u00e0 mon apathie.",
+            "author": "Gide",
+            "title": ", Journal",
+            "date": ", 1925"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. corv\u00e9e."
+      }
+    ]
+  },
+  "transverse": {
+    "match": "transverses",
+    "word": "transverse",
+    "definitions": [
+      {
+        "text": "Qui traverse perpendiculairement ou obliquement un axe de communication pour relier deux voies.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": "Synon. transversal."
+      },
+      {
+        "text": "Qui relie deux s\u00e9ries de faits.",
+        "examples": [
+          {
+            "text": "Un autre rythme vint doubler le premier et se combiner avec lui, et il s'\u00e9tablit je ne sais quelles relations transverses entre ces lois.",
+            "author": "Val\u00e9ry",
+            "title": ", Vari\u00e9t\u00e9 V",
+            "date": ", 1944"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Qui est dispos\u00e9 perpendiculairement \u00e0 l'axe de sym\u00e9trie du corps ou au grand axe d'un organe.",
+        "examples": [
+          {
+            "text": "L'analogue de l'oblique externe a ses fibres transverses.",
+            "author": "Cuvier",
+            "title": ", Anat. comp., t. 1",
+            "date": ", 1805"
+          },
+          {
+            "text": "Apophyses transverses des vert\u00e8bres lombaires.",
+            "author": "Garcin",
+            "title": ", Guide v\u00e9t\u00e9r.",
+            "date": ", 1944"
+          },
+          {
+            "text": "Dans l'ensemble le c\u00f4lon a un trajet en forme de cadre avec une portion droite, ou c\u00f4lon ascendant, qui remonte verticalement dans la partie droite de l'abdomen jusqu'\u00e0 la face inf\u00e9rieure du foie. Il se coude alors, se porte transversalement vers la gauche jusqu'\u00e0 la rate, c'est le c\u00f4lon transverse.",
+            "author": null,
+            "title": null,
+            "date": "1965"
+          },
+          {
+            "text": "Deux transverses du p\u00e9rin\u00e9e, fix\u00e9s au p\u00e9rin\u00e9e au-devant de l'anus, et y ayant des connexions entre eux et avec le sphincter, le releveur et le bulbo-caverneux.",
+            "author": "Cuvier",
+            "title": ", Anat. comp., t. 3",
+            "date": ", 1805"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. usuel transversal."
+      },
+      {
+        "text": "Qui est perpendiculaire \u00e0 la direction d'une onde, d'un champ.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": ",,Axe ou diam\u00e8tre qui, dans une hyperbole, rencontre la courbe`` (Lar. encyclop.).",
+        "examples": [],
+        "syntagme": "Axe, diam\u00e8tre transverse.",
+        "synonymes": null
+      }
+    ]
+  },
+  "homologuer": {
+    "match": "homologuer",
+    "word": "homologuer",
+    "definitions": [
+      {
+        "text": "Approuver, rendre ex\u00e9cutoire un acte, une d\u00e9cision.",
+        "examples": [
+          {
+            "text": "Lorsqu'il sera question du mariage de l'enfant d'un interdit, la dot, ou l'avancement d'hoirie, et les autres conventions matrimoniales, seront r\u00e9gl\u00e9s par un avis du conseil de famille, homologu\u00e9 par le tribunal, sur les conclusions du commissaire du Gouvernement.",
+            "author": null,
+            "title": null,
+            "date": "1804"
+          },
+          {
+            "text": "Je viens vous apprendre que le testament est tout \u00e0 fait en r\u00e8gle, et sera certainement homologu\u00e9 par le tribunal, qui vous enverra en possession.",
+            "author": "Balzac",
+            "title": ", Cous. Pons,",
+            "date": "1848"
+          },
+          {
+            "text": "En ex\u00e9cution d'un jugement du tribunal d'Agra, confirm\u00e9 par la cour de Delhi, homologu\u00e9 par le conseil priv\u00e9, les biens immeubles et mobiliers ont \u00e9t\u00e9 vendus, les valeurs r\u00e9alis\u00e9es, et le total a \u00e9t\u00e9 plac\u00e9 en d\u00e9p\u00f4t \u00e0 la banque d'Angleterre.",
+            "author": "Verne",
+            "title": ", Millions,",
+            "date": "1879"
+          },
+          {
+            "text": "Le tarif des Droits de stationnement et de location, en ce qui concerne le sol des voies publiques, est \u00e9tabli par le Conseil municipal et homologu\u00e9 par le Pr\u00e9fet s'il s'agit de la petite voirie ou de la voirie urbaine.",
+            "author": "Baradat",
+            "title": ", Organ. pr\u00e9fect.,",
+            "date": "1907"
+          },
+          {
+            "text": "[La conf\u00e9rence du 12 mars] fut pr\u00e9c\u00e9d\u00e9e d'une s\u00e9ance du conseil sup\u00e9rieur de la D\u00e9fense Nationale, qui approuva les d\u00e9cisions prises par moi, et homologua les propositions que j'allais d\u00e9velopper devant les commandants en chef ou leurs repr\u00e9sentants.",
+            "author": "Joffre",
+            "title": ", M\u00e9m., t. 2",
+            "date": ", 1931"
+          },
+          {
+            "text": "Le probl\u00e8me technique ayant \u00e9t\u00e9 r\u00e9solu et la fabrication industrielle commenc\u00e9e, les normes applicables au superciment ont \u00e9t\u00e9 pr\u00e9cis\u00e9es et homologu\u00e9es en 1950.",
+            "author": "Cl\u00e9ret de Langavant",
+            "title": ", Ciments et b\u00e9tons,",
+            "date": "1953"
+          },
+          {
+            "text": "Le constructeur est tenu d\u00e8s lors de d\u00e9livrer, sous sa propre responsabilit\u00e9, un certificat qui garantit la conformit\u00e9 de chaque appareil vendu au prototype homologu\u00e9...",
+            "author": null,
+            "title": null,
+            "date": "1957"
+          },
+          {
+            "text": "Le nombre des h\u00f4tels homologu\u00e9s \u00ab de tourisme \u00bb par les services officiels est en constante progression et l'\u00e9volution actuelle du tourisme.",
+            "author": "Jocard",
+            "title": ", Tour. et action \u00c9tat,",
+            "date": "1966"
+          },
+          {
+            "text": "Sans doute son d\u00e9sir \u00e9tait-il peu fond\u00e9, puisque, si elle battait ce record, sa performance, accomplie sans t\u00e9moins officiels, ne serait pas homologu\u00e9e.",
+            "author": "Montherl.",
+            "title": ", Olymp.,",
+            "date": "1924"
+          },
+          {
+            "text": "Cela est d'autant plus remarquable que le sport du tir est un des rares o\u00f9 les records ne peuvent \u00eatre homologu\u00e9s que si la performance est r\u00e9alis\u00e9e en comp\u00e9tition officielle.",
+            "author": null,
+            "title": null,
+            "date": "1967"
+          },
+          {
+            "text": "Quelqu'un, qui n'a souci que du vrai, me souffle que rien n'est moins s\u00fbr, que ce record n'a pas \u00e9t\u00e9 homologu\u00e9, que la plus sanglante des guerres n'a pas \u00e9t\u00e9 la plus sanguinaire, qu'elle fut horrible et propre comme une usine de Chicago.",
+            "author": "Gu\u00e9henno",
+            "title": ", Journal homme 40 ans,",
+            "date": "1934"
+          },
+          {
+            "text": "Je comprends que les Socialistes homologu\u00e9s, contr\u00f4l\u00e9s et d\u00fbment patent\u00e9s par les administrateurs de l'Humanit\u00e9 aient peu de go\u00fbt pour les h\u00e9ros de Fleurus.",
+            "author": "Sorel",
+            "title": ", R\u00e9flex. violence,",
+            "date": "1908"
+          },
+          {
+            "text": "Ce haro sur l'universel a \u00e9t\u00e9 pouss\u00e9 dans une heureuse formule dont on croit pouvoir dire qu'elle serait homologu\u00e9e par maint \u00e9crivain moderne, non seulement po\u00e8te ou romancier, mais qui traite express\u00e9ment d'id\u00e9es, Suar\u00e8s, Gide, voire Bergson.",
+            "author": "Benda",
+            "title": ", Fr. byz.,",
+            "date": "1945"
+          },
+          {
+            "text": "Cette roublardise confondait son jugement. Elle n'\u00e9tait point math\u00e9matique, homologu\u00e9e, mais maligne et bien vivante.",
+            "author": "Hamp",
+            "title": ", Champagne,",
+            "date": "1909"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "torve": {
+    "match": "torve",
+    "word": "torve",
+    "definitions": [
+      {
+        "text": "Qui est oblique et laisse para\u00eetre une intention sournoise ou malveillante.",
+        "examples": [
+          {
+            "text": "Il se courrou\u00e7ait malgr\u00e9 lui, faisant terribles grimaces, horrifiques froncements de sourcils et regards torves.",
+            "author": "Gautier",
+            "title": ", Fracasse",
+            "date": ", 1863"
+          },
+          {
+            "text": "Ses yeux torves roulaient des lueurs fauves sous des cheveux en broussailles.",
+            "author": "A. France",
+            "title": ", \u00cele ping.",
+            "date": ", 1908"
+          },
+          {
+            "text": "Assez pauvre apparence, en r\u00e9sum\u00e9, mais quelle physionomie! Hagard, d\u00e9vast\u00e9, spongieux, torve, fun\u00e8bre avec sa face livide et crapuleuse, ses \u00e9paisses moustaches s'allongeant en pointe.",
+            "author": "Cladel",
+            "title": ", Ompdrailles",
+            "date": ", 1879"
+          },
+          {
+            "text": "Un nez aux narines ouvertes et reniflantes d'une b\u00eate, la bouche aux l\u00e8vres toutes plates: une blonde qui a sous la peau des ombres de brune, et du bestial, du torve, du cruel dans la physionomie.",
+            "author": "Goncourt",
+            "title": ", Journal",
+            "date": ", 1884"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. louche"
+      },
+      {
+        "text": "Oblique, de travers ou tordu.",
+        "examples": [
+          {
+            "text": "Ces l\u00e8vres torves, ces yeux fuyants, sont dans notre cercle de travail les garants de la loyaut\u00e9, de notre loyaut\u00e9.",
+            "author": "Giraudoux",
+            "title": ", Folle",
+            "date": ", 1944"
+          },
+          {
+            "text": "Des boucs bruns aux cornes torves et aux clochettes sonores.",
+            "author": "Cendrars",
+            "title": ", Bourlinguer",
+            "date": ", 1948"
+          },
+          {
+            "text": "Et apr\u00e8s cela, il restait encore \u00e0 tra\u00eener et rouler sur le sol vers les tas les grosses souches arrach\u00e9es, \u00e0 grand renfort de reins et de bras raidis et de mains souill\u00e9es de terre, aux veines gonfl\u00e9es, qui semblaient lutter rageusement avec le tronc massif et les grosses racines torves.",
+            "author": "H\u00e9mon",
+            "title": ", M. Chapdelaine",
+            "date": ", 1916"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "imbelle": {
+    "match": "imbelle",
+    "word": "imbelle",
+    "definitions": [
+      {
+        "text": "Qui n'aime pas la guerre; qui est impropre aux combats.",
+        "examples": [
+          {
+            "text": "Si des hostilit\u00e9s survenaient chez un peuple imbelle, saurait-on r\u00e9sister?.",
+            "author": "Chateaubr.",
+            "title": ", M\u00e9m., t. 1",
+            "date": ", 1848"
+          },
+          {
+            "text": "Sceptre de diamants couleur de larmes, Grandeurs, belles, oui, mais imbelles armes.",
+            "author": "Verlaine",
+            "title": ", \n                           \u0152uvres compl., t. 3, \u00c9pigrammes",
+            "date": ", 1894"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "rubicond": {
+    "match": "rubicond",
+    "word": "rubicond",
+    "definitions": [
+      {
+        "text": "Qui a le teint tr\u00e8s rouge.",
+        "examples": [
+          {
+            "text": "Pierrotti, ce jour-l\u00e0, devait en avoir immod\u00e9r\u00e9ment absorb\u00e9 [des petits verres], car sa trogne \u00e9tait plus rubiconde encore que d'habitude.",
+            "author": "Ar\u00e8ne",
+            "title": ", Veine argile",
+            "date": ", 1896"
+          },
+          {
+            "text": "La face rubiconde que Breughel donne \u00e0 ses paysans joyeux, ripailleurs et gel\u00e9s.",
+            "author": "Proust",
+            "title": ", Guermantes 1",
+            "date": ", 1920"
+          }
+        ],
+        "syntagme": "Nez, visage rubicond; joues rubicondes.",
+        "synonymes": "Synon. enlumin\u00e9, rougeaud (fam.), rubescent (litt\u00e9r.), vermeil"
+      },
+      {
+        "text": "Qui a le visage rouge.",
+        "examples": [
+          {
+            "text": "Les cochers rubiconds vident leur verre devant le comptoir du marchand de vin.",
+            "author": "A. France",
+            "title": ", Bonnard",
+            "date": ", 1881"
+          },
+          {
+            "text": "Un petit homme gros, rubicond et \u00e9panoui.",
+            "author": "Rolland",
+            "title": ", J.-Chr., Antoinette",
+            "date": ", 1908"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Rouge.",
+        "examples": [
+          {
+            "text": "Je vois au-dessous de moi se r\u00e9p\u00e9ter au c\u0153ur des champs l'image du rond soleil, rubiconde dans le riz vert.",
+            "author": "Claudel",
+            "title": ", Connaiss. Est",
+            "date": ", 1907"
+          },
+          {
+            "text": "Des tas d'oignons dor\u00e9s, de petites raves roses, de haricots verts, et de pommes rubicondes.",
+            "author": "Rolland",
+            "title": ", J.-Chr., R\u00e9volte",
+            "date": ", 1907"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "volubile": {
+    "match": "volubile",
+    "word": "volubile",
+    "definitions": [
+      {
+        "text": "Trop gr\u00eale pour se soutenir et qui s'enroule autour d'un support.",
+        "examples": [],
+        "syntagme": "Les Cuscutes sont (...) comme le Liseron (...) elles vivent en parasites sur diverses plantes autour desquelles s'enroulent leurs tiges filiformes, volubiles, munies de su\u00e7oirs (Bot., 1960, p. 1132 [Encyclop. de la Pl\u00e9iade]). Certaines plantes volubiles sont herbac\u00e9es, d'autres sont plus ou moins ligneuses et prennent alors le nom de \u00ab lianes \u00bb (GDEL).",
+        "synonymes": null
+      },
+      {
+        "text": "Qui parle beaucoup, avec aisance et rapidit\u00e9.",
+        "examples": [
+          {
+            "text": "Il devient volubile. Un peu de fi\u00e8vre am\u00e8ne et presse ses discours.",
+            "author": "Barbusse",
+            "title": ", Feu",
+            "date": ", 1916"
+          },
+          {
+            "text": "D'une voix volubile, elle d\u00e9comptera tes turpitudes.",
+            "author": "Saint-Exup.",
+            "title": ", Citad.",
+            "date": ", 1944"
+          },
+          {
+            "text": "[Dans un dessin] toute cette figuration volubile, dans ce concert d'yeux, de nez, de bouches et d'oreilles.",
+            "author": "Lhote",
+            "title": ", Peint. d'abord",
+            "date": ", 1942"
+          }
+        ],
+        "syntagme": "Parler de fa\u00e7on volubile; explication volubile.",
+        "synonymes": "Synon. bavard, loquace."
+      }
+    ]
+  },
+  "d\u00e9f\u00e9quer": {
+    "match": "d\u00e9f\u00e9quer",
+    "word": "d\u00e9f\u00e9quer",
+    "definitions": [
+      {
+        "text": "Expulser les mati\u00e8res f\u00e9cales.",
+        "examples": [
+          {
+            "text": "Respirant, dig\u00e9rant, d\u00e9f\u00e9quant avec nonchalance, je vivais parce que j'avais commenc\u00e9 de vivre.",
+            "author": "Sartre",
+            "title": ", Mots,",
+            "date": "1964"
+          }
+        ],
+        "syntagme": "Besoin de d\u00e9f\u00e9quer.",
+        "synonymes": null
+      },
+      {
+        "text": "\u00d4ter les impuret\u00e9s d'un liquide (d'apr. Duval 1959).",
+        "examples": [
+          {
+            "text": "En 1799-1800 Deyeux d\u00e9f\u00e8que les jus [de betterave] avec de la chaux.",
+            "author": "Saillard",
+            "title": ", Betterave et sucr. de bett.,",
+            "date": "1923"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "prosaique": {
+    "match": "prosaique",
+    "word": "prosaique",
+    "definitions": [
+      {
+        "text": "Qui rel\u00e8ve de la prose, qui est propre \u00e0 la prose, \u00e0 ses proc\u00e9d\u00e9s.",
+        "examples": [
+          {
+            "text": "Le vers \u00e9tait volontiers prosa\u00efque au XVesi\u00e8cle. Il ne saurait l'\u00eatre aujourd'hui. Peut-\u00eatre conviendrait-il de le remplacer par de la prose.",
+            "author": "A. France,",
+            "title": "Vie litt\u00e9r.",
+            "date": ", 1890"
+          },
+          {
+            "text": "On pourrait citer \u00e9galement, \u00e0 ces \u00e9poques florissantes, de nombreuses oeuvres prosa\u00efques ou po\u00e9tiques de valeur.",
+            "author": null,
+            "title": null,
+            "date": ", 1936"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Qui tient trop de la prose, qui manque d'\u00e9l\u00e9vation, de gr\u00e2ce, d'originalit\u00e9, de qualit\u00e9.",
+        "examples": [
+          {
+            "text": "Style, terme prosa\u00efque.",
+            "author": null,
+            "title": null,
+            "date": null
+          },
+          {
+            "text": "Cela est trop prosa\u00efque...",
+            "author": null,
+            "title": null,
+            "date": "1798-1878"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. banal, plat."
+      },
+      {
+        "text": "Qui est banal, commun, bassement mat\u00e9riel ou vulgaire.",
+        "examples": [
+          {
+            "text": "Priv\u00e9e de son id\u00e9alisation, la vie est devenue quelque chose de profane, de vulgaire, de prosa\u00efque.",
+            "author": "Renan,",
+            "title": "Avenir sc.",
+            "date": ", 1890"
+          },
+          {
+            "text": "Le disque joue, dans la plupart des foyers, un r\u00f4le assez prosa\u00efque d'amuseur. Il prolonge parfois des plaisirs d\u00e9pourvus d'\u00e9l\u00e9vation artistique.",
+            "author": null,
+            "title": null,
+            "date": ", 1935"
+          },
+          {
+            "text": "Le sentiment de solidarit\u00e9 avec l'ensemble du mouvement ouvrier semble, chez le syndiqu\u00e9 am\u00e9ricain d'aujourd'hui, beaucoup plus vague que ces attaches tr\u00e8s concr\u00e8tes, ces motivations prosa\u00efques.",
+            "author": null,
+            "title": null,
+            "date": ", 1967"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. terre(-)\u00e0(-)terre."
+      },
+      {
+        "text": "Qui manque de distinction, d'id\u00e9al, de fantaisie, de sensibilit\u00e9.",
+        "examples": [
+          {
+            "text": "Ce n'est pas cet imb\u00e9cile qui m'aurait \u00e9clair\u00e9e, il trouve bien tout ce que je fais, il est d'ailleurs bien trop pot-au-feu, trop prosa\u00efque pour avoir le sens du beau.",
+            "author": "Balzac,",
+            "title": "Prince Boh\u00eame",
+            "date": ", 1840"
+          },
+          {
+            "text": "C'est une excellente fille, mais elle est prosa\u00efque comme une tranche de jambon.",
+            "author": "Avenel,",
+            "title": "Calicots",
+            "date": ", 1866"
+          },
+          {
+            "text": "[Le peuple espagnol] doit n\u00e9cessairement s'int\u00e9resser beaucoup au seul homme qui, dans un temps aussi prosa\u00efque que le n\u00f4tre, fait revivre les vertus chevaleresques des anciens preux.",
+            "author": "M\u00e9rim\u00e9e,",
+            "title": "Mosa\u00efque",
+            "date": ", 1833"
+          },
+          {
+            "text": "Romantique par ses aspirations, par ses tendances artistiques, la p\u00e9riode qui va de 1820 \u00e0 1848 est des plus prosa\u00efques dans le domaine de la vie publique et dans celui de la vie priv\u00e9e.",
+            "author": "Kunstler,",
+            "title": "Art XIXes. Fr.",
+            "date": ", 1954"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Qui est bas, vulgaire, qui manque de distinction.",
+        "examples": [
+          {
+            "text": "Verdeur prosa\u00efque de Proudhon.",
+            "author": "L. Daudet,",
+            "title": "Br\u00e9v. journ.",
+            "date": ", 1936"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
   "imp\u00e9cunieux": {
-    "match": "L'imp\u00e9cunieux",
+    "match": "imp\u00e9cunieux",
     "word": "imp\u00e9cunieux",
-    "definition": {
-      "def": "Qui manque d'argent.",
-      "synonyms": [
-        "besogneux"
-      ]
-    }
+    "definitions": [
+      {
+        "text": "Qui manque d'argent.",
+        "examples": [
+          {
+            "text": "L'homme imp\u00e9cunieux Pour attirer l'argent devient ing\u00e9nieux.",
+            "author": "Pommier",
+            "title": ", Col\u00e8res,",
+            "date": "1844"
+          },
+          {
+            "text": "Le morne troupeau, inactif et imp\u00e9cunieux, des fonctionnaires \u00e0 la retraite.",
+            "author": "Tharaud",
+            "title": ", Paris-Sa\u00efgon,",
+            "date": "1932"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "iridescent": {
-    "match": "iridescent",
-    "word": "iridescent",
-    "definition": {
-      "def": "Qui a des reflets iris\u00e9s.",
-      "synonyms": []
-    }
+  "volubilit\u00e9": {
+    "match": "volubilit\u00e9",
+    "word": "volubilit\u00e9",
+    "definitions": [
+      {
+        "text": "Facilit\u00e9 \u00e0 se mouvoir rapidement.",
+        "examples": [
+          {
+            "text": "L'adresse \u00e9tait \u00e9crite d'une de ces \u00e9critures nettes, cursives, br\u00e8ves, qui annoncent la promptitude, la pr\u00e9cision et la fermet\u00e9 de r\u00e9solution de l'esprit dans la volubilit\u00e9 de la main.",
+            "author": "Lamart.",
+            "title": ", Confid.",
+            "date": ", 1849"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Facilit\u00e9, abondance de parole.",
+        "examples": [
+          {
+            "text": "Elle d\u00e9bite, avec la plus incroyable volubilit\u00e9 de langue, ses monologues, qui mettraient en d\u00e9faut les plus habiles tachigraphes.",
+            "author": "Jouy",
+            "title": ", Hermite, t. 5",
+            "date": ", 1814"
+          },
+          {
+            "text": "Elle \u00e9tait une bavarde silencieuse; elle tenait de sa m\u00e8re la volubilit\u00e9 de langue.",
+            "author": "Rolland",
+            "title": ", J.-Chr., Buisson ard.",
+            "date": ", 1911"
+          }
+        ],
+        "syntagme": "Volubilit\u00e9 de langue.",
+        "synonymes": null
+      },
+      {
+        "text": "Abondance, aisance et rapidit\u00e9 de parole.",
+        "examples": [
+          {
+            "text": "Sa volubilit\u00e9 trahissait la g\u00eane que lui causait cette visite.",
+            "author": "Martin du G.",
+            "title": ", Thib., Cah. gr.",
+            "date": ", 1922"
+          },
+          {
+            "text": "Une tr\u00e9pidante exaltation s'emparait de son esprit. Avec la ferveur d'un demi-d\u00e9lire, avec une esp\u00e8ce de volubilit\u00e9 \u00e9tourdissante, il projetait alors ses paroles comme les mailles d'un filet.",
+            "author": "Gracq",
+            "title": ", Argol",
+            "date": ", 1938"
+          }
+        ],
+        "syntagme": "Parler avec volubilit\u00e9.",
+        "synonymes": "Synon. faconde, loquacit\u00e9."
+      }
+    ]
   },
-  "nystagmus": {
-    "match": "nystagmus",
-    "word": "nystagmus",
-    "definition": {
-      "def": "Mouvements saccad\u00e9s et involontaires des globes oculaires, dus \u00e0 la fatigue, \u00e0 des l\u00e9sions nerveuses, etc.",
-      "synonyms": []
-    }
-  },
-  "peccadille": {
-    "match": "peccadille",
-    "word": "peccadille",
-    "definition": {
-      "def": "Faute b\u00e9nigne, sans gravit\u00e9.",
-      "synonyms": []
-    }
-  },
-  "onanisme": {
-    "match": "d'onanisme",
-    "word": "onanisme",
-    "definition": {
-      "def": "Masturbation.",
-      "synonyms": []
-    }
-  },
-  "exorde": {
-    "match": "l'exorde",
-    "word": "exorde",
-    "definition": {
-      "def": "Premi\u00e8re partie (d'un discours), entr\u00e9e en mati\u00e8re.",
-      "synonyms": [
-        "introduction"
-      ]
-    }
-  },
-  "Perestro\u00efka": {
-    "match": "Perestro\u00efka",
-    "word": "Perestro\u00efka",
-    "definition": {
-      "def": "Politique lib\u00e9rale de \u00ab\u00a0reconstruction\u00a0\u00bb, dans l'ex-URSS (1986-1991).",
-      "synonyms": []
-    }
-  },
-  "estacade": {
-    "match": "l'estacade",
-    "word": "estacade",
-    "definition": {
-      "def": "Barrage fait par l'assemblage de pieux, de pilotis, de radeaux.",
-      "synonyms": [
-        "digue"
-      ]
-    }
-  },
-  "\u00e9pithalame": {
-    "match": "\u00e9pithalame",
-    "word": "\u00e9pithalame",
-    "definition": {
-      "def": "Po\u00e8me, chant compos\u00e9 \u00e0 l'occasion d'un mariage.",
-      "synonyms": []
-    }
-  },
-  "lambrequin": {
-    "match": "lambrequins",
-    "word": "lambrequin",
-    "definition": {
-      "def": "Bordure \u00e0 festons et \u00e0 franges.",
-      "synonyms": []
-    }
-  },
-  "pl\u00e9onasme": {
-    "match": "pl\u00e9onasme",
-    "word": "pl\u00e9onasme",
-    "definition": {
-      "def": "Terme ou expression qui r\u00e9p\u00e8te ce qui vient d'\u00eatre \u00e9nonc\u00e9.",
-      "synonyms": [
-        "redondance"
-      ]
-    }
-  },
-  "abjection": {
-    "match": "abjection",
-    "word": "abjection",
-    "definition": {
-      "def": "Caract\u00e8re de ce qui est abject, ignoble.",
-      "synonyms": [
-        "indignit\u00e9"
-      ]
-    }
-  },
-  "hapax": {
-    "match": "hapax",
-    "word": "hapax",
-    "definition": {
-      "def": "Mot, forme, emploi dont on ne peut relever qu'un exemple (dans un corpus donn\u00e9).",
-      "synonyms": []
-    }
-  },
-  "p\u00e9ristyle": {
-    "match": "p\u00e9ristyle",
-    "word": "p\u00e9ristyle",
-    "definition": {
-      "def": "Colonnade entourant la cour int\u00e9rieure d'un \u00e9difice ou dispos\u00e9e autour d'un \u00e9difice.",
-      "synonyms": []
-    }
-  },
-  "matamore": {
-    "match": "matamore",
-    "word": "matamore",
-    "definition": {
-      "def": "Faux brave, vantard.",
-      "synonyms": [
-        "fanfaron"
-      ]
-    }
-  },
-  "\u00e9ponyme": {
-    "match": "\u00e9ponyme",
-    "word": "\u00e9ponyme",
-    "definition": {
-      "def": "Qui donne son nom \u00e0 (qqn, qqch.).",
-      "synonyms": []
-    }
-  },
-  "idoine": {
-    "match": "idoine",
-    "word": "idoine",
-    "definition": {
-      "def": "Qui convient parfaitement, appropri\u00e9.",
-      "synonyms": [
-        "ad\u00e9quat"
-      ]
-    }
-  },
-  "jamboree": {
-    "match": "jamboree",
-    "word": "jamboree",
-    "definition": {
-      "def": "R\u00e9union internationale de scouts.",
-      "synonyms": []
-    }
-  },
-  "fixeur": {
-    "match": "fixeur",
-    "word": "fixeur",
-    "definition": {
-      "def": "Personne qui sert d'interm\u00e9diaire, d'interpr\u00e8te et de guide \u00e0 un(e) journaliste dans un pays peu s\u00fbr.",
-      "synonyms": []
-    }
-  },
-  "pygargue": {
-    "match": "pygargue",
-    "word": "pygargue",
-    "definition": {
-      "def": "Rapace diurne \u00e0 t\u00eate et queue blanches, appel\u00e9 aussi aigle de mer.",
-      "synonyms": []
-    }
-  },
-  "supp\u00f4t": {
-    "match": "supp\u00f4ts",
-    "word": "supp\u00f4t",
-    "definition": {
-      "def": "Partisan (d'une personne, d'une chose nuisible).",
-      "synonyms": []
-    }
-  },
-  "hi\u00e9mal": {
-    "match": "hi\u00e9male",
-    "word": "hi\u00e9mal",
-    "definition": {
-      "def": "De l'hiver.",
-      "synonyms": [
-        "hibernal"
-      ]
-    }
-  },
-  "faix": {
-    "match": "faix",
-    "word": "faix",
-    "definition": {
-      "def": "Lourd fardeau.",
-      "synonyms": []
-    }
-  },
-  "voluptuaire": {
-    "match": "voluptuaires",
-    "word": "voluptuaire",
-    "definition": {
-      "def": "Se dit des d\u00e9penses faites pour le plaisir, consacr\u00e9es au luxe ou \u00e0 la fantaisie.",
-      "synonyms": [
-        "somptuaire"
-      ]
-    }
-  },
-  "montaison": {
-    "match": "montaison",
-    "word": "montaison",
-    "definition": {
-      "def": "Migration de certains poissons qui remontent les cours d'eau pour aller frayer.",
-      "synonyms": []
-    }
-  },
-  "transsubstantiation": {
-    "match": "transsubstantiation",
-    "word": "transsubstantiation",
-    "definition": {
-      "def": "Changement du pain et du vin en la substance du corps du Christ.",
-      "synonyms": []
-    }
-  },
-  "ribote": {
-    "match": "ribote",
-    "word": "ribote",
-    "definition": {
-      "def": "Joyeux exc\u00e8s de table et de boisson.",
-      "synonyms": [
-        "bombance"
-      ]
-    }
-  },
-  "apostille": {
-    "match": "apostilles",
-    "word": "apostille",
-    "definition": {
-      "def": "Note en addition (\u00e0 un texte).",
-      "synonyms": []
-    }
-  },
-  "ac\u00e9die": {
-    "match": "ac\u00e9die",
-    "word": "ac\u00e9die",
-    "definition": {
-      "def": "Dans la th\u00e9ologie catholique, affection spirituelle qui atteint principalement les moines et qui se manifeste par l'ennui, le d\u00e9go\u00fbt de la pri\u00e8re et le d\u00e9couragement.",
-      "synonyms": []
-    }
-  },
-  "assertivit\u00e9": {
-    "match": "assertivit\u00e9",
-    "word": "assertivit\u00e9",
-    "definition": {
-      "def": "Qualit\u00e9 d'une personne au comportement assertif.",
-      "synonyms": []
-    }
-  },
-  "c\u00e9notaphe": {
-    "match": "c\u00e9notaphe",
-    "word": "c\u00e9notaphe",
-    "definition": {
-      "def": "Tombeau \u00e9lev\u00e9 \u00e0 la m\u00e9moire d'un mort et qui ne contient pas son corps.",
-      "synonyms": [
-        "s\u00e9pulcre"
-      ]
-    }
-  },
-  "smaragdin": {
-    "match": "smaragdin",
-    "word": "smaragdin",
-    "definition": {
-      "def": "D'un vert \u00e9meraude.",
-      "synonyms": []
-    }
-  },
-  "euph\u00e9misme": {
-    "match": "euph\u00e9misme",
-    "word": "euph\u00e9misme",
-    "definition": {
-      "def": "Expression att\u00e9nu\u00e9e d'une notion dont l'expression directe aurait quelque chose de d\u00e9plaisant, de choquant.",
-      "synonyms": []
-    }
+  "accastillage": {
+    "match": "accastillage",
+    "word": "accastillage",
+    "definitions": [
+      {
+        "text": "Ch\u00e2teau d'avant ou d'arri\u00e8re d'un navire; l'ensemble des 2 ch\u00e2teaux",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Ensemble de la partie \u00e9merg\u00e9e d'un navire; une de ces parties.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": "Synon. \n                              \u0152uvre(s) morte(s)"
+      }
+    ]
   },
   "logorrh\u00e9e": {
     "match": "logorrh\u00e9e",
     "word": "logorrh\u00e9e",
-    "definition": {
-      "def": "Flux de paroles.",
-      "synonyms": []
-    }
+    "definitions": [
+      {
+        "text": "Bavardage intarissable et oiseux; besoin irr\u00e9sistible de parler, observ\u00e9 particuli\u00e8rement dans les \u00e9tats d'excitation de certaines affections mentales.",
+        "examples": [
+          {
+            "text": "On a bien nomm\u00e9 \u00ab fuite des id\u00e9es \u00bb cette diversion perp\u00e9tuelle du flux psychique, et logorrh\u00e9e l'\u00e9coulement d\u00e9sordonn\u00e9 et entrecoup\u00e9 des paroles qui l'accompagne.",
+            "author": "Mounier",
+            "title": ", Trait\u00e9 caract.,",
+            "date": "1946"
+          },
+          {
+            "text": "Gavraine est atteint de logorrh\u00e9e, expliqua le comte.",
+            "author": "H. Bazin",
+            "title": ", T\u00eate contre murs,",
+            "date": "1949"
+          },
+          {
+            "text": "Et sans doute la po\u00e9sie logorrh\u00e9ique de ces derni\u00e8res ann\u00e9es aura le m\u00eame sort que les vers \u00e0 l'aune du temps des bergeries.",
+            "author": "Aragon",
+            "title": ", Cr\u00e8ve-c\u0153ur,",
+            "date": "1941"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "enchifren\u00e9": {
-    "match": "enchifren\u00e9",
-    "word": "enchifren\u00e9",
-    "definition": {
-      "def": "Qui a le nez embarrass\u00e9 par un rhume de cerveau.",
-      "synonyms": []
-    }
+  "laminer": {
+    "match": "laminer",
+    "word": "laminer",
+    "definitions": [
+      {
+        "text": "R\u00e9duire (un m\u00e9tal) en barres minces, en lames, en feuilles, par une forte compression entre les deux cylindres d'un laminoir.",
+        "examples": [
+          {
+            "text": "Plus tard des cannelures fouill\u00e9es \u00e0 l'aide du tour dans ces deux cylindres [du laminoir] permirent de laminer le m\u00e9tal avec un profil donn\u00e9.",
+            "author": "M.-A. Muller, Roger",
+            "title": ", \u00c9vol. fond. cuivre,",
+            "date": "1903"
+          },
+          {
+            "text": "Le fer n'est pas tout fait; il faut s\u00e9parer le minerai, le fondre, le refondre, forger, laminer. Combien de coups de marteau? Combien d'huile de bras?.",
+            "author": "Alain",
+            "title": ", Propos,",
+            "date": "1931"
+          },
+          {
+            "text": "L'auto, un fort cabriolet huit cylindres, couleur havane, laminait sous ses larges pneus les flaques de boue, en jaillissements sales.",
+            "author": "Van der Meersch",
+            "title": ", Empreinte dieu,",
+            "date": "1936"
+          },
+          {
+            "text": "Il se poussa du c\u00f4t\u00e9 de l'indignation en accusant un bourgeois quelconque de lui laminer les pieds \u00e0 chaque passage de voyageurs.",
+            "author": "Queneau",
+            "title": ", Exerc. style,",
+            "date": "1947"
+          },
+          {
+            "text": "Mais la plupart des produits m\u00e9tallurgiques se laminent ou peuvent \u00eatre lamin\u00e9s \u00e0 temp\u00e9rature plus ou moins \u00e9lev\u00e9e.",
+            "author": "Guillet",
+            "title": ", M\u00e9tall. g\u00e9n.,",
+            "date": "1923"
+          },
+          {
+            "text": "Le cuivre en feuilles se lamine sous l'effet de la forte pression n\u00e9cessaire \u00e0 l'impression.",
+            "author": null,
+            "title": null,
+            "date": "1939"
+          },
+          {
+            "text": "On emploie habituellement l'acier lamin\u00e9 qui est plus r\u00e9sistant que le fer et n'est pas plus co\u00fbteux.",
+            "author": "Bourde",
+            "title": ", Trav. publ.,",
+            "date": "1929"
+          },
+          {
+            "text": "Il existe deux grandes classes de lamin\u00e9s : les demi-produits et les produits finis.",
+            "author": null,
+            "title": null,
+            "date": null
+          }
+        ],
+        "syntagme": "Laminer de l'acier.",
+        "synonymes": null
+      },
+      {
+        "text": "R\u00e9duire par une forte pression l'\u00e9paisseur d'un objet, d'un mat\u00e9riau, d'une substance, ou en faire dispara\u00eetre les irr\u00e9gularit\u00e9s.",
+        "examples": [],
+        "syntagme": "Laminer du papier.",
+        "synonymes": null
+      },
+      {
+        "text": "Soumettre \u00e0 une force qui domine, \u00e9touffe; diminuer, an\u00e9antir (quelque chose ou quelqu'un).",
+        "examples": [
+          {
+            "text": "Les juifs se sont montr\u00e9s aussi imb\u00e9ciles que les chr\u00e9tiens, les uns et les autres \u00e9tant lamin\u00e9s sous le rouleau d'un cr\u00e9tinisme puissant.",
+            "author": "Bloy",
+            "title": ", Journal,",
+            "date": "1905"
+          },
+          {
+            "text": "Tous les perfectionnements mat\u00e9riels seraient vains et, pire encore, dangereux, si, loin d'aider \u00e0 restituer l'homme \u00e0 lui-m\u00eame, ils servaient \u00e0 dissoudre sa personnalit\u00e9, \u00e0 laminer sa conscience, \u00e0 l'abaisser...",
+            "author": null,
+            "title": null,
+            "date": "1957"
+          },
+          {
+            "text": "... en regard de l'amenuisement de sa pens\u00e9e, la v\u00f4tre vous paraissait \u00e9paisse et vulgaire. Ses propos \u00e9taient d'une subtilit\u00e9 si rare, et pleins d'allusions si minutieuses, que l'on courait sur l'extr\u00eame pointe du pied pour l'y suivre.",
+            "author": "Gide",
+            "title": ", Si le grain,",
+            "date": "1924"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. \u00e9craser."
+      },
+      {
+        "text": "Soumettre (quelqu'un, quelque chose) \u00e0 une discipline, \u00e0 un examen s\u00e9v\u00e8re.",
+        "examples": [
+          {
+            "text": "Je suis au milieu de mes \u00e9preuves et j'ai encore 8 feuilles \u00e0 remanier, corriger et laminer.",
+            "author": "Balzac",
+            "title": ", Corresp.,",
+            "date": "1836"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "pergola": {
-    "match": "pergola",
-    "word": "pergola",
-    "definition": {
-      "def": "Petite construction de jardin qui sert de support \u00e0 des plantes grimpantes.",
-      "synonyms": [
-        "tonnelle"
-      ]
-    }
+  "nitide": {
+    "match": "nitide",
+    "word": "nitide",
+    "definitions": [
+      {
+        "text": "Resplendissant, brillant.",
+        "examples": [
+          {
+            "text": "Les l\u00e8vres absolument d\u00e9color\u00e9es n'\u00e9taient visibles qu'en opposition \u00e0 la ligne sombre des dents noircies par la fi\u00e8vre. Tout le reste indistinct, unifi\u00e9, fondu dans cette blancheur presque nitide, presque lumineuse.",
+            "author": "Bloy",
+            "title": ", Hist. d\u00e9sobl.,",
+            "date": "1894"
+          },
+          {
+            "text": "Le verbe aussi, image d'images, t\u00e9moin de l'harmonie ou de la discordance des grandes profondeurs de l'esprit-corps, demeure nitide, \u00e9loquent, ou sobrement juste.",
+            "author": "L. Daudet",
+            "title": ", Monde images,",
+            "date": "1919"
+          },
+          {
+            "text": "L'impulsion cr\u00e9atrice, le tonus du vouloir, l'\u00e9quilibre raisonn\u00e9 ont en lui toute leur nitidit\u00e9, toute leur vigueur.",
+            "author": "Id., [",
+            "title": "L'H\u00e9r\u00e9do], Drame int.",
+            "date": ", 1916"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "d\u00e9hiscence": {
-    "match": "d\u00e9hiscence",
-    "word": "d\u00e9hiscence",
-    "definition": {
-      "def": "Ouverture d'organes d\u00e9hiscents, qui s'ouvrent spontan\u00e9ment pour livrer passage \u00e0 leur contenu.",
-      "synonyms": []
-    }
+  "cyn\u00e9g\u00e9tique": {
+    "match": "cyn\u00e9g\u00e9tique",
+    "word": "cyn\u00e9g\u00e9tique",
+    "definitions": [
+      {
+        "text": "Qui concerne la chasse avec chiens et, p. ext., la chasse en g\u00e9n\u00e9ral.",
+        "examples": [
+          {
+            "text": "Exercices cyn\u00e9g\u00e9tiques.",
+            "author": null,
+            "title": null,
+            "date": "1878, 1932"
+          },
+          {
+            "text": "R\u00e9serve cyn\u00e9g\u00e9tique et halieutique...",
+            "author": "Jocard",
+            "title": ", Tour. et action \u00c9tat,",
+            "date": "1966"
+          },
+          {
+            "text": "Auteurs cyn\u00e9g\u00e9tiques.",
+            "author": "Vidron",
+            "title": ", Chasse,",
+            "date": "1945"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Ensemble des connaissances concernant l'art de la chasse au chien courant et p. ext. de la chasse.",
+        "examples": [
+          {
+            "text": "Trait\u00e9 de cyn\u00e9g\u00e9tique.",
+            "author": null,
+            "title": null,
+            "date": "1842"
+          },
+          {
+            "text": "Ils feront [les m\u00e9s de lapins] avant tout, des proc\u00e9d\u00e9s de destruction du lapin et n'ont plus avec la cyn\u00e9g\u00e9tique que des affinit\u00e9s tr\u00e8s lointaines.",
+            "author": "Vidron",
+            "title": ", Chasse,",
+            "date": "1945"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "madr\u00e9pore": {
-    "match": "madr\u00e9pores",
-    "word": "madr\u00e9pore",
-    "definition": {
-      "def": "Animal (cnidaire), vari\u00e9t\u00e9 de corail des mers chaudes.",
-      "synonyms": []
-    }
+  "punique": {
+    "match": "punique",
+    "word": "punique",
+    "definitions": [
+      {
+        "text": "Qui est relatif aux colonies ph\u00e9niciennes d'Afrique et principalement \u00e0 Carthage et aux Carthaginois.",
+        "examples": [
+          {
+            "text": "Les habitants des terres puniques se distinguoient surtout par leur g\u00e9nie commer\u00e7ant...",
+            "author": "Chateaubr.,",
+            "title": "Essai R\u00e9vol., t. 1",
+            "date": ", 1797"
+          },
+          {
+            "text": "D\u00e8s la ruine de Carthage, du vivant m\u00eame du fid\u00e8le Massinissa, les Romains prenaient ombrage du royaume des Numides qui ne leur \u00e9tait plus utile. Ils n'avaient pas voulu de leurs secours dans la derni\u00e8re guerre punique.",
+            "author": "Michelet,",
+            "title": "Hist. romaine, t. 2",
+            "date": ", 1831"
+          },
+          {
+            "text": "J'\u00e9tais \u00e0 deux doigts de ma perte, comme Rome aux pires temps des guerres puniques.",
+            "author": "Flaub.,",
+            "title": "Corresp.",
+            "date": ", 1851"
+          },
+          {
+            "text": "Que disent de cette loyaut\u00e9 punique les \u00e9conomistes?.",
+            "author": "Proudhon,",
+            "title": "Syst. contrad. \u00e9con., t. 2",
+            "date": ", 1846"
+          },
+          {
+            "text": "Ce travail punique, incontestablement autoris\u00e9 par la guerre qui admet le pi\u00e8ge, \u00e9tait si bien fait que Haxo, envoy\u00e9 par l'empereur \u00e0 neuf heures du matin pour reconna\u00eetre les batteries ennemies, n'en avait rien vu.",
+            "author": "Hugo,",
+            "title": "Mis\u00e9r., t. 1",
+            "date": ", 1862"
+          },
+          {
+            "text": "J'\u00e9tais donc vivement inquiet de voir un mois s'\u00e9couler sans avoir de vos nouvelles. Je craignais tout de la foi punique.",
+            "author": null,
+            "title": null,
+            "date": ", 1799"
+          },
+          {
+            "text": "On aurait pu dire la foi romaine, \u00e0 plus juste titre que la foi punique, tant Rome \u00e9tait habile \u00e0 \u00e9luder ses serments ou hardie \u00e0 les violer.",
+            "author": "Lamennais,",
+            "title": "Indiff\u00e9rence, t. 1",
+            "date": ", 1817-23"
+          }
+        ],
+        "syntagme": "Art, constitution, flotte, m\u00e9daille, religion punique.",
+        "synonymes": null
+      },
+      {
+        "text": "Langue s\u00e9mitique parl\u00e9e par les Carthaginois.",
+        "examples": [
+          {
+            "text": "Ainsi, en Campanie, vers la fin de la r\u00e9publique, on parlait: l'osque, comme les inscriptions de Pomp\u00e9i en font foi; le grec, langue des colons fondateurs de Naples, etc.; le latin; peut-\u00eatre m\u00eame l'\u00e9trusque, qui avait r\u00e9gn\u00e9 sur cette r\u00e9gion avant l'arriv\u00e9e des Romains. \u00c0 Carthage, le punique ou ph\u00e9nicien avait persist\u00e9 \u00e0 c\u00f4t\u00e9 du latin.",
+            "author": null,
+            "title": null,
+            "date": "1916"
+          },
+          {
+            "text": "C'est d'abord l'inscription en langue punique sur des tables de bronze, laiss\u00e9e par l'amiral carthaginois Hannon, dans un temple de Carthage.",
+            "author": null,
+            "title": null,
+            "date": ", 1957"
+          }
+        ],
+        "syntagme": "Langue punique, le punique.",
+        "synonymes": null
+      }
+    ]
   },
-  "perclus": {
-    "match": "perclus",
-    "word": "perclus",
-    "definition": {
-      "def": "Qui a de la peine \u00e0 se mouvoir.",
-      "synonyms": [
-        "impotent"
-      ]
-    }
+  "r\u00e9torsion": {
+    "match": "r\u00e9torsions",
+    "word": "r\u00e9torsion",
+    "definitions": [
+      {
+        "text": "Action de r\u00e9torquer, de retourner un argument contre celui qui l'a \u00e9mis.",
+        "examples": [],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Mesure de coercition licite, prise par un \u00e9tat \u00e0 l'encontre d'un autre \u00e9tat, en r\u00e9ponse \u00e0 une mesure de m\u00eame nature.",
+        "examples": [
+          {
+            "text": "L'imbrication actuelle des \u00e9changes touristiques, qui permet des mesures de r\u00e9torsion.",
+            "author": "Jocard,",
+            "title": "Tour. et action \u00c9tat",
+            "date": ", 1966"
+          },
+          {
+            "text": "Sans doute, en grand secret, nous surveillait-il, depuis sa disparition, et cela en bordure de nos terres. D\u00e9sormais on pouvait pr\u00e9voir des actes de r\u00e9torsion, et s'attendre \u00e0 de grands mouvements de violence.",
+            "author": "Bosco,",
+            "title": "Mas Th\u00e9ot.",
+            "date": ", 1945"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
   },
-  "veule": {
-    "match": "veule",
-    "word": "veule",
-    "definition": {
-      "def": "Qui n'a aucune \u00e9nergie, aucune volont\u00e9.",
-      "synonyms": [
-        "faible",
-        "aveulir"
-      ]
-    }
+  "b\u00e9gueter": {
+    "match": "b\u00e9gueter",
+    "word": "b\u00e9gueter",
+    "definitions": [
+      {
+        "text": "Crier en parlant de la ch\u00e8vre.",
+        "examples": [
+          {
+            "text": ",,Le bossu se mit \u00e0 faire la ch\u00e8vre sur le pr\u00e9, courant \u00e0 quatre pattes, avec des b\u00ealements chevrott\u00e9s, des b\u00e9guettements, des grimaces``.",
+            "author": "Pourrat",
+            "title": ", Gaspard des Montagnes, La Tour du Levant",
+            "date": ", 1931"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      }
+    ]
+  },
+  "exutoire": {
+    "match": "exutoire",
+    "word": "exutoire",
+    "definitions": [
+      {
+        "text": "Abc\u00e8s local provoqu\u00e9 et entretenu pour favoriser une suppuration locale.",
+        "examples": [
+          {
+            "text": "Il [Rousseau] \u00e9tait lui-m\u00eame l'exutoire par o\u00f9 s'\u00e9chappait tout le pus d'un organisme pourri.",
+            "author": "Mauriac",
+            "title": ", Grds hommes,",
+            "date": "1949"
+          }
+        ],
+        "syntagme": "\u00c9tablir, mettre, poser un exutoire",
+        "synonymes": null
+      },
+      {
+        "text": "Orifice, conduit servant \u00e0 \u00e9vacuer un trop-plein d'eau us\u00e9e ou pollu\u00e9e ou d'eau de pluie.",
+        "examples": [
+          {
+            "text": "On atteignit le riez. C'est un \u00e9gout \u00e0 ciel ouvert, qui sert d'exutoire aux boues de Roubaix-Tourcoing et qui s'en va par l'Espierre rejoindre les eaux de l'Escaut.",
+            "author": "Van der Meersch",
+            "title": ", Invas. 14,",
+            "date": "1935"
+          },
+          {
+            "text": "Expansion coloniale, exutoire pour une prolificit\u00e9 trop \u00e0 l'\u00e9troit dans ses fronti\u00e8res...",
+            "author": "Gide",
+            "title": ", Journal,",
+            "date": "1943"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": null
+      },
+      {
+        "text": "Activit\u00e9 qui sert \u00e0 d\u00e9tourner un exc\u00e8s d'une \u00e9nergie, d'un temp\u00e9rament, d'un sentiment.",
+        "examples": [
+          {
+            "text": "Leur m\u00e9tier [des com\u00e9diens] est un exutoire par o\u00f9 s'\u00e9panche leur d\u00e9raison, ce besoin d'extravagance que nous avons tous, plus ou moins...",
+            "author": "Flaub.",
+            "title": ", Corresp.,",
+            "date": "1876"
+          }
+        ],
+        "syntagme": "Trouver son exutoire dans qqc.",
+        "synonymes": null
+      }
+    ]
+  },
+  "raboteux": {
+    "match": "raboteux",
+    "word": "raboteux",
+    "definitions": [
+      {
+        "text": "Dont la surface pr\u00e9sente au contact des in\u00e9galit\u00e9s, des asp\u00e9rit\u00e9s.",
+        "examples": [
+          {
+            "text": "Le ch\u00e8vre-feuille rampant embrasse de ses guirlandes de fleurs le tronc rond et raboteux du ch\u00eane.",
+            "author": "Bern. de St-P.",
+            "title": ", Harm. nat.",
+            "date": ", 1814"
+          },
+          {
+            "text": "Le sens du toucher nous fait conna\u00eetre l'\u00e9tat des surfaces: elles sont \u00e9gales et polies, elles sont rudes, raboteuses, in\u00e9gales.",
+            "author": "Broussais",
+            "title": ", Phr\u00e9nol.",
+            "date": ", 1836"
+          },
+          {
+            "text": "Un vieux bonhomme, muni d'un long cou pel\u00e9, raboteux et rose qui fait penser au cou d'une volaille d\u00e9plum\u00e9e par la maladie.",
+            "author": "Barbusse",
+            "title": ", Feu",
+            "date": ", 1916"
+          },
+          {
+            "text": "Les chemins durs, raboteux et mal entretenus, qu'on trouve dans la plupart des provinces voisines.",
+            "author": "Tocqueville",
+            "title": ", Anc. R\u00e9g. et R\u00e9vol.",
+            "date": ", 1856"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. in\u00e9gal, r\u00e2peux, r\u00eache, rugueux"
+      },
+      {
+        "text": "Qui manque d'am\u00e9nit\u00e9.",
+        "examples": [
+          {
+            "text": "Votre titre et les mani\u00e8res peut-\u00eatre un peu raboteuses des gens qui pensent comme vous sur les trois quarts des questions, vous emp\u00eachent de les voir.",
+            "author": "Stendhal",
+            "title": ", Armance",
+            "date": ", 1827"
+          },
+          {
+            "text": "Montlosier, esprit abrupt et un peu rustique, raboteux pour ainsi dire, n'avait gu\u00e8re souci de la liaison dans les id\u00e9es.",
+            "author": "Sainte-Beuve",
+            "title": ", Caus. lundi, t. 5",
+            "date": ", 1852"
+          },
+          {
+            "text": "\u00c0 la constance des Laborderie il opposa une constance plus serr\u00e9e, un ent\u00eatement raboteux, spasmodique; mais dont la ligne tourment\u00e9e ne se brisa pas une fois.",
+            "author": "Genevoix",
+            "title": ", Assassin",
+            "date": ", 1948"
+          }
+        ],
+        "syntagme": null,
+        "synonymes": "Synon. fruste, rev\u00eache, rude."
+      },
+      {
+        "text": "Qui est heurt\u00e9, in\u00e9gal.",
+        "examples": [
+          {
+            "text": "J'ai poli le plus que j'ai pu certains endroits raboteux, et en somme je crois que cela est plus pr\u00e9sentable.",
+            "author": "M\u00e9rim\u00e9e",
+            "title": ", Lettres Delessert",
+            "date": ", 1870"
+          },
+          {
+            "text": "La conduite du discours \u00e9tait malhabile et raboteuse. Il n'importait et il le savait bien. \u00c9clatait partout une puissance d'affirmation qui avait sa source dans la vie m\u00eame.",
+            "author": "Gu\u00e9henno",
+            "title": ", Jean-Jacques",
+            "date": ", 1948"
+          }
+        ],
+        "syntagme": "Style raboteux.",
+        "synonymes": "Synon. h\u00e9riss\u00e9, rocailleux, rude."
+      }
+    ]
   }
 }

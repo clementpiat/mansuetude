@@ -91,6 +91,19 @@ main {
   background-color: var(--first-color);
 }
 
+.mediaContainer {
+  position: relative;
+  top: -60vh;
+}
+
+.mediaSubContainer {
+  width: 80vh;
+  max-width: 80vw;
+  height: 40vh;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
+}
+
 .videoContainer {
   position: relative;
   top: -60vh;
@@ -99,7 +112,7 @@ main {
 .videoSubContainer {
   width: 80vh;
   max-width: 80vw;
-  height: 45vh;
+  height: 40vh;
   margin-top: 5vh;
   margin-bottom: 10vh;
 }
@@ -119,12 +132,12 @@ main {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.7);
-  z-index: 1;
+  z-index: 20;
 }
 
 .modal {
   position: fixed;
-  z-index: 2;
+  z-index: 30;
 }
 
 .section-selector-item {
@@ -141,4 +154,23 @@ main {
   background-color: var(--france-red);
   height: 40px; 
   width: 0%;
+}
+
+.halo-background {
+  background: radial-gradient(circle, var(--france-red) 0%, rgba(255,255,255,0) 20%);
+}
+
+.halo-border {
+  background: linear-gradient(to bottom left, var(--france-red), var(--france-red) 20%,var(--first-color) 45%), border-box;
+  border: 0 solid transparent;
+  border-radius: 1rem;
+  padding: 1px;
+}
+
+.fade-out-image {
+  mask-image: linear-gradient(to right, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+}
+
+.quote-border {
+  border-color: var(--france-red);
 }

@@ -2,26 +2,32 @@ import requests
 from bs4 import BeautifulSoup
 from requests_ip_rotator import ApiGateway
 from tqdm import tqdm
-from multiprocessing.pool import ThreadPool as Pool
-from time import sleep
 import json
+from time import sleep
 
 
 MAX_RETRY = 3
 SAVE_EVERY_N_WORDS = 100
 ALREADY_DONE = -1
+VERSION = 2
+
+
+with open(f"db_builder/data/youtube_links.json") as f:
+    YOUTUBE_LINKS = json.load(f)
+
+with open(f"db_builder/data/cntrl_definitions.json") as f:
+    WORDS = [x for x in json.load(f) if x not in YOUTUBE_LINKS]
+    print(f"{len(WORDS)} words remaining\n")
 
 
 def main():
-    with open(f"db_builder/data/definitions.json") as f:
-        words = [x for x in json.load(f)]
 
     with ApiGateway("https://filmot.com") as g:
         session = requests.Session()
         session.mount("https://filmot.com", g)
 
         youtube_links = {}
-        for i, word in tqdm(enumerate(words)):
+        for i, word in tqdm(enumerate(WORDS)):
             batch = i // SAVE_EVERY_N_WORDS
             if batch <= ALREADY_DONE:
                 continue
@@ -51,12 +57,14 @@ def main():
             youtube_links[word] = _links
 
             if len(youtube_links) == SAVE_EVERY_N_WORDS:
-                with open(f"db_builder/data/youtube_links/_youtube_links_{batch}.json", "w") as f:
+                with open(f"db_builder/data/youtube_links/_youtube_links_v{VERSION}_{batch}.json", "w") as f:
                     json.dump(youtube_links, f, indent=2)
                     youtube_links = {}
+            
+            break
         
         if youtube_links:
-            with open(f"db_builder/data/youtube_links/_youtube_links_{batch}.json", "w") as f:
+            with open(f"db_builder/data/youtube_links/_youtube_links_v{VERSION}_{batch}.json", "w") as f:
                 json.dump(youtube_links, f, indent=2)
                 youtube_links = {}
 

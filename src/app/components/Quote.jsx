@@ -1,7 +1,7 @@
 "use client";
 import Loading from '../components/Loading'
 
-export default function Video(props) {
+export default function Quote(props) {
     const openModal = (event) => {
         const word = event.target.innerText.toLowerCase();
         var _selectedWord = props.definitions[word];
@@ -13,16 +13,22 @@ export default function Video(props) {
 
     return (
         <>
-            <div className="videoSubContainer">
+            <div className="mediaSubContainer">
                 <div className="h-[5vh]">
                     <h2 className="font-semibold text-xl pb-[2vh] text-slate-300 cursor-help" onClick={(event) => openModal(event)}>
                     </h2>
                 </div>
-                <iframe 
-                    width="100%" height="100%"
-                    allow={"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" + (props.autoplay ? "; autoplay" : "")}
-                    allowFullScreen>
-                </iframe>
+                <div className="overflow-scroll h-[35vh] mt-[5vh] p-[1em] rounded-lg border-[1px] border-slate-300 pt-[7vh] sm:pt-[12vh]">
+                    <blockquote className="quote-border text-slate-50 text-lg flex items-center px-[2vw] text-center border-s-4">
+                        <p className="text-quote italic"></p>
+                    </blockquote>
+                    <div class="text-slate-300 pt-[2vh] sm:pt-[5vh] float-right">
+                        <span class="author-quote text-sm"></span>
+                        <span class="title-quote text-sm"></span>
+                        <span class="date-quote text-sm"></span>
+                    </div>
+                </div>
+
                 {
                     props.loaded ? <></> : <Loading></Loading>
                 }

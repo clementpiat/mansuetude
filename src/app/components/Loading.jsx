@@ -1,6 +1,6 @@
 "use client";
 
-export default function Logo(props) {
+export default function Loading(props) {
 
     return (
         <div role="status" className="flex justify-center items-center h-[30vh] pt-[15vh]">

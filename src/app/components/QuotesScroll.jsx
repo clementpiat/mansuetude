@@ -1,9 +1,9 @@
 "use client";
-import Video from "../components/Video"
+import Quote from "../components/Quote"
 import WordModal from "../components/WordModal";
 import React, { useState, useEffect } from 'react';
 
-export default function YoutubeScroll(props) {
+export default function QuotesScroll(props) {
     const [index, setIndex] = useState(0);
     const [locked, setLocked] = useState(false);
     const [loaded, setLoaded] = useState(false);
@@ -15,29 +15,25 @@ export default function YoutubeScroll(props) {
             return
         }
         setLocked(true);
-        const vid1 = document.getElementById('vid1');
-        const vid2 = document.getElementById('vid2');
+        const media1 = document.getElementById('media1');
+        const media2 = document.getElementById('media2');
 
-        vid1.getElementsByTagName("iframe")[0].src += "&autoplay=1"
-        vid2.getElementsByTagName("iframe")[0].src += "&mute=1"
+        scroll(media1, 55);
+        scroll(media2, 55, () => {
+            const parentDiv = document.getElementById("medias");
+            const media3 = parentDiv.lastElementChild;
+            parentDiv.removeChild(media3);
+            parentDiv.insertBefore(media3, parentDiv.firstChild);
+            media1.style.transform = "";
+            media2.style.transform = "";
 
-        scroll(vid1, 55);
-        scroll(vid2, 55, () => {
-            const parentDiv = document.getElementById("videos");
-            // Récupérer la première div enfant
-            const vid3 = parentDiv.lastElementChild;
-            parentDiv.removeChild(vid3);
-            parentDiv.insertBefore(vid3, parentDiv.firstChild);
-            vid1.style.transform = "";
-            vid2.style.transform = "";
-
-            vid1.id = "vid2";
-            vid2.id = "vid3";
-            vid3.id = "vid1";
+            media1.id = "media2";
+            media2.id = "media3";
+            media3.id = "media1";
 
             const newIndex = getPrevIndex(index);
-            setVideo(vid3, getPrevIndex(newIndex));
-            setVideo(vid2, getNextIndex(newIndex));
+            setMedia(media3, getPrevIndex(newIndex));
+            setMedia(media2, getNextIndex(newIndex));
 
             setIndex(newIndex);
             setLocked(false);
@@ -49,29 +45,26 @@ export default function YoutubeScroll(props) {
             return
         }
         setLocked(true);
-        const vid2 = document.getElementById('vid2');
-        const vid3 = document.getElementById('vid3');
+        const media2 = document.getElementById('media2');
+        const media3 = document.getElementById('media3');
 
-        vid2.getElementsByTagName("iframe")[0].src += "&mute=1"
-        vid3.getElementsByTagName("iframe")[0].src += "&autoplay=1"
-
-        scroll(vid2, -55);
-        scroll(vid3, -55, () => {
-            const parentDiv = document.getElementById("videos");
+        scroll(media2, -55);
+        scroll(media3, -55, () => {
+            const parentDiv = document.getElementById("medias");
             // Récupérer la première div enfant
-            const vid1 = parentDiv.firstElementChild;
-            parentDiv.removeChild(vid1);
-            parentDiv.appendChild(vid1);
-            vid3.style.transform = "";
-            vid2.style.transform = "";
+            const media1 = parentDiv.firstElementChild;
+            parentDiv.removeChild(media1);
+            parentDiv.appendChild(media1);
+            media3.style.transform = "";
+            media2.style.transform = "";
 
-            vid3.id = "vid2";
-            vid2.id = "vid1";
-            vid1.id = "vid3";
+            media3.id = "media2";
+            media2.id = "media1";
+            media1.id = "media3";
 
             const newIndex = getNextIndex(index);
-            setVideo(vid1, getNextIndex(newIndex));
-            setVideo(vid2, getPrevIndex(newIndex));
+            setMedia(media1, getNextIndex(newIndex));
+            setMedia(media2, getPrevIndex(newIndex));
 
             setIndex(newIndex);
             setLocked(false);
@@ -103,24 +96,29 @@ export default function YoutubeScroll(props) {
         requestAnimationFrame(update);
     }
 
-    const setVideo = (vid, _index) => {
-        vid.getElementsByTagName("iframe")[0].setAttribute("src", props.links[_index][1]);
-        vid.getElementsByTagName("h2")[0].textContent = props.links[_index][0].toUpperCase();
+    const setMedia = (media, _index) => {
+        console.log(media.getElementsByClassName("date-quote")[0], props.quotes[_index][1]["date"]);
+        media.getElementsByClassName("text-quote")[0].textContent = props.quotes[_index][1]["text"];
+        media.getElementsByClassName("author-quote")[0].textContent = props.quotes[_index][1]["author"];
+        media.getElementsByClassName("title-quote")[0].textContent = props.quotes[_index][1]["title"];
+        media.getElementsByClassName("date-quote")[0].textContent = props.quotes[_index][1]["date"];
+
+        media.getElementsByTagName("h2")[0].textContent = props.quotes[_index][0].toUpperCase();
     }
 
     const getNextIndex = i => {
-        const linksLength = props.links.length
-        return (i == (linksLength - 1)) ? 0 : (i + 1)
+        const quotesLength = props.quotes.length
+        return (i == (quotesLength - 1)) ? 0 : (i + 1)
     }
 
     const getPrevIndex = i => {
-        return (i == 0) ? (props.links.length - 1) : (i - 1)
+        return (i == 0) ? (props.quotes.length - 1) : (i - 1)
     }
 
     useEffect(() => {
         const indices = [getPrevIndex(index), index, getNextIndex(index)]
         for (let i = 0; i < 3; i++) {
-            setVideo(document.getElementById("vid" + (i + 1)), indices[i])
+            setMedia(document.getElementById("media" + (i + 1)), indices[i])
         }
         setLoaded(true);
     }, [])
@@ -133,15 +131,15 @@ export default function YoutubeScroll(props) {
                 </svg>
             </div>
 
-            <div id="videos" className="overflow-hidden h-[65vh] w-[100vw] flex flex-col items-center">
-                <div id="vid1" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Video>
+            <div id="medias" className="overflow-hidden h-[55vh] w-[100vw] flex flex-col items-center">
+                <div id="media1" className="mediaContainer">
+                    <Quote definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Quote>
                 </div>
-                <div id="vid2" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded} autoplay="true" setSelectedWord={setSelectedWord}></Video>
+                <div id="media2" className="mediaContainer">
+                    <Quote definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Quote>
                 </div>
-                <div id="vid3" className="videoContainer">
-                    <Video definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Video>
+                <div id="media3" className="mediaContainer">
+                    <Quote definitions={props.definitions} loaded={loaded} setSelectedWord={setSelectedWord}></Quote>
                 </div>
             </div>
 

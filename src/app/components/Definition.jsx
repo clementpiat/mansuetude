@@ -27,7 +27,7 @@ export default function Definition(props) {
     }
 
     return (
-        props.selectedWord
+        props.selectedWord && props.selectedWord.definitions
         ?
         <div className={"overflow-y-auto mb-[4vh] p-[1vh] w-[75vw] sm:w-[35vw] h-[20vh] rounded-xl text-slate-100 " + (props.modal ? "first-bg" : "second-bg float-right")}>
             <div className="p-[1vh] sm:p-[3vh]">
@@ -59,8 +59,8 @@ export default function Definition(props) {
                     }
                 </h1>
                 <span>
-                    <span>{props.selectedWord.definition.def} </span>
-                    <Synonyms synonyms={props.selectedWord.definition.synonyms}></Synonyms>
+                    <span>{props.selectedWord.definitions[0].text}</span>
+                    <Synonyms synonyms={props.selectedWord.definitions[0].synonymes}></Synonyms>
                 </span>
             </div>
         </div>

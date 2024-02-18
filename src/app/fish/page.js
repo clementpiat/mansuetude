@@ -10,7 +10,7 @@ export default async function Fish() {
   
 
     return (
-        <main className="flex flex-col items-center h-[85vh] custom-bg">
+        <main className="flex flex-col items-center h-[85vh] mt-[5vh] custom-bg">
             <Fishing data={data}></Fishing>
             {/* <DotNavButton href="/radio"></DotNavButton> */}
             <SectionSelector sectionId="1"></SectionSelector>
