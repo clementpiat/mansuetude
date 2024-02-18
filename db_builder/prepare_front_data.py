@@ -15,16 +15,22 @@ def parse_example(example):
     text = example["text"]
 
     # handle the end
-    els = text.split("(")
-    if len(els) != 2:
+    elements = text.split("(...)")
+    start_text = "(...)".join(elements[:-1])
+    end_text = elements[-1]
+
+    elements = end_text.split("(")
+    if len(elements) != 2:
         return
 
-    text = els[0].strip()
-    if text[-1] != ".":
-        if els[1][-1] == ".":
-            text += "."
+    end_text = elements[0].strip()
+    if end_text[-1] not in [".", "!", "?", ";"]:
+        if elements[1][-1] in [".", "!", "?", ";"]:
+            end_text += elements[1][-1]
         else:
-            text += "..."
+            end_text += "..."
+
+    text = start_text + "(...)" + end_text
 
     # handle the start
     if text[:3] == "...":
