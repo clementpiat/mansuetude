@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Footer(props) {
     return (
-        window.innerWidth >= 1024 ?
+        typeof window !== 'undefined' && window.innerWidth >= 1024 ?
         <footer>
             <div class="flex justify-between border-slate-600 border-t-1 p-[1vh] sm:p-[4vh] first-bg">
                 <Logo></Logo>

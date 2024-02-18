@@ -104,7 +104,7 @@ export default function ScrollLandingPage(props) {
         </Link>
       </div>
       {
-        window.innerWidth >= 1024
+        typeof window !== 'undefined' && window.innerWidth >= 1024
         ?
       <>
         <div id="pathContainer" className="w-[100vw] h-[30vh] flex flex-col items-center text-slate-50">
