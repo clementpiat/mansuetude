@@ -73,7 +73,7 @@ export default function Definition(props) {
                                 <svg 
                                     id="luciole" fill={index == definitionIndex ? "currentColor" : "none"} stroke-width="1.5" stroke="currentColor"
                                     viewBox="0 0 24 24" className={"w-[2vh] h-[2vh] " + (index == definitionIndex ? "" : "cursor-pointer")}
-                                    onClick={() => setDefinitionIndex(index)}
+                                    onClick={() => setDefinitionIndex(index)} key={i}
                                 >
                                     <circle cx="50%" cy="50%" r="1vh" />
                                 </svg>
