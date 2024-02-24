@@ -5,14 +5,17 @@ import React, { useState, useEffect } from 'react';
 export default function Definition(props) {
     const [learningWords, setLearningWords] = useState([]);
     const [learnedWords, setLearnedWords] = useState([]);
+    const [definitionIndex, setDefinitionIndex] = useState(0);
 
     useEffect(() => {
+        setDefinitionIndex(0);
+
         const learningWords = localStorage.getItem("learningWords");
         setLearningWords(learningWords ? JSON.parse(learningWords) : []);
 
         const learnedWords = localStorage.getItem("learnedWords");
         setLearnedWords(learnedWords ? JSON.parse(learnedWords) : []);
-    }, []);
+    }, [props.selectedWord]);
 
     const addWord = () => {
         let newLearningWords = learningWords.concat([props.selectedWord.word]);
@@ -29,8 +32,8 @@ export default function Definition(props) {
     return (
         props.selectedWord && props.selectedWord.definitions
         ?
-        <div className={"overflow-y-auto mb-[4vh] p-[1vh] w-[75vw] sm:w-[35vw] h-[20vh] rounded-xl text-slate-100 " + (props.modal ? "first-bg" : "second-bg float-right")}>
-            <div className="p-[1vh] sm:p-[3vh]">
+        <div className={"mb-[4vh] p-[1vh] w-[75vw] sm:w-[35vw] h-[22vh] rounded-xl text-slate-100 " + (props.modal ? "first-bg" : "second-bg float-right")}>
+            <div className="p-[1vh] sm:p-[2vh]">
                 <h1 className="font-extrabold mb-[2vh]">
                     <a target="_blank" href={"https://www.cnrtl.fr/definition/" + props.selectedWord.word}>
                         <span className="inline-flex hover:underline">
@@ -58,10 +61,29 @@ export default function Definition(props) {
                         ) : <></>
                     }
                 </h1>
-                <span>
-                    <span>{props.selectedWord.definitions[0].text}</span>
-                    <Synonyms synonyms={props.selectedWord.definitions[0].synonymes}></Synonyms>
-                </span>
+                {
+                    props.selectedWord.definitions[definitionIndex] ?
+                    <>
+                        <div className="overflow-y-auto h-[10vh]">
+                            <span>{props.selectedWord.definitions[definitionIndex].text}</span>
+                            <Synonyms synonyms={props.selectedWord.definitions[definitionIndex].synonymes}></Synonyms>
+                        </div>
+                        <div className="flex items-center justify-center pt-[1vh]">
+                            {props.selectedWord.definitions.map((_, index)=>
+                                <svg 
+                                    id="luciole" fill={index == definitionIndex ? "currentColor" : "none"} stroke-width="1.5" stroke="currentColor"
+                                    viewBox="0 0 24 24" className={"w-[2vh] h-[2vh] " + (index == definitionIndex ? "" : "cursor-pointer")}
+                                    onClick={() => setDefinitionIndex(index)}
+                                >
+                                    <circle cx="50%" cy="50%" r="1vh" />
+                                </svg>
+                            )}
+                        </div>
+                    </>
+                    :
+                    <></>
+                }
+
             </div>
         </div>
         :

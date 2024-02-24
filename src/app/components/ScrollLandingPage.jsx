@@ -123,8 +123,8 @@ export default function ScrollLandingPage(props) {
           <Fishing data={props.data}></Fishing>
         </div>
 
-        <div className="w-[85vw] sm:w-[100vw] sm:px-[5vw] sm:flex">
-          <div className="w-[80vw] sm:w-[25vw] sm:mx-[5vw] mt-[10vh] 2xl:mt-[15vh]">
+        <div className="w-[85vw] sm:w-[100vw] sm:px-[5vw] flex items-center justify-center">
+          <div className="w-[80vw] sm:w-[25vw] sm:mx-[5vw]">
             <h2 className="cursor-pointer text-2xl sm:text-3xl font-bold tracking-tight text-slate-50">
               <Link href="/memo" className="hover:underline cursor-pointer">Assimile</Link>
             </h2>
