@@ -32,7 +32,7 @@ export default function Definition(props) {
     return (
         props.selectedWord && props.selectedWord.definitions
         ?
-        <div className={"mb-[4vh] p-[1.5vh] w-[75vw] sm:w-[35vw] h-[25vh] rounded-xl text-slate-100 " + (props.modal ? "first-bg" : "second-bg float-right")}>
+        <div className={"mb-[1vh] p-[1.5vh] w-[80vw] sm:w-[35vw] h-[25vh] rounded-xl text-slate-100 " + (props.modal ? "first-bg" : "second-bg float-right")}>
             <div className="p-[1vh] sm:p-[2vh]">
                 <h1 className="font-extrabold mb-[2vh]">
                     <a target="_blank" href={"https://www.cnrtl.fr/definition/" + props.selectedWord.word}>

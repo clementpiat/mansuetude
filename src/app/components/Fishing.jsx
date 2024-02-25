@@ -24,7 +24,7 @@ export default function Fishing(props) {
     }
 
     return (
-        <div className="w-[75vw] sm:w-[65vw] h-[70vh] items-center">
+        <div className="w-[80vw] sm:w-[65vw] h-[70vh] items-center">
             <Definition selectedWord={selectedWord} canBeRemovedFromLearningWords="true"></Definition>
             <Sentence element={element} setSelectedWord={setSelectedWord}></Sentence>
             <div className="flex flex-col items-center">
