@@ -41,6 +41,9 @@ def parse_example(example):
     while text[0] == "." or text[0].isdigit():
         text = text[1:].strip()
 
+    if text[:5] == "(...)":
+        text = text[5:]
+
     example["text"] = text
     return example
 
@@ -113,8 +116,6 @@ definitions[PLACEHOLDER_WORD] = {
     "word": PLACEHOLDER_WORD,
     "definitions": parse_definitions(DEFINITIONS[PLACEHOLDER_WORD])
 }
-print(DEFINITIONS[PLACEHOLDER_WORD])
-print(parse_definitions(DEFINITIONS[PLACEHOLDER_WORD]))
 
 with open("public/definitions.json", "w") as f:
     json.dump(definitions, f, indent=2)
