@@ -51,7 +51,7 @@ def parse_definitions(definitions):
         definition["examples"] = [x for x in definition["examples"] if x]
         for key in ["text", "synonymes", "syntagme"]:
             if definition[key]:
-                definition[key] = definition[key].strip(":").strip()
+                definition[key] = definition[key].strip(":").strip().strip(",")
                 if key == "synonymes":
                     # get rid of anton
                     definition[key] = definition[key].split(";")[0]
@@ -71,6 +71,9 @@ for sentence in SENTENCES:
     sentence["message"].strip('"')
 
     if len(sentence["message"]) > MAX_CHARS:
+        continue
+
+    if not sentence["message"]:
         continue
 
     if sentence["message"][-1] != ".":

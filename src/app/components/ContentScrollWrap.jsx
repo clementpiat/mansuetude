@@ -14,6 +14,7 @@ export default function ContentScrollWrap(props) {
         var timeStr = embedLink.split("&t=")[1].slice(0,-1)
         var startTime = Math.max(0, parseInt(timeStr) - secBefore)
         embedLink = embedLink.replace("&t=" + timeStr + "s", "?start=" + startTime)
+        embedLink += "&cc_load_policy=1"  // subtitles by default
   
         return embedLink
     }
