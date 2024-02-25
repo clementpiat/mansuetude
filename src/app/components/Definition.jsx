@@ -64,7 +64,7 @@ export default function Definition(props) {
                 {
                     props.selectedWord.definitions[definitionIndex] ?
                     <>
-                        <div className="overflow-y-auto h-[13vh]">
+                        <div className="overflow-y-auto h-[12.5vh]">
                             <span>{props.selectedWord.definitions[definitionIndex].text}</span>
                             <Synonyms synonyms={props.selectedWord.definitions[definitionIndex].synonymes}></Synonyms>
                         </div>
@@ -72,10 +72,10 @@ export default function Definition(props) {
                             {props.selectedWord.definitions.map((_, index)=>
                                 <svg 
                                     id="luciole" fill={index == definitionIndex ? "currentColor" : "none"} stroke-width="1.5" stroke="currentColor"
-                                    viewBox="0 0 24 24" className={"w-[1.2em] h-[1.2em] sm:w-[1em] sm:h-[1em] " + (index == definitionIndex ? "" : "cursor-pointer")}
+                                    viewBox="0 0 24 24" className={"w-[1em] h-[1em] " + (index == definitionIndex ? "" : "cursor-pointer")}
                                     onClick={() => setDefinitionIndex(index)} key={index}
                                 >
-                                    <circle cx="50%" cy="50%" r="35%" />
+                                    <circle cx="50%" cy="50%" r="33%" />
                                 </svg>
                             )}
                         </div>
