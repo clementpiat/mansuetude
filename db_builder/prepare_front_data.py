@@ -1,4 +1,5 @@
 import json
+from copy import deepcopy
 
 
 MAX_CHARS = 360
@@ -46,7 +47,8 @@ def parse_example(example):
 
 def parse_definitions(definitions):
     parsed_definitions = []
-    for definition in definitions:
+    for _definition in definitions:
+        definition = deepcopy(_definition)
         definition["examples"] = [parse_example(x) for x in definition["examples"]]
         definition["examples"] = [x for x in definition["examples"] if x]
         for key in ["text", "synonymes", "syntagme"]:
@@ -111,6 +113,8 @@ definitions[PLACEHOLDER_WORD] = {
     "word": PLACEHOLDER_WORD,
     "definitions": parse_definitions(DEFINITIONS[PLACEHOLDER_WORD])
 }
+print(DEFINITIONS[PLACEHOLDER_WORD])
+print(parse_definitions(DEFINITIONS[PLACEHOLDER_WORD]))
 
 with open("public/definitions.json", "w") as f:
     json.dump(definitions, f, indent=2)

@@ -43,19 +43,64 @@
     "definitions": [
       {
         "text": "Qui traverse perpendiculairement ou obliquement un axe de communication pour relier deux voies.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Les automobiles ont aguerri les vaches, les chevaux (...), mais une route transverse attire irr\u00e9sistiblement.",
+            "author": "La Varende",
+            "title": ", Gentilsh.",
+            "date": ", 1948"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. transversal."
       },
       {
         "text": "Qui relie deux s\u00e9ries de faits.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un autre rythme vint doubler le premier et se combiner avec lui, et il s'\u00e9tablit je ne sais quelles relations transverses entre ces lois.",
+            "author": "Val\u00e9ry",
+            "title": ", Vari\u00e9t\u00e9 V",
+            "date": ", 1944"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Qui est dispos\u00e9 perpendiculairement \u00e0 l'axe de sym\u00e9trie du corps ou au grand axe d'un organe.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'analogue de l'oblique externe a ses fibres transverses.",
+            "author": "Cuvier",
+            "title": ", Anat. comp., t. 1",
+            "date": ", 1805"
+          },
+          {
+            "text": "(...)Apophyses transverses des vert\u00e8bres lombaires.",
+            "author": "Garcin",
+            "title": ", Guide v\u00e9t\u00e9r.",
+            "date": ", 1944"
+          },
+          {
+            "text": "(...)Dans l'ensemble le c\u00f4lon a un trajet en forme de cadre avec une portion droite, ou c\u00f4lon ascendant, qui remonte verticalement dans la partie droite de l'abdomen jusqu'\u00e0 la face inf\u00e9rieure du foie. Il se coude alors, se porte transversalement vers la gauche jusqu'\u00e0 la rate, c'est le c\u00f4lon transverse.",
+            "author": null,
+            "title": null,
+            "date": "1965"
+          },
+          {
+            "text": "(...)Deux transverses du p\u00e9rin\u00e9e, fix\u00e9s au p\u00e9rin\u00e9e au-devant de l'anus, et y ayant des connexions entre eux et avec le sphincter, le releveur et le bulbo-caverneux.",
+            "author": "Cuvier",
+            "title": ", Anat. comp., t. 3",
+            "date": ", 1805"
+          },
+          {
+            "text": "Nos visc\u00e8res abdominaux sont renferm\u00e9s dans une cage musculaire compl\u00e8te: (...)sur les c\u00f4t\u00e9s les muscles larges de l'abdomen superpos\u00e9s au nombre de trois: le transverse en dessous, le petit oblique et le grand oblique superficiel; en avant les deux muscles grands droits allant verticalement du thorax au bassin.",
+            "author": "P. Chauchard",
+            "title": ", Les Muscles",
+            "date": ", 1971"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. usuel transversal."
       },
@@ -79,7 +124,92 @@
     "definitions": [
       {
         "text": "Approuver, rendre ex\u00e9cutoire un acte, une d\u00e9cision.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Lorsqu'il sera question du mariage de l'enfant d'un interdit, la dot, ou l'avancement d'hoirie, et les autres conventions matrimoniales, seront r\u00e9gl\u00e9s par un avis du conseil de famille, homologu\u00e9 par le tribunal, sur les conclusions du commissaire du Gouvernement.",
+            "author": null,
+            "title": null,
+            "date": "1804"
+          },
+          {
+            "text": "(...)Je viens vous apprendre que le testament est tout \u00e0 fait en r\u00e8gle, et sera certainement homologu\u00e9 par le tribunal, qui vous enverra en possession.",
+            "author": "Balzac",
+            "title": ", Cous. Pons,",
+            "date": "1848"
+          },
+          {
+            "text": "(...)En ex\u00e9cution d'un jugement du tribunal d'Agra, confirm\u00e9 par la cour de Delhi, homologu\u00e9 par le conseil priv\u00e9, les biens immeubles et mobiliers ont \u00e9t\u00e9 vendus, les valeurs r\u00e9alis\u00e9es, et le total a \u00e9t\u00e9 plac\u00e9 en d\u00e9p\u00f4t \u00e0 la banque d'Angleterre.",
+            "author": "Verne",
+            "title": ", Millions,",
+            "date": "1879"
+          },
+          {
+            "text": "(...)Le tarif des Droits de stationnement et de location, en ce qui concerne le sol des voies publiques, est \u00e9tabli par le Conseil municipal et homologu\u00e9 par le Pr\u00e9fet s'il s'agit de la petite voirie ou de la voirie urbaine.",
+            "author": "Baradat",
+            "title": ", Organ. pr\u00e9fect.,",
+            "date": "1907"
+          },
+          {
+            "text": "(...)[La conf\u00e9rence du 12 mars] fut pr\u00e9c\u00e9d\u00e9e d'une s\u00e9ance du conseil sup\u00e9rieur de la D\u00e9fense Nationale, qui approuva les d\u00e9cisions prises par moi, et homologua les propositions que j'allais d\u00e9velopper devant les commandants en chef ou leurs repr\u00e9sentants.",
+            "author": "Joffre",
+            "title": ", M\u00e9m., t. 2",
+            "date": ", 1931"
+          },
+          {
+            "text": "(...)Le probl\u00e8me technique ayant \u00e9t\u00e9 r\u00e9solu et la fabrication industrielle commenc\u00e9e, les normes applicables au superciment ont \u00e9t\u00e9 pr\u00e9cis\u00e9es et homologu\u00e9es en 1950.",
+            "author": "Cl\u00e9ret de Langavant",
+            "title": ", Ciments et b\u00e9tons,",
+            "date": "1953"
+          },
+          {
+            "text": "(...)Le constructeur est tenu d\u00e8s lors de d\u00e9livrer, sous sa propre responsabilit\u00e9, un certificat qui garantit la conformit\u00e9 de chaque appareil vendu au prototype homologu\u00e9...",
+            "author": null,
+            "title": null,
+            "date": "1957"
+          },
+          {
+            "text": "(...)Sans doute son d\u00e9sir \u00e9tait-il peu fond\u00e9, puisque, si elle battait ce record, sa performance, accomplie sans t\u00e9moins officiels, ne serait pas homologu\u00e9e.",
+            "author": "Montherl.",
+            "title": ", Olymp.,",
+            "date": "1924"
+          },
+          {
+            "text": "(...)Cela est d'autant plus remarquable que le sport du tir est un des rares o\u00f9 les records ne peuvent \u00eatre homologu\u00e9s que si la performance est r\u00e9alis\u00e9e en comp\u00e9tition officielle.",
+            "author": null,
+            "title": null,
+            "date": "1967"
+          },
+          {
+            "text": "(...)Quelqu'un, qui n'a souci que du vrai, me souffle que rien n'est moins s\u00fbr, que ce record n'a pas \u00e9t\u00e9 homologu\u00e9, que la plus sanglante des guerres n'a pas \u00e9t\u00e9 la plus sanguinaire, qu'elle fut horrible et propre comme une usine de Chicago.",
+            "author": "Gu\u00e9henno",
+            "title": ", Journal homme 40 ans,",
+            "date": "1934"
+          },
+          {
+            "text": "Je l'ai bien accroch\u00e9 [un avion allemand]. Je ne le l\u00e2chais pas. Il a d\u00fb s'abattre en Hollande (...). Il para\u00eet que le capitaine ne peut pas l'homologuer.",
+            "author": "Cendrars",
+            "title": ", Lotiss. ciel,",
+            "date": "1949"
+          },
+          {
+            "text": "(...)Je comprends que les Socialistes homologu\u00e9s, contr\u00f4l\u00e9s et d\u00fbment patent\u00e9s par les administrateurs de l'Humanit\u00e9 aient peu de go\u00fbt pour les h\u00e9ros de Fleurus.",
+            "author": "Sorel",
+            "title": ", R\u00e9flex. violence,",
+            "date": "1908"
+          },
+          {
+            "text": "(...)Ce haro sur l'universel a \u00e9t\u00e9 pouss\u00e9 dans une heureuse formule dont on croit pouvoir dire qu'elle serait homologu\u00e9e par maint \u00e9crivain moderne, non seulement po\u00e8te ou romancier, mais qui traite express\u00e9ment d'id\u00e9es, Suar\u00e8s, Gide, voire Bergson.",
+            "author": "Benda",
+            "title": ", Fr. byz.,",
+            "date": "1945"
+          },
+          {
+            "text": "(...)Cette roublardise confondait son jugement. Elle n'\u00e9tait point math\u00e9matique, homologu\u00e9e, mais maligne et bien vivante.",
+            "author": "Hamp",
+            "title": ", Champagne,",
+            "date": "1909"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -91,13 +221,57 @@
     "definitions": [
       {
         "text": "Qui est oblique et laisse para\u00eetre une intention sournoise ou malveillante.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il se courrou\u00e7ait malgr\u00e9 lui, faisant terribles grimaces, horrifiques froncements de sourcils et regards torves.",
+            "author": "Gautier",
+            "title": ", Fracasse",
+            "date": ", 1863"
+          },
+          {
+            "text": "(...)Ses yeux torves roulaient des lueurs fauves sous des cheveux en broussailles.",
+            "author": "A. France",
+            "title": ", \u00cele ping.",
+            "date": ", 1908"
+          },
+          {
+            "text": "(...)Assez pauvre apparence, en r\u00e9sum\u00e9, mais quelle physionomie! Hagard, d\u00e9vast\u00e9, spongieux, torve, fun\u00e8bre avec sa face livide et crapuleuse, ses \u00e9paisses moustaches s'allongeant en pointe.",
+            "author": "Cladel",
+            "title": ", Ompdrailles",
+            "date": ", 1879"
+          },
+          {
+            "text": "(...)Un nez aux narines ouvertes et reniflantes d'une b\u00eate, la bouche aux l\u00e8vres toutes plates: une blonde qui a sous la peau des ombres de brune, et du bestial, du torve, du cruel dans la physionomie.",
+            "author": "Goncourt",
+            "title": ", Journal",
+            "date": ", 1884"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. louche"
       },
       {
         "text": "Oblique, de travers ou tordu.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ces l\u00e8vres torves, ces yeux fuyants, sont dans notre cercle de travail les garants de la loyaut\u00e9, de notre loyaut\u00e9.",
+            "author": "Giraudoux",
+            "title": ", Folle",
+            "date": ", 1944"
+          },
+          {
+            "text": "(...)Des boucs bruns aux cornes torves et aux clochettes sonores.",
+            "author": "Cendrars",
+            "title": ", Bourlinguer",
+            "date": ", 1948"
+          },
+          {
+            "text": "(...)Et apr\u00e8s cela, il restait encore \u00e0 tra\u00eener et rouler sur le sol vers les tas les grosses souches arrach\u00e9es, \u00e0 grand renfort de reins et de bras raidis et de mains souill\u00e9es de terre, aux veines gonfl\u00e9es, qui semblaient lutter rageusement avec le tronc massif et les grosses racines torves.",
+            "author": "H\u00e9mon",
+            "title": ", M. Chapdelaine",
+            "date": ", 1916"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -409,7 +583,20 @@
     "definitions": [
       {
         "text": "Qui manque d'argent.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'homme imp\u00e9cunieux Pour attirer l'argent devient ing\u00e9nieux.",
+            "author": "Pommier",
+            "title": ", Col\u00e8res,",
+            "date": "1844"
+          },
+          {
+            "text": "(...)Le morne troupeau, inactif et imp\u00e9cunieux, des fonctionnaires \u00e0 la retraite.",
+            "author": "Tharaud",
+            "title": ", Paris-Sa\u00efgon,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -651,7 +838,26 @@
     "definitions": [
       {
         "text": "Resplendissant, brillant.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les l\u00e8vres absolument d\u00e9color\u00e9es n'\u00e9taient visibles qu'en opposition \u00e0 la ligne sombre des dents noircies par la fi\u00e8vre. Tout le reste indistinct, unifi\u00e9, fondu dans cette blancheur presque nitide, presque lumineuse.",
+            "author": "Bloy",
+            "title": ", Hist. d\u00e9sobl.,",
+            "date": "1894"
+          },
+          {
+            "text": "(...)Le verbe aussi, image d'images, t\u00e9moin de l'harmonie ou de la discordance des grandes profondeurs de l'esprit-corps, demeure nitide, \u00e9loquent, ou sobrement juste.",
+            "author": "L. Daudet",
+            "title": ", Monde images,",
+            "date": "1919"
+          },
+          {
+            "text": "(...)L'impulsion cr\u00e9atrice, le tonus du vouloir, l'\u00e9quilibre raisonn\u00e9 ont en lui toute leur nitidit\u00e9, toute leur vigueur.",
+            "author": "Id., [",
+            "title": "L'H\u00e9r\u00e9do], Drame int.",
+            "date": ", 1916"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -663,13 +869,45 @@
     "definitions": [
       {
         "text": "Qui concerne la chasse avec chiens et, p. ext., la chasse en g\u00e9n\u00e9ral.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Exercices cyn\u00e9g\u00e9tiques.",
+            "author": null,
+            "title": null,
+            "date": "1878, 1932"
+          },
+          {
+            "text": "(...)R\u00e9serve cyn\u00e9g\u00e9tique et halieutique...",
+            "author": "Jocard",
+            "title": ", Tour. et action \u00c9tat,",
+            "date": "1966"
+          },
+          {
+            "text": "(...)Auteurs cyn\u00e9g\u00e9tiques.",
+            "author": "Vidron",
+            "title": ", Chasse,",
+            "date": "1945"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Ensemble des connaissances concernant l'art de la chasse au chien courant et p. ext. de la chasse.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Trait\u00e9 de cyn\u00e9g\u00e9tique.",
+            "author": null,
+            "title": null,
+            "date": "1842"
+          },
+          {
+            "text": "(...)Ils feront [les m\u00e9s de lapins] avant tout, des proc\u00e9d\u00e9s de destruction du lapin et n'ont plus avec la cyn\u00e9g\u00e9tique que des affinit\u00e9s tr\u00e8s lointaines.",
+            "author": "Vidron",
+            "title": ", Chasse,",
+            "date": "1945"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -755,13 +993,33 @@
     "definitions": [
       {
         "text": "Action de r\u00e9torquer, de retourner un argument contre celui qui l'a \u00e9mis.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Nous avons mieux \u00e0 r\u00e9pondre [\u00e0 un argument]. Si je d\u00e9montre que c'est la propri\u00e9t\u00e9 qui est elle-m\u00eame impossible (...) et si je le d\u00e9montre (...)par la raison des nombres, par des \u00e9quations et des calculs, quel sera tout \u00e0 l'heure l'effroi du propri\u00e9taire \u00e9bahi? Et vous, lecteur, que pensez-vous de la r\u00e9torsion?",
+            "author": "Proudhon,",
+            "title": "Propri\u00e9t\u00e9",
+            "date": ", 1840"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Mesure de coercition licite, prise par un \u00e9tat \u00e0 l'encontre d'un autre \u00e9tat, en r\u00e9ponse \u00e0 une mesure de m\u00eame nature.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'imbrication actuelle des \u00e9changes touristiques, qui permet des mesures de r\u00e9torsion.",
+            "author": "Jocard,",
+            "title": "Tour. et action \u00c9tat",
+            "date": ", 1966"
+          },
+          {
+            "text": "(...)Sans doute, en grand secret, nous surveillait-il, depuis sa disparition, et cela en bordure de nos terres. D\u00e9sormais on pouvait pr\u00e9voir des actes de r\u00e9torsion, et s'attendre \u00e0 de grands mouvements de violence.",
+            "author": "Bosco,",
+            "title": "Mas Th\u00e9ot.",
+            "date": ", 1945"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -773,7 +1031,14 @@
     "definitions": [
       {
         "text": "Crier en parlant de la ch\u00e8vre.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...),,Le bossu se mit \u00e0 faire la ch\u00e8vre sur le pr\u00e9, courant \u00e0 quatre pattes, avec des b\u00ealements chevrott\u00e9s, des b\u00e9guettements, des grimaces``.",
+            "author": "Pourrat",
+            "title": ", Gaspard des Montagnes, La Tour du Levant",
+            "date": ", 1931"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -1011,19 +1276,40 @@
     "definitions": [
       {
         "text": "(Divinit\u00e9, h\u00e9ros) qui donnait son nom \u00e0 un groupe de personnes, en particulier \u00e0 une cit\u00e9, \u00e0 une tribu.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il y en avait quatre [tribus] qui reconnaissaient chacune pour h\u00e9ros \u00e9ponyme un des quatre fils d'Ion.",
+            "author": "M\u00e9rim\u00e9e",
+            "title": ", M\u00e9l. hist. et litt\u00e9r.,",
+            "date": "1855"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "(Magistrat) qui donnait son nom \u00e0 l'ann\u00e9e pendant laquelle il exer\u00e7ait sa charge.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Rois, empereurs et dignitaires \u00e9ponymes.",
+            "author": null,
+            "title": null,
+            "date": "1961"
+          }
+        ],
         "syntagme": "Archonte, \u00e9phore \u00e9ponyme.",
         "synonymes": null
       },
       {
         "text": "(Celui, celle, ce) qui donne son nom \u00e0 quelque chose ou \u00e0 quelqu'un, \u00e0 qui l'on se r\u00e9f\u00e8re, que l'on v\u00e9n\u00e8re.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Une autre patronne [que moi, l'histoire] sera votre \u00e9ponyme...",
+            "author": "P\u00e9guy",
+            "title": ", Clio,",
+            "date": "1914"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -1208,7 +1494,14 @@
     "definitions": [
       {
         "text": "Dans une rivi\u00e8re, \u00eele form\u00e9e par un amas de sables et de limons, r\u00e9sultat d'un alluvionnement`` (Plais.-Caill. 1958).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)J'abordai un javeau, une \u00eele molle des inondations du dernier \u00e9t\u00e9 et je m'y \u00e9vanouis.",
+            "author": "Arnoux",
+            "title": ", Rh\u00f4ne,",
+            "date": "1944"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -1220,13 +1513,27 @@
     "definitions": [
       {
         "text": "Frange de passementerie, caract\u00e9ris\u00e9e par un macaron termin\u00e9 par des pendeloques.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Tant de ruches de cr\u00eape, de rubans, de pampilles (...). Fallait-il qu'elle e\u00fbt l'imagination bouillonnante pour s'habiller de la sorte!",
+            "author": "Pourrat,",
+            "title": "Gaspard,",
+            "date": "1931"
+          }
+        ],
         "syntagme": "Galon \u00e0 pampilles.",
         "synonymes": null
       },
       {
         "text": "Pendeloque.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Les grandes robes du soir sont d'une somptuosit\u00e9 encore jamais atteinte: (...)une immense cloche d'organdi noir, brod\u00e9e de grappes de fleurs d'or et piqu\u00e9e de pampilles de vrai corail.",
+            "author": null,
+            "title": null,
+            "date": "14 f\u00e9vr. 1952"
+          }
+        ],
         "syntagme": "Pampilles de corail; collier, lustre \u00e0 pampilles.",
         "synonymes": null
       }
@@ -1388,7 +1695,56 @@
     "definitions": [
       {
         "text": "Qui a ou qui rappelle la forme d'un prisme.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La chapelle d'Henri VII, finie, riche, laide, toute prismatique.",
+            "author": "Michelet",
+            "title": ", Journal",
+            "date": ", 1834"
+          },
+          {
+            "text": "(...)Il fallait maintenant se garer des montagnes de glace; les vagues pas encore tr\u00e8s froides fondaient lentement leur base; soudain on les voyait chavirer, leur cime prismatique croulait, disparaissait dans la mer secou\u00e9e.",
+            "author": "Gide",
+            "title": ", Voy. Urien",
+            "date": ", 1893"
+          },
+          {
+            "text": "(...)Longs cristaux prismatiques stri\u00e9s.",
+            "author": "Lapparent",
+            "title": ", Min\u00e9r.",
+            "date": ", 1899"
+          },
+          {
+            "text": "(...)L'oeil doit \u00eatre \u00e9duqu\u00e9 \u00e0 ce genre de chasse, encore faut-il qu'il soit aid\u00e9 par l'emploi de jumelles prismatiques.",
+            "author": "Vidron",
+            "title": ", Chasse",
+            "date": ", 1945"
+          },
+          {
+            "text": "Les lentilles sp\u00e9ciales (...), prismatiques, bifocales, ou color\u00e9es dans la masse, \u00e9taient encore tr\u00e8s rares et peu utilis\u00e9es.",
+            "author": null,
+            "title": null,
+            "date": ", 1964"
+          },
+          {
+            "text": "(...)Les rayons du soleil refl\u00e8tent leurs prismatiques irradiations sur les glaces de Venise et les rideaux de damas.",
+            "author": "Lautr\u00e9am.",
+            "title": ", Chants Maldoror",
+            "date": ", 1869"
+          },
+          {
+            "text": "(...)Une dame qu'on disait Anglaise, et qui devait l'\u00eatre, si l'on en jugeait par l'\u00e9clat prismatique de ses toilettes.",
+            "author": "Feuillet",
+            "title": ", Journal femme",
+            "date": ", 1878"
+          },
+          {
+            "text": "Et c'est une \u00e9volution admirable et continue, depuis la mani\u00e8re un peu sombre et gr\u00eale du d\u00e9but (...)jusqu'\u00e0 cette lumi\u00e8re palpitante, prismatique que M. Monet apprit, depuis, \u00e0 emprisonner dans ses toiles.",
+            "author": "Toulet",
+            "title": ", Notes art",
+            "date": ", 1920"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -1463,13 +1819,45 @@
       },
       {
         "text": "Fait de lis ou d'objets qui ressemblent au lis.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Dans les tours [de la cath\u00e9drale], les cloches continuaient \u00e0 sonner, et la fa\u00e7ade semblait \u00eatre la gloire m\u00eame de ces noces, l'envol\u00e9e de la fille pauvre au travers du miracle, tout ce qui s'\u00e9lan\u00e7ait et flambait, avec la dentelle ajour\u00e9e, la floraison liliale des colonnettes, des balustrades, des arcatures.",
+            "author": "Zola",
+            "title": ", R\u00eave,",
+            "date": "1888"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Qui rappelle le lis par sa blancheur.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Elle devait avoir envie de venir se sourire encore en cette glace myst\u00e9rieuse o\u00f9 elle avait tant de fois admir\u00e9 son lilial visage!",
+            "author": "Villiers de L'I.-A.",
+            "title": ", Contes cruels,",
+            "date": "1883"
+          },
+          {
+            "text": "(...)Mais elle, \u00e9tait plus somptueuse encore, rien qu'avec la soie liliale de sa peau, sa taille mince et allong\u00e9e, sa gorge ronde et menue, ses bras souples, d'une gr\u00e2ce divine.",
+            "author": "Zola",
+            "title": ", Dr Pascal,",
+            "date": "1893"
+          },
+          {
+            "text": "(...)Tout le monde a pu savoir l'irr\u00e9pr\u00e9hensible beaut\u00e9 de nos institutions coloniales, la candeur liliale de nos fonctionnaires et leur probit\u00e9 de patriarches avant le d\u00e9luge, la joie sans m\u00e9lange des indig\u00e8nes de toute couleur soumis \u00e0 la tut\u00e9laire domination de la r\u00e9publique et l'avenir paradisiaque de leurs patelins.",
+            "author": "Bloy",
+            "title": ", Journal,",
+            "date": "1904"
+          },
+          {
+            "text": "(...)Et le monde d'esprit et le monde charnel N'\u00e9taient devant ses yeux qu'un temple lilial.",
+            "author": "P\u00e9guy",
+            "title": ", \u00c8ve,",
+            "date": "1913"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -1531,13 +1919,39 @@
     "definitions": [
       {
         "text": "Plante de la famille des Borraginac\u00e9es, dont les fleurs blanches, mauves ou violettes, sont extr\u00eamement odorantes.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La verrucaire, en gr\u00e9co-fran\u00e7ais h\u00e9liotrope, tourne aussi selon le soleil ses odorantes fleurs violettes.",
+            "author": "Gourmont",
+            "title": ", Esth\u00e9t. lang. fr.,",
+            "date": "1899"
+          },
+          {
+            "text": "(...)L'h\u00e9liotrope mauve aux senteurs de vanille Emplissait l'air penchant d'\u00e9vanouissement.",
+            "author": "Noailles",
+            "title": ", Ombre jours,",
+            "date": "1902"
+          },
+          {
+            "text": "(...)Robe de chambre de foulard h\u00e9liotrope tout ruch\u00e9 de vieux point.",
+            "author": "Gyp",
+            "title": ", Mmela Duchesse,",
+            "date": "1893"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Calc\u00e9doine de couleur verte, tachet\u00e9e de rouge.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'h\u00e9liotrope ou jaspe sanguin offre un fond vert avec de belles taches rouges.",
+            "author": "Wurtz",
+            "title": ", Dict. chim., t. 2, 1ervol.",
+            "date": ", 1873"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -2969,7 +3383,20 @@
     "definitions": [
       {
         "text": "Instrument \u00e0 cordes pinc\u00e9es appartenant \u00e0 la famille des archiluths, au son plus grave que celui du luth, dont le manche, muni d'un premier chevillier auquel s'accrochent les six rangs de cordes habituels du luth, comporte un second chevillier, l\u00e9g\u00e8rement d\u00e9port\u00e9 vers la gauche, auquel s'accrochent de quatre \u00e0 huit paires de cordes sonnant \u00e0 vide (d'apr. Mus. 1976).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Debout, elle passa la main sur son front, se recueillit pendant quelques minutes, pin\u00e7a son t\u00e9orbe, et r\u00e9cita: Quimper-Corentin, ma patrie.",
+            "author": "Reybaud",
+            "title": ", J. Paturot",
+            "date": ", 1842"
+          },
+          {
+            "text": "(...)C'\u00e9tait une joie ineffable qui semblait venir du paradis, une joie aussi diff\u00e9rente de celle de la sonate que, d'un ange doux et grave de Bellini, jouant du th\u00e9orbe, pourrait \u00eatre, v\u00eatu d'une robe d'\u00e9carlate, quelque archange de Mantegna sonnant dans un buccin.",
+            "author": "Proust",
+            "title": ", Prisonn.",
+            "date": ", 1922"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -3012,19 +3439,64 @@
     "definitions": [
       {
         "text": "Portefaix.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Giovanni h\u00e9lait les faquins, distribuait les ordres, marchandaillait avec les gondoliers, s'informait des b\u00e2timents en partance.",
+            "author": "Milosz",
+            "title": ", Amour. initiation,",
+            "date": "1910"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Mannequin d'osier, de paille ou de bois avec lequel on s'exerce \u00e0 la lance.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Et quand, dans les carrousels du grand si\u00e8cle, l'\u00e9cu du jouteur fit place aux \u00ab t\u00eates de turc \u00bb ou au \u00ab faquin \u00bb, le cavalier \u00e0 l'assiette incertaine pouvait s'en prendre \u00e0 sa \u00ab mazette \u00bb.",
+            "author": null,
+            "title": "ds Vie Lang.",
+            "date": "1953"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Personnage m\u00e9prisable, vaniteux, malhonn\u00eate et sot.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Et ce faquin qui se donne des airs d'un C\u00e9sar et d'un Alexandre!",
+            "author": "Sandeau",
+            "title": ", Mlle de La Seigli\u00e8re,",
+            "date": "1848"
+          },
+          {
+            "text": "(...)Vos marques de d\u00e9f\u00e9rences s'adressent \u00e0 l'\u00e9glise, qu'il repr\u00e9sente, non pas \u00e0 l'individu, qui est le pire faquin...",
+            "author": "Adam",
+            "title": ", Enf. Aust.,",
+            "date": "1902"
+          },
+          {
+            "text": "(...)Ce faquin de ministre le traite avec une distinction \u00e9tonnante.",
+            "author": "Stendhal",
+            "title": ", L. Leuwen, t. 3",
+            "date": ", 1835"
+          },
+          {
+            "text": "(...)Ces faquins de juges civils pouvaient se permettre de penser que, l'affaire Dreyfus et l'affaire Esterhazy n'\u00e9tant qu'une seule et m\u00eame affaire...",
+            "author": "Clemenceau",
+            "title": ", Vers r\u00e9paration,",
+            "date": "1899"
+          },
+          {
+            "text": "(...)Coquin et faquin, l\u00e2che et bravache, menteur et voleur! Voil\u00e0 ses vrais noms, Madame, et je vous le prouverai.",
+            "author": "About",
+            "title": ", Roi mont.,",
+            "date": "1857"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -3419,13 +3891,33 @@
     "definitions": [
       {
         "text": "Membrane graisseuse qui enveloppe les visc\u00e8res du mouton, du porc ou du veau et qui est utilis\u00e9e en boucherie pour recouvrir les morceaux de viande (en partic., les rognons) mis \u00e0 l'\u00e9tal.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Chaque famille, (...)pour faire une honn\u00eatet\u00e9 \u00e0 son pasteur, lui envoyait des cochonnailles dans une assiette recouverte d'une cr\u00e9pine et envelopp\u00e9e d'une serviette blanche.",
+            "author": "Pourrat",
+            "title": ", Gaspard,",
+            "date": "1922"
+          },
+          {
+            "text": "(...)\u00ab Sa poitrine on dirait une cr\u00e9pine de veau \u00bb... cette sorte de t\u00e9gument gaufr\u00e9 de reliefs p\u00e2les qui sert de prot\u00e8ge-feu aux mets d\u00e9licats...",
+            "author": "La Varende",
+            "title": ", Nez-de-Cuir,",
+            "date": "1936"
+          }
+        ],
         "syntagme": null,
         "synonymes": "(Quasi-)synon. coiffe, \u00e9piploon, toilette."
       },
       {
         "text": "Partie du placenta qui coiffe parfois la t\u00eate du nouveau-n\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "La t\u00eate chaude sous la coiffe rest\u00e9e du d\u00e9livre, l'enfant vivait (...)et elle a la cr\u00e9pine, voyez.",
+            "author": "Richepin",
+            "title": ", Miarka,",
+            "date": "1883"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -3494,19 +3986,58 @@
     "definitions": [
       {
         "text": "Ensemble des r\u00e8gles de composition du chant; p. m\u00e9ton., d\u00e9clamation not\u00e9e avec accompagnement musical.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La m\u00e9lop\u00e9e monotone qui soutenait l'hexam\u00e8tre \u00e9pique fait place \u00e0 une multitude de chants vari\u00e9s et de m\u00e8tres diff\u00e9rents [en Gr\u00e8ce au VIes. av. J.-C.].",
+            "author": "Taine,",
+            "title": "Philos. art,t.2",
+            "date": ", 1865"
+          },
+          {
+            "text": "(...)Aristide Quintilien distingue trois parties dans la m\u00e9lop\u00e9e.",
+            "author": null,
+            "title": null,
+            "date": "1882"
+          },
+          {
+            "text": "(...)Les d\u00e9bris qui subsistent de la m\u00e9lop\u00e9e antique.",
+            "author": "Reinach,",
+            "title": "Mus. gr.,",
+            "date": "1926"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "R\u00e9citatif ou d\u00e9clamation lyrique.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Le lamento d'Idom\u00e9n\u00e9e, et du grand-pr\u00eatre au dernier acte, a par moments l'accent charnel des m\u00e9lop\u00e9es de Boris Godounof...",
+            "author": "Gh\u00e9on,",
+            "title": "Prom. Mozart,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Chant monotone, de caract\u00e8re souvent m\u00e9lancolique.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)De tristes m\u00e9lop\u00e9es bretonnes qui semblaient de vieux airs de biniou l\u00e9gu\u00e9s par l'antiquit\u00e9 celtique.",
+            "author": "Loti,",
+            "title": "Mon fr\u00e8re Yves,",
+            "date": "1883"
+          },
+          {
+            "text": "(...)La m\u00e9lop\u00e9e du bouvier qui rentre au cr\u00e9puscule...",
+            "author": "Pesquidoux,",
+            "title": "Livre raison,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -3537,7 +4068,20 @@
     "definitions": [
       {
         "text": "Qui ne peut se fl\u00e9trir; imp\u00e9rissable.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les lois immarcescibles de l'optique g\u00e9om\u00e9trique.",
+            "author": "Queneau",
+            "title": ", Loin Rueil,",
+            "date": "1944"
+          },
+          {
+            "text": "Un souvenir (...) immarcescible (...)un de ces souvenirs si solides, si pr\u00e9sents qu'on a pour ainsi dire jamais besoin d'y penser...",
+            "author": "Arnoux",
+            "title": ", Visite Mathus.,",
+            "date": "1961"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -3579,7 +4123,14 @@
     "definitions": [
       {
         "text": "Effort physique tr\u00e8s p\u00e9nible o\u00f9 l'\u00eatre semble s'essouffler",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)4. Il \u00e9tait si fatigu\u00e9 que, chaque fois qu'il montait sur un trottoir, il avait une sorte d'ahan, se soulevant et se recevant comme un cheval poussif sur l'obstacle.",
+            "author": "H. de Montherlant",
+            "title": ", Les C\u00e9libataires,",
+            "date": "1934"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -3603,7 +4154,14 @@
       },
       {
         "text": "Examiner, consulter.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il [M. d'Hauterive] me fit lire, compulser, travailler et noter sous ses yeux dans son cabinet.",
+            "author": "Lamartine",
+            "title": ", Rapha\u00ebl,",
+            "date": "1849"
+          }
+        ],
         "syntagme": "Compulser un dossier.",
         "synonymes": null
       }
@@ -3640,7 +4198,50 @@
     "definitions": [
       {
         "text": "Celui dont le m\u00e9tier consiste \u00e0 porter des fardeaux.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'\u00e9ternel portefaix, courb\u00e9, tra\u00eenant et tirant, t\u00eate basse, sans regarder le ciel, sans penser, sans s'\u00e9lever jamais \u00e0 l'invention.",
+            "author": "Michelet",
+            "title": ", Oiseau,",
+            "date": "1856"
+          },
+          {
+            "text": "(...)[La diligence] \u00e9tait assaillie par un troupeau de portefaix qui se disputaient les bagages, et vomissait de ses flancs jaunes des gens engourdis.",
+            "author": "Vall\u00e8s",
+            "title": ", J. Vingtras,Enf.",
+            "date": ", 1879"
+          },
+          {
+            "text": "(...)M'allongeant un grand coup de coude, elle me jeta \u00e0 bas avec une vigueur qui e\u00fbt fait honneur \u00e0 un portefaix.",
+            "author": "Musset",
+            "title": ", Hist. merle bl.,",
+            "date": "1854"
+          },
+          {
+            "text": "(...)Tr\u00e8s grand, taill\u00e9 en force, avec des \u00e9paules de portefaix, ce g\u00e9ant se mit tout \u00e0 coup \u00e0 fondre et \u00e0 s'affaisser sur lui-m\u00eame.",
+            "author": "Ambri\u00e8re",
+            "title": ", Gdes vac.,",
+            "date": "1946"
+          },
+          {
+            "text": "(...)Alors seulement il [Jansoulet] se souvint qu'il l'\u00e9tait [homme public]. Qui s'en serait dout\u00e9 \u00e0 le voir ainsi essoufl\u00e9 et t\u00eate nue comme un portefaix qui sort d'une rixe sous les regards avides, railleurs \u00e0 froid, du rassemblement en train de se disperser?",
+            "author": "A. Daudet",
+            "title": ", Nabab,",
+            "date": "1877"
+          },
+          {
+            "text": "(...)Un banquier, un notaire, un avocat s'insultaient comme des portefaix.",
+            "author": "Van der Meersch",
+            "title": ", Invas. 14,",
+            "date": "1935"
+          },
+          {
+            "text": "[Rois] (...)Je vous dis seulement que ce vil portefaix, Votre si\u00e8cle, commence \u00e0 trouver vos altesses Lourdes d'iniquit\u00e9s et de sc\u00e9l\u00e9ratesses.",
+            "author": "Hugo",
+            "title": ", L\u00e9gende,t. 1",
+            "date": ", 1859"
+          }
+        ],
         "syntagme": "Portefaix arabe, de Colombo; soci\u00e9t\u00e9 des portefaix de Marseille; portefaix charg\u00e9 de paquets.",
         "synonymes": "Synon. mod. porteur."
       }
@@ -3752,19 +4353,40 @@
     "definitions": [
       {
         "text": "Qui d\u00e9pend, qui r\u00e9sulte du hasard.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Poincar\u00e9 signale dans le d\u00e9tail l'importance, la difficult\u00e9, les cas d'exception possibles pour ce probl\u00e8me de Maxwell-Boltzmann. Il fait enfin une allusion pr\u00e9cise \u00e0 ce processus stochastique d'\u00e9volution des mol\u00e9cules.",
+            "author": null,
+            "title": null,
+            "date": ", 1961"
+          }
+        ],
         "syntagme": "Ph\u00e9nom\u00e8ne stochastique.",
         "synonymes": null
       },
       {
         "text": "Qui rel\u00e8ve du domaine de l'al\u00e9atoire, du calcul des probabilit\u00e9s.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La notion de corr\u00e9lation. Nous examinerons d'abord \u00e0 ce point de vue la notion de corr\u00e9lation, ou de liaison de probabilit\u00e9, ou liaison stochastique. On peut \u00e9videmment dire que cette notion d\u00e9coule du th\u00e9or\u00e8me des probabilit\u00e9s compos\u00e9es qui montre ce que sont des al\u00e9atoires non ind\u00e9pendants.",
+            "author": null,
+            "title": null,
+            "date": ", 1961"
+          }
+        ],
         "syntagme": "\u00c9quation, int\u00e9grale stochastique.",
         "synonymes": null
       },
       {
         "text": "Qui utilise la th\u00e9orie des probabilit\u00e9s.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les mod\u00e8les stochastiques de l'apprentissage.",
+            "author": null,
+            "title": null,
+            "date": "1981"
+          }
+        ],
         "syntagme": "M\u00e9thode stochastique.",
         "synonymes": "Synon. probabiliste."
       },
@@ -4102,7 +4724,44 @@
     "definitions": [
       {
         "text": "Jeune homme tr\u00e8s \u00e9l\u00e9gant, raffin\u00e9 et assez ridicule.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Aujourd'hui, il \u00e9tait un gandin, un dandy, un pilier de cette jeunesse dor\u00e9e qui paradait aux soir\u00e9es du gymnase...",
+            "author": "Ch\u00e2teaubriant",
+            "title": ", Lourdines,",
+            "date": "1911"
+          },
+          {
+            "text": "(...)Au lieu de faire le gandin sur la plage de Dieppe, daignez un peu vous occuper de votre serviteur, qui vous embrasse.",
+            "author": "Flaub.",
+            "title": ", Corresp.,",
+            "date": "1879"
+          },
+          {
+            "text": "(...)Ah! il veut faire le gandin \u00e0 son \u00e2ge! Ah! je ne lui suffis pas! Eh! bien, qu'il aille se faire consoler ailleurs!",
+            "author": "Feydeau",
+            "title": ", Dame Maxim's,",
+            "date": "1914"
+          },
+          {
+            "text": "(...)Gandinerie, Gandinisme : Genre du gandin. \u2212  ... \u00ab Le gandinisme, c'est le ridicule dans la sottise. \u00bb \u2212  G. Naquet.",
+            "author": "Larchey",
+            "title": ", Excentr. lang. fr.,",
+            "date": "1865"
+          },
+          {
+            "text": "(...)Des petits jeunes gens de boutique d\u00e9vor\u00e9s de gandinerie, s'amusaient \u00e0 risquer un quadrille.",
+            "author": "A. Daudet",
+            "title": ", Fromont jeune,",
+            "date": "1874"
+          },
+          {
+            "text": "(...)Ah! les vertes v\u00e9rit\u00e9s qu'elle e\u00fbt dites la Palatine \u00e0 notre gandinerie, \u00e0 notre charlatanerie, \u00e0 notre anglomanie, \u00e0 nos sportsmen, \u00e0 nos amateurs de bric-\u00e0-brac, surtout \u00e0 nos magn\u00e9tiseurs et \u00e0 nos spiritistes.",
+            "author": null,
+            "title": null,
+            "date": "11 avril 1863"
+          }
+        ],
         "syntagme": "Jeune gandin; veston de gandin; mener une vie de gandin.",
         "synonymes": null
       }
@@ -4256,7 +4915,26 @@
       },
       {
         "text": "Cort\u00e8ge en file indienne (les mains g\u00e9n\u00e9ralement sur les \u00e9paules de la personne qui pr\u00e9c\u00e8de) organis\u00e9 par les \u00e9tudiants en certaines circonstances, notamment apr\u00e8s les examens.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les \u00e9l\u00e8ves royalistes et antis\u00e9mites montaient en mon\u00f4me vers la place Clichy, et Albert M. haranguait le peuple d'entre les jambes de bronze du g\u00e9n\u00e9ral Moncey...",
+            "author": "J.-R. Bloch",
+            "title": ", Dest. du S.,",
+            "date": "1931"
+          },
+          {
+            "text": "(...). Il avait p\u00e2li de m\u00eame, un jour, boulevard Saint-Michel, en voyant passer un mon\u00f4me d'\u00e9tudiants. Ils avaient tous des lavalli\u00e8res jaune serin.",
+            "author": "Montherl.,",
+            "title": "J. filles,",
+            "date": "1936"
+          },
+          {
+            "text": "(...)[Les proph\u00e8tes] parcouraient le pays en grandes bandes, \u00aben corde\u00bb, en monome, comme on dirait dans l'argot parisien.",
+            "author": "Renan,",
+            "title": "Hist. peuple Isr.,t.1",
+            "date": ", 1887"
+          }
+        ],
         "syntagme": "Arriver par mon\u00f4mes.",
         "synonymes": null
       }
@@ -4547,7 +5225,56 @@
     "definitions": [
       {
         "text": "Femme l\u00e9g\u00e8re, facile, d\u00e9vergond\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Cette femme impie, mademoiselle des Touches, est venue g\u00e2ter bien des choses! (...)\u2212 Oh! une gaupe, une gourgandine s'\u00e9cria le cur\u00e9.",
+            "author": "Balzac",
+            "title": ", B\u00e9atrix,",
+            "date": "1839"
+          },
+          {
+            "text": "(...)Pendant que le bon Mistral habite chez Mari\u00e9ton et court les gourgandines, il a remis\u00e9 sa femme chez ses parents...",
+            "author": "Goncourt",
+            "title": ", Journal,",
+            "date": "1889"
+          },
+          {
+            "text": "(...)Ce grave amateur de mollets, cette esp\u00e8ce de fakir, ce voyeur \u00e9trange, est g\u00e9n\u00e9ralement pris pour un gourgandin.",
+            "author": "Richepin",
+            "title": ", Pav\u00e9,",
+            "date": "1883"
+          },
+          {
+            "text": "Les domestiques (...)d\u00e9testaient cette enfant du ruisseau devenue la femme de leur ma\u00eetre. Que n'auraient-ils donn\u00e9 pour la prendre en gourgandinage!",
+            "author": "A. Daudet",
+            "title": ", Pte paroisse,",
+            "date": "1895"
+          },
+          {
+            "text": "(...)Des dr\u00f4lesses qui ne font que gourgandiner.",
+            "author": "Rigaud",
+            "title": ", Dict. arg. mod.,",
+            "date": "1881"
+          },
+          {
+            "text": "(...)[Le chevalier au comte :] tu auras ta soir\u00e9e libre pour gourgandiner un brin.",
+            "author": "Richepin",
+            "title": ", Glu,",
+            "date": "1881"
+          },
+          {
+            "text": "(...)La Pierronne vint savoir si c'\u00e9tait avec Jeanlin que sa Lydie avait fil\u00e9. Levaque r\u00e9pondit que \u00e7a devait \u00eatre quelque chose comme \u00e7a, car B\u00e9bert, lui aussi, avait disparu; et ces galopins gourgandinaient toujours ensemble.",
+            "author": "Zola",
+            "title": ", Germinal,",
+            "date": "1885"
+          },
+          {
+            "text": "(...)Le patron s'\u00e9tait esclaff\u00e9 d\u00e8s que le jeune homme avait eu le dos tourn\u00e9 : \u00ab Il est de mon pays, c'est s\u00fbr, avec un nom comme \u00e7a! Et vous savez ce que c'est un gourgaud dans mon pays?... c'est tout ce qui ne vaut rien comme homme \u00bb.",
+            "author": "Magnane",
+            "title": ", B\u00eate \u00e0 concours,",
+            "date": "1941"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. catin, coureuse, fille, gaupe, sauteuse, putain."
       }
@@ -4759,25 +5486,83 @@
     "definitions": [
       {
         "text": "\u00c9vanouissement, syncope.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Mais, tout d'un coup, (...) il (...)devint si p\u00e2le que je crus qu'il s'en allait en p\u00e2moison.",
+            "author": "Sand,",
+            "title": "Ma\u00eetres sonneurs,",
+            "date": "1853"
+          },
+          {
+            "text": "(...)Maintenant, les jambes fl\u00e9chissantes, il se raidissait contre la p\u00e2moison et le vertige...",
+            "author": "Arnoux,",
+            "title": "Double chance,",
+            "date": "1958"
+          },
+          {
+            "text": "(...)On n'a jamais pu me mettre en pension, gamine, parce que des p\u00e2moisons de rage me prenaient \u00e0 sentir qu'on me d\u00e9fendait de franchir la porte.",
+            "author": "Colette,",
+            "title": "Cl. \u00e9cole,",
+            "date": "1900"
+          },
+          {
+            "text": "Torpeur de la l\u00e9gitimit\u00e9 [qui] (...)tomba en d\u00e9faillance; la p\u00e2moison du coeur de l'\u00c9tat gagna les membres et rendit la France immobile.",
+            "author": "Chateaubr.,",
+            "title": "M\u00e9m.,t.2",
+            "date": ", 1848"
+          }
+        ],
         "syntagme": "P\u00e2moison subite; \u00eatre pris de p\u00e2moison; \u00eatre sujet aux p\u00e2moisons; tirer qqn de sa p\u00e2moison; tomber en p\u00e2moison.",
         "synonymes": null
       },
       {
         "text": "\u00c9tat d'immobilit\u00e9, de sommeil.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La for\u00eat, peu \u00e0 peu, sortait de sa longue p\u00e2moison.",
+            "author": "Genevoix,",
+            "title": "Dern. harde,",
+            "date": "1938"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "\u00c9tat d'abandon, de bien-\u00eatre ressenti par le corps, sous l'effet d'une sensation ou d'une \u00e9motion intense.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Les habitu\u00e9s de l'Okel, agit\u00e9s par l'ivresse, se livraient (...) \u00e0 des p\u00e2moisons extatiques. (...) mais peu \u00e0 peu la force du chanvre s'\u00e9tant dissip\u00e9e, (...)ils gisaient le long des divans.",
+            "author": "Nerval,",
+            "title": "Voy. Orient,t.2",
+            "date": ", 1851"
+          },
+          {
+            "text": "(...)Je pris en haine les p\u00e2moisons heureuses, l'abandon, ce corps trop caress\u00e9, trop bouchonn\u00e9.",
+            "author": "Sartre,",
+            "title": "Mots,",
+            "date": "1964"
+          }
+        ],
         "syntagme": "P\u00e2moison du plaisir, de la volupt\u00e9.",
         "synonymes": null
       },
       {
         "text": "Affectation, manifestation de cet \u00e9tat.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Elle d\u00e9bordait d'enthousiasme. Les perroquets, les \u00e9conomistes et les vers de M. Mille la faisaient tomber en p\u00e2moison.",
+            "author": "A. France,",
+            "title": "\u00c9tui nacre,M\u00e9m. vol.",
+            "date": ", 1892"
+          },
+          {
+            "text": "(...)Ces femmes mani\u00e9r\u00e9es qui, \u00e0 force de s'\u00e9crier devant vous, en p\u00e2moison: \u00abAh! c'est ravissant! Ah! c'est exquis! Ah! c'est d\u00e9licieux!\u00bb.",
+            "author": "Romains,",
+            "title": "Hommes bonne vol.,",
+            "date": "1939"
+          }
+        ],
         "syntagme": "P\u00e2moison d'admiration.",
         "synonymes": null
       }
@@ -4789,31 +5574,90 @@
     "definitions": [
       {
         "text": "Int\u00e9r\u00eat que produit l'argent pr\u00eat\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Une autre question (...)est celle de l'usure ou du pr\u00eat \u00e0 int\u00e9r\u00eat. L'usure, ou comme qui dirait le prix de l'usage, est l'\u00e9molument, de quelque nature qu'il soit, que le propri\u00e9taire retire de la prestation de sa chose.",
+            "author": "Proudhon",
+            "title": ", Syst. contrad. \u00e9con., t. 1",
+            "date": ", 1846"
+          }
+        ],
         "syntagme": "L'usure est port\u00e9e \u00e0 dix pour cent.",
         "synonymes": null
       },
       {
         "text": "Taux d'int\u00e9r\u00eat abusif, obtenu d'un capital pr\u00eat\u00e9 ou d'une marchandise vendue \u00e0 cr\u00e9dit au-dessus du taux fix\u00e9 par la coutume ou la loi.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Changeurs d'or et d'argent bien munis de faux poids (...)et force grippe-sous pr\u00eatant \u00e0 grande usure.",
+            "author": "Leconte de Lisle",
+            "title": ", Po\u00e8mes barb.",
+            "date": ", 1878"
+          },
+          {
+            "text": "Dans les pays o\u00f9 l'argent est rare (...)l'int\u00e9r\u00eat tend \u00e0 \u00eatre \u00e9lev\u00e9 et parfois le taux couramment admis se rapproche de l'usure.",
+            "author": null,
+            "title": null,
+            "date": "1966"
+          }
+        ],
         "syntagme": "Emprunter \u00e0 l'usure.",
         "synonymes": null
       },
       {
         "text": "Fait de pr\u00eater de l'argent \u00e0 un taux d'int\u00e9r\u00eat sup\u00e9rieur \u00e0 la coutume ou la loi.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)[Magus] le dressait \u00e0 faire l'usure dans le quartier.",
+            "author": "Balzac",
+            "title": ", Cous. Pons",
+            "date": ", 1847"
+          },
+          {
+            "text": "(...)C'est un sp\u00e9culateur, un ma\u00eetre en fait d'emprunt, et de pr\u00eat et d'usure et de bon placement, car c'est le seul banquier qui pr\u00eate \u00e0 cent pour un.",
+            "author": "P\u00e9guy",
+            "title": ", \u00c8ve",
+            "date": ", 1913"
+          },
+          {
+            "text": "(...)L'usure est un d\u00e9lit passible d'amende et au cas de r\u00e9cidive, d'emprisonnement.",
+            "author": null,
+            "title": null,
+            "date": "1936"
+          }
+        ],
         "syntagme": "Pratiquer l'usure.",
         "synonymes": null
       },
       {
         "text": "Fait d'emprunter \u00e0 un usurier.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "La terre lui rapporte deux, l'usure demande huit (...). Chaque ann\u00e9e d'int\u00e9r\u00eat enl\u00e8ve quatre ann\u00e9es de travail.",
+            "author": "Michelet",
+            "title": ", Peuple",
+            "date": ", 1846"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Au del\u00e0 de ce qu'on a re\u00e7u.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Mon confr\u00e8re, ajouta-t-il en me faisant un salut que je lui rendis avec usure, vous a indiqu\u00e9 la bonne route.",
+            "author": "Brillat-Sav.",
+            "title": ", Physiol. go\u00fbt",
+            "date": ", 1825"
+          },
+          {
+            "text": "[Christophe] se trouva soudain d'une richesse en ennemis qu'il n'e\u00fbt jamais soup\u00e7onn\u00e9e. Tous ceux qu'il avait bless\u00e9s (...)se veng\u00e8rent avec usure.",
+            "author": "Rolland",
+            "title": ", J.-Chr., R\u00e9volte",
+            "date": ", 1907"
+          }
+        ],
         "syntagme": "Avec usure.",
         "synonymes": null
       }
@@ -5005,7 +5849,20 @@
     "definitions": [
       {
         "text": "Qui a coutume de fanfaronner.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Le petit pr\u00e9fet de police de Paris, Louis L\u00e9pine, a fait ainsi chanter son \u00e9loge par les journaux \u00e0 grand tirage et \u00e0 client\u00e8le m\u00eal\u00e9e, alors qu'il faisait asperger d'eau froide les catholiques (...). Ce qui n'emp\u00eacha pas les conservateurs imb\u00e9ciles de faire entrer ce fantoche tartarinesque \u00e0 l'Acad\u00e9mie des Sciences Morales.",
+            "author": "L. Daudet",
+            "title": ", Br\u00e9v. journ.",
+            "date": ", 1936"
+          },
+          {
+            "text": "(...)Les temp\u00e9raments \u00e0 tendance mythomaniaque, de type tartarinesque.",
+            "author": "Mounier",
+            "title": ", Trait\u00e9 caract.",
+            "date": ", 1946"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -5380,7 +6237,14 @@
     "definitions": [
       {
         "text": "Argile qui, m\u00e9lang\u00e9e d'eau et d'une faible quantit\u00e9 de paille hach\u00e9e ou d'un autre liant, peut \u00eatre fa\u00e7onn\u00e9e en briques s\u00e9ch\u00e9es au soleil.`` (Barb.-Card. 1963).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)2. L'adobe plate et la brique planconvexe sont employ\u00e9es simultan\u00e9ment...\nA. Herz, L'\u00c2ge de Suse,1932, I et II, ds Revue arch\u00e9ologique, 5es\u00e9rie, t. 25, 209.",
+            "author": "A. Herz",
+            "title": ", L'\u00c2ge de Suse,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -5511,7 +6375,26 @@
     "definitions": [
       {
         "text": "Peinture (parfois broderie) japonaise, g\u00e9n\u00e9ralement plus haute que large, ex\u00e9cut\u00e9e sur soie ou sur papier, qu'on suspend au mur et qui peut se rouler autour d'un b\u00e2ton.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Un quatri\u00e8me kak\u00e9mono de Korin (...) fait jaillir sur la p\u00e2leur fauve du fond, comme d'un \u00e9ventail de lames vertes, des iris blancs et bleus (...): de l'aquarelle qui a l'aspect solide et pl\u00e2treux d'une peinture \u00e0 fresque.",
+            "author": "Goncourt",
+            "title": ", Journal,",
+            "date": "1894"
+          },
+          {
+            "text": "(...)Ces premiers \u00e2ges de concentration intellectuelle o\u00f9 le bouddhisme, peu populaire, s'enfermait dans les couvents pour enluminer au fond du silence les vieux kak\u00e9monos de soie.",
+            "author": "Faure",
+            "title": ", Hist. art,",
+            "date": "1912"
+          },
+          {
+            "text": "(...)Estampe en hauteur, format kak\u00e9mono, d'une extr\u00eame habilet\u00e9 d'ex\u00e9cution.",
+            "author": null,
+            "title": null,
+            "date": ", 1893"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -5523,37 +6406,157 @@
     "definitions": [
       {
         "text": "Mauvais cheval, vieux, malade ou sans vigueur.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Quel cheval! Une mis\u00e9rable rosse qui semblait s'\u00eatre nourrie, au lieu de foin et d'avoine, avec des cercles de barrique, tant ses c\u00f4tes \u00e9taient saillantes.",
+            "author": "Gautier",
+            "title": ", Fracasse",
+            "date": ", 1863"
+          },
+          {
+            "text": "(...)Sans doute, c'est pour purifier le monde que Don Quichotte quitte sa ni\u00e8ce et ses amis, mais son cheval est une rosse, et le sublime chevalier porte un plat \u00e0 barbe sur la t\u00eate et une armure de carton.",
+            "author": "Faure",
+            "title": ", Espr. formes",
+            "date": ", 1927"
+          },
+          {
+            "text": "(...)J'ai souvent men\u00e9 en main, avec une bride d'or, de vieilles rosses de souvenirs qui ne pouvaient se tenir debout, et que je prenais pour de jeunes et fringantes esp\u00e9rances.",
+            "author": "Chateaubr.",
+            "title": ", M\u00e9m., t. 2",
+            "date": ", 1848"
+          }
+        ],
         "syntagme": "Une rosse d\u00e9charn\u00e9e, efflanqu\u00e9e, poussive; maigre, vieille rosse; fouetter sa rosse.",
         "synonymes": "Synon. haridelle."
       },
       {
         "text": "Personne qui ne vaut pas grand-chose, qui ne cause que du souci.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Mais rien, pas plus de nouvelles de mon homme que s'il \u00e9tait parti au diable. Quelle rosse tu fais, grand homme!",
+            "author": "Flaub.",
+            "title": ", Corresp.",
+            "date": ", 1840"
+          },
+          {
+            "text": "(...)Elle les connaissait, ces deux-l\u00e0, deux bonnes rosses qui faisaient la paire, n'est-ce pas?",
+            "author": "Zola",
+            "title": ", L'\u0152uvre",
+            "date": ", 1886"
+          },
+          {
+            "text": "(...)Ces rosses de peintres, \u00e7a ne fichait rien de bon, \u00e7a crevait la faim. Qu'est-ce qu'ils seraient devenus, les sacr\u00e9s fain\u00e9ants, si le p\u00e8re Malgras, de temps \u00e0 autre, ne leur avait pas apport\u00e9 un beau gigot, une barbue bien fra\u00eeche, ou un homard avec son bouquet de persil?",
+            "author": "Zola",
+            "title": ", L'\u0152uvre",
+            "date": ", 1886"
+          },
+          {
+            "text": "(...)Cette deuxi\u00e8me rue les am\u00e8nerait en une troisi\u00e8me, cette troisi\u00e8me en une quatri\u00e8me, cette quatri\u00e8me en une cinqui\u00e8me, et ainsi de suite jusqu'\u00e0 une rosse de carrefour dont il avait perdu, il y avait beau temps, l'espoir de jamais r\u00e9ussir \u00e0 se fourrer le nom dans la t\u00eate.",
+            "author": "Courteline",
+            "title": ", Train 8 h 47,",
+            "date": "1888"
+          },
+          {
+            "text": "(...)Sur le palier, je l'entendis crier en tisonnant: \u2212 Cette rosse de po\u00eale!",
+            "author": "A. France",
+            "title": ", Vie fleur",
+            "date": ", 1922"
+          }
+        ],
         "syntagme": "Vieille rosse.",
         "synonymes": "Synon. vaurien."
       },
       {
         "text": "Personne m\u00e9chante, malintentionn\u00e9e, qui se pla\u00eet \u00e0 tourmenter, qui cherche \u00e0 nuire.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)M\u00e9fiez-vous de cet individu: c'est une rosse.",
+            "author": null,
+            "title": null,
+            "date": "1935"
+          },
+          {
+            "text": "(...)Son p\u00e8re avait une telle chance, qu'un omnibus l'avait renvers\u00e9, sans seulement le desso\u00fbler. Quand donc cr\u00e8vera-t-il, cette rosse?",
+            "author": "Zola",
+            "title": ", Assommoir",
+            "date": ", 1877"
+          },
+          {
+            "text": "(...)La petite rosse, elle avait jou\u00e9 fin jeu, elle avait voulu le faire marcher, voil\u00e0 tout! Plus maligne que les autres.",
+            "author": "Van der Meersch",
+            "title": ", Invas. 14,",
+            "date": "1935"
+          },
+          {
+            "text": "(...)Et n'appelle pas le patron ou je me sauve. Tas de rosses! Tous les m\u00eames.",
+            "author": "Hamp",
+            "title": ", Mar\u00e9e",
+            "date": ", 1908"
+          }
+        ],
         "syntagme": "C'est une rosse! Quelle rosse!",
         "synonymes": "Synon. teigne, vache (pop., fam.)."
       },
       {
         "text": "Mauvais, m\u00e9chant.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u00cates-vous rosses tout de m\u00eame [de m'avoir entra\u00een\u00e9 et fait manquer \u00e0 l'usine], et moi qui avais si bien promis au patron de ne pas manquer.",
+            "author": "Poulot",
+            "title": ", Sublime",
+            "date": ", 1870"
+          },
+          {
+            "text": "(...)Dame! Il souffre. Mais c'est bien son tour; dans le temps, ce qu'il a pu \u00eatre rosse avec moi.",
+            "author": "Dabit",
+            "title": ", H\u00f4tel Nord",
+            "date": ", 1929"
+          },
+          {
+            "text": "(...)Une invitation in extremis demeurait possible. \u00c9dith savait son amie assez rosse pour la laisser longtemps mac\u00e9rer dans l'angoisse.",
+            "author": "Mauriac",
+            "title": ", Chair et sang",
+            "date": ", 1920"
+          },
+          {
+            "text": "(...)Oui, \u00e7a, c'est emb\u00eatant. Mais ce serait rosse de rien lui donner.",
+            "author": "Montherl.",
+            "title": ", Fils personne",
+            "date": ", 1943"
+          }
+        ],
         "syntagme": "Homme, personne rosse; \u00eatre bougrement rosse, avoir l'air rosse.",
         "synonymes": null
       },
       {
         "text": "Intransigeant, s\u00e9v\u00e8re.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ils ont \u00e9t\u00e9 dress\u00e9s, et bien dress\u00e9s, par des patrons rosses. \u00c7a se reconna\u00eet tout de suite, et ils en sont fiers. Ils ont un peu l'orgueil du soldat qui man\u0153uvre bien sous les ordres d'un sale capitaine \u00ab avec qui \u00e7a barde \u00bb.",
+            "author": "Renard",
+            "title": ", Journal",
+            "date": ", 1905"
+          }
+        ],
         "syntagme": "Un professeur, un public rosse.",
         "synonymes": null
       },
       {
         "text": "Qui persifle, qui est d'une ironie mordante.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La fantaisie de Sacha Guitry, appliqu\u00e9e dans ses premiers ouvrages \u00e0 des situations tr\u00e8s \u00ab th\u00e9\u00e2tre rosse \u00bb, est devenue de plus en plus libre et arbitraire.",
+            "author": null,
+            "title": null,
+            "date": ", 1936"
+          },
+          {
+            "text": "(...)La chanson rosse, presque toujours chant\u00e9e sur un timbre emprunt\u00e9 \u00e0 une \u0153uvre tr\u00e8s connue, appartient davantage au domaine de la d\u00e9clamation qu'\u00e0 celui du chant.",
+            "author": "Arger",
+            "title": ", Init. art chant.",
+            "date": ", 1924"
+          }
+        ],
         "syntagme": "Une pi\u00e8ce rosse, un critique rosse.",
         "synonymes": null
       }
@@ -5796,7 +6799,26 @@
     "definitions": [
       {
         "text": "Qui produit l'ivresse.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'\u00e9ther est un in\u00e9briant.",
+            "author": null,
+            "title": null,
+            "date": null
+          },
+          {
+            "text": "(...)La fontaine O\u00f9 peut boire selon sa soif quiconque passe Et pr\u00e9f\u00e8re l'eau vive au vin in\u00e9briant.",
+            "author": "R\u00e9gnier",
+            "title": ", Po\u00e8mes anc.,",
+            "date": "1890"
+          },
+          {
+            "text": "(...)L'appel imp\u00e9rieux du jeune Amour les m\u00e8ne Vers les bois o\u00f9 dans l'or a ri l'\u00c9t\u00e9 vainqueur, In\u00e9bri\u00e9s d'avoir bu la rouge liqueur Qui chante et mousse aux bords de la coupe trop pleine.",
+            "author": "R\u00e9gnier",
+            "title": ", Prem. po\u00e8mes, Apaisement",
+            "date": ", 1886"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. enivrant."
       }
@@ -5870,13 +6892,33 @@
     "definitions": [
       {
         "text": "Celui, celle qui loue.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les ennemis et pourchasseurs du vin me paraissent des gens dangereux, et les laudateurs de l'eau \u2212 min\u00e9rale ou non \u2212 \u00e0 outrance, de pi\u00e8tres observateurs.",
+            "author": "L. Daudet",
+            "title": ", Homme et poison,",
+            "date": "1925"
+          },
+          {
+            "text": "(...)Il ne me pla\u00eet nullement d'\u00eatre le laudateur aveugle du pass\u00e9.",
+            "author": "Mauriac",
+            "title": ", M\u00e9m. int\u00e9r.,",
+            "date": "1959"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Qui loue, qui exprime une louange.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Des banderoles o\u00f9 se livraient des inscriptions laudatrices...",
+            "author": "Richepin",
+            "title": ", Contes d\u00e9cad. romaine,",
+            "date": "1898"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. laudatif."
       }
@@ -5944,13 +6986,39 @@
     "definitions": [
       {
         "text": "D\u00e9veloppement oral ou \u00e9crit qui, le plus souvent dans un \u00ab discours \u00bb organis\u00e9, s'\u00e9carte du th\u00e8me principal.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Mais me voici m'\u00e9gaillant en, je crois, des divagations qui sont proprement des digressions.",
+            "author": "Verlaine",
+            "title": ", \n                              \u0152uvres compl.,t. 5, Quinze jours en Holl.",
+            "date": ", 1893"
+          },
+          {
+            "text": "(...)Mais laissons cette digression et revenons \u00e0 notre sujet.",
+            "author": "Maritain",
+            "title": ", Human. int\u00e9gr.,",
+            "date": "1936"
+          },
+          {
+            "text": "(...)Je multiplie les nuances, les digressions aussi, j'adapte enfin mon discours \u00e0 l'auditeur...",
+            "author": "Camus",
+            "title": ", Chute,",
+            "date": "1956"
+          }
+        ],
         "syntagme": "Interminable digression; digression saugrenue; se lancer dans des digressions.",
         "synonymes": "Synon. excursus, parabase, parenth\u00e8se."
       },
       {
         "text": "\u00c9cart angulaire d'un astre par rapport \u00e0 un syst\u00e8me de r\u00e9f\u00e9rence (astre, plan fixe).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les plus \u00ab grandes digressions \u00bb orientale et occidentale de l'\u00e9toile.",
+            "author": "Muller",
+            "title": null,
+            "date": ", 1966"
+          }
+        ],
         "syntagme": "Digression d'une \u00e9toile proche du p\u00f4le par rapport \u00e0 celui-ci.",
         "synonymes": null
       }
@@ -6031,7 +7099,20 @@
     "definitions": [
       {
         "text": "Renard.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un bon chevalier va chasser en for\u00eat. On l\u00e8ve un goupil : c'est Renart.",
+            "author": "Faral",
+            "title": ", Vie temps st Louis,",
+            "date": "1942"
+          },
+          {
+            "text": "(...)Il \u00e9tait de petite taille, vif, avec des yeux vairons, un nez de goupil et tr\u00e8s peu de cheveux sur son cr\u00e2ne bossu\u00e9.",
+            "author": "Duhamel",
+            "title": ", Passion J. Pasquier,",
+            "date": "1945"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -6142,7 +7223,14 @@
     "definitions": [
       {
         "text": "Renoncement, sacrifice volontaire, consenti dans un int\u00e9r\u00eat sup\u00e9rieur et portant sur (une partie de) soi-m\u00eame ou sur une valeur qui repr\u00e9sente g\u00e9n\u00e9ralement un int\u00e9r\u00eat, une ambition, une satisfaction l\u00e9gitimes, etc.  (Correspond., \u00e0 l'\u00e9poque mod., en l'absence d'un verbe *abnier au verbe renoncer).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)12. Les habitudes de la vie asc\u00e9tique, les m\u0153urs chr\u00e9tiennes, ne sont pas les m\u00eames \u00e0 toutes les \u00e9poques de l'\u00e9glise : mais \u00e0 aucune \u00e9poque elles ne sauraient attirer le d\u00e9dain ou le m\u00e9pris des \u00e2mes pieuses et simples; car toujours elles ont offert \u00e0 la charit\u00e9, \u00e0 l'humilit\u00e9, \u00e0 l'abn\u00e9gation de soi, d'immortelles victoires \u00e0 remporter, une pure et sainte gloire \u00e0 conqu\u00e9rir.\nCh. de Montalembert, Histoire de Sainte Elisabeth de Hongrie, duchesse de Thuringe.",
+            "author": "Ch. de Montalembert",
+            "title": ", Histoire de Sainte Elisabeth de Hongrie, duchesse de Thuringe (1207-1231),",
+            "date": "1836"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -6247,7 +7335,20 @@
     "definitions": [
       {
         "text": "Qui rel\u00e8ve de l'holisme, qui s'int\u00e9resse \u00e0 son objet comme constituant un tout.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La psychologie globaliste ou holistique qui s'oppose \u00e0 la conception atomistique de la personnalit\u00e9.",
+            "author": "Delay",
+            "title": ", Psychol. m\u00e9d.",
+            "date": ", 1953"
+          },
+          {
+            "text": "(...)Elle [l'anthropologie moderne] consid\u00e8re les divers aspects de la vie sociale comme formant un ensemble solidaire, dont les diverses parties ne peuvent se comprendre que par le tout, qui leur donne leur signification, ce qui fait qu'\u00e0 \u00ab l'approche \u00bb analytique de l'acculturation elle substitue \u00ab l'approche holistique \u00bb.",
+            "author": null,
+            "title": null,
+            "date": ", 1968"
+          }
+        ],
         "syntagme": "Th\u00e9orie holistique.",
         "synonymes": null
       }
@@ -6557,7 +7658,14 @@
     "definitions": [
       {
         "text": "Mammif\u00e8re c\u00e9tac\u00e9 \u00e0 grandes nageoires, voisin de la baleine.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les m\u00e9gapt\u00e8res se distinguent des baleinopt\u00e8res par la longueur consid\u00e9rable de leurs nageoires pectorales.",
+            "author": "Coupin,",
+            "title": "Animaux de nos pays",
+            "date": ", 1909"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -6612,19 +7720,100 @@
     "definitions": [
       {
         "text": "Qui est partiellement ou enti\u00e8rement priv\u00e9 de la facult\u00e9 de se mouvoir par l'effet d'une maladie, d'une infirmit\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il faillit en mourir, et en a conserv\u00e9 toujours depuis de cruelles infirmit\u00e9s : il demeure \u00e0 peu pr\u00e8s perclus de tout un c\u00f4t\u00e9.",
+            "author": "Las Cases",
+            "title": ", M\u00e9mor. Ste-H\u00e9l\u00e8ne,t. 2",
+            "date": ", 1823"
+          },
+          {
+            "text": "(...)M. Dubois-Fontanelle \u00e9tait presque perclus de goutte, ses doigts n'avaient plus de forme.",
+            "author": "Stendhal",
+            "title": ", H. Brulard,t. 1",
+            "date": ", 1836"
+          },
+          {
+            "text": "Vieille et percluse au point de ne marcher qu'avec deux cannes (...), elle visite les malades et surtout veille les morts.",
+            "author": "Bernanos",
+            "title": ", Mouchette,",
+            "date": "1937"
+          },
+          {
+            "text": "(...)C'\u00e9tait un perclus, \u00e0 la fois boiteux et manchot, et si manchot et si boiteux que le syst\u00e8me compliqu\u00e9 de b\u00e9quilles et de jambes de bois qui le soutenait lui donnait l'air d'un \u00e9chafaudage de ma\u00e7ons en marche.",
+            "author": "Hugo",
+            "title": ", N.-D. Paris,",
+            "date": "1832"
+          },
+          {
+            "text": "(...)Ils le pouss\u00e8rent \u00e0 demander la mort de celui qui l'avoit nourri dans le d\u00e9sert avec sept pains, qui rendoit aux infirmes la sant\u00e9, la vue aux aveugles, l'ou\u00efe aux sourds, et aux perclus l'usage de leurs membres.",
+            "author": "Lamennais",
+            "title": ", Paroles croyant,",
+            "date": "1834"
+          },
+          {
+            "text": "(...)L'animal [un cheval], presque perclus, levait avec peine ses jambes lourdes, grosses des genoux et enfl\u00e9es au-dessus des sabots.",
+            "author": "Maupass.",
+            "title": ", Contes et nouv.,t. 2, Coco",
+            "date": ", 1884"
+          },
+          {
+            "text": "(...)La plaine, h\u00e9las! Elle est finie! Et ses clochers sont morts et ses moulins perclus.",
+            "author": "Verhaeren",
+            "title": ", Villes tentac.,",
+            "date": "1895"
+          },
+          {
+            "text": "Il avait (...)forc\u00e9 la porte percluse qui se trouvait dans un angle de la muraille et devant laquelle on poussait d'ordinaire une provision de fagots.",
+            "author": "Duhamel",
+            "title": ", Terre promise,",
+            "date": "1934"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. impotent, paralys\u00e9."
       },
       {
         "text": "Qui est enti\u00e8rement ou partiellement paralys\u00e9 par l'effet d'une cause passag\u00e8re.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les pauvres gars qui soufflent, qui enfoncent les touches de leurs doigts gourds, perclus d'ongl\u00e9e, jouent sans cartons.",
+            "author": "Vercel",
+            "title": ", Cap. Conan,",
+            "date": "1934"
+          },
+          {
+            "text": "(...)Il \u00e9tait tout perclus. Il lui semblait qu'on lui avait retir\u00e9 les os pour mettre de la bouillie \u00e0 la place, il lui semblait qu'on avait cherch\u00e9 \u00e0 le transformer en statue...",
+            "author": "Queff\u00e9lec",
+            "title": ", Recteur,",
+            "date": "1944"
+          }
+        ],
         "syntagme": "Perclus de fatigue, de froid, de douleur.",
         "synonymes": null
       },
       {
         "text": "Qui se trouve momentan\u00e9ment frapp\u00e9 d'immobilit\u00e9 par l'effet d'une \u00e9motion, d'un sentiment.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Folantin, perclus d'ennui, (...)avait exhal\u00e9 \u00e0 demi-voix, dans un acc\u00e8s de rage lucide, sa pr\u00e9f\u00e9rence d'une lecture silencieuse des Fleurs du mal au coin de son feu.",
+            "author": "Bloy",
+            "title": ", Femme pauvre,",
+            "date": "1897"
+          },
+          {
+            "text": "\u00c7a n'\u00e9tait pas une femme, Tournefier, mais un gaillard de bon jugement, un homme solide (...). De l'avoir vu ainsi troubl\u00e9, Raboliot demeurait perclus.",
+            "author": "Genevoix",
+            "title": ", Raboliot,",
+            "date": "1925"
+          },
+          {
+            "text": "(...)J'avais pris ce grand jeune homme noir et myope, perclus de timidit\u00e9, pour un \u00eatre insignifiant.",
+            "author": "Mauriac",
+            "title": ", N\u0153ud vip.,",
+            "date": "1932"
+          }
+        ],
         "syntagme": "Perclus de saisissement, de stup\u00e9faction.",
         "synonymes": null
       }
@@ -7002,7 +8191,32 @@
     "definitions": [
       {
         "text": "Incapacit\u00e9, inhabilit\u00e9, d\u00e9faut de comp\u00e9tence dans la profession ou plus souvent dans la fonction que l'on exerce.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Qu'on n'oublie pas que l'imp\u00e9ritie des administrateurs est une vraie calamit\u00e9 dans les colonies.",
+            "author": "Baudry des Loz.",
+            "title": ", Voy. Louisiane,",
+            "date": "1802"
+          },
+          {
+            "text": "(...)L'ann\u00e9e suivante, l'imp\u00e9ritie des derniers rois turcs locaux lui livra la ville...",
+            "author": "Grousset",
+            "title": ", Croisades,",
+            "date": "1939"
+          },
+          {
+            "text": "L'imp\u00e9ritie aux langues \u00e9trang\u00e8res (...)constitue un impedimentum, non un Veto.",
+            "author": "Montesquiou",
+            "title": ", M\u00e9m., t. 3",
+            "date": ", 1921"
+          },
+          {
+            "text": "(...)Pourquoi ne nous apprend-on pas \u00e0 nous servir indiff\u00e9remment de nos deux mains? Pourquoi tout cet afflux de forces dans notre droite et cette \u00e9trange imp\u00e9ritie de notre gauche?",
+            "author": "Green",
+            "title": ", Journal,",
+            "date": "1952"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -7239,7 +8453,32 @@
     "definitions": [
       {
         "text": "Aux xviieet xviiiesi\u00e8cles, longue \u00e9p\u00e9e \u00e0 lame fine, ayant une garde \u00e0 coquille ajour\u00e9e, un long pommeau et des quillons souvent retourn\u00e9s en spirale, g\u00e9n\u00e9ralement utilis\u00e9e pour les duels.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u00c0 son allure cavali\u00e8re et minaud\u00e9e, au cliquetis de ses \u00e9perons, \u00e0 sa flamberge retroussant l'or\u00e9e de son mantelet, on flairait ais\u00e9ment le gentilhomme.",
+            "author": "Borel",
+            "title": ", Champavert,",
+            "date": "1833"
+          },
+          {
+            "text": "(...)Il mit, avec la promptitude de l'\u00e9clair, flamberge au vent et tomba en garde. De son c\u00f4t\u00e9, Lampourde n'avait pas \u00e9t\u00e9 moins prompt \u00e0 d\u00e9gainer.",
+            "author": "Gautier",
+            "title": ", Fracasse,",
+            "date": "1863"
+          },
+          {
+            "text": "Le professeur (...)avait tir\u00e9 flamberge au vent et lui avait dit qu'elle ne savait pas la valeur de l'argent.",
+            "author": "Proust",
+            "title": ", J. filles en fleurs,",
+            "date": "1918"
+          },
+          {
+            "text": "(...)Lazare, au moment de l'affaire Dreyfus, mit flamberge au vent.",
+            "author": "Gide",
+            "title": ", Si le grain,",
+            "date": "1924"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -7288,7 +8527,32 @@
     "definitions": [
       {
         "text": "Poil de ch\u00e8vre angora, fin et soyeux; p. m\u00e9ton., laine ou \u00e9toffe l\u00e9g\u00e8re et chaude confectionn\u00e9e avec ce poil.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Le Bonheur (...)soignait l'\u00e9toffe, vantait ses alpagas et ses mohairs.",
+            "author": "Zola,",
+            "title": "Bonh. dames,",
+            "date": "1883"
+          },
+          {
+            "text": "(...)Sa robe blanche en mohair brillant.",
+            "author": "Colette,",
+            "title": "Cl. \u00e9cole,",
+            "date": "1900"
+          },
+          {
+            "text": "La \u00abCh\u00e8vre d'Angora\u00bb (...) est r\u00e9pandue sur toute l'Asie moyenne; de sa laine brillante, import\u00e9e de la Turquie et aussi du Cap (...), on fait le \u00abmohair\u00bb et le tissu nomm\u00e9 \u00abalpaga\u00bb.",
+            "author": "E. Perrier",
+            "title": ", Zool.,t.4",
+            "date": ", 1928-32"
+          },
+          {
+            "text": "(...)Cette laine mohair, due au chevreau angora, qui est naturellement gonflante.",
+            "author": null,
+            "title": null,
+            "date": "25 juill. 1958"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -7631,13 +8895,39 @@
     "definitions": [
       {
         "text": "Amour tendre, purement spirituel, que l'on porte \u00e0 un \u00eatre, que l'on a choisi ou que l'on pr\u00e9f\u00e8re.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u00d4 fils le plus aim\u00e9 qui retrouvait son p\u00e8re; Fils de dilection qui remontait aux cieux...",
+            "author": "P\u00e9guy",
+            "title": ", Myst. charit\u00e9,",
+            "date": "1910"
+          },
+          {
+            "text": "(...)Monseigneur Charlot t\u00e9moignait \u00e0 cette dame une dilection sp\u00e9ciale.",
+            "author": "France",
+            "title": ", Orme,",
+            "date": "1897"
+          },
+          {
+            "text": "(...)Une profonde dilection pour la po\u00e9sie.",
+            "author": "Val\u00e9ry",
+            "title": ", Vari\u00e9t\u00e9 V,",
+            "date": "1944"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Formule qu'employaient certains princes, notamment l'Empereur du Saint-Empire et le Pape, en \u00e9crivant \u00e0 certains princes.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Salut et dilection.",
+            "author": null,
+            "title": ", Hist. ducs Bourg.,t. 3",
+            "date": ", 1821-24"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -8212,7 +9502,20 @@
     "definitions": [
       {
         "text": "Manteau d'\u00e9toffe \u00e9paisse, \u00e0 capuchon, port\u00e9 principalement par les marins.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un caban de matelot;",
+            "author": "Ponson du Terrail",
+            "title": ", Rocambole,t. 4, Les Exploits de Rocambole,",
+            "date": "1859"
+          },
+          {
+            "text": "(...)un caban de conducteur d'omnibus...",
+            "author": "Huysmans",
+            "title": ", L'Oblat,t. 1",
+            "date": ", 1903"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -8306,19 +9609,82 @@
     "definitions": [
       {
         "text": "Cordonnet rond, ruban plat tress\u00e9 employ\u00e9 soit pour attacher, soit pour orner ou border un v\u00eatement, un tissu d'ameublement.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)V\u00eatu encore de velours noir, soutach\u00e9 d'une ganse d'or tel qu'un jeune seigneur.",
+            "author": "Zola",
+            "title": ", Dr Pascal,",
+            "date": "1893"
+          },
+          {
+            "text": "Son chapeau \u00e0 trois cornes (...), sa cocarde travers\u00e9e d'une ganse.",
+            "author": "Bertrand",
+            "title": ", Gaspard,",
+            "date": "1841"
+          },
+          {
+            "text": "(...)Et vois! Tout au lointain parmi des fonds aigris S'allumer droitement la ligne des lanternes Mettant leur ganse jaune au long des chemins gris.",
+            "author": "Rodenbach",
+            "title": ", R\u00e8gne silence,",
+            "date": "1891"
+          }
+        ],
         "syntagme": "Coudre, poser une ganse; robe bord\u00e9e d'une ganse.",
         "synonymes": null
       },
       {
         "text": "Attache faite avec ce cordonnet pli\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Un manteau court (...)lui pendait de l'\u00e9paule, retenu par une ganse dont les glands retombaient sur la poitrine.",
+            "author": "Gautier",
+            "title": ", Fracasse,",
+            "date": "1863"
+          },
+          {
+            "text": "La tunique (...) avait m\u00eame (...)les deux galons d'or mobiles, insignes de mon grade, retenus de chaque c\u00f4t\u00e9 des manches par deux ganses.",
+            "author": "Benoit",
+            "title": ", Atlant.,",
+            "date": "1919"
+          },
+          {
+            "text": "(...)La ganse est trop \u00e9troite, le bouton n'y saurait rentrer.",
+            "author": null,
+            "title": null,
+            "date": "1798-1878"
+          },
+          {
+            "text": "(...)Cette madame d'Houbly dont la robe \u00e9tait ferm\u00e9e par soixante olives sous lesquelles passaient autant de ganses.",
+            "author": "A. France",
+            "title": ", Vie litt\u00e9r.,",
+            "date": "1892"
+          },
+          {
+            "text": "(...)Obus munis d'une ganse.",
+            "author": null,
+            "title": ", Artill., Mat\u00e9r.",
+            "date": ", 1908"
+          }
+        ],
         "syntagme": "Ganse de botte, d'une blague.",
         "synonymes": null
       },
       {
         "text": "Premi\u00e8re boucle d'un fil, d'un lacet, d'un cordage que l'on noue.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Escarpin verni, lac\u00e9 par un large cordon de soie noire dont la ganse double flottait sur le cuir luisant.",
+            "author": "Hamp",
+            "title": ", Champagne,",
+            "date": "1909"
+          },
+          {
+            "text": "(...)Tu fais la ganse comme pour les souliers, sans serrer, tu passes le bout dans le n\u0153ud et tu tires.",
+            "author": "Giono",
+            "title": ", Gd troupeau,",
+            "date": "1931"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. bouclette."
       }
@@ -8330,13 +9696,51 @@
     "definitions": [
       {
         "text": "Qui porte \u00e0 la vertu, \u00e0 la pi\u00e9t\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un homme \u00e9difiant.",
+            "author": null,
+            "title": null,
+            "date": "1932"
+          },
+          {
+            "text": "(...)L'\u00e9difiante pr\u00e9paration \u00e0 la communion de Mademoiselle de Chamarante.",
+            "author": "Boylesve",
+            "title": ", Le\u00e7on d'amour,",
+            "date": "1902"
+          },
+          {
+            "text": "(...)Si quelque incident s'est produit d\u00e9sagr\u00e9able \u00e0 cet \u00e9difiant syndicat.",
+            "author": "Clemenceau",
+            "title": ", Iniquit\u00e9,",
+            "date": "1899"
+          },
+          {
+            "text": "(...)Images \u00e9difiantes et cagotes.",
+            "author": "T'Serstevens",
+            "title": ", Itin\u00e9r. esp.,",
+            "date": "1963"
+          }
+        ],
         "syntagme": "Exemples, livres \u00e9difiants.",
         "synonymes": null
       },
       {
         "text": "Qui apporte un \u00e9l\u00e9ment d\u00e9cisif d'information ou d'appr\u00e9ciation.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un t\u00e9moignage \u00e9difiant.",
+            "author": null,
+            "title": null,
+            "date": "1932"
+          },
+          {
+            "text": "(...)Je te donnerai sur tout cela des d\u00e9tails \u00e9difiants.",
+            "author": "Flaub.",
+            "title": ", Corresp.,",
+            "date": "1872"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -9078,25 +10482,83 @@
     "definitions": [
       {
         "text": "Attribu\u00e9, acquis, r\u00e9serv\u00e9 en vertu d'un droit.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Charges de la Couronne auxquelles \u00e9taient d\u00e9volues des attributions, telles que des Gouvernements, l'\u00e9p\u00e9e de Conn\u00e9table.",
+            "author": "Balzac",
+            "title": ", Martyr calv.,",
+            "date": "1841"
+          },
+          {
+            "text": "(...)Des terres de la couronne d\u00e9volues aux nouveaux cosaques enregistr\u00e9s...",
+            "author": "M\u00e9rim\u00e9e",
+            "title": ", Cosaques d'autrefois,",
+            "date": "1865"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Attribu\u00e9, r\u00e9serv\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'indispensable fonction mod\u00e9ratrice \u00e0 jamais d\u00e9volue \u00e0 la femme.",
+            "author": "Comte",
+            "title": ", Philos. posit.,",
+            "date": "1842"
+          },
+          {
+            "text": "(...)Faire tenir aux machines le r\u00f4le jadis d\u00e9volu aux esclaves.",
+            "author": "Bernanos",
+            "title": ", Journal cur\u00e9 camp.,",
+            "date": "1926"
+          },
+          {
+            "text": "(...)Il a \u00e9puis\u00e9 en peu d'ann\u00e9es la somme d'\u00e9motions qui lui \u00e9tait d\u00e9volue.",
+            "author": "Colette",
+            "title": ", Belles saisons, Mes cahiers",
+            "date": ", 1941"
+          },
+          {
+            "text": "(...)C'est \u00e0 son cotyl\u00e9don qu'est d\u00e9volue la fonction de s\u00e9cr\u00e9ter les diastases hydrolysantes qui attaquent l'amidon.",
+            "author": "Plantefol",
+            "title": ", Bot. et biol. v\u00e9g\u00e9t.,t. 1",
+            "date": ", 1931"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Attribution d'un b\u00e9n\u00e9fice vacant par absence des qualit\u00e9s ou des titres requis du possesseur.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Un b\u00e9n\u00e9fice vacant par d\u00e9volu.",
+            "author": null,
+            "title": null,
+            "date": "1798-1932"
+          }
+        ],
         "syntagme": "Avoir un b\u00e9n\u00e9fice par d\u00e9volu.",
         "synonymes": null
       },
       {
         "text": "Arr\u00eater son choix sur (quelqu'un ou quelque chose) avec la ferme intention de (le) conqu\u00e9rir ou de (l')obtenir.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Quand une femme a jet\u00e9 son d\u00e9volu sur l'\u00e9crivain qu'elle veut adopter, elle en fait le si\u00e8ge.",
+            "author": "Maupass.",
+            "title": ", Sur l'eau,",
+            "date": "1888"
+          },
+          {
+            "text": "(...)Elle regrettait qu'au lieu de s'\u00e9prendre de la fille, il n'e\u00fbt pas plut\u00f4t jet\u00e9 son d\u00e9volu sur la m\u00e8re...",
+            "author": "Aym\u00e9",
+            "title": ", Uranus,",
+            "date": "1948"
+          }
+        ],
         "syntagme": "Jeter son d\u00e9volu sur (qqn ou qqc.).",
         "synonymes": null
       }
@@ -9357,7 +10819,26 @@
     "definitions": [
       {
         "text": "Qui fait des bonds analogues \u00e0 ceux de la ch\u00e8vre.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "On entendait (...)les longs doigts de Valdo battre une charge capricante sur le panneau de la porte...",
+            "author": "G. Duhamel",
+            "title": ", Chronique des Pasquier,Le Jardin des b\u00eates sauvages",
+            "date": ", 1934"
+          },
+          {
+            "text": "(...)Les papotages capricants et giratoires d'une pr\u00e9face absolument inutile.",
+            "author": "J. Richepin",
+            "title": ", La Chanson des gueux,\u00e9d. rev. et augm.",
+            "date": ", 1881"
+          },
+          {
+            "text": "Quelle bonne humeur (...)dans le trio du premier menuet d'un rythme si capricieux ou capricant.",
+            "author": "H. Gh\u00e9on",
+            "title": ", Promenades avec Mozart,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -9761,7 +11242,20 @@
     "definitions": [
       {
         "text": "Qui a un aspect, des mouvements semblables \u00e0 ceux d'un ver.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Cette mer d'un vert d'oseille, ces nuages z\u00e9br\u00e9s d'\u00e9clairs vermiculaires, la silhouette blanche de Virginie.",
+            "author": "Genevoix",
+            "title": ", Avent. en nous",
+            "date": ", 1952"
+          },
+          {
+            "text": "La mesure de conservation (...)consiste \u00e0 infuser une nouvelle cire liquide, sous la cloche vide, dans les minuscules petits canaux vermiculaires qui menacent en ce pays la solidit\u00e9 des cires originales.",
+            "author": null,
+            "title": null,
+            "date": ", 1961"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -9769,7 +11263,7 @@
         "text": "Plante crassulac\u00e9e \u00e0 racine vivace, fibreuse`` (Littr\u00e9-Robin 1855; dict. xixes.).",
         "examples": [],
         "syntagme": "Vermiculaire br\u00fblante.",
-        "synonymes": "Synon. orpin* br\u00fblant. Voir Code pharm., 1821, p. 1"
+        "synonymes": "Synon. orpin* br\u00fblant. Voir Code pharm., 1821, p. 17"
       },
       {
         "text": "Vari\u00e9t\u00e9 d'ascaride. (Ds Cuvier Hist. nat. 1798, p. 636).",
@@ -9779,7 +11273,14 @@
       },
       {
         "text": "Mollusque dont la coquille, d'une seule pi\u00e8ce, est de forme allong\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "L'hu\u00eetre, les vermiculaires, les coraux, les madr\u00e9pores [se] (...)collent [aux rochers] avec un ciment insoluble aux eaux.",
+            "author": "Bern. de St-P.",
+            "title": ", Harm. nat.",
+            "date": ", 1814"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. vermet."
       }
@@ -9959,25 +11460,71 @@
     "definitions": [
       {
         "text": "Habitude, consid\u00e9r\u00e9e comme fautive, d'abuser de la n\u00e9ologie (v. n\u00e9ologie A), soit en cr\u00e9ant, soit en utilisant de nombreux mots nouveaux.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Distinguez donc et dites: J'aime la n\u00e9ologie pleine de go\u00fbt dont Racine nous a laiss\u00e9 tant d'exemples; mais je d\u00e9sapprouve le n\u00e9ologisme des po\u00e8tes romantiques...",
+            "author": null,
+            "title": null,
+            "date": ", 1835"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Cr\u00e9ation de mots, de tours nouveaux et introduction de ceux-ci dans une langue donn\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Boiste qui fut un habile homme, indulgent au n\u00e9ologisme, (...)e\u00fbt fait un parfait lexique, s'il n'avait oubli\u00e9 qu'un dictionnaire ne doit pas \u00eatre une satire.",
+            "author": "Musset",
+            "title": ", Lettres Dupuis Cotonet",
+            "date": ", 1836"
+          },
+          {
+            "text": "[H.-F. Amiel] avait (...)\u00e0 un degr\u00e9 rare, la plus audacieuse d'entre les audaces litt\u00e9raires, celle du n\u00e9ologisme et de l'invention grammaticale.",
+            "author": "Bourget",
+            "title": ", Nouv. Essais psychol.",
+            "date": ", 1885"
+          }
+        ],
         "syntagme": "Pratiquer le n\u00e9ologisme.",
         "synonymes": "Synon. n\u00e9ologie (v. ce mot A)."
       },
       {
         "text": "Mot, tour nouveau que l'on introduit dans une langue donn\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les n\u00e9ologismes n'effraient point, \u00e0 condition qu'ils soient bien form\u00e9s et restent compr\u00e9hensibles...",
+            "author": "Dumesnil",
+            "title": ", Hist. th\u00e9\u00e2tre lyr.",
+            "date": ", 1953"
+          },
+          {
+            "text": "(...)Pour caract\u00e9riser mon drame je me suis servi d'un n\u00e9ologisme qu'on me pardonnera car cela m'arrive rarement et j'ai forg\u00e9 l'adjectif surr\u00e9aliste...",
+            "author": "Apoll.",
+            "title": ", Tir\u00e9sias",
+            "date": ", 1918"
+          },
+          {
+            "text": "\u00c0 chacun des niveaux (...)plane la grande menace d'ascension au paroxysme atomique, ce que, d'anglicisme en n\u00e9ologisme, on a convenu d'appeler \u00abescalade\u00bb...",
+            "author": "Beaufre",
+            "title": ", Dissuasion et strat.",
+            "date": ", 1964"
+          }
+        ],
         "syntagme": "N\u00e9ologisme barbare; une langue truff\u00e9e de n\u00e9ologismes; risquer un n\u00e9ologisme.",
         "synonymes": null
       },
       {
         "text": "Mot nouveau cr\u00e9\u00e9 soit \u00e0 partir de sons, soit par fusion de mots ou de fragments de mots usuels, et utilis\u00e9 par un malade dans certains \u00e9tats d\u00e9lirants.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)De valeur souvent magique ou ludique, le n\u00e9ologisme atteste la d\u00e9socialisation du malade, sacrifiant la fonction communicative du langage \u00e0 sa fonction expressive.",
+            "author": null,
+            "title": null,
+            "date": "1975"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -10113,19 +11660,40 @@
     "definitions": [
       {
         "text": "Sud-ouest; p. m\u00e9ton., vent du sud-ouest.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Des tuiles et des ardoises souffl\u00e9es des pignons par les premi\u00e8res rafales du suro\u00eet.",
+            "author": "Cendrars",
+            "title": ", Bourlinguer",
+            "date": ", 1948"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Vareuse, v\u00eatement imperm\u00e9able que mettent les marins et les p\u00eacheurs pour se prot\u00e9ger du vent et de la pluie.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Les p\u00eacheurs en suro\u00eet de toile brique (...) vont ramasser (...)les harengs au ventre d'argent.",
+            "author": "Genevoix",
+            "title": ", E. Charlebois",
+            "date": ", 1944"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Chapeau imperm\u00e9able en toile huil\u00e9e ou cir\u00e9e \u00e0 large bord arri\u00e8re couvrant la nuque, \u00e0 oreill\u00e8res et muni de deux cordons se nouant sous le menton.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il avait ajout\u00e9 \u00e0 son accoutrement un suroit, un manteau de caoutchouc et une paire de bottes.",
+            "author": "Peisson",
+            "title": ", Parti Liverpool",
+            "date": ", 1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -10390,7 +11958,14 @@
     "definitions": [
       {
         "text": "Lourd de pr\u00e9sages funestes; de mauvais augure.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Le S\u00e9ducteur, sans doute, fascinait sa proie par un mutisme omineux.",
+            "author": "Toulet,",
+            "title": "J. fille verte",
+            "date": ", 1918"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -10702,25 +12277,65 @@
     "definitions": [
       {
         "text": "\u00c9tat pathologique d'un sujet qui, ne pr\u00e9sentant aucune l\u00e9sion des organes de la phonation ni des centres nerveux du langage, ne fait pas usage de la parole.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Avant cela il n'\u00e9tait venu \u00e0 la pens\u00e9e de personne que la fille (...)f\u00fbt folle. Ext\u00e9rieurement elle \u00e9tait comme tout le monde, sauf son mutisme presque absolu...",
+            "author": "Renan",
+            "title": ", Souv. enf.",
+            "date": ", 1883"
+          }
+        ],
         "syntagme": "Mutisme des schizophr\u00e8nes, des simulateurs; mutisme hyst\u00e9rique; mutisme passager des timides.",
         "synonymes": null
       },
       {
         "text": "Attitude d'une personne qui est habituellement silencieuse ou qui, dans des circonstances particuli\u00e8res, s'abstient volontairement de parler.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Visiblement int\u00e9ress\u00e9 par notre conversation, il s'efforce d'abord de conserver la correction et le mutisme britanniques.",
+            "author": "Michelet",
+            "title": ", Chemins Europe",
+            "date": ", 1874"
+          },
+          {
+            "text": "(...)Les visages [de MmeArchambaud et de Maria] \u00e9taient durs, les gestes nerveux. Le mutisme des deux cuisini\u00e8res semblait ne pr\u00e9sager rien de bon...",
+            "author": "Aym\u00e9",
+            "title": ", Uranus",
+            "date": ", 1948"
+          },
+          {
+            "text": "Cet Am\u00e9ricain (...)qui, \u00e0 force de vivre avec les poissons, semblait en avoir emprunt\u00e9 le mutisme.",
+            "author": "Toulet",
+            "title": ", Demois. La Mortagne",
+            "date": ", 1920"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Situation d'une personne, ou d'un ensemble de personnes qui, volontairement, ne s'expriment pas ou que l'on emp\u00eache de s'exprimer.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'empire avait frapp\u00e9 la France de mutisme; la libert\u00e9 restaur\u00e9e la toucha et lui rendit la parole...",
+            "author": "Chateaubr.",
+            "title": ", M\u00e9m., t.3",
+            "date": ", 1848"
+          }
+        ],
         "syntagme": "R\u00e9duire la presse au mutisme.",
         "synonymes": null
       },
       {
         "text": "Caract\u00e8re de ce qui est silencieux (v. muet II A 1).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Lorsque nous faisions halte, nous \u00e9tions saisis par ce mutisme effrayant des espaces infinis qu'a ressenti Pascal.",
+            "author": "Jammes",
+            "title": ", Nuits qui me chantent",
+            "date": ", 1928"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -10800,19 +12415,94 @@
     "definitions": [
       {
         "text": "Pudeur, retenue, modestie.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Comment peux-tu, ma ch\u00e8re enfant, plaisanter avec ces choses sacr\u00e9es? Tu as donc perdu toute vergogne?",
+            "author": "Zola",
+            "title": ", Dr Pascal",
+            "date": ", 1893"
+          },
+          {
+            "text": "(...)Et quant \u00e0 la vergogne, c'est une langouste [Jacqueline] il faudrait la faire cuire pour qu'elle roug\u00eet.",
+            "author": "Toulet",
+            "title": ", Demois. La Mortagne",
+            "date": ", 1920"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Honte, sentiment de g\u00eane, de malaise \u00e9prouv\u00e9 dans une circonstance o\u00f9 l'on se sent inf\u00e9rieur, humili\u00e9 ou ridicule.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Inspirer une sorte d'attachement \u00e0 mon \u00e2ge me semblait une v\u00e9ritable d\u00e9rision; plus je pouvais \u00eatre flatt\u00e9 de cette bizarrerie, plus j'en \u00e9tais humili\u00e9, la prenant avec raison pour une moquerie. Je me serais volontiers cach\u00e9 de vergogne parmi les ours, nos voisins.",
+            "author": "Chateaubr.",
+            "title": ", M\u00e9m., t. 3",
+            "date": ", 1848"
+          },
+          {
+            "text": "J'en avais assez, \u00e0 la fin, de faire la souris avec le chat (...). J'avalais ma vergogne et je demandais la raison de tout \u00e7a.",
+            "author": "Giono",
+            "title": ", Baumugnes",
+            "date": ", 1929"
+          },
+          {
+            "text": "(...)Avec lui, je n'\u00e9tais pas \u00e0 mon aise; j'avais vergogne.",
+            "author": "Giono",
+            "title": ", Baumugnes",
+            "date": ", 1929"
+          },
+          {
+            "text": "(...)N'as-tu pas de vergogne, \u00e0 ton \u00e2ge, de n'\u00eatre pas en \u00e9tat de gagner la valeur d'un cigare?",
+            "author": "Stendhal",
+            "title": ", L. Leuwen, t. 1",
+            "date": ", 1836"
+          },
+          {
+            "text": "(...)N'avez-vous point vergogne de votre conduite?",
+            "author": "Claudel",
+            "title": ", Soulier",
+            "date": ", 1929"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Sans crainte, sans scrupule, sans pudeur, sans honte.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ta Mademoiselle Pinson est un monstre, et tes grisettes que tu vantes, ces m\u0153urs sans vergogne, ces amiti\u00e9s sans \u00e2me, je ne sais rien de si m\u00e9prisable!",
+            "author": "Musset",
+            "title": ", Mimi Pinson",
+            "date": ", 1845"
+          },
+          {
+            "text": "Rodrigo, le sans vergogne (...), curieux et goguenard, m'a questionn\u00e9e.",
+            "author": "Arnoux",
+            "title": ", Calendr. Fl.",
+            "date": ", 1946"
+          },
+          {
+            "text": "Petit-Pouce et Paradis (...)les interpell\u00e8rent, sans vergogne. Elles firent tout d'abord fi de ces avances et continu\u00e8rent leurs p\u00e9r\u00e9grinations.",
+            "author": "Queneau",
+            "title": ", Pierrot",
+            "date": ", 1942"
+          },
+          {
+            "text": "(...)Quelques-uns avaient mis \u00e0 profit le sommeil o\u00f9 ils nous trouvaient pour nous d\u00e9valiser sans vergogne.",
+            "author": "Ambri\u00e8re",
+            "title": ", Gdes vac.",
+            "date": ", 1946"
+          },
+          {
+            "text": "(...)Ils engloutissent sans vergogne, dans leur coin, un b\u0153uf \u00e0 l'ail et au verjus, et des oisons gras, et des soupes au pain.",
+            "author": "Faral",
+            "title": ", Vie temps st Louis",
+            "date": ", 1942"
+          }
+        ],
         "syntagme": "Sans vergogne.",
         "synonymes": null
       }
@@ -10986,7 +12676,32 @@
     "definitions": [
       {
         "text": "Personne, chose qui a rapport avec une/la/les coquille(s).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Deux tables plus loin, un coquillart [sic] avec son costume complet de p\u00e8lerin, \u00e9pelait la complainte de Sainte-Reine.",
+            "author": "Hugo",
+            "title": ", N.-D. Paris,",
+            "date": "1832"
+          },
+          {
+            "text": "(...)Villon se concevait sans doute comme un coquillard et un grand po\u00e8te, non comme un g\u00e9nie r\u00e9duit au cambriolage par les faiblesses de la monarchie.",
+            "author": "Malraux",
+            "title": ", Voix sil.,",
+            "date": "1951"
+          },
+          {
+            "text": "(...)La vie a de ces ironies : \u2212 \u00ab c'est comme moi, \u2212 je m'en tamponne le coquillard \u00bb.",
+            "author": "Bourget",
+            "title": ", Actes suivent,",
+            "date": "1926"
+          },
+          {
+            "text": "(...)Les dragons s'appelaient des citrouillards; les cuirassiers des coquillards.",
+            "author": "Larch.",
+            "title": "Suppl.",
+            "date": "1889"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -11673,19 +13388,64 @@
     "definitions": [
       {
         "text": "Qui souffre de la faim, qui est tr\u00e8s maigre, d\u00e9charn\u00e9 par le manque de nourriture.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "\u2212 Je songe \u00e0 votre matou (...), mais je ne le vois pas encore assez maigre et assez fam\u00e9lique.",
+            "author": "France",
+            "title": ", Chat maigre,",
+            "date": "1879"
+          },
+          {
+            "text": "(...)Un visage d'enfant h\u00e2ve et fam\u00e9lique...",
+            "author": "Adam",
+            "title": ", Enf. Aust.,",
+            "date": "1902"
+          },
+          {
+            "text": "(...)Furieux de voir sa boutique luisante envahie par un groupe de fam\u00e9liques, alors pr\u00e9cis\u00e9ment qu'il n'avait pas un sou.",
+            "author": "Malraux",
+            "title": ", Conqu\u00e9r.,",
+            "date": "1928"
+          }
+        ],
         "syntagme": "Auteur, \u00e9crivain fam\u00e9lique; chien fam\u00e9lique; estomac, ventre fam\u00e9lique.",
         "synonymes": null
       },
       {
         "text": "Qui traduit, exprime la faim.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Mes compagnons me regardaient avec des yeux fam\u00e9liques.",
+            "author": "Gautier",
+            "title": ", Tra los montes,",
+            "date": "1843"
+          },
+          {
+            "text": "(...)Une convoitise extr\u00eame, un besoin fam\u00e9lique de simplicit\u00e9 et de v\u00e9rit\u00e9.",
+            "author": "Bloy",
+            "title": ", Femme pauvre,",
+            "date": "1897"
+          }
+        ],
         "syntagme": "Un air fam\u00e9lique.",
         "synonymes": null
       },
       {
         "text": "Qui est propre \u00e0 faire souffrir de la faim, qui fournit des ressources tr\u00e8s insuffisantes.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'\u00e2pret\u00e9 du chauve Apennin, cette fam\u00e9lique c\u00f4te ligurienne.",
+            "author": "Michelet",
+            "title": ", Oiseau,",
+            "date": "1856"
+          },
+          {
+            "text": "(...)\u00c0 supposer que ce triste et fam\u00e9lique bonheur e\u00fbt pu faire envie \u00e0 qui que ce f\u00fbt.",
+            "author": "Fromentin",
+            "title": ", Dominique,",
+            "date": "1863"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -11697,7 +13457,26 @@
     "definitions": [
       {
         "text": "Boue, bourbier.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L\u00e0, une \u00e2nesse qui brait; l\u00e0, un margouillis qui clapote; l\u00e0, un champ de betteraves.",
+            "author": "Borel",
+            "title": ", Champavert",
+            "date": ", 1833"
+          },
+          {
+            "text": "(...)Vous m'emb\u00eatez, \u00e0 la fin! Si je suis brusque, ce n'est pas \u00e7a. Si je suis gentil, ce n'est pas \u00e7a. Je commence \u00e0 en avoir plein le dos, de ce margouillis pour les chats...",
+            "author": "Montherl.",
+            "title": ", J. filles,",
+            "date": "1936"
+          },
+          {
+            "text": "(...)On n'a qu'\u00e0 consulter les journaux, si l'on veut en savoir davantage. Ce que j'ai dit doit suffire au moins pour juger du margouillis o\u00f9 nous sommes.",
+            "author": "Del\u00e9cluze",
+            "title": ", Journal",
+            "date": ", 1827"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -11764,7 +13543,20 @@
     "definitions": [
       {
         "text": "Qui est en de\u00e7\u00e0 des Alpes; particuli\u00e8rement par rapport \u00e0 Rome, la partie septentrionale de l'Italie.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La Gaule cisalpine.",
+            "author": "Courier",
+            "title": ", Lettres de France et d'Italie,",
+            "date": "1808"
+          },
+          {
+            "text": "(...)Une autre [constitution], qu'on imposa, malgr\u00e9 Brune, aux cisalpins.",
+            "author": "G. Lefebvre",
+            "title": ", La R\u00e9volution fr.,",
+            "date": "1963"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Anton. transalpin, ine."
       }
@@ -11814,7 +13606,14 @@
     "definitions": [
       {
         "text": "Rainure plus ou moins creuse, destin\u00e9e \u00e0 marquer les assises de pierre et les joints verticaux, qui forme ce que l'on appelle une ligne de refend`` (No\u00ebl 1968); p. ext., ,,moulure de d\u00e9coration de fa\u00e7ade`` (Barb.-Cad. 1971).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Tous ces refends, tous ces bossages qui sillonnent les faces de ce palais [du Luxembourg] lui donnent ce caract\u00e8re d'aust\u00e9rit\u00e9 et de grandeur.",
+            "author": "M\u00e9nard,",
+            "title": "Hist. Beaux-Arts",
+            "date": ", 1882"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -12027,13 +13826,57 @@
     "definitions": [
       {
         "text": "Qui attaque, d\u00e9truit la sant\u00e9, qui met la vie en danger.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Plantes d\u00e9l\u00e9t\u00e8res, sucs d\u00e9l\u00e9t\u00e8res.",
+            "author": null,
+            "title": null,
+            "date": "1798-1932"
+          },
+          {
+            "text": "(...)Les substances d\u00e9l\u00e9t\u00e8res sont presque toujours de mauvaise odeur.",
+            "author": "Brillat-Sav.",
+            "title": ", Physiol. go\u00fbt,",
+            "date": "1825"
+          },
+          {
+            "text": "(...)Tout l'argent que vous a co\u00fbt\u00e9 ce tabac affreux, d\u00e9l\u00e9t\u00e8re, peut-\u00eatre...",
+            "author": "Ponchon",
+            "title": ", Muse cabaret,",
+            "date": "1920"
+          },
+          {
+            "text": "(...)Les galeries laissaient transpirer du gaz d\u00e9l\u00e9t\u00e8re.",
+            "author": "Verne",
+            "title": ", 500 millions,",
+            "date": "1879"
+          },
+          {
+            "text": "Miasmes putrides (...)exhalaisons d\u00e9l\u00e9t\u00e8res.",
+            "author": "Jouy",
+            "title": ", L'Hermite,t. 1",
+            "date": ", 1811"
+          },
+          {
+            "text": "(...)Nous voguions vers l'Afrique, la vraie, la grande; celle des insondables for\u00eats, des miasmes d\u00e9l\u00e9t\u00e8res.",
+            "author": "C\u00e9line",
+            "title": ", Voyage,",
+            "date": "1932"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. nocif, nuisible, toxique."
       },
       {
         "text": "Qui cause la corruption.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les hommes les plus d\u00e9l\u00e9t\u00e8res dans le gouvernement.",
+            "author": "Goncourt",
+            "title": ", Journal,",
+            "date": "1878"
+          }
+        ],
         "syntagme": "Maxime, propagande d\u00e9l\u00e9t\u00e8re; l'action d\u00e9l\u00e9t\u00e8re des fausses doctrines, d'un individu sur un autre.",
         "synonymes": "Synon. corrupteur, n\u00e9faste, pernicieux"
       }
@@ -12143,7 +13986,26 @@
     "definitions": [
       {
         "text": "Qui se fane et se dess\u00e8che sans se d\u00e9tacher de la plante.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les feuilles dites marcescentes, telles que celles de certains ch\u00eanes, demeurent fix\u00e9es aux branches, \u00e0 l'\u00e9tat sec, une partie de l'hiver.",
+            "author": "Plantefol",
+            "title": ", Bot. et biol. v\u00e9g\u00e9t.,t. 1",
+            "date": ", 1931"
+          },
+          {
+            "text": "(...)Aux fleurs marcescentes du minuscule parterre, elle laisse un pitoyant regard.",
+            "author": "Adam",
+            "title": ", Th\u00e9 chez Miranda",
+            "date": ", 1886"
+          },
+          {
+            "text": "(...)Et monstre ind\u00e9fectible aux t\u00eates renaissantes, Malgr\u00e9 l'automne et les couronnes marcescentes, De courir tes hasards mon \u00e2me n'est pas lasse.",
+            "author": "Mor\u00e9as",
+            "title": ", Cantil.,",
+            "date": "1886"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -12284,13 +14146,69 @@
     "definitions": [
       {
         "text": "Qui est d'un brun chaud \u00e0 reflets dor\u00e9s.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Sur le sable ardent (...)les \u00e9lytres mordor\u00e9s des scarab\u00e9es s\u00e8ment des morceaux de m\u00e9tal.",
+            "author": "Faure,",
+            "title": "Hist. art,",
+            "date": "1909"
+          },
+          {
+            "text": "(...)Regarni l'int\u00e9rieur en peau mordor\u00e9e et mis les armes dessus.",
+            "author": "Grandjean,",
+            "title": "Orf\u00e8vr. XIXes.,",
+            "date": "1962"
+          },
+          {
+            "text": "(...)D'un rouge cerise ou mordor\u00e9.",
+            "author": "Lapparent,",
+            "title": "Min\u00e9r.,",
+            "date": "1899"
+          },
+          {
+            "text": "(...)Ces qualit\u00e9s optiques greff\u00e9es sur sa chaude teinte mordor\u00e9e [du sph\u00e8ne ou titanite] en font une gemme tr\u00e8s originale et attirante.",
+            "author": "Metta,",
+            "title": "Pierres pr\u00e9c.,",
+            "date": "1960"
+          },
+          {
+            "text": "(...)Les plateaux de table en marqueterie qu'il [\u00c9mile Gall\u00e9] jonchait des d\u00e9pouilles d'un automne mordor\u00e9.",
+            "author": "L. Febvre,",
+            "title": "Combats pour hist.,",
+            "date": "1935"
+          },
+          {
+            "text": "(...)Avec le m\u00e9lange de ces deux mordants [l'ac\u00e9tate d'alumine et l'ac\u00e9tate de fer], \u00e0 diff\u00e9rentes proportions, [on obtient] les amaranthes, les mordor\u00e9s, les bruns et les puces.",
+            "author": "Berthollet,",
+            "title": "Art teint.,t.1",
+            "date": ", 1804"
+          },
+          {
+            "text": "(...)Le mordor\u00e9 est une couleur s\u00e9rieuse.",
+            "author": null,
+            "title": null,
+            "date": "1835, 1878"
+          },
+          {
+            "text": "(...)D\u00e8s le soir tomb\u00e9 les chevreaux se m\u00e9tallisent, et nous voyons ressusciter le mordor\u00e9, les cuirs aux reflets d'acier ou de platine.",
+            "author": null,
+            "title": null,
+            "date": "25 oct. 1951"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Qui a des reflets brun rouge.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les villes gorg\u00e9es de dormeurs et les rues vides avec les alignements de becs de gaz dress\u00e9s dans les flaques mordor\u00e9es des rues goudronn\u00e9es.",
+            "author": "Giono,",
+            "title": "Poids du ciel,",
+            "date": "1938"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -12459,13 +14377,39 @@
     "definitions": [
       {
         "text": "Qui est ,,suppos\u00e9 de bonne foi avoir une existence l\u00e9gale`` (Barr. 1967).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)M. Fonrouge, p\u00e8re putatif de Lolo-Phiphi, a d\u00e9clar\u00e9 qu'il ne reconnaissait point cet enfant comme issu de ses \u0153uvres, qu'il n'\u00e9tait que son p\u00e8re adoptif.",
+            "author": "Balzac",
+            "title": ", \n                                 \u0152uvres div., t. 2",
+            "date": ", 1831"
+          },
+          {
+            "text": "(...)C'\u00e9tait quelqu'un de tr\u00e8s bien, \u00c9g\u00e9e, mon p\u00e8re; de tout \u00e0 fait comme il fallait. En v\u00e9rit\u00e9, je soup\u00e7onne que je ne suis que son fils putatif.",
+            "author": "Gide",
+            "title": ", Th\u00e9s\u00e9e",
+            "date": ", 1946"
+          },
+          {
+            "text": "(...)Il fallait placer \u00e0 la t\u00eate Lavoisier, le p\u00e8re putatif de toutes les d\u00e9couvertes qui font du bruit.",
+            "author": "Marat",
+            "title": ", Pamphlets, Charlatans mod.",
+            "date": ", 1791"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Qui est suppos\u00e9 \u00eatre.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Peut-\u00eatre mon offenseur putatif ne voulait-il pas m'offenser, et peut-\u00eatre m\u00eame ne lui en voulais-je pas. Ce n'\u00e9tait qu'un malentendu. Une fausse situation.",
+            "author": "Jank\u00e9l.",
+            "title": ", Je-ne-sais-quoi",
+            "date": ", 1957"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -12996,19 +14940,58 @@
     "definitions": [
       {
         "text": "Caract\u00e8re d'une personne rosse.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u00c0 nos \u00e2ges on est fix\u00e9 sur la rosserie des hommes, pas vrai?",
+            "author": "Frapi\u00e9",
+            "title": ", Maternelle",
+            "date": ", 1904"
+          },
+          {
+            "text": "(...)Elle avait h\u00e9rit\u00e9 l'esprit de sa m\u00e8re, mais avec moins de gaiet\u00e9 et plus de rosserie.",
+            "author": "Martin du G.",
+            "title": ", Devenir",
+            "date": ", 1909"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Action m\u00e9chante ou perfide.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Moi, la premi\u00e8re rosserie que j'ai faite, c'est au sujet d'un parapluie.",
+            "author": "Maupass.",
+            "title": ", Contes et nouv., t. 1, \u00c7a ira",
+            "date": ", 1885"
+          },
+          {
+            "text": "(...)Elle aura tout ce qu'on peut d\u00e9sirer, le succ\u00e8s, la fortune. Elle est rosse. La rosserie m\u00e8ne \u00e0 tout.",
+            "author": "A. France",
+            "title": ", Hist. comique",
+            "date": ", 1903"
+          }
+        ],
         "syntagme": "Accumuler les rosseries, faire des rosseries.",
         "synonymes": "Synon. pop., fam. vacherie, crasse"
       },
       {
         "text": "Propos cyniques, mordants.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Comme vous \u00eates loin, spirituelles \u00ab rosseries \u00bb (...)\u00e9reintement d'un absent par les camarades, d\u00e9chiquetage d'une absente entre mondaines!",
+            "author": "Copp\u00e9e",
+            "title": ", Bonne souffr.",
+            "date": ", 1898"
+          },
+          {
+            "text": "(...)Le go\u00fbt du public pour la pol\u00e9mique et les rosseries n'incite-t-il pas le critique \u00e0 se montrer acerbe, sarcastique ou violent, c'est-\u00e0-dire plus soucieux de plaire que d'\u00eatre juste?",
+            "author": "Coston",
+            "title": ", A.B.C. journ.",
+            "date": ", 1952"
+          }
+        ],
         "syntagme": "Dire, \u00e9crire des rosseries.",
         "synonymes": "Synon. pop., fam. vacherie, crasse"
       }
@@ -13045,7 +15028,26 @@
     "definitions": [
       {
         "text": "Propension \u00e0 combattre et \u00e0 aimer les luttes corporelles.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)[Mon voisin de ville] tire le supr\u00eame b\u00e9n\u00e9fice d'apprendre \u00e0 vieillir dans la joie juv\u00e9nile des peuplades noires exemptes d'inqui\u00e9tude \u2212 mais non de pugnacit\u00e9 au signal de l'ennemi.",
+            "author": "Blanche",
+            "title": ", Mod\u00e8les",
+            "date": ", 1928"
+          },
+          {
+            "text": "(...)Et maintenant que l'Action fran\u00e7aise lui manque pour exercer sa pugnacit\u00e9, il s'en prend \u00e0 ceux qui sont tout stup\u00e9faits de le voir se dresser en adversaire.",
+            "author": "Gide",
+            "title": ", Journal",
+            "date": ", 1948"
+          },
+          {
+            "text": "(...)Bien \u00e9quilibr\u00e9 sur les orteils, il pugnait des coudes \u00e0 ravir.",
+            "author": "Cladel",
+            "title": ", Ompdrailles",
+            "date": ", 1879"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -13132,7 +15134,32 @@
     "definitions": [
       {
         "text": "Opposition d'id\u00e9es, de sentiments, d'int\u00e9r\u00eats, entre deux ou plusieurs personnes, qui s'accompagne le plus souvent de manifestations d'hostilit\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Hom\u00e8re v\u00e9cut pendant le temps de ces dissensions qui accompagn\u00e8rent la chute des tyrans et la formation des r\u00e9publiques.",
+            "author": "Condorcet",
+            "title": ", Esq. tabl. hist.,",
+            "date": "1794"
+          },
+          {
+            "text": "(...)M\u00eame au temps des cinq ou six couverts, des abstentions, des frictions, des dissensions, j'ai aim\u00e9 les d\u00e9jeuners Goncourt...",
+            "author": "Colette",
+            "title": ", Fanal bleu,",
+            "date": "1949"
+          },
+          {
+            "text": "(...)Il me semble que notre petite dissension nous a faits encore meilleurs amis qu'auparavant.",
+            "author": "Flaub.",
+            "title": ", Corresp.,",
+            "date": "1859"
+          },
+          {
+            "text": "(...)Tu n'as pas eu d'ami meilleur que moi-m\u00eame au milieu de nos dissensions.",
+            "author": "Jammes",
+            "title": ", Corresp.[avec Gide]",
+            "date": ", 1914"
+          }
+        ],
         "syntagme": "Dissensions civiles, intestines.",
         "synonymes": null
       }
@@ -13193,13 +15220,51 @@
     "definitions": [
       {
         "text": "\u00c9crire, s'exprimer \u00e0 la mani\u00e8re de Marivaux, avec affectation, pr\u00e9ciosit\u00e9, recherche.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u2212 Ce singe de Bixiou, dit Blondet, il a presque du talent. \u2212 Ah! je ne marivaude donc plus, dit Bixiou jouissant de son succ\u00e8s et regardant ses auditeurs surpris.",
+            "author": "Balzac,",
+            "title": "Mais. Nucingen",
+            "date": ", 1838"
+          },
+          {
+            "text": "(...)Tout cela est pouss\u00e9 un peu loin, un peu marivaud\u00e9 peut-\u00eatre; le conteur [Mmede Girardin] s'amuse et abuse: il tient \u00e0 son joli dire et une fois mis en train, il ne le l\u00e2che pas...",
+            "author": "Sainte-Beuve,",
+            "title": "Caus. lundi, t.3",
+            "date": ", 1851-62"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Tenir ou \u00e9changer des propos, en particulier dans le domaine amoureux, d'une galanterie d\u00e9licate et recherch\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Bellac, marivaudant: Pardon! C'est plus que de l'amiti\u00e9 et mieux que de l'amour!",
+            "author": "Pailleron,",
+            "title": "Monde o\u00f9 l'on s'ennuie",
+            "date": ", 1869"
+          },
+          {
+            "text": "(...)L'\u00e9ternelle sayn\u00e8te \u00e0 trois personnages, une jeune fille du monde qui se d\u00e9guise en bonne pour \u00e9prouver son pr\u00e9tendu, marivaude avec un autre pour stimuler sa jalousie et finit par l'\u00e9pouser.",
+            "author": "Huysmans,",
+            "title": "Soeurs Vatard",
+            "date": ", 1879"
+          },
+          {
+            "text": "(...)Ils marivaudent, les tourtereaux.",
+            "author": "Arnoux,",
+            "title": "Gentilsh. ceinture",
+            "date": ", 1928"
+          },
+          {
+            "text": "Cette tendre et marivaudante amiti\u00e9, (...)cette causerie qui coulait.",
+            "author": "Maupass.,",
+            "title": "Fort comme la mort",
+            "date": ", 1889"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. badiner, coqueter"
       }
@@ -13211,7 +15276,38 @@
     "definitions": [
       {
         "text": "Personne qui manifeste un d\u00e9vouement aveugle et fanatique \u00e0 l'\u00e9gard d'un ma\u00eetre, d'un chef, d'un parti, d'une secte.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)L'on n'obtenait gu\u00e8re [\u00e0 Rome] une existence m\u00e9diocre qu'en se faisant le complaisant et le se\u00efde d'un homme en passe de pr\u00e9tendre aux honneurs.",
+            "author": "M\u00e9rim\u00e9e",
+            "title": ", M\u00e9l. hist. et litt\u00e9r.",
+            "date": ", 1855"
+          },
+          {
+            "text": "(...)Hitler et ses s\u00e9ides, traduits devant la conscience universelle, \u00e0 la Soci\u00e9t\u00e9 des Nations.",
+            "author": null,
+            "title": null,
+            "date": ", 1949"
+          },
+          {
+            "text": "(...)Les sentinelles de la garde imp\u00e9riale avaient l'air s\u00e9ide.",
+            "author": "Stendhal",
+            "title": ", M\u00e9m. touriste, t. 3",
+            "date": ", 1838"
+          },
+          {
+            "text": "Je ne puis que me r\u00e9jouir de l'\u00e9l\u00e9vation de Dar (...)qui est arriv\u00e9 par un bon chemin: le courage. Il devrait se bien gu\u00e9rir de tout s\u00e9idisme en faveur de l'autorit\u00e9 et il pourrait fournir une belle carri\u00e8re.",
+            "author": "Stendhal",
+            "title": ", Corresp.",
+            "date": ", 1819"
+          },
+          {
+            "text": "(...)L'homme, cr\u00e9ature inachev\u00e9e, tient encore du singe et du chien. Imitation et servitude, s\u00e9idisme dans les plus fiers.",
+            "author": "Vigny",
+            "title": ", Journal po\u00e8te",
+            "date": ", 1834"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. fanatique, partisan, sectateur."
       }
@@ -13482,7 +15578,14 @@
       },
       {
         "text": "D\u00e9votion outr\u00e9e et affect\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Elle donne dans le b\u00e9guinage.",
+            "author": null,
+            "title": null,
+            "date": null
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -13810,7 +15913,38 @@
     "definitions": [
       {
         "text": "(Chose, personne) tr\u00e8s sale, tr\u00e8s laide, repoussante.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)C'est un vilain pouacre.",
+            "author": null,
+            "title": null,
+            "date": "1798-1878"
+          },
+          {
+            "text": "(...)Quel pouacre!",
+            "author": null,
+            "title": null,
+            "date": "1935"
+          },
+          {
+            "text": "(...)La puanteur pouacre de ces cadavres devenait insupportable.",
+            "author": "Sem",
+            "title": ", Ronde de nuit,",
+            "date": "1923"
+          },
+          {
+            "text": "Des gar\u00e7ons v\u00eatus d'un pagne commen\u00e7aient \u00e0 servir (...)une choucroute pouacre parsem\u00e9e de saucisses paneuses...",
+            "author": "Queneau",
+            "title": ", Zazie,",
+            "date": "1959"
+          },
+          {
+            "text": "(...)\u00c7a sent le pouacre, \u00e7a sent le fade; j'\u00e9prouve le besoin de changer d'air.",
+            "author": "Huysmans",
+            "title": ", Foules Lourdes,",
+            "date": "1906"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. d\u00e9go\u00fbtant, \u00e9c\u0153urant, r\u00e9pugnant."
       },
@@ -13834,13 +15968,27 @@
     "definitions": [
       {
         "text": "Casaque \u00e0 longues manches, orn\u00e9e de boutons en olive reli\u00e9s par des galons.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Porter une brandebourg.",
+            "author": null,
+            "title": null,
+            "date": "1835-78"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Ornement de broderie ou de galon entourant les boutonni\u00e8res d'un v\u00eatement ou servant de boutonni\u00e8res.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)une de ces redingotes serr\u00e9es \u00e0 brandebourgs attach\u00e9s par des olives.",
+            "author": "Balzac",
+            "title": ", La Fausse ma\u00eetresse,",
+            "date": "1841"
+          }
+        ],
         "syntagme": "Un dolman \u00e0 brandebourgs;",
         "synonymes": null
       }
@@ -13871,13 +16019,39 @@
     "definitions": [
       {
         "text": "Mollusque \u00e0 grande coquille bivalve; coquille de ce mollusque.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les conques. V\u00e9n\u00e9ricarde, V\u00e9nus, Cith\u00e9r\u00e9e, Donace, Telline...",
+            "author": "Lamarck",
+            "title": ", Philos. zool.,t. 1",
+            "date": ", 1809"
+          },
+          {
+            "text": "(...)Le champignon blanc, ros\u00e9 dans sa conque comme un coquillage.",
+            "author": "Colette",
+            "title": ", La Maison de Claudine,",
+            "date": "1922"
+          },
+          {
+            "text": "(...)Je fus s\u00fbr qu'elle m'ouvrirait la conque de la vie myst\u00e9rieuse. Nos deux corps inconscients ne feraient qu'un corps inconscient.",
+            "author": "Jouve",
+            "title": ", La Sc\u00e8ne capitale,",
+            "date": "1935"
+          }
+        ],
         "syntagme": "Conque marine, de V\u00e9nus.",
         "synonymes": null
       },
       {
         "text": "Grande coquille en spirale.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Prenant un coquillage perc\u00e9 par le haut. Voici la conque, le triton avec lequel on appelle les chasseurs dans les montagnes.",
+            "author": "Vigny",
+            "title": ", Le Journal d'un po\u00e8te,",
+            "date": "1830"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -13889,13 +16063,27 @@
       },
       {
         "text": "Enceinte acoustique rappelant la forme de l'oreille.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les ondes sonores qui traversent l'espace sans que nous les percevions ne nous atteignent que par l'interm\u00e9diaire d'antennes, de plaques ou de conques de m\u00e9tal.",
+            "author": "\u00c9. Faure",
+            "title": ", L'Esprit des formes,",
+            "date": "1927"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Partie circulaire terminant la grande nef d'une \u00e9glise.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ce fond semi-circulaire, cette conque absidale, avec ses chapelles nimbant le ch\u0153ur.",
+            "author": "Huysmans",
+            "title": ", La Cath\u00e9drale,",
+            "date": "1898"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14063,7 +16251,20 @@
     "definitions": [
       {
         "text": "\u00c9toiles filantes qui semblent venir de la constellation de Pers\u00e9e.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)G. Schiaparelli \u00e9tablit, en 1866, l'identit\u00e9 de l'orbite des Pers\u00e9ides, essaim connu depuis plus de dix si\u00e8cles, avec celle d'une com\u00e8te d\u00e9couverte en 1862.",
+            "author": null,
+            "title": null,
+            "date": ", 1961"
+          },
+          {
+            "text": "(...)Les Pers\u00e9ides sont des \u00e9toiles filantes d'ao\u00fbt, faisant leur apparition autour du 10.",
+            "author": null,
+            "title": null,
+            "date": "1966"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14131,7 +16332,14 @@
     "definitions": [
       {
         "text": "Amande dess\u00e9ch\u00e9e de la noix de coco, employ\u00e9e en p\u00e2tisserie, et dont on extrait une huile utilis\u00e9e dans l'alimentation et pour la fabrication du savon.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Du tourteau de coprah.",
+            "author": null,
+            "title": null,
+            "date": ", 1951"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14143,7 +16351,26 @@
     "definitions": [
       {
         "text": "Envoy\u00e9 d'Allah attendu, par les musulmans sunnites, peu avant la fin du monde, pour compl\u00e9ter l'oeuvre de Mahomet. (Dict. xxes.).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Mahomet aurait pr\u00e9dit lui-m\u00eame la venue du Mahdi.",
+            "author": null,
+            "title": null,
+            "date": null
+          },
+          {
+            "text": "(...)Il s'\u00e9tait battu contre les Afridis, contre le mahdi, contre les Birmans.",
+            "author": "Tharaud,",
+            "title": "Dingley,",
+            "date": "1906"
+          },
+          {
+            "text": "(...)Qu'\u00e9tait-ce donc exactement que ce Rachid-eddin? - Un madhi, un derviche, il indiquait les choses de la religion.",
+            "author": "Barr\u00e8s,",
+            "title": "Pays Lev.,t. 1",
+            "date": ", 1923"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14440,7 +16667,14 @@
       },
       {
         "text": "Enlever \u00e0 coups de canon le bord sup\u00e9rieur d'un ouvrage de fortifications.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)On descendit le cercueil dans son trou de sable. Le vent l\u00e9ger du d\u00e9sert en \u00e9cr\u00eatait d\u00e9j\u00e0 l'ar\u00eate friable; elle s'\u00e9croulait dans la fosse...",
+            "author": "Gracq",
+            "title": ", Syrtes,",
+            "date": "1951"
+          }
+        ],
         "syntagme": "\u00c9cr\u00eater une muraille, un bastion, un parapet",
         "synonymes": null
       },
@@ -14452,7 +16686,14 @@
       },
       {
         "text": "Niveler en supprimant les \u00e9l\u00e9ments les plus extr\u00eames.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Le souhait d'\u00e9cr\u00eater les ph\u00e9nom\u00e8nes de pointe, a conduit \u00e0 tenter l'\u00e9talement des vacances.",
+            "author": "Belorgey",
+            "title": ", Gouvern. et admin. Fr.,",
+            "date": "1967"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14464,13 +16705,27 @@
     "definitions": [
       {
         "text": "Combinaison de croisement de fils de trame et cha\u00eene.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Reps. \u2212 Si, le raccord en cha\u00eene restant le m\u00eame, on lance plusieurs duites dans la m\u00eame foule du tissu lisse, on obtient une nouvelle armure d\u00e9sign\u00e9e sous le nom de reps ou cannel\u00e9 effet de cha\u00eene, qui, sur le tissu, donne un sillon net allant d'une lisi\u00e8re \u00e0 l'autre.",
+            "author": "Thi\u00e9baut",
+            "title": ", Fabric. tissus",
+            "date": ", 1961"
+          }
+        ],
         "syntagme": "Faux reps.",
         "synonymes": null
       },
       {
         "text": "\u00c9toffe de soie ou de rayonne, de laine, de laine et de coton, \u00e0 c\u00f4tes perpendiculaires aux lisi\u00e8res, employ\u00e9e souvent pour l'ameublement (rideaux, fauteuils).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)De petites culottes collantes en gros reps de soie vert.",
+            "author": "Cendrars",
+            "title": ", Dan Yack, Plan de l'Aiguille",
+            "date": ", 1929"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -14781,7 +17036,14 @@
     "definitions": [
       {
         "text": "\u00c9difice caract\u00e9ristique de l'architecture religieuse m\u00e9sopotamienne en forme de pyramide \u00e0 \u00e9tages, dont le sommet qui pouvait servir \u00e0 l'observation des astres, portait un sanctuaire, et dont la fonction essentielle \u00e9tait probablement d'\u00e9tablir une sorte de niveau interm\u00e9diaire entre les dieux et les hommes.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Qu'il s'agisse de ceux de Stonehenge, en Angleterre, ou de la tour de Babel, symbole des ziggourats chald\u00e9ennes, compos\u00e9es de sept \u00e9tages aux couleurs des plan\u00e8tes et couronn\u00e9es d'un temple dor\u00e9 (...), tous ces b\u00e2timents sacr\u00e9s \u00e9taient en rapport avec les astres.",
+            "author": null,
+            "title": null,
+            "date": "1939"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -14850,7 +17112,20 @@
     "definitions": [
       {
         "text": "Abondance de paroles vides de sens ou qui disent peu.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il se lan\u00e7a dans un verbiage tr\u00e8s embrouill\u00e9, pour lui faire entendre qu'il \u00e9tait retenu par des consid\u00e9rations majeures, qu'il avait des affaires \u00e0 n'en plus finir, que m\u00eame sa fortune \u00e9tait compromise.",
+            "author": "Flaub.",
+            "title": ", \u00c9duc. sent., t. 2",
+            "date": ", 1869"
+          },
+          {
+            "text": "(...)Une fois d\u00e9lest\u00e9s de leur verbiage inintelligible, \u00e0 quoi se r\u00e9duisent tous les ouvrages mystiques, sinon \u00e0 une glorification de la paresse?",
+            "author": "Bremond",
+            "title": ", Hist. sent. relig., t. 4",
+            "date": ", 1920"
+          }
+        ],
         "syntagme": "Propension au verbiage.",
         "synonymes": "Synon. fam. blablabla."
       }
@@ -14924,13 +17199,39 @@
     "definitions": [
       {
         "text": "Vari\u00e9t\u00e9 d'agate fine, pr\u00e9sentant des raies parall\u00e8les et concentriques de couleurs diff\u00e9rentes et nuanc\u00e9es, dont certaines, semi-transparentes, rappellent celles de l'ongle, et qui est utilis\u00e9e notamment pour la fabrication des cam\u00e9es.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Il est une sorte d'agate qui se pr\u00eate encore mieux [que la cornaline] \u00e0 la gravure, (...) c'est l'agate \u00e0 plusieurs couches. La pr\u00e9sence d'une couche blanch\u00e2tre assez mince pour laisser voir une couche fonc\u00e9e (...) a fait donner \u00e0 cette pierre le nom g\u00e9n\u00e9rique d'onyx, du mot grec (...)qui veut dire ongle et taie blanche sur l'oeil...",
+            "author": "Ch. Blanc",
+            "title": ", Gramm. arts dessin,",
+            "date": "1876"
+          },
+          {
+            "text": "(...)MlleLa Mortagne b\u00e2illa doucement derri\u00e8re une main pointue o\u00f9 \u00e9tincela le quintuple onyx de ses ongles.",
+            "author": "Toulet",
+            "title": ", Demois. La Mortagne,",
+            "date": "1920"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Tout objet pr\u00e9cieux: bijou, joyau, etc. taill\u00e9 dans l'onyx.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Puis des bas-reliefs antiques, des coupes d'agate, des onyx merveilleux!... Enfin c'\u00e9tait des travaux \u00e0 d\u00e9go\u00fbter du travail, des chefs-d'oeuvre accumul\u00e9s \u00e0 faire prendre en haine les arts et \u00e0 tuer l'enthousiasme.",
+            "author": "Balzac",
+            "title": ", Peau chagr.,",
+            "date": "1831"
+          },
+          {
+            "text": "(...)Il y avait un onyx si admirable que, d'apr\u00e8s une tradition tr\u00e8s r\u00e9pandue, un \u00e9lecteur de Mayence avait offert de l'acheter au prix de tout le bailliage d'Amoeneburg.",
+            "author": "Montalembert",
+            "title": ", Ste \u00c9lisabeth,",
+            "date": "1836"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -15335,7 +17636,14 @@
       },
       {
         "text": "Long fusil propre \u00e0 la chasse aux canards sauvages et autres gibiers \u00e0 plumes.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Une canardi\u00e8re de Saint-\u00c9tienne...",
+            "author": "Balzac",
+            "title": ", Le M\u00e9decin de campagne,",
+            "date": "1833"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
@@ -16035,13 +18343,39 @@
       },
       {
         "text": "Dignitaire qui remplit l'office de ma\u00eetre de ch\u0153ur, qui entonne et pr\u00e9side au chant dans un monast\u00e8re ou une \u00e9glise.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Quand deux chantres, dans une cath\u00e9drale, entonnent alternativement les versets d'un psaume.",
+            "author": "Lautr\u00e9amont",
+            "title": ", Les Chants de Maldoror,Chant 4e",
+            "date": ", 1869"
+          },
+          {
+            "text": "(...)D\u00e8s le VIesi\u00e8cle, le pape Gr\u00e9goire-le-Grand avait fond\u00e9 \u00e0 Rome une \u00e9cole de chantres pour ex\u00e9cuter le chant qui porte son nom.",
+            "author": null,
+            "title": null,
+            "date": ", 1950"
+          },
+          {
+            "text": "(...)Car les bons zigs chantaient l\u00e0-dedans avec des mines de chantres au lutrin, les joues enfl\u00e9es, le bedon arrondi.",
+            "author": "Zola",
+            "title": ", L'Assommoir,",
+            "date": "1877"
+          }
+        ],
         "syntagme": "Grand-chantre, sous-chantre; chantre de Sainte-C\u00e9cile; voix de chantre (forte et sonore).",
         "synonymes": null
       },
       {
         "text": "D\u00e9signe un po\u00e8te.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Avec \u00ab Courrier-Sud \u00bb, Saint-Exup\u00e9ry fut le chantre de cette \u00e9pop\u00e9e...",
+            "author": "M. Benoist, F. Pettier",
+            "title": ", Les Transp. mar.,",
+            "date": "1961"
+          }
+        ],
         "syntagme": "Chantre de la nature, des saisons, de la terre",
         "synonymes": null
       }
@@ -16339,7 +18673,26 @@
     "definitions": [
       {
         "text": "\u00c9volution tendant \u00e0 rendre (quelque chose) p\u00e9rim\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Les notions de soci\u00e9t\u00e9 primitive et d'archa\u00efsme sont maintenant frapp\u00e9es d'obsolescence.",
+            "author": null,
+            "title": null,
+            "date": "1968"
+          },
+          {
+            "text": "(...)Au cours de la p\u00e9riode \u00e9tudi\u00e9e, la diff\u00e9rence entre ventes courantes et achats courants repr\u00e9sente la valeur ajout\u00e9e brute, qui ne tient pas compte du co\u00fbt des biens d'\u00e9quipement, de leur usure, de leur obsolescence, et finalement de leur remplacement.",
+            "author": null,
+            "title": null,
+            "date": "1960"
+          },
+          {
+            "text": "Une innovation intervenant dans les techniques de production permet de substituer, \u00e0 partir d'une certaine date, un proc\u00e9d\u00e9 de production nouveau par rapport \u00e0 celui qui \u00e9tait ant\u00e9rieurement utilis\u00e9. Si cette substitution doit entra\u00eener de forts remaniements dans les \u00e9quipements (...), tout retard dans son ex\u00e9cution tend \u00e0 prolonger l'usage des \u00e9quipements devenus obsolescents.",
+            "author": null,
+            "title": null,
+            "date": "1960"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -16351,31 +18704,114 @@
     "definitions": [
       {
         "text": "Frapper \u00e0 coups de fouet \u00e9nergiques et r\u00e9p\u00e9t\u00e9s.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Si le fermier fouaille quelquefois son porcher, de m\u00eame il fouaille son enfant.",
+            "author": "Sand",
+            "title": ", Hist. vie, t. 2",
+            "date": ", 1855"
+          },
+          {
+            "text": "(...)\u00c0 grands coups de cravache, ils [les jockeys] fouaillaient leurs b\u00eates pour atteindre le poteau.",
+            "author": "Flaub.",
+            "title": ", \u00c9duc. sent.,t. 2",
+            "date": ", 1869"
+          },
+          {
+            "text": "Le cocher (...)hurlant : \u00ab Hue! \u00bb de toute sa poitrine, fouailla les b\u00eates \u00e0 tour de bras...",
+            "author": "Maupass.",
+            "title": ", Contes et nouv.,t. 1, B\u00eate \u00e0 Ma\u00eet'Belh.",
+            "date": ", 1885"
+          }
+        ],
         "syntagme": "Fouailler l'air.",
         "synonymes": null
       },
       {
         "text": "Attaquer violemment.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Avec quelle admirable verve vous avez fouaill\u00e9 ce sauvage qui s'appelle je ne sais plus comment! Comme vous avez veng\u00e9 l'art, la po\u00e9sie, la pens\u00e9e!",
+            "author": "Hugo",
+            "title": ", Corresp.,",
+            "date": "1848"
+          },
+          {
+            "text": "(...)L'homme qui fouaille nos livres au nom de la morale divine, de la morale humaine, de la morale sociale, de toutes les morales connues, D'Aurevilly, est un p\u00e9d\u00e9raste.",
+            "author": "Goncourt",
+            "title": ", Journal,",
+            "date": "1858"
+          },
+          {
+            "text": "(...)Il fouaillait de reproches trois ou quatre individus qui baissaient la t\u00eate.",
+            "author": "Vall\u00e8s",
+            "title": ", J. Vingtras,Insurg\u00e9",
+            "date": ", 1885"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Agiter, activer.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)C'\u00e9tait son syst\u00e8me instinctif, l'\u00e9lan m\u00eame de tout son \u00eatre, cette fa\u00e7on de fouailler les affaires, de les mener au triple galop de sa fi\u00e8vre.",
+            "author": "Zola",
+            "title": ", Argent,",
+            "date": "1891"
+          },
+          {
+            "text": "Il demande pour ainsi dire aux pens\u00e9es de Montaigne leur passeport, (...)il les retourne, les fouille, les fouaille.",
+            "author": "Du Bos",
+            "title": ", Journal,",
+            "date": "1923"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Cingler.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La pluie tombait toujours : par instant l'eau fouaillait les deux promeneurs.",
+            "author": "Estauni\u00e9",
+            "title": ", Simple,",
+            "date": "1891"
+          },
+          {
+            "text": "Les chariots \u00e9taient remplis d'enfants albinos et de femmes d\u00e9lav\u00e9es (...)que le vent fouaillait.",
+            "author": "La Varende",
+            "title": ", Heur. humbles,Pou",
+            "date": ", 1942"
+          },
+          {
+            "text": "(...)Elle [la gr\u00eale] coupe elle hache effiloche \u00e9gratigne Fouaille et fouette \u00e0 la fois les feuilles \u00e9perdues.",
+            "author": "Aragon",
+            "title": ", Rom. inach.,",
+            "date": "1956"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Exciter, stimuler.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)La foi en l'homme est p\u00e9nible \u00e0 l'homme, car c'est la foi en l'esprit vivant; c'est une foi qui fouaille l'esprit, qui le pique, qui lui fait honte.",
+            "author": "Alain",
+            "title": ", Propos,",
+            "date": "1931"
+          },
+          {
+            "text": "Elle courut (...)furieuse de c\u00e9der \u00e0 cette passion qui la fouaillait, mais sans force pour lui r\u00e9sister...",
+            "author": "Martin du G.",
+            "title": ", Thib.,\u00c9t\u00e9 14",
+            "date": ", 1936"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -16737,7 +19173,14 @@
     "definitions": [
       {
         "text": "Pierre fine, la plus dure et la plus estim\u00e9e apr\u00e8s le diamant, compos\u00e9e d'alumine pure, cristallis\u00e9e, color\u00e9e diversement par des oxydes m\u00e9talliques.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Des saphirs bleu clair et bleu fonc\u00e9, tels que le corindon, et aussi recherch\u00e9s que celui du Malabar ou du Tibet.",
+            "author": "Verne",
+            "title": ", Enf. cap. Grant,t. 2",
+            "date": ", 1868"
+          }
+        ],
         "syntagme": "Corindon d'une transparence parfaite;",
         "synonymes": null
       },
@@ -16948,13 +19391,45 @@
     "definitions": [
       {
         "text": "Passer son temps \u00e0 r\u00eavasser: en partic. fl\u00e2ner en s'attardant \u00e0 des riens.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ils musardaient aux \u00e9talages des magasins, s'arr\u00eataient aux carrefours pour \u00e9couter la chanson en vogue, c'est ainsi que Ren\u00e9e fit la d\u00e9couverte de Paris.",
+            "author": "Dabit,",
+            "title": "H\u00f4tel,",
+            "date": "1929"
+          },
+          {
+            "text": "(...)\u00c0 musarder ainsi le long de la route, nous n'arriverons que le soir \u00e0 Puebla de Sanabria...",
+            "author": "T'Serstevens,",
+            "title": "Itin\u00e9r. esp.,",
+            "date": "1963"
+          },
+          {
+            "text": "Pendant les deux premiers services (...)la conversation familiale musardera le long de sujets non \u00e9pineux.",
+            "author": "Gide,",
+            "title": "Caves,",
+            "date": "1914"
+          }
+        ],
         "syntagme": "Musarder dans les rues, devant des vitrines, le long d'un chemin; perdre son temps \u00e0 musarder.",
         "synonymes": "Synon. s'attarder, badauder (fam.), baguenauder (fam.), fl\u00e2ner, lanterner, tra\u00eenailler, tra\u00eenasser, tra\u00eener."
       },
       {
         "text": "Perdre son temps au lieu de travailler; travailler sans \u00e9nergie.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)\u2212 Tiens, te voil\u00e0 encore, R\u00e9my! Je te croyais parti. J'avertirai ton papa que tu musardes et il te grondera.",
+            "author": "Renard,",
+            "title": "Poil Carotte,",
+            "date": "1894"
+          },
+          {
+            "text": "Je tournais autour de la table o\u00f9 mon p\u00e8re \u00e9tait occup\u00e9 \u00e0 \u00e9crire (...)\u2212 Ne musarde pas: va travailler et laisse-moi tranquille! Je fis mon th\u00e8me latin assis sur un talon, sans go\u00fbt et mal...",
+            "author": "A. France,",
+            "title": "Pt Pierre,",
+            "date": "1918"
+          }
+        ],
         "syntagme": "Ce n'est pas le moment de musarder.",
         "synonymes": "Synon. glander (pop.), glandouiller (rem. s.v. glander, pop.), lambiner, tra\u00eenasser, tra\u00eener."
       }
@@ -17690,7 +20165,26 @@
     "definitions": [
       {
         "text": "Propos fanfarons, attitude pr\u00e9tentieuse et ridicule; comportement d'un rodomont.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il ne lui restait plus qu'un espoir, c'\u00e9tait d'intimider L\u00e9andre par des \u00e9clats de voix, des menaces et des rodomontades.",
+            "author": "Gautier,",
+            "title": "Fracasse,",
+            "date": "1863"
+          },
+          {
+            "text": "Les soldats \u00e9chapp\u00e9s \u00e0 l'encerclement de la Wehrmacht ont pu gagner Londres (...) s'engager dans les r\u00e9seaux secrets, dans les groupements clandestins (...). Tous ceux-l\u00e0 avaient plus de champ que les prisonniers pour se manifester, tous ceux-l\u00e0 ont contribu\u00e9 sans nous \u00e0 la lib\u00e9ration du pays. Ce serait pure rodomontade que de dire aujourd'hui si nous avons envi\u00e9 leur destin.",
+            "author": "Ambri\u00e8re,",
+            "title": "Gdes vac.,",
+            "date": "1946"
+          },
+          {
+            "text": "(...)La Suisse, si ridicule avec ses rodomontades de montagnes, de pr\u00e9cipices, de glaciers, de sapins.",
+            "author": "Barr\u00e8s,",
+            "title": "Sang,",
+            "date": "1893"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. fanfaronnade."
       }
@@ -18071,13 +20565,45 @@
     "definitions": [
       {
         "text": "Chevalier errant qui, au Moyen \u00c2ge, cherchait toutes les occasions de manifester sa valeur et sa courtoisie.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Au fond de son coeur, le chevalier fran\u00e7ais est toujours le paladin qui se bat pour sa dame.",
+            "author": "Barr\u00e8s",
+            "title": ", Cahiers, t.13",
+            "date": ", 1921"
+          },
+          {
+            "text": "(...)Les belles f\u00e9es amoureuses que l'on trouve dans les romans de chevalerie, m\u00eal\u00e9es aux exploits des paladins aventureux.",
+            "author": "D\u00e9vigne",
+            "title": ", L\u00e9gend. de Fr.",
+            "date": ", 1942"
+          },
+          {
+            "text": "(...)Des contes semblables \u00e0 ceux que nos vieux \u00e9crivains nous ont faits d'Artus, de Merlin, d'Amadis, des chevaliers de la Table Ronde, des paladins de Charlemagne.",
+            "author": "Marmontel",
+            "title": ", Essai sur rom.",
+            "date": ", 1799"
+          },
+          {
+            "text": "(...)Jamais, m\u00eame \u00e0 Roncevaux, paladin n'accomplit un pareil exploit.",
+            "author": "Grousset",
+            "title": ", Croisades",
+            "date": ", 1939"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Personne pr\u00eate \u00e0 d\u00e9fendre les opprim\u00e9s et \u00e0 faire triompher les justes causes",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Ce soir, nous avons vu pour la premi\u00e8re fois l'Homme masqu\u00e9. Une figure de paladin du biceps, qui nous est rest\u00e9e comme une apparition d'un Chevalier noir.",
+            "author": "Goncourt",
+            "title": ", Journal",
+            "date": ", 1867"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -18240,13 +20766,93 @@
     "definitions": [
       {
         "text": "Plante de la famille des Ombellif\u00e8res, \u00e0 tige creuse et souple, \u00e0 feuilles divis\u00e9es en segments \u00e9troits et \u00e0 fleurs jaunes group\u00e9es en larges ombelles.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Chez les anciens Romains, les ma\u00eetres d'\u00e9cole se servaient d'une tige de f\u00e9rule pour ch\u00e2tier leurs \u00e9coliers.",
+            "author": null,
+            "title": null,
+            "date": "1835, 1878"
+          },
+          {
+            "text": "Il examina ces plantes et reconnut (...)la f\u00e9rule commune dont les feuilles hideuses se terminent par des griffes.",
+            "author": "Hugo",
+            "title": ", Rhin,",
+            "date": "1842"
+          },
+          {
+            "text": "(...)Lortet nous vint \u00e0 4 h. avec Mademoiselle, les mains pleines de fleurs : arum, acanthe, suvilax, f\u00e9rule, bruy\u00e8re.",
+            "author": "Michelet",
+            "title": ", Journal,",
+            "date": "1858"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Petite palette de bois ou de cuir, \u00e0 l'extr\u00e9mit\u00e9 plate et \u00e9largie, autrefois utilis\u00e9e comme instrument de discipline pour frapper les mains des \u00e9coliers fautifs.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)De mon temps, le correcteur \u00e9tait encore un vivant souvenir, et la classique f\u00e9rule de cuir y jouait avec honneur son terrible r\u00f4le.",
+            "author": "Balzac",
+            "title": ", Lambert,",
+            "date": "1832"
+          },
+          {
+            "text": "(...)Numa se rappelait en fr\u00e9missant le seau plein de saumure sous la chaire, dans lequel trempaient les f\u00e9rules pour rendre le cuir plus cinglant...",
+            "author": "A. Daudet",
+            "title": ", N. Roumestan,",
+            "date": "1881"
+          },
+          {
+            "text": "(...)Il a eu une f\u00e9rule.",
+            "author": null,
+            "title": null,
+            "date": "1835, 1878"
+          },
+          {
+            "text": "Un jour (...) je ne savais pas parfaitement ma le\u00e7on (...). Je re\u00e7us vingt f\u00e9rules sur les mains, dont je souffris cruellement...",
+            "author": "Stendhal",
+            "title": ", Nouvelles in\u00e9dites,t. 2",
+            "date": ", 1842"
+          },
+          {
+            "text": "(...)MmeChanteau reprit la f\u00e9rule, une seule le\u00e7on par jour, des dict\u00e9es, des probl\u00e8mes, des r\u00e9citations.",
+            "author": "Zola",
+            "title": ", Joie de vivre,",
+            "date": "1884"
+          },
+          {
+            "text": "(...)Comme nous ne nous voyions jamais, jamais qu'en classe, oblig\u00e9s de causer myst\u00e9rieusement bas, sous la f\u00e9rule des ma\u00eetres.",
+            "author": "Loti",
+            "title": ", Rom. enf.,",
+            "date": "1890"
+          },
+          {
+            "text": "(...)Je me sentais revenu \u00e0 mon temps d'\u00e9colier, quand on v\u00e9g\u00e8te sous la f\u00e9rule de quelque p\u00e9dant et qu'on use contre lui de sa seule arme, l'absence.",
+            "author": "Arnoux",
+            "title": ", Chiffre,",
+            "date": "1926"
+          },
+          {
+            "text": "(...)Nous vivons pr\u00e9sentement sous la f\u00e9rule administrative, et ceux qui essaient d'interpeller se trouvent dans la situation du r\u00e9clamant devant le guichet.",
+            "author": "Alain",
+            "title": ", Propos,",
+            "date": "1924"
+          },
+          {
+            "text": "(...)L'ascenseur l'enleva, comme un f\u00e9tu, pour le jeter sous la f\u00e9rule paternelle.",
+            "author": "Martin du G.",
+            "title": ", Thib.,Cah. gr.",
+            "date": ", 1922"
+          },
+          {
+            "text": "(...)Voil\u00e0 la seule g\u00e9n\u00e9ration normalienne [celle de Bourget], qui ait tenu le sceptre ou la f\u00e9rule de la critique.",
+            "author": "Thibaudet",
+            "title": ", Hist. litt. fr.,",
+            "date": "1936"
+          }
+        ],
         "syntagme": "Brandir la f\u00e9rule; lever la f\u00e9rule sur qqn; donner la f\u00e9rule \u00e0 qqn; distribuer les coups de f\u00e9rule.",
         "synonymes": null
       }
@@ -18501,13 +21107,33 @@
     "definitions": [
       {
         "text": "Trouble de la perception sensorielle dans lequel une sensation normale s'accompagne automatiquement d'une sensation compl\u00e9mentaire simultan\u00e9e dans une r\u00e9gion du corps diff\u00e9rente de celle o\u00f9 se produit l'excitation ou dans un domaine sensoriel diff\u00e9rent.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Par les voies d'associations nombreuses qui relient les centres de l'audition aux autres centres, la sensation auditive donne naissance \u00e0 des incitations diverses: r\u00e9flexes moteurs (oculaires; statiques ou d'orientation; respiratoires; etc.); r\u00e9flexes sensitifs ou synesth\u00e9sies (audition color\u00e9e); r\u00e9actions \u00e9motives (s\u00e9cr\u00e9tions; mimiques; troubles vaso-moteurs (...)).",
+            "author": null,
+            "title": null,
+            "date": ", 1935"
+          },
+          {
+            "text": "(...)L'intoxication par la mescaline, parce qu'elle compromet l'attitude impartiale et livre le sujet \u00e0 sa vitalit\u00e9, devra donc favoriser les synesth\u00e9sies. En fait, sous mescaline, un son de fl\u00fbte donne une couleur bleu vert, le bruit d'un m\u00e9tronome se traduit dans l'obscurit\u00e9 par des taches grises.",
+            "author": "Merleau-Ponty",
+            "title": ", Ph\u00e9nom\u00e9nol. perception",
+            "date": ", 1945"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Ph\u00e9nom\u00e8ne d'association constante, chez un m\u00eame sujet, d'impressions venant de domaines sensoriels diff\u00e9rents.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)On ne saurait consid\u00e9rer les synesth\u00e9sies comme un sympt\u00f4me toujours morbide, puisqu'il peut exister \u00e0 l'\u00e9tat normal, soit par un m\u00e9canisme d'\u00e9laboration intellectuelle rationnel, soit comme une manifestation affective plus marqu\u00e9e dans certaines personnalit\u00e9s.",
+            "author": null,
+            "title": null,
+            "date": "1975"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -18538,31 +21164,102 @@
     "definitions": [
       {
         "text": "Qui est/para\u00eet tr\u00e8s f\u00e9roce, qui se comporte avec brutalit\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "C'\u00e9tait un fort bon homme que la nature avait dou\u00e9 (...) de tous les signes ext\u00e9rieurs de la f\u00e9rocit\u00e9 (...). De gros sourcils charbonn\u00e9s (...), un teint basan\u00e9 comme un cuir de Cordoue lui faisaient une physionomie truculente et formidable comme les peintres aiment \u00e0 en donner aux bourreaux.",
+            "author": "Gautier",
+            "title": ", Fracasse",
+            "date": ", 1863"
+          },
+          {
+            "text": "(...)De truculents gaillards hurlaient, brandissaient des fusils.",
+            "author": "La Varende",
+            "title": ", Gentilsh.",
+            "date": ", 1948"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. cruel, farouche, rude, sauvage, terrible, violent."
       },
       {
         "text": "Qui agresse le regard ou l'esprit.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Des tons vineux, sanguinolents (...), compl\u00e8tent l'aspect f\u00e9roce et truculent de ces taudis hasardeux.",
+            "author": "Gautier",
+            "title": ", Italia",
+            "date": ", 1852"
+          },
+          {
+            "text": "On a un damn\u00e9 qui sort de son gouffre (...)pour nous faire sa confession atroce et d'une \u00e9nergie truculente.",
+            "author": "Sainte-Beuve",
+            "title": ", Caus. lundi, t. 14",
+            "date": ", 1858"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. dur, terrible."
       },
       {
         "text": "Qui se caract\u00e9rise par une mine florissante et joviale, une forte stature, un costume pittoresque, un comportement tapageur et des propos gaillards de bon vivant, de rustaud sympathique.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Tel de nos conteurs de France, robuste et truculent, par quelque figure fleurie de chantre, par quelque ventre ob\u00e8se de chanoine.",
+            "author": "Faure",
+            "title": ", Hist. art",
+            "date": ", 1921"
+          },
+          {
+            "text": "(...)Je crois que c'est l'\u00e9l\u00e9ment grosse bouffonnerie, l'\u00e9l\u00e9ment Rabelais, le c\u00f4t\u00e9 truculent et tant soit peu commis-voyageur dont je n'ai jamais pu m'accommoder: le Fran\u00e7ais, dans ses moments de gros rire, est une de mes impossibilit\u00e9s radicales.",
+            "author": "Du Bos",
+            "title": ", Journal",
+            "date": ", 1926"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. haut en couleur*."
       },
       {
         "text": "Qui pr\u00e9sente une facture hardie, vigoureuse, des colorations vives.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Les \u00e9glises florentines (...)ne se nourrissent point de bleu, de jaune, de rouge dans leurs ombres comme nos truculentes cath\u00e9drales gothiques.",
+            "author": "Gilles de La Tourette",
+            "title": ", L. de Vinci",
+            "date": ", 1932"
+          },
+          {
+            "text": "(...)Vari\u00e9t\u00e9 de Rubens, ici truculent, l\u00e0 r\u00e9serv\u00e9 et pur comme un primitif.",
+            "author": "Lhote",
+            "title": ", Peint. d'abord",
+            "date": ", 1942"
+          },
+          {
+            "text": "Le personnage le plus truculent (...) est Diego Rivera (...): certaines de ses \u00e9normes fresques sont prodigieuses.",
+            "author": "Cassou",
+            "title": ", Arts plast. contemp.",
+            "date": ", 1960"
+          }
+        ],
         "syntagme": "Peinture truculente.",
         "synonymes": null
       },
       {
         "text": "Qui se caract\u00e9rise par une plaisante libert\u00e9 de ton allant jusqu'\u00e0 la gaillardise ou la grossi\u00e8ret\u00e9; qui abonde en formules \u00e9nergiques, en images expressives.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "L'intermittence de lyrisme et de puret\u00e9 po\u00e9tique concentr\u00e9s (...) d\u00e9j\u00e0 donnaient \u00e0 l'art de Vigny sa figure particuli\u00e8re. Mais (...)devant l'\u00e9clat du romantisme militant et truculent, ce style se d\u00e9mode.",
+            "author": "Thibaudet",
+            "title": ", R\u00e9flex. litt.",
+            "date": ", 1936"
+          },
+          {
+            "text": "La phrase d'une grandiloquence bouffonne (...) d\u00e9pouille la couleur Louis XIII, l'\u00e9pith\u00e8te, l'oripeau (...), abandonne la parade truculente.",
+            "author": "Durry",
+            "title": ", Nerval",
+            "date": ", 1956"
+          }
+        ],
         "syntagme": "M\u00e9taphore truculente.",
         "synonymes": null
       }
@@ -19453,25 +22150,83 @@
     "definitions": [
       {
         "text": "Filet qui sert \u00e0 envelopper les cheveux.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)[St\u00e9nio] examina et poss\u00e9da Claudia tout enti\u00e8re, depuis sa riche chevelure enferm\u00e9e dans une r\u00e9sille de perles, jusqu'\u00e0 son petit pied serr\u00e9 dans le satin.",
+            "author": "Sand,",
+            "title": "L\u00e9lia,",
+            "date": "1833"
+          },
+          {
+            "text": "(...)Sur la chevelure de la princesse, et s'abaissant jusqu'\u00e0 ses sourcils, puis reprise plus bas \u00e0 la hauteur de sa gorge, s'\u00e9tendait une r\u00e9sille faite de ces coquillages blancs qu'on p\u00eache dans certaines mers australes et qui \u00e9taient m\u00eal\u00e9s \u00e0 des perles.",
+            "author": "Proust,",
+            "title": "Guermantes 1,",
+            "date": "1920"
+          },
+          {
+            "text": "(...)Des plumes d\u00e9corent colliers et harnais rendus sonores par une profusion de grelots. On jette sur les reins des b\u00eates des r\u00e9silles ou des couvertures blanches \u00e0 longs effil\u00e9s pour les capara\u00e7onner.",
+            "author": "Menon, Lecott\u00e9,",
+            "title": "Vill. Fr., 1",
+            "date": ", 1954"
+          },
+          {
+            "text": "(...)Il semble hypnotis\u00e9 par une paire de longues jambes f\u00e9minines gain\u00e9es de bas r\u00e9sille noirs.",
+            "author": "J.-P. Dionnet, Ph. Manoeuvre",
+            "title": ", Vive la France!",
+            "date": "1986"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Ensemble des tiges de plomb \u00e0 rainure qui servent \u00e0 tenir en place les fragments d'un vitrail`` (No\u00ebl 1968).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Crois\u00e9es \u00e0 r\u00e9silles de plomb ouvertes sur de verts paysages.",
+            "author": "Huysmans,",
+            "title": "Oblat, t. 2",
+            "date": ", 1903"
+          },
+          {
+            "text": "(...)Les vitraux poussi\u00e9reux qui grelottent dans leur r\u00e9sille de plomb.",
+            "author": "Bernanos,",
+            "title": "Soleil Satan,",
+            "date": "1926"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Nappe constitu\u00e9e par un r\u00e9seau modul\u00e9 de barres (ronds pleins, tubes) fix\u00e9es entre elles \u00e0 chaque n\u0153ud, et sollicit\u00e9es particuli\u00e8rement \u00e0 la traction ou \u00e0 la compression`` (Constr. m\u00e9tall. 1975).",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Des r\u00e9silles de c\u00e2bles \u00e0 courbures inverses, dont la rigidit\u00e9 est obtenue en leur imprimant une pr\u00e9-tension n\u00e9cessaire.",
+            "author": "Siegel,",
+            "title": "Formes struct. archit.,",
+            "date": "1965"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Ensemble des lignes constituant ou \u00e9voquant par leur entrecroisement un r\u00e9seau.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Il riait doucement, les yeux pliss\u00e9s, une r\u00e9sille de rides en \u00e9ventail aux tempes.",
+            "author": "Arnoux,",
+            "title": "Gentilsh. ceinture,",
+            "date": "1928"
+          },
+          {
+            "text": "(...)[Rro\u00fb] s'en approchait [de la maison] assez pour distinguer sur le cr\u00e9pi du mur la r\u00e9sille sinueuse des sarments.",
+            "author": "Genevoix,",
+            "title": "Rro\u00fb,",
+            "date": "1931"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -19750,7 +22505,26 @@
     "definitions": [
       {
         "text": "Homme sans domicile et sans ressources qui parcourt les chemins en vivant de menus travaux ou d'exp\u00e9dients; en partic., ouvrier qui trimarde.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Je rentre au logis, aussi las que le trimardeur \u00e0 besace que j'ai rencontr\u00e9 tout d'abord, \u00e0 qui j'ai donn\u00e9 quelques sous.",
+            "author": "Copp\u00e9e",
+            "title": ", Franc-parler II",
+            "date": ", 1896"
+          },
+          {
+            "text": "(...)Le palefrin suivait le quai de Jemmapes d'un pas tra\u00eenant et balanc\u00e9 de trimardeur.",
+            "author": "Dabit",
+            "title": ", H\u00f4tel Nord",
+            "date": ", 1929"
+          },
+          {
+            "text": "(...)Entre le lever du jour et midi, les \u00ab trimardeuses \u00bb sont peu actives, sinon, encore une fois, dans le quartier des Halles fr\u00e9quent\u00e9 par une client\u00e8le de restaurateurs, d'\u00e9conomes ou de domestiques venus aux provisions.",
+            "author": "A. Corbin",
+            "title": ", Les Filles de noce",
+            "date": ", 1982 [1978]"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. chemineau1, trimard (v. ce mot A 2 b), vagabond."
       }
@@ -19768,19 +22542,58 @@
       },
       {
         "text": "Instrument form\u00e9 d'une brosse cylindrique mont\u00e9e sur un manche dont on se servait pour nettoyer l'\u00e2me d'un canon.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Pour les carabines, l'\u00e9troitesse du canon fait que l'\u00e9couvillon m\u00e9tallique passe difficilement.",
+            "author": "Burn.",
+            "title": null,
+            "date": "1970"
+          },
+          {
+            "text": "(...)Plus loin, ces moustiques en verre color\u00e9, \u00e0 l'aspect brillant et pr\u00e9cieux de bijoux gigantesques, grandis dix mille fois, comme les poulets de Wells, avec leur chair mauvaise, leurs ailes de corne, pareilles \u00e0 des ailes d'avion, leurs \u00e9couvillons noirs et mortels.",
+            "author": "Morand",
+            "title": ", New-York,",
+            "date": "1930"
+          }
+        ],
         "syntagme": "Passer l'\u00e9couvillon; \u00e9couvillon de canon",
         "synonymes": null
       },
       {
         "text": "Brosse cylindrique munie d'un manche, employ\u00e9e pour nettoyer l'int\u00e9rieur des bouteilles, des instruments de musique dans lesquels on souffle, etc.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "[Dans un concert] le virtuose (...)se met \u00e0 passer l'\u00e9couvillon dans le tube [de sa clarinette].",
+            "author": "Berlioz",
+            "title": ", Grotesques mus.,",
+            "date": "1859"
+          },
+          {
+            "text": "(...)Nous nous trouvions, pour l'heure, les seuls consommateurs du caf\u00e9 lugubre et miteux, \u00e0 odeur de bouchon, de sciure et d'\u00e9couvillon qui fermente.",
+            "author": "Arnoux",
+            "title": ", Paris,",
+            "date": "1939"
+          }
+        ],
         "syntagme": null,
         "synonymes": "Synon. goupillon."
       },
       {
         "text": "Brosse ou boule de coton fix\u00e9e au bout d'une longue tige et destin\u00e9e \u00e0 nettoyer une cavit\u00e9 profonde, \u00e0 faire des pr\u00e9l\u00e8vements ou \u00e0 appliquer des solutions antiseptiques.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)Avec ce petit \u00e9couvillon, introduit dans l'orifice de la canule et jusque dans son int\u00e9rieur, on enlevait sans peine les mucosit\u00e9s et les concr\u00e9tions qui s'y trouvaient engag\u00e9es.",
+            "author": "Bretonneau",
+            "title": ", Inflamm. tissu muqueux,",
+            "date": "1826"
+          },
+          {
+            "text": "(...)L'\u00e9couvillon est pass\u00e9 par la canule du trocart.",
+            "author": "Brion",
+            "title": ", Jurispr. v\u00e9t\u00e9r.,",
+            "date": "1943"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       }
@@ -19791,25 +22604,71 @@
     "definitions": [
       {
         "text": "Disposition morale qui incline \u00e0 la douceur, la patience, au pardon.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "(...)J'ai ins\u00e9parablement uni l'humilit\u00e9, la patience et la mansu\u00e9tude par le feu de la charit\u00e9.",
+            "author": "Montalembert",
+            "title": ", Ste \u00c9lisabeth",
+            "date": ", 1836"
+          },
+          {
+            "text": "(...)Toute la Bible est un hymne \u00e0 la justice, c'est-\u00e0-dire, selon le style h\u00e9breu, \u00e0 la charit\u00e9, \u00e0 la mansu\u00e9tude du puissant envers le faible...",
+            "author": "Proudhon",
+            "title": ", Syst. contrad. \u00e9con., t. 1",
+            "date": ", 1846"
+          }
+        ],
         "syntagme": "La divine mansu\u00e9tude; le Dieu de la mansu\u00e9tude; mansu\u00e9tude infinie; \u00eatre plein de mansu\u00e9tude; respirer la mansu\u00e9tude; faire preuve de mansu\u00e9tude.",
         "synonymes": "Synon. b\u00e9nignit\u00e9, bienveillance, bont\u00e9, d\u00e9bonnairet\u00e9, indulgence, mis\u00e9ricorde"
       },
       {
         "text": "Indulgence excessive, faiblesse.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "\u2212 C'est un monast\u00e8re trop d\u00e9bonnairement men\u00e9 (...). \u2212 Avouez alors que cette mansu\u00e9tude prouve la vertu de ces moines (...)dans le monde, une maison dirig\u00e9e si d\u00e9bonnairement croulerait; et, ici, pourtant, tout marche.",
+            "author": "Huysmans,",
+            "title": "Oblat,t. 1",
+            "date": ", 1903"
+          },
+          {
+            "text": "Nous avons \u00e9t\u00e9 faibles; nous nous sommes rendus coupables d'indulgence. Nous avons trahi la R\u00e9publique. (...) Robespierre lui-m\u00eame (...)a p\u00e9ch\u00e9 par douceur, par mansu\u00e9tude.",
+            "author": "A. France,",
+            "title": "Dieux ont soif,",
+            "date": "1912"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Manifestation de cette disposition.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Elle regardait les papillons sur les fleurs, mais ne les prenait pas; les mansu\u00e9tudes et les attendrissements naissent avec l'amour, et la jeune fille (...)a piti\u00e9 de l'aile du papillon.",
+            "author": "Hugo",
+            "title": ", Mis\u00e9r., t. 2",
+            "date": ", 1862"
+          }
+        ],
         "syntagme": null,
         "synonymes": null
       },
       {
         "text": "Douceur, calme, s\u00e9r\u00e9nit\u00e9.",
-        "examples": [],
+        "examples": [
+          {
+            "text": "Cette heure-l\u00e0 \u00e9tait d'ob\u00e9issance, de confiance \u00e9parse. (...)il \u00e9tait p\u00e9n\u00e9tr\u00e9 de la mansu\u00e9tude de cet instant nocturne.",
+            "author": "Psichari",
+            "title": ", Voy. centur.",
+            "date": ", 1914"
+          },
+          {
+            "text": "(...)La maison l'accueillit dans son ombre paisible, son silence plein de fra\u00eecheur et de mansu\u00e9tude.",
+            "author": "Chardonne",
+            "title": ", \u00c9pithal.",
+            "date": ", 1921"
+          }
+        ],
         "syntagme": "Mansu\u00e9tude habituelle.",
         "synonymes": null
       }
