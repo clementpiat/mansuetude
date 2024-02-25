@@ -57,15 +57,15 @@ export default function NAModal(props) {
                             <p className="text-slate-100 text-sm">
         * Est-il légitime à disputer de sobriété numérique, celui qui crée du futile énergivore (cette application), quand il pourrait plus sobrement ne rien faire ?
                             </p>
-                            <div className="h-[7vh] flex items-center justify-between w-[100%] text-slate-100 text-sm">
-                                <div onClick={closeModal} className="cursor-pointer ml-[10vw]">
+                            <div className="mt-[2vh] h-[7vh] flex items-center justify-center w-[100%] text-slate-100 text-xs">
+                                <div onClick={closeModal} className="yes-no-button cursor-pointer border-2 px-[2em] py-[.5em] rounded-l-3xl">
                                     <span>
-                                        Oui
+                                        OUI
                                     </span>
                                 </div>
-                                <div onClick={handleClickNo} className="cursor-pointer mr-[10vw]">
+                                <div onClick={handleClickNo} className="yes-no-button cursor-pointer border-2 border-l-0 px-[2em] py-[.5em] rounded-r-3xl">
                                     <span>
-                                        Non
+                                        NON
                                     </span>
                                 </div>
                             </div>

@@ -18,11 +18,11 @@ export default function Quote(props) {
                     <h2 className="font-semibold text-xl pb-[2vh] text-slate-300 cursor-help" onClick={(event) => openModal(event)}>
                     </h2>
                 </div>
-                <div className="overflow-scroll h-[35vh] mt-[5vh] p-[1em] rounded-lg border-[1px] border-slate-300 pt-[7vh] sm:pt-[12vh]">
-                    <blockquote className="quote-border text-slate-50 text-lg flex items-center px-[2vw] text-center border-s-4">
+                <div className="overflow-scroll h-[35vh] mt-[5vh] rounded-lg border-slate-300 flex flex-col justify-center">
+                    <blockquote className="quote-border text-slate-50 text-left text-lg pl-[3vw] border-s-4">
                         <p className="text-quote italic"></p>
                     </blockquote>
-                    <div class="text-slate-300 pt-[2vh] sm:pt-[5vh] float-right">
+                    <div class="text-slate-300 pt-[2.5vh] sm:pt-[5vh] text-right">
                         <span class="author-quote text-sm"></span>
                         <span class="title-quote text-sm"></span>
                         <span class="date-quote text-sm"></span>

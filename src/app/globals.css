@@ -147,6 +147,13 @@ main {
   padding-right: 1.5em;
 }
 
+.yes-no-button {
+  border-color: var(--france-blue-dark);
+}
+.yes-no-button:hover {
+  background-color: var(--france-blue-dark);
+}
+
 #highlight {
   display: inline-block;
   position: absolute;
