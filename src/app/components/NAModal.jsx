@@ -23,7 +23,7 @@ export default function NAModal(props) {
                 ?
                 <section id="not-available-modal"
                 className="first-bg modal w-[80vw] sm:left-[35vw] sm:w-[30vw] max-h-[70vh] overflow-scroll min-h-[20vh] left-[10vw] rounded-lg top-[30vh]">
-                    <div className="flex-col text-center justify-center items-center italic text-sm text-slate-100 pb-[2vh]">
+                    <div className="flex-col text-center justify-center items-center italic text-sm text-slate-100 pb-[1.5em]">
                         <h3 id="verse-title" className="font-bold p-[2vh]">
                         Sobriété
                         </h3>
