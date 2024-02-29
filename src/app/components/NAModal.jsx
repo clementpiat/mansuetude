@@ -37,7 +37,7 @@ export default function NAModal(props) {
                         et la vallée qui sans peine se souffre,
                         </p>
                         <p id="verse-4">
-                        là où les singes vivent comme des rois.
+                        là où les serfs vivent comme des rois.
                         </p>
                     </div>
                 </section>
